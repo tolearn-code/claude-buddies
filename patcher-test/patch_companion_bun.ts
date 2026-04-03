@@ -392,16 +392,38 @@ function writePatcherState(state: any): void {
   writeFileSync(PATCHER_STATE, JSON.stringify(state, null, 2) + "\n");
 }
 
+function scanCompanionDirs(base: string): Map<string, string> {
+  const results = new Map<string, string>();
+  if (!existsSync(base)) return results;
+  for (const entry of readdirSync(base, { withFileTypes: true })) {
+    if (!entry.isDirectory()) continue;
+    const full = join(base, entry.name);
+    if (existsSync(join(full, "buddy.json"))) {
+      results.set(entry.name, full);
+    } else {
+      // Scan one level deeper for subdirectories
+      for (const sub of readdirSync(full, { withFileTypes: true })) {
+        if (!sub.isDirectory()) continue;
+        const subFull = join(full, sub.name);
+        if (existsSync(join(subFull, "buddy.json"))) {
+          results.set(sub.name, subFull);
+        }
+      }
+    }
+  }
+  return results;
+}
+
 function listCompanions(): string[] {
-  if (!existsSync(COMPANIONS_DIR)) return [];
-  return readdirSync(COMPANIONS_DIR)
-    .filter((d) => existsSync(join(COMPANIONS_DIR, d, "buddy.json")))
-    .sort();
+  return [...scanCompanionDirs(COMPANIONS_DIR).keys()].sort();
 }
 
 function loadCompanion(name: string): { buddy: any; companion: any } {
-  const buddyPath = join(COMPANIONS_DIR, name, "buddy.json");
-  const companionPath = join(COMPANIONS_DIR, name, "companion.json");
+  const dirs = scanCompanionDirs(COMPANIONS_DIR);
+  const dir = dirs.get(name);
+  if (!dir) { console.error(`Error: Companion '${name}' not found`); process.exit(1); }
+  const buddyPath = join(dir, "buddy.json");
+  const companionPath = join(dir, "companion.json");
   if (!existsSync(buddyPath)) { console.error(`Error: ${buddyPath} not found`); process.exit(1); }
   if (!existsSync(companionPath)) { console.error(`Error: ${companionPath} not found`); process.exit(1); }
   return {

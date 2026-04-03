@@ -595,18 +595,35 @@ def write_patcher_state(state: dict) -> None:
         f.write("\n")
 
 
+def _scan_companion_dirs(base: Path) -> dict:
+    """Scan for companion directories, including one level of subdirectories."""
+    results = {}
+    if not base.exists():
+        return results
+    for entry in base.iterdir():
+        if not entry.is_dir():
+            continue
+        if (entry / "buddy.json").exists():
+            results[entry.name] = entry
+        else:
+            # Scan one level deeper
+            for sub in entry.iterdir():
+                if sub.is_dir() and (sub / "buddy.json").exists():
+                    results[sub.name] = sub
+    return results
+
+
 def list_companions() -> list:
-    if not COMPANIONS_DIR.exists():
-        return []
-    return sorted(
-        d.name
-        for d in COMPANIONS_DIR.iterdir()
-        if d.is_dir() and (d / "buddy.json").exists()
-    )
+    return sorted(_scan_companion_dirs(COMPANIONS_DIR).keys())
 
 
 def load_companion(name: str) -> tuple:
-    companion_dir = COMPANIONS_DIR / name
+    dirs = _scan_companion_dirs(COMPANIONS_DIR)
+    companion_dir = dirs.get(name)
+    if not companion_dir:
+        print(f"Error: Companion '{name}' not found")
+        sys.exit(1)
+
     buddy_path = companion_dir / "buddy.json"
     companion_path = companion_dir / "companion.json"
 
