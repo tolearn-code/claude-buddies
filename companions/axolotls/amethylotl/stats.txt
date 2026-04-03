@@ -1,0 +1,11 @@
+Bloomthistle — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ██████████████░░░░░░  70
+
+Peak: PATIENCE | Dump: WISDOM

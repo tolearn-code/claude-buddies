@@ -1,0 +1,11 @@
+Mîr-Emeraldpetal — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ██████████████░░░░░░  74
+
+Peak: CHAOS | Dump: PATIENCE

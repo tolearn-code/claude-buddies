@@ -1,0 +1,11 @@
+Thal-Roseglow — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 373):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████░░░░░░░░░  56
+
+Peak: WISDOM | Dump: CHAOS

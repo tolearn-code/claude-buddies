@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Ivoryfin",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Gîl-Ivoryfin speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128955,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 45,
+      "PATIENCE": 73,
+      "CHAOS": 74,
+      "WISDOM": 100,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 494109166,
+  "totalStats": 377
+}

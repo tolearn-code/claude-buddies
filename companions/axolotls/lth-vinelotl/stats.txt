@@ -1,0 +1,11 @@
+Ithil-Violetbloom — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 372):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     █████████████░░░░░░░  65
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: PATIENCE | Dump: SNARK

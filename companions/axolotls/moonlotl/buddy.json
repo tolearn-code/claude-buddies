@@ -1,0 +1,25 @@
+{
+  "name": "Emeraldpetal",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Emeraldpetal speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128935,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 52,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 58
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 769226569,
+  "totalStats": 383
+}

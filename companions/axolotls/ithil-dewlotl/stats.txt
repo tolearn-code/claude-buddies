@@ -1,0 +1,11 @@
+Gîl-Onyxbloom — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: DEBUGGING | Dump: PATIENCE

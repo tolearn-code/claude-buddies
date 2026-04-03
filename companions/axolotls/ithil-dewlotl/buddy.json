@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Onyxbloom",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Gîl-Onyxbloom never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128949,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 50,
+      "CHAOS": 89,
+      "WISDOM": 81,
+      "SNARK": 61
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 272340054,
+  "totalStats": 381
+}

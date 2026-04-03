@@ -1,0 +1,25 @@
+{
+  "name": "Crimsonpetal",
+  "personality": "An immovable presence who watches builds with the patience of mountains. Crimsonpetal waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211274385,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 100,
+      "CHAOS": 50,
+      "WISDOM": 84,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 895066528,
+  "totalStats": 386
+}

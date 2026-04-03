@@ -1,0 +1,25 @@
+{
+  "name": "Mossglow",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Mossglow never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128930,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 77,
+      "CHAOS": 75,
+      "WISDOM": 52,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 371915083,
+  "totalStats": 393
+}

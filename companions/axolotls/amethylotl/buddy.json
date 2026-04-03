@@ -1,0 +1,25 @@
+{
+  "name": "Bloomthistle",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Bloomthistle waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128941,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 100,
+      "CHAOS": 76,
+      "WISDOM": 52,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 724723013,
+  "totalStats": 382
+}

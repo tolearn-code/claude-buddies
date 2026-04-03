@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Tealbloom",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Cael-Tealbloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128954,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 82,
+      "CHAOS": 66,
+      "WISDOM": 100,
+      "SNARK": 42
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 146288376,
+  "totalStats": 376
+}

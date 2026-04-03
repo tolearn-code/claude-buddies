@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Emeraldpetal",
+  "personality": "A wild-eyed force who thrives in broken deploys. Mîr-Emeraldpetal rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128962,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 48,
+      "CHAOS": 100,
+      "WISDOM": 79,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 744903176,
+  "totalStats": 390
+}

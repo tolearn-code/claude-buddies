@@ -1,0 +1,25 @@
+{
+  "name": "Moonpetal",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Moonpetal waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128943,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 83,
+      "WISDOM": 41,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 743121115,
+  "totalStats": 390
+}

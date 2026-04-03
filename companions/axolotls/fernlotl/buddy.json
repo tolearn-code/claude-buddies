@@ -1,0 +1,25 @@
+{
+  "name": "Starbloom",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Starbloom waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128932,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "·",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 44,
+      "PATIENCE": 100,
+      "CHAOS": 81,
+      "WISDOM": 82,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 295885438,
+  "totalStats": 389
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Coralbloom",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Anar-Coralbloom never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128966,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 83,
+      "CHAOS": 85,
+      "WISDOM": 49,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 946758942,
+  "totalStats": 391
+}

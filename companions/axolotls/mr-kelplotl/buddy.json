@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Roseglow",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Thal-Roseglow speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128952,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 84,
+      "CHAOS": 52,
+      "WISDOM": 100,
+      "SNARK": 56
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 472092178,
+  "totalStats": 373
+}

@@ -1,0 +1,11 @@
+Emberglow — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 359):
+  DEBUGGING  ██████████░░░░░░░░░░  54
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     █████████████████░░░  86
+  SNARK      ██████████████░░░░░░  73
+
+Peak: PATIENCE | Dump: CHAOS

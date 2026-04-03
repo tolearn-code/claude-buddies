@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Rustglow",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Thal-Rustglow speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128957,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 75,
+      "PATIENCE": 80,
+      "CHAOS": 84,
+      "WISDOM": 100,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 148740934,
+  "totalStats": 390
+}

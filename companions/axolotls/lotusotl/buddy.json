@@ -1,0 +1,25 @@
+{
+  "name": "Topazbloom",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Topazbloom has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128935,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 78,
+      "CHAOS": 76,
+      "WISDOM": 43,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 698443351,
+  "totalStats": 379
+}

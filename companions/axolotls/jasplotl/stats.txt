@@ -1,0 +1,11 @@
+Amethystbloom — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████░░░░  80
+
+Peak: CHAOS | Dump: PATIENCE

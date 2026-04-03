@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Quartzpetal",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Quartzpetal rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128950,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 87,
+      "CHAOS": 100,
+      "WISDOM": 49,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 4151202,
+  "totalStats": 389
+}

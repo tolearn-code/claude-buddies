@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Vermilglow",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Ithil-Vermilglow never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128961,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 77,
+      "CHAOS": 67,
+      "WISDOM": 88,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 456172785,
+  "totalStats": 381
+}

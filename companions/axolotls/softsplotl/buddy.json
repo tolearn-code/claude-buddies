@@ -1,0 +1,25 @@
+{
+  "name": "Roseglow",
+  "personality": "An immovable presence who watches builds with the patience of mountains. Roseglow waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211274383,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "·",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 47,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 634457937,
+  "totalStats": 392
+}

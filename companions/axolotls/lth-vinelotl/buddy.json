@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Violetbloom",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Violetbloom waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128957,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 100,
+      "CHAOS": 89,
+      "WISDOM": 65,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 526969123,
+  "totalStats": 372
+}

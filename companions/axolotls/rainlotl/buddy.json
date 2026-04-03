@@ -1,0 +1,25 @@
+{
+  "name": "Violetbloom",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Violetbloom has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128947,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 77,
+      "CHAOS": 89,
+      "WISDOM": 73,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 643410052,
+  "totalStats": 390
+}

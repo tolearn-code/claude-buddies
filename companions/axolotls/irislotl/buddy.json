@@ -1,0 +1,25 @@
+{
+  "name": "Opalbloom",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Opalbloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128934,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 77,
+      "CHAOS": 68,
+      "WISDOM": 100,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 888170162,
+  "totalStats": 373
+}

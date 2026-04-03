@@ -1,0 +1,11 @@
+Gîl-Copperfin — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 392):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  82
+
+Peak: WISDOM | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Ivoryfin",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Ivoryfin speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128938,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 71,
+      "CHAOS": 54,
+      "WISDOM": 100,
+      "SNARK": 69
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 921112482,
+  "totalStats": 382
+}

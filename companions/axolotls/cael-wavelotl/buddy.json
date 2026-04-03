@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Copperfin",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Gîl-Copperfin speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128957,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 77,
+      "CHAOS": 86,
+      "WISDOM": 100,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 793226948,
+  "totalStats": 392
+}

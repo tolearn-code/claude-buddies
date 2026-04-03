@@ -1,0 +1,11 @@
+Ivoryfin — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  69
+
+Peak: WISDOM | Dump: CHAOS

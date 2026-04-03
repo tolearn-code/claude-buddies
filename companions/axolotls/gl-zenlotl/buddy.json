@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Topazbloom",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Thal-Topazbloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128958,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 82,
+      "CHAOS": 50,
+      "WISDOM": 100,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 884990501,
+  "totalStats": 385
+}

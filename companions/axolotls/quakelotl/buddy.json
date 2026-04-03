@@ -1,0 +1,25 @@
+{
+  "name": "Amberbloom",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Amberbloom has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128947,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 86,
+      "CHAOS": 88,
+      "WISDOM": 65,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 318025921,
+  "totalStats": 391
+}

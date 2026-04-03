@@ -1,0 +1,11 @@
+Goldenpetal — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 356):
+  DEBUGGING  ███████████░░░░░░░░░  59
+  PATIENCE   ████████░░░░░░░░░░░░  42 (dump)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: WISDOM | Dump: PATIENCE

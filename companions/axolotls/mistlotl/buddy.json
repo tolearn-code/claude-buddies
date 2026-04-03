@@ -1,0 +1,25 @@
+{
+  "name": "Onyxbloom",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Onyxbloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128946,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 42,
+      "CHAOS": 86,
+      "WISDOM": 100,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 186858834,
+  "totalStats": 382
+}

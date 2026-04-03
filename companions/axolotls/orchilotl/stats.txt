@@ -1,0 +1,11 @@
+Obsidibloom — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      ████████████████░░░░  81
+
+Peak: PATIENCE | Dump: WISDOM

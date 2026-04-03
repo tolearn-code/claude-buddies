@@ -1,0 +1,11 @@
+Mîr-Cobaltbloom — Legendary (★★★★★) Tinyduck ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████████░░░░░░  70
+  SNARK      ████████████████░░░░  84
+
+Peak: DEBUGGING | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Crimsonpetal",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Anar-Crimsonpetal never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128959,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 76,
+      "CHAOS": 41,
+      "WISDOM": 75,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 213625072,
+  "totalStats": 375
+}

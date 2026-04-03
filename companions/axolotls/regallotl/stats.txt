@@ -1,0 +1,11 @@
+Crimsonpetal — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ███████████████░░░░░  75
+
+Peak: PATIENCE | Dump: CHAOS

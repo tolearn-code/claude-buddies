@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Sagebloom",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Sagebloom rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128965,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 41,
+      "CHAOS": 100,
+      "WISDOM": 75,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 250301975,
+  "totalStats": 379
+}

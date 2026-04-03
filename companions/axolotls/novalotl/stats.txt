@@ -1,0 +1,11 @@
+Coralbloom — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 402):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: WISDOM

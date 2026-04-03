@@ -1,0 +1,11 @@
+Garnetglow — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  43 (dump)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████░░░░  81
+  SNARK      █████████████████░░░  88
+
+Peak: DEBUGGING | Dump: PATIENCE

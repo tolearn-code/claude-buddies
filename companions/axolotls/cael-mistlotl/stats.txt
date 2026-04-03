@@ -1,0 +1,11 @@
+Cael-Silverglow — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  65
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████░░░░░░░░░░░  45 (dump)
+  SNARK      ████████████████░░░░  83
+
+Peak: DEBUGGING | Dump: WISDOM

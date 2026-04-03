@@ -1,0 +1,25 @@
+{
+  "name": "Coralbliss",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Coralbliss speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128942,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 75,
+      "CHAOS": 49,
+      "WISDOM": 100,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 432066646,
+  "totalStats": 392
+}

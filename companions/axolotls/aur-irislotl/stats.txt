@@ -1,0 +1,11 @@
+Thal-Petalfin — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: WISDOM | Dump: DEBUGGING

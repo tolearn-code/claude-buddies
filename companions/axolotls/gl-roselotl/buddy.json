@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Rubyfin",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Cael-Rubyfin speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128955,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 85,
+      "CHAOS": 71,
+      "WISDOM": 100,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 690925419,
+  "totalStats": 396
+}

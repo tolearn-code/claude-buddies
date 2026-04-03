@@ -1,0 +1,11 @@
+Ithil-Moonpetal — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: PATIENCE

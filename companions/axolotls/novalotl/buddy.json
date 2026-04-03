@@ -1,0 +1,25 @@
+{
+  "name": "Coralbloom",
+  "personality": "A wild-eyed force who thrives in broken deploys. Coralbloom rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128946,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 83,
+      "CHAOS": 100,
+      "WISDOM": 51,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 37009509,
+  "totalStats": 402
+}

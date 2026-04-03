@@ -1,0 +1,11 @@
+Sagebloom — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     █████████████████░░░  85
+  SNARK      ███████████████░░░░░  76
+
+Peak: PATIENCE | Dump: DEBUGGING

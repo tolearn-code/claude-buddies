@@ -1,0 +1,11 @@
+Gîl-Amberbloom — Legendary (★★★★★) Wizard ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  82
+
+Peak: WISDOM | Dump: PATIENCE

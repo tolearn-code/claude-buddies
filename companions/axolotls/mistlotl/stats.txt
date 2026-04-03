@@ -1,0 +1,11 @@
+Onyxbloom — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████░░░░░░░░░░░░  42 (dump)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  78
+
+Peak: WISDOM | Dump: PATIENCE

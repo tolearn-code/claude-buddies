@@ -1,0 +1,11 @@
+Violetbloom — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████████░░░  89
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

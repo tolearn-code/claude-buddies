@@ -1,0 +1,25 @@
+{
+  "name": "Obsidibloom",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Obsidibloom waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128946,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 100,
+      "CHAOS": 75,
+      "WISDOM": 47,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 779515747,
+  "totalStats": 374
+}

@@ -1,0 +1,11 @@
+Aur-Sagebloom — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ████████████████░░░░  82
+
+Peak: CHAOS | Dump: PATIENCE

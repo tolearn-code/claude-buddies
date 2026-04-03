@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Silverglow",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Cael-Silverglow never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128963,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 65,
+      "CHAOS": 88,
+      "WISDOM": 45,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 542169149,
+  "totalStats": 381
+}

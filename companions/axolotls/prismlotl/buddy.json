@@ -1,0 +1,25 @@
+{
+  "name": "Citrinfin",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Citrinfin waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128947,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 100,
+      "CHAOS": 53,
+      "WISDOM": 78,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 639045194,
+  "totalStats": 391
+}

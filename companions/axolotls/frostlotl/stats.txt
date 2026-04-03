@@ -1,0 +1,11 @@
+Moonpetal — Legendary (★★★★★) Crown
+Eyes: @ | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      ███████████████░░░░░  77
+
+Peak: PATIENCE | Dump: WISDOM

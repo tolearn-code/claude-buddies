@@ -1,0 +1,11 @@
+Petalfin — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  47 (dump)
+
+Peak: WISDOM | Dump: SNARK

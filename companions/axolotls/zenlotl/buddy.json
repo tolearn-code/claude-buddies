@@ -1,0 +1,25 @@
+{
+  "name": "Rustglow",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Rustglow never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128941,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 76,
+      "CHAOS": 53,
+      "WISDOM": 80,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 340653031,
+  "totalStats": 385
+}

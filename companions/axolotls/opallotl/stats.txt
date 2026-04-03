@@ -1,0 +1,11 @@
+Pearlglow — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 413):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: WISDOM

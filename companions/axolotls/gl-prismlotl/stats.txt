@@ -1,0 +1,11 @@
+Lúth-Sapphirepetal — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

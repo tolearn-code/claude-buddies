@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Mossglow",
+  "personality": "A wild-eyed force who thrives in broken deploys. Mîr-Mossglow rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128950,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 53,
+      "CHAOS": 100,
+      "WISDOM": 68,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 307041129,
+  "totalStats": 387
+}

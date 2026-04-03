@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Jadebloom",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Thal-Jadebloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128954,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 85,
+      "CHAOS": 42,
+      "WISDOM": 100,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 44757119,
+  "totalStats": 382
+}

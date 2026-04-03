@@ -1,0 +1,25 @@
+{
+  "name": "Amethystbloom",
+  "personality": "A wild-eyed force who thrives in broken deploys. Amethystbloom rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128944,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 49,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 760709620,
+  "totalStats": 394
+}

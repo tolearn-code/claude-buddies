@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Amethystbloom",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Anar-Amethystbloom has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128952,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 58,
+      "CHAOS": 84,
+      "WISDOM": 52,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 350998063,
+  "totalStats": 364
+}

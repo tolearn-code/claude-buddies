@@ -1,0 +1,25 @@
+{
+  "name": "Lilystream",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lilystream rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128943,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 77,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 59293742,
+  "totalStats": 394
+}

@@ -1,0 +1,11 @@
+Lavendbloom — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ███████████████░░░░░  75
+
+Peak: CHAOS | Dump: WISDOM

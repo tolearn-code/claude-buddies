@@ -1,0 +1,11 @@
+Mîr-Starbloom — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  77
+
+Peak: WISDOM | Dump: PATIENCE

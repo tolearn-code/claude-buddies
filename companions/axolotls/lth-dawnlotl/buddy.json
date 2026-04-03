@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Obsidibloom",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Cael-Obsidibloom has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128960,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 54,
+      "CHAOS": 63,
+      "WISDOM": 87,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 919894392,
+  "totalStats": 374
+}

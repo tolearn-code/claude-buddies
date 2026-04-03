@@ -1,0 +1,11 @@
+Citrinfin — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: CHAOS

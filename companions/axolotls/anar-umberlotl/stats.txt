@@ -1,0 +1,11 @@
+Lúth-Coralbliss — Legendary (★★★★★) Halo ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████░░░░░░░░  61
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: DEBUGGING

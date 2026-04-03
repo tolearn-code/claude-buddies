@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Malachbloom",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Cael-Malachbloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128962,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 80,
+      "CHAOS": 69,
+      "WISDOM": 100,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 819976593,
+  "totalStats": 374
+}

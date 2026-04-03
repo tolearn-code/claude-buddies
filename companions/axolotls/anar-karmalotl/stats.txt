@@ -1,0 +1,11 @@
+Ithil-Dewbloom — Legendary (★★★★★) Halo ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ██████████████░░░░░░  72
+
+Peak: CHAOS | Dump: PATIENCE

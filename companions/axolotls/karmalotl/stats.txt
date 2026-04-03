@@ -1,0 +1,11 @@
+Sapphirepetal — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ████████░░░░░░░░░░░░  42 (dump)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: PATIENCE | Dump: WISDOM

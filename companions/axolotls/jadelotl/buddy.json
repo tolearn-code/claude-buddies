@@ -1,0 +1,25 @@
+{
+  "name": "Emberglow",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Emberglow waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128934,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 100,
+      "CHAOS": 46,
+      "WISDOM": 86,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 741751959,
+  "totalStats": 359
+}

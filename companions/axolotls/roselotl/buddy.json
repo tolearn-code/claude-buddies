@@ -1,0 +1,25 @@
+{
+  "name": "Malachbloom",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Malachbloom waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128937,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 49,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 383110923,
+  "totalStats": 409
+}

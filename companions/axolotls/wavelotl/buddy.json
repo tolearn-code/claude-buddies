@@ -1,0 +1,25 @@
+{
+  "name": "Lavendbloom",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lavendbloom rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128939,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 75,
+      "CHAOS": 100,
+      "WISDOM": 48,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 957354512,
+  "totalStats": 379
+}

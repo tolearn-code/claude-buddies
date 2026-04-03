@@ -1,0 +1,11 @@
+Roseglow — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      ███████████████░░░░░  76
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Fernheart",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Fernheart rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128959,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 79,
+      "CHAOS": 100,
+      "WISDOM": 81,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 584169331,
+  "totalStats": 391
+}

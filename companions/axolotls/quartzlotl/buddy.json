@@ -1,0 +1,25 @@
+{
+  "name": "Indigoglow",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Indigoglow waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128937,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 100,
+      "CHAOS": 46,
+      "WISDOM": 82,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 786858464,
+  "totalStats": 376
+}

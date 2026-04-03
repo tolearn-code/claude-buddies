@@ -1,0 +1,25 @@
+{
+  "name": "Berylfin",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Berylfin never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128936,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 81,
+      "CHAOS": 52,
+      "WISDOM": 79,
+      "SNARK": 65
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 243927455,
+  "totalStats": 377
+}

@@ -1,0 +1,11 @@
+Scarletfin — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: WISDOM

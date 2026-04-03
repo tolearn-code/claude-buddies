@@ -1,0 +1,25 @@
+{
+  "name": "Crystalbloom",
+  "personality": "A wild-eyed force who thrives in broken deploys. Crystalbloom rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128943,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 67,
+      "PATIENCE": 53,
+      "CHAOS": 100,
+      "WISDOM": 80,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 548423706,
+  "totalStats": 375
+}

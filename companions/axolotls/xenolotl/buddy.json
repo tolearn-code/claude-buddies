@@ -1,0 +1,25 @@
+{
+  "name": "Scarletfin",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Scarletfin waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128940,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 100,
+      "CHAOS": 80,
+      "WISDOM": 47,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 234261170,
+  "totalStats": 379
+}

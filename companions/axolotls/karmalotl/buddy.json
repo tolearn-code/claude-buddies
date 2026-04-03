@@ -1,0 +1,25 @@
+{
+  "name": "Sapphirepetal",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Sapphirepetal waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128945,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 100,
+      "CHAOS": 78,
+      "WISDOM": 42,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 193745682,
+  "totalStats": 372
+}

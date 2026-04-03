@@ -1,0 +1,25 @@
+{
+  "name": "Tidalbloom",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Tidalbloom never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128942,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 84,
+      "CHAOS": 83,
+      "WISDOM": 64,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 562582756,
+  "totalStats": 383
+}

@@ -1,0 +1,11 @@
+Crystalbloom — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  █████████████░░░░░░░  67
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ███████████████░░░░░  75
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Azurefin",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Azurefin waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128930,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 43,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 337584465,
+  "totalStats": 393
+}

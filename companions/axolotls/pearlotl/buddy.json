@@ -1,0 +1,25 @@
+{
+  "name": "Quartzpetal",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Quartzpetal speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128937,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 77,
+      "CHAOS": 83,
+      "WISDOM": 100,
+      "SNARK": 41
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 515112555,
+  "totalStats": 383
+}

@@ -1,0 +1,11 @@
+Emeraldpetal — Legendary (★★★★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████░░░░░░░░░  58
+
+Peak: WISDOM | Dump: PATIENCE

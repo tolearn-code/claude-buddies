@@ -1,0 +1,25 @@
+{
+  "name": "Goldenpetal",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Goldenpetal speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128933,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 59,
+      "PATIENCE": 42,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 324386729,
+  "totalStats": 356
+}

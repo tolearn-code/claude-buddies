@@ -1,0 +1,11 @@
+Thal-Quartzpetal — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: CHAOS | Dump: WISDOM

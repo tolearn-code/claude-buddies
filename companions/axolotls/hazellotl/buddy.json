@@ -1,0 +1,25 @@
+{
+  "name": "Jadebloom",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Jadebloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128944,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 78,
+      "CHAOS": 43,
+      "WISDOM": 100,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 928829684,
+  "totalStats": 377
+}

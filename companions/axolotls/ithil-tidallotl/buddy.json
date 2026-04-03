@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Pearlglow",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Lúth-Pearlglow has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128956,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 87,
+      "CHAOS": 51,
+      "WISDOM": 80,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 109488617,
+  "totalStats": 391
+}

@@ -1,0 +1,11 @@
+Cael-Obsidibloom — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 374):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ████████████░░░░░░░░  63
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

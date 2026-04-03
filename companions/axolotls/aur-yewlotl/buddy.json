@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Moonpetal",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Moonpetal rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128958,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 53,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 192329012,
+  "totalStats": 395
+}

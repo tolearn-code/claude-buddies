@@ -1,0 +1,11 @@
+Tealbloom — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: WISDOM

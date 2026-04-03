@@ -1,0 +1,11 @@
+Anar-Amethystbloom — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 364):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ███████████░░░░░░░░░  58
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

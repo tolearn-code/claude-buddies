@@ -1,0 +1,25 @@
+{
+  "name": "Tealbloom",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Tealbloom never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128940,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 76,
+      "CHAOS": 79,
+      "WISDOM": 48,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 504886741,
+  "totalStats": 390
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Sapphirepetal",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Lúth-Sapphirepetal has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128965,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 81,
+      "CHAOS": 77,
+      "WISDOM": 41,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 470992346,
+  "totalStats": 384
+}

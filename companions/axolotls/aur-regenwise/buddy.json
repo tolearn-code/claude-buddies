@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Starbloom",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Mîr-Starbloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128948,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "·",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 45,
+      "CHAOS": 76,
+      "WISDOM": 100,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 600724909,
+  "totalStats": 383
+}

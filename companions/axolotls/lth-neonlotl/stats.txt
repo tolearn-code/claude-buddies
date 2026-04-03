@@ -1,0 +1,11 @@
+Mîr-Indigoglow — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ███████████░░░░░░░░░  58
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

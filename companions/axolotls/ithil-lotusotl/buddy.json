@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Berylfin",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Ithil-Berylfin never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128953,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 77,
+      "CHAOS": 76,
+      "WISDOM": 54,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 424091334,
+  "totalStats": 381
+}

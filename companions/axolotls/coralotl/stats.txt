@@ -1,0 +1,11 @@
+Regenstar — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 371):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████░░░░░░░░░░░░  44 (dump)
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: DEBUGGING | Dump: WISDOM

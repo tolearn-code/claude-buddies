@@ -1,0 +1,11 @@
+Mossglow — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: WISDOM

@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Tidalbloom",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Cael-Tidalbloom waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128961,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 100,
+      "CHAOS": 52,
+      "WISDOM": 88,
+      "SNARK": 65
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 631403267,
+  "totalStats": 385
+}

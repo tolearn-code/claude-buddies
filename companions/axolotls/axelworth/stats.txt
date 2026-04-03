@@ -1,0 +1,11 @@
+Fernheart — Legendary (★★★★★) Beanie
+Eyes: ° | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

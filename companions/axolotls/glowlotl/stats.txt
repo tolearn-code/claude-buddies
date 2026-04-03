@@ -1,0 +1,11 @@
+Silverglow — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  ███████████░░░░░░░░░  57
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

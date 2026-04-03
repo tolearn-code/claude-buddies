@@ -1,0 +1,11 @@
+Anar-Dawnfin — Legendary (★★★★★) Beanie ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 373):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ███████████████░░░░░  79
+
+Peak: CHAOS | Dump: DEBUGGING

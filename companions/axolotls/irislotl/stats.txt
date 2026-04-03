@@ -1,0 +1,11 @@
+Opalbloom — Legendary (★★★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 373):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████░░░░░░░  68
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  81
+
+Peak: WISDOM | Dump: DEBUGGING

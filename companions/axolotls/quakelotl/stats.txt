@@ -1,0 +1,11 @@
+Amberbloom — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████████░░░░░░░  65
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

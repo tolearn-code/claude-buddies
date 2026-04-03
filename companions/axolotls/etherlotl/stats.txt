@@ -1,0 +1,11 @@
+Lilystream — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      ███████████████░░░░░  77
+
+Peak: CHAOS | Dump: DEBUGGING

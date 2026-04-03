@@ -1,0 +1,11 @@
+Anar-Lavendbloom — Legendary (★★★★★) Tinyduck ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████░░░░  84
+
+Peak: CHAOS | Dump: DEBUGGING

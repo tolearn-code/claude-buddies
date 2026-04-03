@@ -1,0 +1,11 @@
+Thal-Rustglow — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: WISDOM | Dump: SNARK

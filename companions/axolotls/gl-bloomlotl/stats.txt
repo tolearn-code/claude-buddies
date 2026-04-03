@@ -1,0 +1,11 @@
+Mîr-Opalbloom — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 370):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ██████████░░░░░░░░░░  54
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  86
+
+Peak: WISDOM | Dump: DEBUGGING

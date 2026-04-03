@@ -1,0 +1,11 @@
+Thal-Jadebloom — Legendary (★★★★★) Beanie ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████░░░░░░░░░░░░  42 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: WISDOM | Dump: CHAOS

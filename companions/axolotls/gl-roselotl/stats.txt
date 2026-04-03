@@ -1,0 +1,11 @@
+Cael-Rubyfin — Legendary (★★★★★) Crown ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 396):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: WISDOM | Dump: SNARK

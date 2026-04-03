@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Amberbloom",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Gîl-Amberbloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128963,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 53,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 902971016,
+  "totalStats": 395
+}

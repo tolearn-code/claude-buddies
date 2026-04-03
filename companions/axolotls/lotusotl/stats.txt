@@ -1,0 +1,11 @@
+Topazbloom — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ████████░░░░░░░░░░░░  43 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

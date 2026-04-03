@@ -1,0 +1,11 @@
+Jadebloom — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ████████░░░░░░░░░░░░  43 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  77
+
+Peak: WISDOM | Dump: CHAOS

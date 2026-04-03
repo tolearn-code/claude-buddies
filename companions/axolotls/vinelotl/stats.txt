@@ -1,0 +1,11 @@
+Vermilglow — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 406):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████████████░░░  85
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: DEBUGGING

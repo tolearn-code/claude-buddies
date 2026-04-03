@@ -1,0 +1,11 @@
+Cael-Malachbloom — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 374):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      █████████████░░░░░░░  69
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: WISDOM | Dump: SNARK

@@ -1,0 +1,11 @@
+Azurefin — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████░░░░░░░░░░░░  43 (dump)
+  SNARK      █████████████████░░░  85
+
+Peak: PATIENCE | Dump: WISDOM

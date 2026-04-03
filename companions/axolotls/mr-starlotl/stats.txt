@@ -1,0 +1,11 @@
+Gîl-Ivoryfin — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: DEBUGGING

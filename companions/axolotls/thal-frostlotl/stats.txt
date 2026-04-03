@@ -1,0 +1,11 @@
+Ithil-Vermilglow — Legendary (★★★★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████░░░░░░░  67
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

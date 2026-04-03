@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Goldenpetal",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Goldenpetal waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128967,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 100,
+      "CHAOS": 73,
+      "WISDOM": 46,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 739862111,
+  "totalStats": 386
+}

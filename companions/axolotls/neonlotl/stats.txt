@@ -1,0 +1,11 @@
+Berylfin — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      █████████████░░░░░░░  65
+
+Peak: DEBUGGING | Dump: CHAOS

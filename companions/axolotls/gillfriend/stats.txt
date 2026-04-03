@@ -1,0 +1,11 @@
+Dawnfin — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████████░░░░  84
+
+Peak: DEBUGGING | Dump: WISDOM

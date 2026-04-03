@@ -1,0 +1,11 @@
+Cael-Tidalbloom — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████████░░░░░░░  65
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Petalfin",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Thal-Petalfin speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775211128951,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 86,
+      "CHAOS": 77,
+      "WISDOM": 100,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 953986301,
+  "totalStats": 387
+}
