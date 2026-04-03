@@ -1,0 +1,22 @@
+{
+  "name": "Vyrenth",
+  "personality": "A brooding dragon who perches on your terminal like a gargoyle, smoke curling from its nostrils whenever you push untested code. Speaks in riddles about your race conditions and rewards clean abstractions with a rare, approving rumble.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775163431577,
+  "salt": "KIyjaG537ZUDIEf",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 100,
+      "CHAOS": 42,
+      "WISDOM": 66,
+      "SNARK": 60
+    }
+  },
+  "inspirationSeed": 529116504
+}
