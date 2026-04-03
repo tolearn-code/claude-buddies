@@ -1,0 +1,202 @@
+CLAUDE BUDDIES — PROJECT CONTEXT FOR LLMs
+==========================================
+
+This is a companion collection and toolset for Claude Code (Anthropic's CLI).
+Claude Code has a "companion" feature — a small animated creature that sits
+beside the user's input. This repo lets you browse, install, and patch any
+companion onto any Claude Code installation.
+
+
+WHAT IS A COMPANION?
+--------------------
+A companion has:
+- Name and personality (text shown in speech bubbles)
+- Species (duck, goose, blob, cat, dragon, octopus, owl, penguin, turtle,
+  snail, ghost, axolotl, capybara, cactus, robot, rabbit, mushroom, chonk)
+- Rarity: common (★), uncommon (★★), rare (★★★), epic (★★★★), legendary (★★★★★)
+- Eye style: · ✦ × ◉ @ °
+- Hat: none, crown, tophat, propeller, halo, wizard, beanie, tinyduck
+- Shiny: ~1% chance, purely cosmetic
+- 5 stats (1-100): DEBUGGING, PATIENCE, CHAOS, WISDOM, SNARK
+  - One "peak" stat (boosted) and one "dump" stat (reduced)
+- ASCII sprite with animation frames (idle, idle alt, wink, sleeping)
+
+Companions are deterministic: hash(accountUuid + salt) → RNG seed → species,
+rarity, eye, hat, shiny, stats. Same inputs always produce the same companion.
+
+
+HOW GENERATION WORKS
+--------------------
+1. Concatenate userId (accountUuid from ~/.claude.json) + salt (15-char string
+   baked into the Claude Code binary, default: "friend-2026-401")
+2. Hash the string:
+   - Bun runtime → wyhash (Bun.hash)
+   - Node.js runtime → FNV-1a
+3. Seed mulberry32 PRNG with the hash
+4. Roll rarity (weighted: 60/25/10/4/1), species, eye, hat, shiny, stats
+
+CRITICAL: The same salt produces DIFFERENT companions under wyhash vs FNV-1a.
+The patcher auto-detects which hash the installation uses.
+
+
+REPO STRUCTURE
+--------------
+companions/
+  <name>/                    9 featured companions at top level
+    buddy.json               Full profile (name, personality, bones, stats, etc.)
+    companion.json           Install config (name, personality, hatchedAt)
+    sprite.txt               ASCII art animation frames
+    stats.txt                Visual stat bars
+
+  info/                      Species reference guides (one .md per species)
+    dragons.md, ducks.md, ...
+
+  by_species/                Generated collections (18 species × 96 each)
+    dragons/
+      aldranoth/             Each has buddy.json, companion.json, sprite.txt, stats.txt
+      orthandir/
+      aur-aldranoth/         Shiny variants have elvish prefixes
+      ...
+    ducks/
+    geese/
+    ...
+
+patcher-test/
+  patch_companion_bun.ts     Bun patcher (native wyhash, recommended)
+  patch_companion.py         Python patcher (FNV-1a native, wyhash via bun subprocess)
+  .patcher-state.json        Tracks current salt, backup paths, hash algorithm
+
+bun-wyhash-generator/
+  buddy_generator.ts         Generate any buddy from userId + salt (Bun/wyhash)
+
+generator/
+  buddy_generator.py         Generate any buddy from userId + salt (Python/FNV-1a)
+
+instructions/
+  EXTRACT_BUDDY.md           Step-by-step guide for LLMs to extract companion data
+
+install.sh                   Quick installer (sets name + personality in ~/.claude.json)
+species.md                   Species & rarity reference table
+
+
+BUDDY.JSON SCHEMA
+-----------------
+{
+  "name": "Eldûrion",
+  "personality": "A haloed dragon oracle...",
+  "defaultPersonality": "A fierce guardian of clean code...",
+  "hatchedAt": 1775206909981,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 88,
+      "CHAOS": 45,
+      "WISDOM": 100,
+      "SNARK": 57
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 455264799,
+  "totalStats": 379
+}
+
+Fields:
+- name: Display name (unique across all 1,737 companions)
+- personality: Text shown in companion speech bubbles
+- defaultPersonality: The species' default personality before customization
+- hatchedAt: Unix timestamp in milliseconds
+- salt: The salt used to generate this companion ("unknown" if from bulk generation)
+- bones: The visual and stat attributes that define the companion
+- peakStat: Which stat was boosted during generation
+- dumpStat: Which stat was reduced during generation
+- inspirationSeed: RNG-derived seed (can be used for further deterministic generation)
+- totalStats: Sum of all 5 stats
+
+
+COMPANION.JSON SCHEMA
+---------------------
+{
+  "name": "Eldûrion",
+  "personality": "A haloed dragon oracle...",
+  "hatchedAt": 1775206909981
+}
+
+This is the minimal config needed to install a companion. Copy this into
+the "companion" field of ~/.claude.json to set name and personality.
+
+
+HOW THE PATCHER WORKS
+---------------------
+The patcher changes the VISUAL species (not just name/personality):
+
+1. Reads target companion's bones from buddy.json
+2. Reads user's accountUuid from ~/.claude.json
+3. Auto-detects hash algorithm (wyhash or FNV-1a)
+4. Checks if the stored salt reproduces the target bones for this user
+5. If not, brute-forces a new 15-char salt that produces matching bones
+6. Patches the salt into Claude Code's cli.js file (NOT compiled binaries)
+7. Updates ~/.claude.json with name and personality
+8. Creates backups of both files before modification
+
+IMPORTANT:
+- Only .js CLI files can be patched. Compiled binaries are rejected.
+- Install via npm to get a patchable cli.js: npm install -g @anthropic-ai/claude-code
+- The patcher recursively scans companions/ up to 3 levels deep
+- --restore copies the backup file back (safe) or falls back to byte
+  replacement for .js files only
+
+
+COLLECTION DETAILS
+------------------
+- 1,737 total unique companions
+- 9 featured companions at companions/ top level
+- 18 species × 96 per species = 1,728 in companions/by_species/
+- Each species has 48 normal + 48 shiny variants
+- 48 = 6 eyes × 8 hats (every visual combination)
+- All legendary rarity (★★★★★)
+- Best stats selected from 100M+ generated companions
+- All names hand-curated, zero duplicates across entire collection
+
+Naming conventions:
+- Normal companions: species-themed fantasy names
+- Shiny companions: elvish prefix + base name
+  Prefixes: Aur- (gold), Gîl- (star), Mîr- (jewel), Ithil- (moon),
+            Anar- (sun), Lúth- (spell), Cael- (earth), Thal- (strong)
+
+Species name themes:
+- Ducks: aquatic/elvish     - Geese: orcish/aggressive
+- Blobs: arcane/ethereal    - Cats: shadow/dark
+- Dragons: Tolkien-inspired - Octopi: deep sea/ancient
+- Owls: wise/celestial      - Penguins: noble/frost
+- Turtles: earthen/stoic    - Snails: nature/gentle
+- Ghosts: void/spectral     - Axolotls: bloom/renewal
+- Capybaras: peaceful       - Cacti: desert/fortified
+- Robots: metal/forge       - Rabbits: swift/wind
+- Mushrooms: fungal/mystic  - Chonks: grand/imposing
+
+
+STAT RANGES FOR LEGENDARY
+--------------------------
+- Floor: 50 (minimum base for any stat at legendary rarity)
+- Peak stat: floor + 50 + random(0-29) = 100 max
+- Dump stat: floor - 10 + random(0-14) = 40-64
+- Normal stats: floor + random(0-39) = 50-89
+- Total stats typically range from ~330 to ~410
+
+
+COMMON TASKS AN LLM MIGHT BE ASKED TO DO
+-----------------------------------------
+1. Add a new companion: create a folder with buddy.json, companion.json,
+   sprite.txt, stats.txt following the schemas above
+2. Patch a companion: run the bun or python patcher
+3. Generate a companion from a userId: run the generator scripts
+4. Find companions by criteria: read info/*.md or scan buddy.json files
+5. Create a new species collection: follow the pattern in by_species/
+6. Fix/update companion data: edit the 4 files in the companion's folder
