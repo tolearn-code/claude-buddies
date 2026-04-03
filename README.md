@@ -159,6 +159,18 @@ Features:
 - Backup-based restore via `--restore`
 
 See [`patcher-test/README.md`](patcher-test/README.md) for full docs.
+See [`patcher-test/known_issues.md`](patcher-test/known_issues.md) for known issues.
+See [`patcher-test/recovery_help.md`](patcher-test/recovery_help.md) if something goes wrong.
+
+## Verified
+
+Tested 831 companions across all 18 species using automated end-to-end verification (patching + launching Claude + capturing `/buddy` card + analyzing species/rarity/stats).
+
+- **0 species mismatches** — patching produces the correct companion every time
+- **0 patch failures** — 40M salt search covers all visual combos
+- **All 18 species verified** with multiple companions each
+
+The patcher is tested and reliable for npm-installed Claude Code (`.js` CLI files).
 
 ## Hash Algorithms
 
