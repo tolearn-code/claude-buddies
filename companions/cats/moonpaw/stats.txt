@@ -1,0 +1,11 @@
+Ghoststep — Legendary (★★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 402):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  81
+
+Peak: WISDOM | Dump: CHAOS

@@ -1,0 +1,11 @@
+Mîr-Emberveil — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████████████░░░░  84
+
+Peak: PATIENCE | Dump: DEBUGGING

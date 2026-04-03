@@ -1,0 +1,11 @@
+Anar-Opalclaw — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: CHAOS

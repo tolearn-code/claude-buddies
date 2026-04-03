@@ -1,0 +1,11 @@
+Velvetdusk — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  82
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: CHAOS | Dump: SNARK

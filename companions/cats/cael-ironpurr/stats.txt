@@ -1,0 +1,11 @@
+Lúth-Darkmoon — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

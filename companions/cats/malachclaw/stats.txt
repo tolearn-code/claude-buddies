@@ -1,0 +1,11 @@
+Moonshade — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 407):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      █████████████████░░░  86
+
+Peak: DEBUGGING | Dump: WISDOM

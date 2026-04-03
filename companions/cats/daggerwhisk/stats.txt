@@ -1,0 +1,11 @@
+Ashwhisper — Legendary (★★★★★) Crown
+Eyes: @ | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: DEBUGGING

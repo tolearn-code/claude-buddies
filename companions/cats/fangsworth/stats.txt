@@ -1,0 +1,11 @@
+Nightveil — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████░░░░░░░░░░░░  40 (dump)
+
+Peak: PATIENCE | Dump: SNARK

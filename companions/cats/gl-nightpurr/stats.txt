@@ -1,0 +1,11 @@
+Lúth-Moonshade — Legendary (★★★★★) Crown ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████░░░░  82
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

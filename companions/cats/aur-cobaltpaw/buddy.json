@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Obsidipaw",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Cael-Obsidipaw speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128647,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "@",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 86,
+      "CHAOS": 47,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 428033774,
+  "totalStats": 403
+}

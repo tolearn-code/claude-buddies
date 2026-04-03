@@ -1,0 +1,11 @@
+Netherpaw — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: WISDOM

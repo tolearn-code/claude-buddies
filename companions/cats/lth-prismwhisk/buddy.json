@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Starwhisker",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Aur-Starwhisker speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128653,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 79,
+      "CHAOS": 79,
+      "WISDOM": 100,
+      "SNARK": 45
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 81797464,
+  "totalStats": 384
+}

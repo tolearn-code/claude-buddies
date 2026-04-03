@@ -1,0 +1,11 @@
+Rubywhisker — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,11 @@
+Berylwhisk — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: DEBUGGING

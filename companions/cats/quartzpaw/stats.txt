@@ -1,0 +1,11 @@
+Starwhisker — Legendary (★★★★★) Beanie
+Eyes: ° | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      ████████████████░░░░  80
+
+Peak: DEBUGGING | Dump: WISDOM

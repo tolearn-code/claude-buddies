@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Emberveil",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Emberveil waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128652,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 100,
+      "CHAOS": 81,
+      "WISDOM": 81,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 501882859,
+  "totalStats": 399
+}

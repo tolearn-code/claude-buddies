@@ -1,0 +1,11 @@
+Ravenwhisk — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 400):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  47 (dump)
+
+Peak: WISDOM | Dump: SNARK

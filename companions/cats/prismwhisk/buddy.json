@@ -1,0 +1,25 @@
+{
+  "name": "Copperwhisk",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Copperwhisk waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128631,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 58,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 569174219,
+  "totalStats": 378
+}

@@ -1,0 +1,11 @@
+Sagewhisk — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 407):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████████░░░░  84
+
+Peak: CHAOS | Dump: WISDOM

@@ -1,0 +1,11 @@
+Gîl-Phantompaw — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  60
+
+Peak: WISDOM | Dump: DEBUGGING

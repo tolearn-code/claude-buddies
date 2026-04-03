@@ -1,0 +1,11 @@
+Onyxwhisper — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ████████████░░░░░░░░  60
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  83
+
+Peak: WISDOM | Dump: CHAOS

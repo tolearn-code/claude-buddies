@@ -1,0 +1,11 @@
+Mîr-Shadowthorn — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 407):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: DEBUGGING

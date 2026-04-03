@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Copperwhisk",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Copperwhisk rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128639,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 83,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 687701103,
+  "totalStats": 404
+}

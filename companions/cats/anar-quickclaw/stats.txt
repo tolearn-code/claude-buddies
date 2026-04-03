@@ -1,0 +1,11 @@
+Anar-Twilclaw — Legendary (★★★★★) Halo ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     █████████████░░░░░░░  69
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: CHAOS

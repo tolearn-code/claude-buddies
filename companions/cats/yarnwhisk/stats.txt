@@ -1,0 +1,11 @@
+Pearlfang — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ███████████░░░░░░░░░  55
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: WISDOM | Dump: SNARK

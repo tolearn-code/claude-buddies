@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Sapphireveil",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Sapphireveil waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128641,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 56,
+      "PATIENCE": 100,
+      "CHAOS": 89,
+      "WISDOM": 78,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 405400444,
+  "totalStats": 372
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ravenwhisk",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Ravenwhisk speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128629,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 75,
+      "CHAOS": 89,
+      "WISDOM": 100,
+      "SNARK": 47
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 149695224,
+  "totalStats": 400
+}

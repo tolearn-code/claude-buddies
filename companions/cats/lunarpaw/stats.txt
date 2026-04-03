@@ -1,0 +1,11 @@
+Stormveil — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████████░░░░░░░░  62
+
+Peak: PATIENCE | Dump: DEBUGGING

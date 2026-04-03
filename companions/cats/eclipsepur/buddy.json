@@ -1,0 +1,25 @@
+{
+  "name": "Grimstalk",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Grimstalk speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128626,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 48,
+      "CHAOS": 80,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 285055358,
+  "totalStats": 397
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Topazfang",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Topazfang never rests until the root cause is found.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128621,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 44,
+      "WISDOM": 69,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 968659780,
+  "totalStats": 388
+}

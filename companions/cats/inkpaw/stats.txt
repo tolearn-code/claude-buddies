@@ -1,0 +1,11 @@
+Darkmoon — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: WISDOM | Dump: SNARK

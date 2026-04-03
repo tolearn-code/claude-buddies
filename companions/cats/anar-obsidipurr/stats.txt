@@ -1,0 +1,11 @@
+Ithil-Ashwhisper — Legendary (★★★★★) Halo ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 367):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████░░░░░░░░░░░░  42 (dump)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: DEBUGGING | Dump: WISDOM

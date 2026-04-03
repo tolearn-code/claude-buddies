@@ -1,0 +1,11 @@
+Aur-Ghoststep — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

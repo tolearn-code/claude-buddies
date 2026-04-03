@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Onyxwhisper",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Mîr-Onyxwhisper speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128647,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 45,
+      "CHAOS": 81,
+      "WISDOM": 100,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 881351557,
+  "totalStats": 400
+}

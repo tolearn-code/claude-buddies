@@ -1,0 +1,11 @@
+Gîl-Ravenwhisk — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      █████████████████░░░  86
+
+Peak: PATIENCE | Dump: CHAOS

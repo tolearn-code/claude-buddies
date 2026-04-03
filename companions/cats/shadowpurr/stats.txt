@@ -1,0 +1,11 @@
+Opalclaw — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ████████████████░░░░  81
+
+Peak: CHAOS | Dump: PATIENCE

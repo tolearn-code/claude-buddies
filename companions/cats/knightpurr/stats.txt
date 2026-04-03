@@ -1,0 +1,11 @@
+Wraithclaw — Legendary (★★★★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   █████████████░░░░░░░  65
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  75
+
+Peak: WISDOM | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Moonsilvr",
+  "personality": "A wild-eyed force who thrives in broken deploys. Moonsilvr rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128624,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 47,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 282252083,
+  "totalStats": 405
+}

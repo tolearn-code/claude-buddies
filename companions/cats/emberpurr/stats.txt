@@ -1,0 +1,11 @@
+Obsidipaw — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      █████████████████░░░  89
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: DEBUGGING | Dump: WISDOM

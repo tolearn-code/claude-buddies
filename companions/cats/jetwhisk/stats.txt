@@ -1,0 +1,11 @@
+Umbrashadow — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: DEBUGGING

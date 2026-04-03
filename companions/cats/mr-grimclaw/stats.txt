@@ -1,0 +1,11 @@
+Lúth-Rubywhisker — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 397):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████████████░░░░  84
+
+Peak: PATIENCE | Dump: CHAOS

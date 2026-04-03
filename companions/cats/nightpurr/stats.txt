@@ -1,0 +1,11 @@
+Emberveil — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 370):
+  DEBUGGING  █████████████░░░░░░░  69
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      █████████████████░░░  88
+
+Peak: CHAOS | Dump: PATIENCE

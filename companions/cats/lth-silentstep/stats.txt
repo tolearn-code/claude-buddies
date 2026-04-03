@@ -1,0 +1,11 @@
+Mîr-Crystalfang — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  47 (dump)
+
+Peak: WISDOM | Dump: SNARK

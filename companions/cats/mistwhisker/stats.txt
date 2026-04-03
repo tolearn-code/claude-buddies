@@ -1,0 +1,11 @@
+Frostfang — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  65
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████░░░░  81
+
+Peak: DEBUGGING | Dump: CHAOS

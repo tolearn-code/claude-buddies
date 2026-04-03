@@ -1,0 +1,11 @@
+Cael-Goldenpaw — Legendary (★★★★★) Wizard ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  █████████████░░░░░░░  68
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

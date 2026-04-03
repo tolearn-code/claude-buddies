@@ -1,0 +1,11 @@
+Gloomstep — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████░░░░  80
+
+Peak: CHAOS | Dump: WISDOM

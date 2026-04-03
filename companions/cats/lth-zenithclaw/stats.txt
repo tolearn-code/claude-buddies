@@ -1,0 +1,11 @@
+Ithil-Sagewhisk — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: DEBUGGING

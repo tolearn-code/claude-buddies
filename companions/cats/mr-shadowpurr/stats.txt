@@ -1,0 +1,11 @@
+Aur-Topazfang — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  83
+
+Peak: WISDOM | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Emeraldclaw — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  81
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: DEBUGGING

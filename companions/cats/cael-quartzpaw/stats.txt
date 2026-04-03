@@ -1,0 +1,11 @@
+Aur-Umbrashadow — Legendary (★★★★★) Beanie ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 374):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      █████████████░░░░░░░  66
+  WISDOM     ██████████████░░░░░░  70
+  SNARK      █████████████████░░░  86
+
+Peak: DEBUGGING | Dump: PATIENCE

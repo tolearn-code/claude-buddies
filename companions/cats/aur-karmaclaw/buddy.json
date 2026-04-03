@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Duskmantle",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Duskmantle waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128651,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "°",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 100,
+      "CHAOS": 51,
+      "WISDOM": 83,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 192033559,
+  "totalStats": 399
+}

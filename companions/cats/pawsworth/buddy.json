@@ -1,0 +1,25 @@
+{
+  "name": "Silverstalk",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Silverstalk speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128611,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 75,
+      "PATIENCE": 88,
+      "CHAOS": 83,
+      "WISDOM": 100,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 192017311,
+  "totalStats": 397
+}

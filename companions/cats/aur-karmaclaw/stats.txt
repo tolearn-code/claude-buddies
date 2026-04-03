@@ -1,0 +1,11 @@
+Aur-Duskmantle — Legendary (★★★★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,11 @@
+Gîl-Garnetstep — Legendary (★★★★★) Tophat ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  87
+  SNARK      █████████████░░░░░░░  65
+
+Peak: CHAOS | Dump: PATIENCE

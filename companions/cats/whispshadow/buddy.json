@@ -1,0 +1,25 @@
+{
+  "name": "Berylwhisk",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Berylwhisk waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128622,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 80,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 454933296,
+  "totalStats": 392
+}

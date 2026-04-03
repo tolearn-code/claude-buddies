@@ -1,0 +1,11 @@
+Phantompaw — Legendary (★★★★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: CHAOS | Dump: SNARK

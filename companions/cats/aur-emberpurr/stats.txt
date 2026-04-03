@@ -1,0 +1,11 @@
+Thal-Nightveil — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 373):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████░░░░░░░░  61
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ███████████████░░░░░  77
+
+Peak: DEBUGGING | Dump: WISDOM

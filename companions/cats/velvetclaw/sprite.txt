@@ -1,0 +1,30 @@
+Garnetstep — Legendary Cat (★★★★★)
+Eyes: · | Hat: propeller | Shiny: no
+
+--- Frame 0 (idle) ---
+    -+-     
+   /\_/\    
+  ( ·   ·)  
+  (  ω  )   
+  (")_(")   
+
+--- Frame 1 (idle alt) ---
+    -+-     
+   /\_/\    
+  ( ·   ·)  
+  (  ω  )   
+  (")_(")~  
+
+--- Frame 2 (wink) ---
+    -+-     
+   /\-/\    
+  ( ·   ·)  
+  (  ω  )   
+  (")_(")   
+
+--- Sleeping ---
+    -+-     
+   /\_/\    
+  ( -   -)  
+  (  ω  )   
+  (")_(")   

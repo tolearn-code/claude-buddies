@@ -1,0 +1,11 @@
+Gîl-Silkenveil — Legendary (★★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

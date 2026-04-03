@@ -1,0 +1,11 @@
+Mistclaw — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 407):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     █████████████████░░░  86
+  SNARK      █████████████████░░░  88
+
+Peak: DEBUGGING | Dump: CHAOS

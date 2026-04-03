@@ -1,0 +1,25 @@
+{
+  "name": "Nyxshadow",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Nyxshadow waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128624,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 67,
+      "PATIENCE": 100,
+      "CHAOS": 49,
+      "WISDOM": 53,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 449962856,
+  "totalStats": 358
+}

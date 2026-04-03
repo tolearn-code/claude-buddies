@@ -1,0 +1,11 @@
+Moonsilvr — Legendary (★★★★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 405):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Twilclaw — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 389):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      ████████████████░░░░  81
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

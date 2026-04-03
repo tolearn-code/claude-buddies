@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Berylwhisk",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Anar-Berylwhisk never rests until the root cause is found.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128650,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 40,
+      "CHAOS": 78,
+      "WISDOM": 79,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 944498939,
+  "totalStats": 383
+}

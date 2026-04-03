@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Ironwhisker",
+  "personality": "A wild-eyed force who thrives in broken deploys. Cael-Ironwhisker rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128633,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 43,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 71740695,
+  "totalStats": 387
+}

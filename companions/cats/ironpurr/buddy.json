@@ -1,0 +1,25 @@
+{
+  "name": "Eclipsefang",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Eclipsefang has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128628,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 87,
+      "CHAOS": 41,
+      "WISDOM": 73,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 172266463,
+  "totalStats": 380
+}

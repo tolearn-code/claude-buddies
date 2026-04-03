@@ -1,0 +1,25 @@
+{
+  "name": "Netherpaw",
+  "personality": "A wild-eyed force who thrives in broken deploys. Netherpaw rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128617,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 86,
+      "CHAOS": 100,
+      "WISDOM": 51,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 302738000,
+  "totalStats": 392
+}

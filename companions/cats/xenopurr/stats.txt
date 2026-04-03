@@ -1,0 +1,11 @@
+Coralpaw — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  75
+
+Peak: WISDOM | Dump: PATIENCE

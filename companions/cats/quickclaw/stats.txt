@@ -1,0 +1,11 @@
+Dawnpaw — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 402):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Shadowthorn — Legendary (★★★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     █████████████████░░░  85
+  SNARK      ██████████████░░░░░░  72
+
+Peak: PATIENCE | Dump: CHAOS

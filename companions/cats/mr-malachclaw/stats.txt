@@ -1,0 +1,11 @@
+Cael-Amethystpaw — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████░░░░░░░░░░░░  43 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

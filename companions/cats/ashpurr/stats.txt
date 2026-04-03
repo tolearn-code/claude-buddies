@@ -1,0 +1,11 @@
+Nyxshadow — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 358):
+  DEBUGGING  █████████████░░░░░░░  67
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ██████████░░░░░░░░░░  53
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: CHAOS

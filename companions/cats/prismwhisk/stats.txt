@@ -1,0 +1,11 @@
+Copperwhisk — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ███████████░░░░░░░░░  58
+  SNARK      █████████████████░░░  85
+
+Peak: PATIENCE | Dump: DEBUGGING

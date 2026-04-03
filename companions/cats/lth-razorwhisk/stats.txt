@@ -1,0 +1,11 @@
+Gîl-Dawnpaw — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ████████░░░░░░░░░░░░  43 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████████░░░░░░  70
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: DEBUGGING

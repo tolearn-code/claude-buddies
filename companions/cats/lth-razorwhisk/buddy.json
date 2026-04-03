@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Dawnpaw",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Gîl-Dawnpaw waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128642,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 43,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 70,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 910665548,
+  "totalStats": 384
+}

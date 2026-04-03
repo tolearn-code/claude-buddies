@@ -1,0 +1,11 @@
+Garnetstep — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████████░░░░  81
+
+Peak: CHAOS | Dump: WISDOM

@@ -1,0 +1,11 @@
+Duskmantle — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  68
+
+Peak: WISDOM | Dump: PATIENCE

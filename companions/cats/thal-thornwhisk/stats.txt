@@ -1,0 +1,11 @@
+Thal-Moonsilvr — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ██████████████░░░░░░  73
+
+Peak: PATIENCE | Dump: CHAOS

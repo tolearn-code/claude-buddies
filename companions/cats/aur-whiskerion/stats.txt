@@ -1,0 +1,11 @@
+Ithil-Mistclaw — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

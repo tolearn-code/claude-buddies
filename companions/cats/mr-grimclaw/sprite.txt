@@ -1,0 +1,30 @@
+Lúth-Rubywhisker — Legendary Cat (★★★★★) ✨
+Eyes: ✦ | Hat: tophat | Shiny: yes
+
+--- Frame 0 (idle) ---
+   [___]    
+   /\_/\    
+  ( ✦   ✦)  
+  (  ω  )   
+  (")_(")   
+
+--- Frame 1 (idle alt) ---
+   [___]    
+   /\_/\    
+  ( ✦   ✦)  
+  (  ω  )   
+  (")_(")~  
+
+--- Frame 2 (wink) ---
+   [___]    
+   /\-/\    
+  ( ✦   ✦)  
+  (  ω  )   
+  (")_(")   
+
+--- Sleeping ---
+   [___]    
+   /\_/\    
+  ( -   -)  
+  (  ω  )   
+  (")_(")   

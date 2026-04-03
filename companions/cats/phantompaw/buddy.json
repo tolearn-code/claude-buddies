@@ -1,0 +1,25 @@
+{
+  "name": "Goldenpaw",
+  "personality": "A wild-eyed force who thrives in broken deploys. Goldenpaw rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128619,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 83,
+      "CHAOS": 100,
+      "WISDOM": 80,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 271623778,
+  "totalStats": 386
+}

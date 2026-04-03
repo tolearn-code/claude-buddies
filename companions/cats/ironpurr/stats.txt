@@ -1,0 +1,11 @@
+Eclipsefang — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████░░░░░░░░░░░░  41 (dump)
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,11 @@
+Thal-Sapphireveil — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 372):
+  DEBUGGING  ███████████░░░░░░░░░  56
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: PATIENCE | Dump: SNARK

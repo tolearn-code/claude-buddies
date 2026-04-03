@@ -1,0 +1,11 @@
+Silverstalk — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 397):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: WISDOM | Dump: SNARK

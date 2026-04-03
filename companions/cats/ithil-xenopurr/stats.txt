@@ -1,0 +1,11 @@
+Lúth-Silverstalk — Legendary (★★★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 409):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████░░░░  80
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,11 @@
+Silkenveil — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     █████████████░░░░░░░  69
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

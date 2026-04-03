@@ -1,0 +1,11 @@
+Jadepaw — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

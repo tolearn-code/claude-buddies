@@ -1,0 +1,11 @@
+Voidwhisker — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  █████████████░░░░░░░  68
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: PATIENCE
