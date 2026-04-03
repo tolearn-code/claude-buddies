@@ -1,0 +1,11 @@
+Aur-Doomwing — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

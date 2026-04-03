@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Stormhiss",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Anar-Stormhiss has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128551,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 75,
+      "PATIENCE": 85,
+      "CHAOS": 43,
+      "WISDOM": 79,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 428621223,
+  "totalStats": 382
+}

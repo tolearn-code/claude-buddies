@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Savagehorn",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Thal-Savagehorn never rests until the root cause is found.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128548,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 70,
+      "CHAOS": 88,
+      "WISDOM": 52,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 181792938,
+  "totalStats": 385
+}

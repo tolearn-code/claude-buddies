@@ -1,0 +1,11 @@
+Brimstone — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 405):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████████████░░░  85
+  SNARK      █████████████████░░░  86
+
+Peak: PATIENCE | Dump: DEBUGGING

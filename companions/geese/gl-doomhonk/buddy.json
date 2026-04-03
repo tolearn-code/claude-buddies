@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Fangstrike",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Fangstrike waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128558,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 44,
+      "PATIENCE": 100,
+      "CHAOS": 80,
+      "WISDOM": 86,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 540050186,
+  "totalStats": 385
+}

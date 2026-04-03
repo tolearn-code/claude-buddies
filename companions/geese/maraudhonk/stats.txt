@@ -1,0 +1,11 @@
+Flamejaw — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ███████████████░░░░░  77
+
+Peak: CHAOS | Dump: WISDOM

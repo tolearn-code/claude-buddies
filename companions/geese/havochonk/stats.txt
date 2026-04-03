@@ -1,0 +1,11 @@
+Chainfury — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████░░░░░░░░░░░░  44 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

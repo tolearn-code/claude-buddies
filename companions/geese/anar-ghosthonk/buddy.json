@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Grakthul",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Grakthul waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128559,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 100,
+      "CHAOS": 52,
+      "WISDOM": 85,
+      "SNARK": 61
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 510423196,
+  "totalStats": 376
+}

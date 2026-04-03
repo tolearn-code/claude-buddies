@@ -1,0 +1,25 @@
+{
+  "name": "Steelwrath",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Steelwrath never rests until the root cause is found.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128521,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "·",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 82,
+      "CHAOS": 88,
+      "WISDOM": 70,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 495159152,
+  "totalStats": 392
+}

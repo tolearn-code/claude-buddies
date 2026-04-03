@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Duskshatter",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Ithil-Duskshatter speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128555,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 83,
+      "CHAOS": 89,
+      "WISDOM": 100,
+      "SNARK": 45
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 303709632,
+  "totalStats": 403
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Savagehorn",
+  "personality": "A wild-eyed force who thrives in broken deploys. Savagehorn rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128529,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 52,
+      "CHAOS": 100,
+      "WISDOM": 81,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 5905763,
+  "totalStats": 398
+}

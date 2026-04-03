@@ -1,0 +1,11 @@
+Irontalon — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

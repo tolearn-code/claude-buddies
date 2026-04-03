@@ -1,0 +1,11 @@
+Anar-Shadowmarch — Legendary (★★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 404):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

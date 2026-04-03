@@ -1,0 +1,25 @@
+{
+  "name": "Bloodhiss",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Bloodhiss waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128541,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 42,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 76,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 534048214,
+  "totalStats": 387
+}

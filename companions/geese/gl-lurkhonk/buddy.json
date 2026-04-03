@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Ironmarch",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Lúth-Ironmarch has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128561,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 85,
+      "CHAOS": 86,
+      "WISDOM": 66,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 180389595,
+  "totalStats": 383
+}

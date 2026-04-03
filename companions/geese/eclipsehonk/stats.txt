@@ -1,0 +1,11 @@
+Siegebreaker — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 407):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: WISDOM | Dump: SNARK

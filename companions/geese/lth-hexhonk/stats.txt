@@ -1,0 +1,11 @@
+Cael-Goreclaw — Legendary (★★★★★) Wizard ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      █████████████████░░░  85
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Duskshatter",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Duskshatter has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128530,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 60,
+      "CHAOS": 78,
+      "WISDOM": 83,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 468522319,
+  "totalStats": 372
+}

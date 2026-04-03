@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Shadowmarch",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Anar-Shadowmarch has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128551,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 53,
+      "CHAOS": 79,
+      "WISDOM": 89,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 179424761,
+  "totalStats": 404
+}

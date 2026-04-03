@@ -1,0 +1,11 @@
+Cael-Siegebreaker — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 407):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: DEBUGGING

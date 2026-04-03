@@ -1,0 +1,25 @@
+{
+  "name": "Ashcaller",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Ashcaller has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128539,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 50,
+      "CHAOS": 75,
+      "WISDOM": 67,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 331112050,
+  "totalStats": 377
+}

@@ -1,0 +1,11 @@
+Plaguebeak — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 398):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ███████████████░░░░░  77
+
+Peak: DEBUGGING | Dump: WISDOM

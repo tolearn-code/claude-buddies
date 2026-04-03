@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Darktalon",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Darktalon rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128542,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 86,
+      "CHAOS": 100,
+      "WISDOM": 50,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 44018930,
+  "totalStats": 394
+}

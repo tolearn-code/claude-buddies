@@ -1,0 +1,11 @@
+Gîl-Blackwing — Legendary (★★★★★) Tophat ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: DEBUGGING

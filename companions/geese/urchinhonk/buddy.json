@@ -1,0 +1,25 @@
+{
+  "name": "Darkforge",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Darkforge waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128531,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 100,
+      "CHAOS": 50,
+      "WISDOM": 78,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 580084,
+  "totalStats": 384
+}

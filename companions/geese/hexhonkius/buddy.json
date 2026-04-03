@@ -1,0 +1,25 @@
+{
+  "name": "Bloodbeak",
+  "personality": "A sage whose · eyes glow with ten thousand resolved tickets. Bloodbeak speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211274388,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 88,
+      "CHAOS": 71,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 858495350,
+  "totalStats": 399
+}

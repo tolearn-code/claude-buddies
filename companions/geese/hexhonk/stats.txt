@@ -1,0 +1,11 @@
+Ragecall — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: WISDOM | Dump: PATIENCE

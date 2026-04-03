@@ -1,0 +1,25 @@
+{
+  "name": "Warbringer",
+  "personality": "A wild-eyed force who thrives in broken deploys. Warbringer rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128539,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 88,
+      "CHAOS": 100,
+      "WISDOM": 79,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 161938929,
+  "totalStats": 399
+}

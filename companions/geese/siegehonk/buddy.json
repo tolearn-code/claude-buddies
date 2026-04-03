@@ -1,0 +1,25 @@
+{
+  "name": "Dreadwake",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Dreadwake speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128530,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 70,
+      "CHAOS": 43,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 970250525,
+  "totalStats": 391
+}

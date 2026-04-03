@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Thundermaw",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Thundermaw rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128552,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 42,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 85,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 129974475,
+  "totalStats": 400
+}

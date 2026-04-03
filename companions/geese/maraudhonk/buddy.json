@@ -1,0 +1,25 @@
+{
+  "name": "Flamejaw",
+  "personality": "A wild-eyed force who thrives in broken deploys. Flamejaw rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128528,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "×",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 73,
+      "CHAOS": 100,
+      "WISDOM": 52,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 6495156,
+  "totalStats": 372
+}

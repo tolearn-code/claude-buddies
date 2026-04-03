@@ -1,0 +1,11 @@
+Vilecall — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ████████████░░░░░░░░  62
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     █████████████████░░░  87
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: PATIENCE | Dump: SNARK

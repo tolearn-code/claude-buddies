@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Plaguebeak",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Aur-Plaguebeak has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128543,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 84,
+      "CHAOS": 51,
+      "WISDOM": 76,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 176863364,
+  "totalStats": 391
+}

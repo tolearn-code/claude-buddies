@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Dreadscar",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Dreadscar waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128547,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 100,
+      "CHAOS": 83,
+      "WISDOM": 81,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 3951916,
+  "totalStats": 395
+}

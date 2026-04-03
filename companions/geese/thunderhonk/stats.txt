@@ -1,0 +1,11 @@
+Blackwing — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████░░░░  84
+  SNARK      █████████████░░░░░░░  66
+
+Peak: PATIENCE | Dump: DEBUGGING

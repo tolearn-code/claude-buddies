@@ -1,0 +1,11 @@
+Shadowmarch — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 398):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   █████████████████░░░  86
+  CHAOS      █████████░░░░░░░░░░░  47 (dump)
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

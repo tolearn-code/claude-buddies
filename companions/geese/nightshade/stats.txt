@@ -1,0 +1,11 @@
+Thornbreak — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   █████████████████░░░  87
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: WISDOM | Dump: SNARK

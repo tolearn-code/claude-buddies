@@ -1,0 +1,26 @@
+Flamejaw — Legendary Goose (★★★★★)
+Eyes: × | Hat: none | Shiny: no
+
+--- Frame 0 (idle) ---
+     (×>    
+     ||     
+   _(__)_   
+    ^^^^    
+
+--- Frame 1 (idle alt) ---
+    (×>     
+     ||     
+   _(__)_   
+    ^^^^    
+
+--- Frame 2 (wink) ---
+     (×>>   
+     ||     
+   _(__)_   
+    ^^^^    
+
+--- Sleeping ---
+     (->    
+     ||     
+   _(__)_   
+    ^^^^    

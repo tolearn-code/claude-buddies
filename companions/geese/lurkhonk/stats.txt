@@ -1,0 +1,11 @@
+Warbringer — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: DEBUGGING

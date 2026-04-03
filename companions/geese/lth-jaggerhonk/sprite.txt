@@ -1,0 +1,30 @@
+Thal-Savagehorn — Legendary Goose (★★★★★) ✨
+Eyes: ✦ | Hat: wizard | Shiny: yes
+
+--- Frame 0 (idle) ---
+    /^\     
+     (✦>    
+     ||     
+   _(__)_   
+    ^^^^    
+
+--- Frame 1 (idle alt) ---
+    /^\     
+    (✦>     
+     ||     
+   _(__)_   
+    ^^^^    
+
+--- Frame 2 (wink) ---
+    /^\     
+     (✦>>   
+     ||     
+   _(__)_   
+    ^^^^    
+
+--- Sleeping ---
+    /^\     
+     (->    
+     ||     
+   _(__)_   
+    ^^^^    

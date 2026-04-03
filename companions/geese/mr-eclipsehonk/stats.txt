@@ -1,0 +1,11 @@
+Anar-Hellscream — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: WISDOM

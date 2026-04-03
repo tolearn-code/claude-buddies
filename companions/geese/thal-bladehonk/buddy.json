@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Darkforge",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Mîr-Darkforge never rests until the root cause is found.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128557,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 74,
+      "CHAOS": 46,
+      "WISDOM": 89,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 225777520,
+  "totalStats": 390
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Venomhiss",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Ithil-Venomhiss never rests until the root cause is found.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128546,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 69,
+      "CHAOS": 49,
+      "WISDOM": 77,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 3597048,
+  "totalStats": 373
+}

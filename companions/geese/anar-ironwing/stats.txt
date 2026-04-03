@@ -1,0 +1,11 @@
+Mîr-Dreadscar — Legendary (★★★★★) Halo ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████░░░░  81
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: PATIENCE | Dump: SNARK

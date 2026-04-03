@@ -1,0 +1,11 @@
+Mîr-Ravenstrike — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 365):
+  DEBUGGING  █████████████░░░░░░░  65
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: PATIENCE | Dump: CHAOS

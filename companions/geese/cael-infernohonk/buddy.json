@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Chainfury",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Lúth-Chainfury has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128560,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 43,
+      "CHAOS": 82,
+      "WISDOM": 84,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 40548440,
+  "totalStats": 395
+}

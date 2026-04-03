@@ -1,0 +1,11 @@
+Ithil-Havocmaw — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 396):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: CHAOS | Dump: SNARK

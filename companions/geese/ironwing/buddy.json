@@ -1,0 +1,25 @@
+{
+  "name": "Venomhiss",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Venomhiss waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128526,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 46,
+      "SNARK": 66
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 922981136,
+  "totalStats": 383
+}

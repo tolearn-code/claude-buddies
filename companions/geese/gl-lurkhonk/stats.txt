@@ -1,0 +1,11 @@
+Lúth-Ironmarch — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████████░░░░░░░  66
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

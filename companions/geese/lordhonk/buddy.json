@@ -1,0 +1,25 @@
+{
+  "name": "Plaguebeak",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Plaguebeak never rests until the root cause is found.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128527,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 89,
+      "CHAOS": 79,
+      "WISDOM": 53,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 219855273,
+  "totalStats": 398
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Warcrest",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Warcrest waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128533,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 100,
+      "CHAOS": 83,
+      "WISDOM": 85,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 519331856,
+  "totalStats": 400
+}

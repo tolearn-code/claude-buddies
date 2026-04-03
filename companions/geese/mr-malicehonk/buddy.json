@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Dreadwake",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Cael-Dreadwake waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128562,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 100,
+      "CHAOS": 78,
+      "WISDOM": 41,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 800312677,
+  "totalStats": 365
+}

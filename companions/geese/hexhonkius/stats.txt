@@ -1,0 +1,11 @@
+Bloodbeak — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: DEBUGGING

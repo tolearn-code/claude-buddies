@@ -1,0 +1,11 @@
+Aur-Thundermaw — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  85
+  SNARK      █████████████████░░░  88
+
+Peak: CHAOS | Dump: DEBUGGING

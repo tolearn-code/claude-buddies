@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Brimstone",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Anar-Brimstone has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128560,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 87,
+      "CHAOS": 83,
+      "WISDOM": 70,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 215614600,
+  "totalStats": 387
+}

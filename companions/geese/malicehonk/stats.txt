@@ -1,0 +1,11 @@
+Ashcaller — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

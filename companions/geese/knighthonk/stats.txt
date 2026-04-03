@@ -1,0 +1,11 @@
+Deathwing — Legendary (★★★★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 402):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,11 @@
+Bloodhiss — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ████████████████░░░░  81
+
+Peak: PATIENCE | Dump: DEBUGGING

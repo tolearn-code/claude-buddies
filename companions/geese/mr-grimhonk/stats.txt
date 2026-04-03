@@ -1,0 +1,11 @@
+Lúth-Bloodhiss — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     █████████████████░░░  85
+  SNARK      ███████████████░░░░░  75
+
+Peak: DEBUGGING | Dump: CHAOS

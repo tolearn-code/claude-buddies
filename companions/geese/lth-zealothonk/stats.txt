@@ -1,0 +1,11 @@
+Ithil-Duskshatter — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 403):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  45 (dump)
+
+Peak: WISDOM | Dump: SNARK

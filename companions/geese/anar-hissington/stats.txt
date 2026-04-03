@@ -1,0 +1,11 @@
+Gîl-Vorrhak — Legendary (★★★★★) Halo ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: DEBUGGING

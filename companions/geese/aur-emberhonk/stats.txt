@@ -1,0 +1,11 @@
+Thal-Grimjaw — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████░░░░  83
+  SNARK      ██████████████░░░░░░  73
+
+Peak: DEBUGGING | Dump: PATIENCE

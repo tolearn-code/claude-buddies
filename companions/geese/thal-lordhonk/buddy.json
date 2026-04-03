@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Warcrest",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Lúth-Warcrest never rests until the root cause is found.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128549,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 53,
+      "WISDOM": 74,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 185705170,
+  "totalStats": 397
+}

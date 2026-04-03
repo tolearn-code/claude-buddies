@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Skullcrush",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Skullcrush rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128561,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "°",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 74,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 513560750,
+  "totalStats": 398
+}

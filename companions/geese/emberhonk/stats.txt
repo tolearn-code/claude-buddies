@@ -1,0 +1,11 @@
+Grimjaw — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ████████████░░░░░░░░  63
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

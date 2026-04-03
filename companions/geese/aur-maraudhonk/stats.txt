@@ -1,0 +1,11 @@
+Mîr-Bonegrinder — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 397):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

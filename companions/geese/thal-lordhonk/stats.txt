@@ -1,0 +1,11 @@
+Lúth-Warcrest — Legendary (★★★★★) Tinyduck ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 397):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████░░░░  82
+
+Peak: DEBUGGING | Dump: CHAOS

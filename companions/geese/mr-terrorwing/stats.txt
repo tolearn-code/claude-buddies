@@ -1,0 +1,11 @@
+Aur-Irontalon — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ███████████████░░░░░  79
+
+Peak: DEBUGGING | Dump: PATIENCE

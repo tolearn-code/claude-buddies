@@ -1,0 +1,11 @@
+Anar-Darktalon — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 394):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ██████████████░░░░░░  72
+
+Peak: CHAOS | Dump: WISDOM

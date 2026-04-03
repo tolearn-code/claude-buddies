@@ -1,0 +1,11 @@
+Doomwing — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: DEBUGGING

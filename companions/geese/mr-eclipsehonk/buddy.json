@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Hellscream",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Hellscream rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128558,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 71,
+      "CHAOS": 100,
+      "WISDOM": 53,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 448274420,
+  "totalStats": 380
+}

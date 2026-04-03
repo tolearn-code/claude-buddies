@@ -1,0 +1,11 @@
+Venomhiss — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      █████████████░░░░░░░  66
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,25 @@
+{
+  "name": "Bladestorm",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Bladestorm waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128538,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 48,
+      "PATIENCE": 100,
+      "CHAOS": 68,
+      "WISDOM": 72,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 184149152,
+  "totalStats": 377
+}

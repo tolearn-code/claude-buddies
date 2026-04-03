@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Havocmaw",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Havocmaw rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128553,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 86,
+      "CHAOS": 100,
+      "WISDOM": 77,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 213606829,
+  "totalStats": 396
+}

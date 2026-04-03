@@ -1,0 +1,11 @@
+Aur-Grakthul — Legendary (★★★★★) Halo ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: PATIENCE | Dump: CHAOS

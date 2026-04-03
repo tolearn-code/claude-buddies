@@ -1,0 +1,11 @@
+Nightfall — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
+
+Stats (total: 362):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████░░░░░░░░  60
+  SNARK      █████████████░░░░░░░  65
+
+Peak: PATIENCE | Dump: DEBUGGING

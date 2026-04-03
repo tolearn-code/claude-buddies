@@ -1,0 +1,11 @@
+Thal-Savagehorn — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ███████████████░░░░░  75
+
+Peak: DEBUGGING | Dump: WISDOM

@@ -1,0 +1,11 @@
+Cael-Dreadwake — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 365):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: WISDOM

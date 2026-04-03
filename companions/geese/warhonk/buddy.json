@@ -1,0 +1,25 @@
+{
+  "name": "Brimstone",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Brimstone waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128532,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 85,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 322349568,
+  "totalStats": 405
+}

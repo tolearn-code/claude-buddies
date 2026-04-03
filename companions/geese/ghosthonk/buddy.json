@@ -1,0 +1,25 @@
+{
+  "name": "Bonegrinder",
+  "personality": "A wild-eyed force who thrives in broken deploys. Bonegrinder rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128537,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 40,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 735651389,
+  "totalStats": 382
+}

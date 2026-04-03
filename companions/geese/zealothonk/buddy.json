@@ -1,0 +1,25 @@
+{
+  "name": "Oblivion",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Oblivion has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128534,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 68,
+      "CHAOS": 62,
+      "WISDOM": 44,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 365606543,
+  "totalStats": 360
+}

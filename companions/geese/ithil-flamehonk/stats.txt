@@ -1,0 +1,11 @@
+Gîl-Warbringer — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  72
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Deathwing",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Thal-Deathwing speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128554,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 89,
+      "CHAOS": 54,
+      "WISDOM": 100,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 779533221,
+  "totalStats": 396
+}

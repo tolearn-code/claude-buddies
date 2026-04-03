@@ -1,0 +1,11 @@
+Ravenstrike — Legendary (★★★★★) Beanie
+Eyes: ° | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

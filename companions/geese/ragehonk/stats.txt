@@ -1,0 +1,11 @@
+Hellscream — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ███████████████░░░░░  75
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: PATIENCE

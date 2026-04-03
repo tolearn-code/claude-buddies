@@ -1,0 +1,30 @@
+Nightterror — Legendary Goose (★★★★★)
+Eyes: ✦ | Hat: tophat | Shiny: no
+
+--- Frame 0 (idle) ---
+   [___]    
+     (✦>    
+     ||     
+   _(__)_   
+    ^^^^    
+
+--- Frame 1 (idle alt) ---
+   [___]    
+    (✦>     
+     ||     
+   _(__)_   
+    ^^^^    
+
+--- Frame 2 (wink) ---
+   [___]    
+     (✦>>   
+     ||     
+   _(__)_   
+    ^^^^    
+
+--- Sleeping ---
+   [___]    
+     (->    
+     ||     
+   _(__)_   
+    ^^^^    

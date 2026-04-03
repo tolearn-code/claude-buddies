@@ -1,0 +1,11 @@
+Darkforge — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████████████░░░░  80
+
+Peak: PATIENCE | Dump: CHAOS

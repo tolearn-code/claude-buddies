@@ -1,0 +1,11 @@
+Ithil-Venomhiss — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 373):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  69
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: CHAOS

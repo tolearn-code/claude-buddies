@@ -1,0 +1,11 @@
+Duskshatter — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ████████████░░░░░░░░  60
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

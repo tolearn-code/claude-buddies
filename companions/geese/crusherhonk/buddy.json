@@ -1,0 +1,25 @@
+{
+  "name": "Ironbellow",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Ironbellow never rests until the root cause is found.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128535,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "@",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 48,
+      "CHAOS": 80,
+      "WISDOM": 89,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 948346873,
+  "totalStats": 404
+}

@@ -1,0 +1,11 @@
+Sundering — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: CHAOS | Dump: SNARK

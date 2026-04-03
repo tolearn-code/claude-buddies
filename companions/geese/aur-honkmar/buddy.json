@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Doomwing",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Aur-Doomwing has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128542,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "·",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 79,
+      "CHAOS": 88,
+      "WISDOM": 49,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 676012334,
+  "totalStats": 387
+}

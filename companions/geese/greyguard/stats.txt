@@ -1,0 +1,11 @@
+Havocmaw — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: WISDOM

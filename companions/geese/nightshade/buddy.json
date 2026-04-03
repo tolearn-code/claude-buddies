@@ -1,0 +1,25 @@
+{
+  "name": "Thornbreak",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Thornbreak speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128528,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 87,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 46
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 41654493,
+  "totalStats": 393
+}

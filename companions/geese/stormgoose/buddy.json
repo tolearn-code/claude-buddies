@@ -1,0 +1,25 @@
+{
+  "name": "Stormbreaker",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Stormbreaker waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128524,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "·",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 44,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 70238000,
+  "totalStats": 370
+}

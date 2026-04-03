@@ -1,0 +1,11 @@
+Skullcrush — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   █████████████░░░░░░░  69
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

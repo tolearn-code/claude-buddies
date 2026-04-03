@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Sundering",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Cael-Sundering never rests until the root cause is found.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128564,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 44,
+      "CHAOS": 84,
+      "WISDOM": 68,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 375037214,
+  "totalStats": 379
+}

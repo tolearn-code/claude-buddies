@@ -1,0 +1,11 @@
+Thal-Deathwing — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 396):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  83
+
+Peak: WISDOM | Dump: CHAOS

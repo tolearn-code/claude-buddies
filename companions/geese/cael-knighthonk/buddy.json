@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Ragecall",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Cael-Ragecall never rests until the root cause is found.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128548,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 89,
+      "CHAOS": 46,
+      "WISDOM": 60,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 177067898,
+  "totalStats": 382
+}

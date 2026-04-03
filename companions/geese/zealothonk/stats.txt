@@ -1,0 +1,11 @@
+Oblivion — Legendary (★★★★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 360):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      ████████████░░░░░░░░  62
+  WISDOM     ████████░░░░░░░░░░░░  44 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

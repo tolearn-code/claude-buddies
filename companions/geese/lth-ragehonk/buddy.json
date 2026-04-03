@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Ravenstrike",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Ravenstrike waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128552,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 65,
+      "PATIENCE": 100,
+      "CHAOS": 53,
+      "WISDOM": 83,
+      "SNARK": 64
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 632090170,
+  "totalStats": 365
+}

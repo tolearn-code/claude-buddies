@@ -1,0 +1,25 @@
+{
+  "name": "Hellscream",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Hellscream never rests until the root cause is found.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128530,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 49,
+      "CHAOS": 79,
+      "WISDOM": 75,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 132179538,
+  "totalStats": 392
+}

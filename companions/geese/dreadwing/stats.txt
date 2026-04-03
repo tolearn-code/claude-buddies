@@ -1,0 +1,11 @@
+Wargrind — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  81
+
+Peak: WISDOM | Dump: PATIENCE

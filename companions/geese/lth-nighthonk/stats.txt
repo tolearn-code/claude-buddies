@@ -1,0 +1,11 @@
+Aur-Nightfall — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 405):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████░░░░░░░░░░░  47 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

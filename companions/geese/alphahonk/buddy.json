@@ -1,0 +1,25 @@
+{
+  "name": "Grakthul",
+  "personality": "A wild-eyed force who thrives in broken deploys. Grakthul rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128534,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 79,
+      "CHAOS": 100,
+      "WISDOM": 67,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 408181024,
+  "totalStats": 388
+}

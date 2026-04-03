@@ -1,0 +1,25 @@
+{
+  "name": "Shadowmarch",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Shadowmarch has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128540,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 86,
+      "CHAOS": 47,
+      "WISDOM": 88,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 627391481,
+  "totalStats": 398
+}

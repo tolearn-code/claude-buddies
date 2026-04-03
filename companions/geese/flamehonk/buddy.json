@@ -1,0 +1,25 @@
+{
+  "name": "Doomwing",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Doomwing waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128536,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 100,
+      "CHAOS": 86,
+      "WISDOM": 73,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 61088909,
+  "totalStats": 392
+}

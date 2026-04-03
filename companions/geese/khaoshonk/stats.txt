@@ -1,0 +1,11 @@
+Bladestorm — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████░░░░░░░  68
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: DEBUGGING

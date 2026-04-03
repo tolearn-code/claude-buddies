@@ -1,0 +1,11 @@
+Aur-Plaguebeak — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Sundering",
+  "personality": "A wild-eyed force who thrives in broken deploys. Sundering rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128533,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 80,
+      "CHAOS": 100,
+      "WISDOM": 78,
+      "SNARK": 46
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 921447047,
+  "totalStats": 384
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Flamejaw",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Flamejaw waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128562,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 100,
+      "CHAOS": 41,
+      "WISDOM": 79,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 597526124,
+  "totalStats": 380
+}

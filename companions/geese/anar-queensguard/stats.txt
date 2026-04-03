@@ -1,0 +1,11 @@
+Anar-Stormhiss — Legendary (★★★★★) Halo ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████░░░░░░░░░░░░  43 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

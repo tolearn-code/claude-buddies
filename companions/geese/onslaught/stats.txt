@@ -1,0 +1,11 @@
+Savagehorn — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 398):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  81
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: PATIENCE

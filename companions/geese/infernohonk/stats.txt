@@ -1,0 +1,11 @@
+Fangstrike — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  ███████████░░░░░░░░░  55
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: CHAOS

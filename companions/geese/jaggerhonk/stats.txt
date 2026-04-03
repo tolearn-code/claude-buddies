@@ -1,0 +1,11 @@
+Darktalon — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████░░░░░░░░  61
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: CHAOS

@@ -1,0 +1,11 @@
+Goreclaw — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 369):
+  DEBUGGING  ████████░░░░░░░░░░░░  43 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████░░░░░░░░░  59
+  WISDOM     ████████████████░░░░  81
+  SNARK      █████████████████░░░  86
+
+Peak: PATIENCE | Dump: DEBUGGING

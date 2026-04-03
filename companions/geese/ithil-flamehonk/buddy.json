@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Warbringer",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Gîl-Warbringer waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128558,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 48,
+      "PATIENCE": 100,
+      "CHAOS": 72,
+      "WISDOM": 74,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 468662367,
+  "totalStats": 383
+}

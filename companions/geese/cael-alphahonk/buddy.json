@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Nightterror",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Anar-Nightterror has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128556,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 44,
+      "CHAOS": 78,
+      "WISDOM": 82,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 983761438,
+  "totalStats": 388
+}

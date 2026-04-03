@@ -1,0 +1,11 @@
+Thal-Stormbreaker — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     █████████████░░░░░░░  68
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: DEBUGGING

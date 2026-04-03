@@ -1,0 +1,11 @@
+Gîl-Skullcrush — Legendary (★★★★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  82
+
+Peak: CHAOS | Dump: DEBUGGING

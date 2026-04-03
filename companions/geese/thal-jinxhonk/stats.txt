@@ -1,0 +1,11 @@
+Anar-Brimstone — Legendary (★★★★★) Tinyduck ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ██████████████░░░░░░  70
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

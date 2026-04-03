@@ -1,0 +1,11 @@
+Ironmarch — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████████████░░░  86
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

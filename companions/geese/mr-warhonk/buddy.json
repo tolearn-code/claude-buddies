@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Blackwing",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Gîl-Blackwing waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775211128554,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "goose",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 67,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 971574514,
+  "totalStats": 389
+}
