@@ -447,7 +447,9 @@ def find_claude_binary() -> str:
 
     state = read_patcher_state()
     if state.get("cliPath") and os.path.exists(state["cliPath"]):
-        return state["cliPath"]
+        result = _resolve_to_cli_js(state["cliPath"])
+        if result:
+            return result
 
     for candidate in _platform_candidates():
         if os.path.exists(candidate):

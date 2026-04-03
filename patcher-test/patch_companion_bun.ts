@@ -263,7 +263,10 @@ function findClaudeBinary(): string {
 
   // patcher state
   const state = readPatcherState();
-  if (state.cliPath && existsSync(state.cliPath)) return state.cliPath;
+  if (state.cliPath && existsSync(state.cliPath)) {
+    const result = resolveCliJs(state.cliPath);
+    if (result) return result;
+  }
 
   // platform candidates
   const home = homedir();
