@@ -1,0 +1,25 @@
+{
+  "name": "Opalfoot",
+  "personality": "A wild-eyed force who thrives in broken deploys. Opalfoot rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129112,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 86,
+      "CHAOS": 100,
+      "WISDOM": 80,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 378272951,
+  "totalStats": 390
+}

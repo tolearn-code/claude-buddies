@@ -1,0 +1,11 @@
+Zephyrfoot — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      ████████████░░░░░░░░  63
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: PATIENCE

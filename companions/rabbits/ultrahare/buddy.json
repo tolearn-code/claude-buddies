@@ -1,0 +1,25 @@
+{
+  "name": "Ivorydash",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Ivorydash speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129106,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 47,
+      "CHAOS": 80,
+      "WISDOM": 100,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 759933954,
+  "totalStats": 395
+}

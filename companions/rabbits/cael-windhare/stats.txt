@@ -1,0 +1,11 @@
+Gîl-Copperdash — Legendary (★★★★★) Beanie ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  80
+
+Peak: WISDOM | Dump: PATIENCE

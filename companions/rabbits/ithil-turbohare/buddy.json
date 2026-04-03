@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Pearldash",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Pearldash rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129124,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 81,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 651085602,
+  "totalStats": 410
+}

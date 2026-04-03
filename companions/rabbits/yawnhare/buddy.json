@@ -1,0 +1,25 @@
+{
+  "name": "Scarletfoot",
+  "personality": "A wild-eyed force who thrives in broken deploys. Scarletfoot rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129108,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 76,
+      "CHAOS": 100,
+      "WISDOM": 47,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 301893841,
+  "totalStats": 384
+}

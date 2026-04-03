@@ -1,0 +1,11 @@
+Rustdash — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

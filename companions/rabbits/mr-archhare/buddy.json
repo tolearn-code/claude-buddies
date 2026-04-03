@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Crimsonfoot",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Anar-Crimsonfoot never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129127,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 84,
+      "CHAOS": 84,
+      "WISDOM": 88,
+      "SNARK": 44
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 809389683,
+  "totalStats": 400
+}

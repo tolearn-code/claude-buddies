@@ -1,0 +1,11 @@
+Thal-Topazswift — Legendary (★★★★★) Crown ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ██████████████░░░░░░  72
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Cobaltfoot",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Cobaltfoot waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129107,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "@",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 79,
+      "WISDOM": 65,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 485096479,
+  "totalStats": 386
+}

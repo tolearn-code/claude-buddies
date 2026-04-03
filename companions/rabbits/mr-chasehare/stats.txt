@@ -1,0 +1,11 @@
+Lúth-Azureleap — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: PATIENCE | Dump: SNARK

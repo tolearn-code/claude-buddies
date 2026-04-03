@@ -1,0 +1,11 @@
+Malachdash — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  █████████████░░░░░░░  65
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: CHAOS

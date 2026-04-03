@@ -1,0 +1,30 @@
+Obsidifoot — Legendary Rabbit (★★★★★)
+Eyes: ◉ | Hat: propeller | Shiny: no
+
+--- Frame 0 (idle) ---
+    -+-     
+   (\__/)   
+  ( ◉  ◉ )  
+ =(  ..  )= 
+  (")__(")  
+
+--- Frame 1 (idle alt) ---
+    -+-     
+   (|__/)   
+  ( ◉  ◉ )  
+ =(  ..  )= 
+  (")__(")  
+
+--- Frame 2 (wink) ---
+    -+-     
+   (\__/)   
+  ( ◉  ◉ )  
+ =( .  . )= 
+  (")__(")  
+
+--- Sleeping ---
+    -+-     
+   (\__/)   
+  ( -  - )  
+ =(  ..  )= 
+  (")__(")  

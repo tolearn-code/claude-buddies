@@ -1,0 +1,11 @@
+Anar-Coralleap — Legendary (★★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ██████████████░░░░░░  70
+
+Peak: PATIENCE | Dump: DEBUGGING

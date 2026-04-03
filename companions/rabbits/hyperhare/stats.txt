@@ -1,0 +1,11 @@
+Amethystleap — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ██████████████░░░░░░  70
+  SNARK      █████████████████░░░  85
+
+Peak: DEBUGGING | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Malachdash",
+  "personality": "A sage whose · eyes glow with ten thousand resolved tickets. Malachdash speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211274389,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 65,
+      "PATIENCE": 89,
+      "CHAOS": 50,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 61413565,
+  "totalStats": 392
+}

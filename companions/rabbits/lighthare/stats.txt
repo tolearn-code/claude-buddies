@@ -1,0 +1,11 @@
+Garnetleap — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  81
+
+Peak: WISDOM | Dump: PATIENCE

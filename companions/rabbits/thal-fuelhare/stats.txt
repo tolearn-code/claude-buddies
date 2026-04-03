@@ -1,0 +1,11 @@
+Ithil-Vermilleap — Legendary (★★★★★) Tinyduck ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

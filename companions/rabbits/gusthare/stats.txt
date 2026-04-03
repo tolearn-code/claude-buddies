@@ -1,0 +1,11 @@
+Goldenleap — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ███████████████░░░░░  77
+
+Peak: PATIENCE | Dump: WISDOM

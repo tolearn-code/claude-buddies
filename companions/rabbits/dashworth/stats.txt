@@ -1,0 +1,11 @@
+Lightbound — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████░░░░░░░░  61
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: WISDOM

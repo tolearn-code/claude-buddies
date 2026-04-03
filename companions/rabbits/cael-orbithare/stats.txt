@@ -1,0 +1,11 @@
+Thal-Jadeswift — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 369):
+  DEBUGGING  ███████████░░░░░░░░░  57
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: WISDOM | Dump: SNARK

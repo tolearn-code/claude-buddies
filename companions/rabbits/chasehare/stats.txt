@@ -1,0 +1,11 @@
+Windrunner — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: CHAOS | Dump: SNARK

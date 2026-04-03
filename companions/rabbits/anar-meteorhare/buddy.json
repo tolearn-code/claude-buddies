@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Veloxfoot",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Mîr-Veloxfoot speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129121,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 80,
+      "CHAOS": 68,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 609168283,
+  "totalStats": 388
+}

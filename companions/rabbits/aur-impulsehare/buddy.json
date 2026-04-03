@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Quicksilver",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Quicksilver waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129119,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "×",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 100,
+      "CHAOS": 74,
+      "WISDOM": 53,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 712563245,
+  "totalStats": 387
+}

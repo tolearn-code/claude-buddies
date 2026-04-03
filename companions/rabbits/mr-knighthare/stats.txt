@@ -1,0 +1,11 @@
+Aur-Sageleap — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████████░░░░░░░  66
+
+Peak: PATIENCE | Dump: CHAOS

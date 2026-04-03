@@ -1,0 +1,11 @@
+Flashstrike — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      █████████████░░░░░░░  68
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: WISDOM

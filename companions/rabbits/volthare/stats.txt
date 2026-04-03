@@ -1,0 +1,11 @@
+Cobaltfoot — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████████░░░░░░░  65
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: PATIENCE | Dump: SNARK

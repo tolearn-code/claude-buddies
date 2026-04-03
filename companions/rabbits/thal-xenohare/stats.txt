@@ -1,0 +1,11 @@
+Thal-Rustdash — Legendary (★★★★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      ████████░░░░░░░░░░░░  41 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  84
+
+Peak: DEBUGGING | Dump: CHAOS

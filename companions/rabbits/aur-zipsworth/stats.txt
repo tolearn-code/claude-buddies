@@ -1,0 +1,11 @@
+Ithil-Boltleap — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  67
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: DEBUGGING | Dump: WISDOM

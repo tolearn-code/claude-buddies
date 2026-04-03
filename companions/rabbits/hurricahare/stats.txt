@@ -1,0 +1,11 @@
+Emberdash — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  80
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: CHAOS | Dump: SNARK

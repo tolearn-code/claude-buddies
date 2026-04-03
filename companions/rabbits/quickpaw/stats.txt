@@ -1,0 +1,11 @@
+Quartzleap — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Topazswift — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: DEBUGGING

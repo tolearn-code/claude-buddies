@@ -1,0 +1,11 @@
+Thal-Rosefoot — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

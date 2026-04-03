@@ -1,0 +1,25 @@
+{
+  "name": "Emeraldfoot",
+  "personality": "A wild-eyed force who thrives in broken deploys. Emeraldfoot rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129097,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "·",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 81,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 679529067,
+  "totalStats": 390
+}

@@ -1,0 +1,11 @@
+Lavenddash — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: PATIENCE | Dump: SNARK

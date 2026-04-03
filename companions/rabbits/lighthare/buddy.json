@@ -1,0 +1,25 @@
+{
+  "name": "Garnetleap",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Garnetleap speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129103,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 52,
+      "CHAOS": 71,
+      "WISDOM": 100,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 924055491,
+  "totalStats": 377
+}

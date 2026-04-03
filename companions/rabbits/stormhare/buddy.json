@@ -1,0 +1,25 @@
+{
+  "name": "Azureleap",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Azureleap never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129106,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 46,
+      "CHAOS": 88,
+      "WISDOM": 71,
+      "SNARK": 56
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 880765293,
+  "totalStats": 361
+}

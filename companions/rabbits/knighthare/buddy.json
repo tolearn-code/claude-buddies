@@ -1,0 +1,25 @@
+{
+  "name": "Topazswift",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Topazswift speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129102,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 48,
+      "PATIENCE": 73,
+      "CHAOS": 81,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 562254357,
+  "totalStats": 391
+}

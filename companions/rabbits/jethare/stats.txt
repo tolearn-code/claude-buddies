@@ -1,0 +1,11 @@
+Rubyfoot — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 405):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: WISDOM

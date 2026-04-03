@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Violetdash",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Ithil-Violetdash never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129125,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 82,
+      "WISDOM": 85,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 865492762,
+  "totalStats": 405
+}

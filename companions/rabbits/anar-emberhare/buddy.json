@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Dashwind",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Dashwind rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129118,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 66,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 43
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 456791356,
+  "totalStats": 380
+}

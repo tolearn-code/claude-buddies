@@ -1,0 +1,11 @@
+Scarletfoot — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: CHAOS | Dump: WISDOM

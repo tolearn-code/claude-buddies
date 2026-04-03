@@ -1,0 +1,25 @@
+{
+  "name": "Sapphiredash",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Sapphiredash never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129102,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 86,
+      "CHAOS": 75,
+      "WISDOM": 68,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 838374953,
+  "totalStats": 380
+}

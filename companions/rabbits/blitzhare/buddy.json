@@ -1,0 +1,25 @@
+{
+  "name": "Dashwind",
+  "personality": "A wild-eyed force who thrives in broken deploys. Dashwind rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129099,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 44,
+      "PATIENCE": 75,
+      "CHAOS": 100,
+      "WISDOM": 84,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 364258916,
+  "totalStats": 392
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Rustdash",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Rustdash never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129098,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 79,
+      "CHAOS": 81,
+      "WISDOM": 83,
+      "SNARK": 44
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 115595905,
+  "totalStats": 387
+}

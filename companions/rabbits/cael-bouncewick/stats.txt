@@ -1,0 +1,11 @@
+Anar-Dawnswift — Legendary (★★★★★) Beanie ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: PATIENCE

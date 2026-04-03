@@ -1,0 +1,11 @@
+Rosefoot — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 410):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: PATIENCE

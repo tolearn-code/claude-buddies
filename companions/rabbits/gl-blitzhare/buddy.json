@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Opalfoot",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Mîr-Opalfoot speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129116,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 71,
+      "CHAOS": 86,
+      "WISDOM": 100,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 569474662,
+  "totalStats": 390
+}

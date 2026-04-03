@@ -1,0 +1,11 @@
+Sageleap — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

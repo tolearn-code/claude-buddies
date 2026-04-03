@@ -1,0 +1,25 @@
+{
+  "name": "Obsidifoot",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Obsidifoot never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129105,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 85,
+      "CHAOS": 54,
+      "WISDOM": 79,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 497068147,
+  "totalStats": 390
+}

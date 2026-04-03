@@ -1,0 +1,11 @@
+Lúth-Scarletfoot — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ███████████████░░░░░  76
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Stormleap — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 411):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████████████░░░  88
+
+Peak: CHAOS | Dump: PATIENCE

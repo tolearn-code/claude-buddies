@@ -1,0 +1,11 @@
+Ithil-Emberdash — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: PATIENCE | Dump: SNARK

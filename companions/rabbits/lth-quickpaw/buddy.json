@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Amberfoot",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Amberfoot rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129115,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 44,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 277795545,
+  "totalStats": 376
+}

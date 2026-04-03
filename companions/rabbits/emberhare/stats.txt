@@ -1,0 +1,11 @@
+Boltleap — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  87
+  SNARK      ██████████████░░░░░░  72
+
+Peak: CHAOS | Dump: PATIENCE

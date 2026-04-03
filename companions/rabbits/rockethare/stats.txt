@@ -1,0 +1,11 @@
+Citrindash — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 389):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  83
+
+Peak: WISDOM | Dump: DEBUGGING

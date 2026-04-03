@@ -1,0 +1,11 @@
+Dashwind — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  84
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: DEBUGGING

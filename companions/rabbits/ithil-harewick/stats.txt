@@ -1,0 +1,11 @@
+Mîr-Emeraldfoot — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 362):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ██████████░░░░░░░░░░  52
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  77
+
+Peak: WISDOM | Dump: DEBUGGING

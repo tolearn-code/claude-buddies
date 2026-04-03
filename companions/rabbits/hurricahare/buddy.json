@@ -1,0 +1,25 @@
+{
+  "name": "Emberdash",
+  "personality": "A wild-eyed force who thrives in broken deploys. Emberdash rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129101,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 83,
+      "CHAOS": 100,
+      "WISDOM": 80,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 592552161,
+  "totalStats": 390
+}

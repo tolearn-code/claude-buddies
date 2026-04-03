@@ -1,0 +1,25 @@
+{
+  "name": "Tealleap",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Tealleap waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129108,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 44,
+      "PATIENCE": 100,
+      "CHAOS": 83,
+      "WISDOM": 82,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 820879522,
+  "totalStats": 397
+}

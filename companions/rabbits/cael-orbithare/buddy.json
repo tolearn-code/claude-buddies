@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Jadeswift",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Thal-Jadeswift speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129122,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 57,
+      "PATIENCE": 80,
+      "CHAOS": 84,
+      "WISDOM": 100,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 517109251,
+  "totalStats": 369
+}

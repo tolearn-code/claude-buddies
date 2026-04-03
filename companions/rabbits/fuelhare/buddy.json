@@ -1,0 +1,25 @@
+{
+  "name": "Silverdash",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Silverdash waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129111,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 100,
+      "CHAOS": 87,
+      "WISDOM": 52,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 559446554,
+  "totalStats": 372
+}

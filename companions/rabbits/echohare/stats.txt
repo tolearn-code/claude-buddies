@@ -1,0 +1,11 @@
+Blazedash — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: PATIENCE | Dump: SNARK

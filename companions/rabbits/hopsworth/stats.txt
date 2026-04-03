@@ -1,0 +1,11 @@
+Opalfoot — Legendary (★★★★★) Beanie
+Eyes: ° | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ███████████████░░░░░  75
+
+Peak: CHAOS | Dump: DEBUGGING

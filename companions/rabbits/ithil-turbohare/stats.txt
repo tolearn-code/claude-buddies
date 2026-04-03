@@ -1,0 +1,11 @@
+Lúth-Pearldash — Legendary (★★★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 410):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: CHAOS | Dump: SNARK

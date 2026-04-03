@@ -1,0 +1,25 @@
+{
+  "name": "Copperdash",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Copperdash never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129096,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "·",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 81,
+      "WISDOM": 53,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 328027298,
+  "totalStats": 392
+}

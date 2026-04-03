@@ -1,0 +1,11 @@
+Lúth-Crystalfoot — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 367):
+  DEBUGGING  ████████░░░░░░░░░░░░  40 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      █████████████░░░░░░░  65
+
+Peak: PATIENCE | Dump: DEBUGGING

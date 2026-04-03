@@ -1,0 +1,11 @@
+Silverdash — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ██████████░░░░░░░░░░  51
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: WISDOM

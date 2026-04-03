@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Malachdash",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Cael-Malachdash speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129130,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 77,
+      "CHAOS": 77,
+      "WISDOM": 100,
+      "SNARK": 47
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 236061018,
+  "totalStats": 385
+}

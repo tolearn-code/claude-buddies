@@ -1,0 +1,11 @@
+Vermilleap — Legendary (★★★★★) Crown
+Eyes: @ | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  67
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     █████████████████░░░  88
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: CHAOS

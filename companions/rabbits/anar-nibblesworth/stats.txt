@@ -1,0 +1,11 @@
+Ithil-Stormleap — Legendary (★★★★★) Halo ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: WISDOM

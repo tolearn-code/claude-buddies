@@ -1,0 +1,11 @@
+Quicksilver — Legendary (★★★★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 401):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████████████░░░  88
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

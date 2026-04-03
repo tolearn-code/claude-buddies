@@ -1,0 +1,11 @@
+Thal-Quicksilver — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ███████████████░░░░░  76
+
+Peak: PATIENCE | Dump: WISDOM

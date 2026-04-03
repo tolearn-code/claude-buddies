@@ -1,0 +1,11 @@
+Mîr-Blazedash — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  █████████████░░░░░░░  69
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: CHAOS

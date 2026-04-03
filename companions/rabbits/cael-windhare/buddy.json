@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Copperdash",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Gîl-Copperdash speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129125,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 41,
+      "CHAOS": 80,
+      "WISDOM": 100,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 184143299,
+  "totalStats": 379
+}

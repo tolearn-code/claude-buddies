@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Rustdash",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Thal-Rustdash never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129126,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 70,
+      "CHAOS": 41,
+      "WISDOM": 89,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 331592989,
+  "totalStats": 384
+}

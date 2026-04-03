@@ -1,0 +1,25 @@
+{
+  "name": "Windrunner",
+  "personality": "A wild-eyed force who thrives in broken deploys. Windrunner rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129099,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 77,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 46
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 652169861,
+  "totalStats": 380
+}

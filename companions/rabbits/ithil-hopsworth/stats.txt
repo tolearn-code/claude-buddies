@@ -1,0 +1,11 @@
+Ithil-Berylswift — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 402):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: DEBUGGING

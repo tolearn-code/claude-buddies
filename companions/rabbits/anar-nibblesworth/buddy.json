@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Stormleap",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Ithil-Stormleap never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129114,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 85,
+      "CHAOS": 77,
+      "WISDOM": 51,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 823904835,
+  "totalStats": 400
+}

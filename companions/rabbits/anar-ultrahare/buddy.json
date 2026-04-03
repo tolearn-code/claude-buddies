@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Flashstrike",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Lúth-Flashstrike speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129124,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 58,
+      "CHAOS": 85,
+      "WISDOM": 100,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 574927394,
+  "totalStats": 381
+}

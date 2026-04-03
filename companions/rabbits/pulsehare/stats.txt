@@ -1,0 +1,11 @@
+Pearldash — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     █████████████████░░░  85
+  SNARK      ██████████████░░░░░░  71
+
+Peak: PATIENCE | Dump: CHAOS

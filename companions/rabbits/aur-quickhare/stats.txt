@@ -1,0 +1,11 @@
+Aur-Zephyrfoot — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

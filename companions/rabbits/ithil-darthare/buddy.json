@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Onyxdash",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Onyxdash rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129117,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 87,
+      "CHAOS": 100,
+      "WISDOM": 48,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 511373735,
+  "totalStats": 396
+}

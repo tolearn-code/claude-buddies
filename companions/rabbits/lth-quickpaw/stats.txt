@@ -1,0 +1,11 @@
+Gîl-Amberfoot — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████████░░░░░░  72
+
+Peak: CHAOS | Dump: PATIENCE

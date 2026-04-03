@@ -1,0 +1,25 @@
+{
+  "name": "Citrindash",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Citrindash speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129105,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 87,
+      "CHAOS": 73,
+      "WISDOM": 100,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 645937304,
+  "totalStats": 389
+}

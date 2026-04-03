@@ -1,0 +1,11 @@
+Crystalfoot — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ████████████░░░░░░░░  61
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  87
+
+Peak: WISDOM | Dump: PATIENCE

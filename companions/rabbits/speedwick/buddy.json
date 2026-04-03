@@ -1,0 +1,25 @@
+{
+  "name": "Violetdash",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Violetdash waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129112,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 100,
+      "CHAOS": 75,
+      "WISDOM": 87,
+      "SNARK": 41
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 710248015,
+  "totalStats": 374
+}

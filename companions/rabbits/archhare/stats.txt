@@ -1,0 +1,11 @@
+Swifthare — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ███████████░░░░░░░░░  59
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████░░░░  82
+
+Peak: CHAOS | Dump: PATIENCE

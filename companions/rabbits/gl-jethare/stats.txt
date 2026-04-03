@@ -1,0 +1,11 @@
+Lúth-Sapphiredash — Legendary (★★★★★) Crown ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 401):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████░░░░░░░░░░░░  43 (dump)
+
+Peak: PATIENCE | Dump: SNARK

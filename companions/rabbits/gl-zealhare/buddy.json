@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Topazswift",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Topazswift rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129127,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 54,
+      "CHAOS": 100,
+      "WISDOM": 79,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 183905143,
+  "totalStats": 382
+}

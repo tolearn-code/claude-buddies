@@ -1,0 +1,11 @@
+Gîl-Lightbound — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

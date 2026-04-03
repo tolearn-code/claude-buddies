@@ -1,0 +1,11 @@
+Thal-Quartzleap — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  42 (dump)
+  WISDOM     ███████████████░░░░░  76
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: CHAOS

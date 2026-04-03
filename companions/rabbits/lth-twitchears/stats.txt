@@ -1,0 +1,11 @@
+Mîr-Indigoleap — Legendary (★★★★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ███████████████░░░░░  76
+
+Peak: DEBUGGING | Dump: PATIENCE

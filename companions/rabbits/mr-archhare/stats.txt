@@ -1,0 +1,11 @@
+Anar-Crimsonfoot — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

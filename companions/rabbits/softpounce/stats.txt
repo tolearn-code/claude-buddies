@@ -1,0 +1,11 @@
+Indigoleap — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  87
+
+Peak: WISDOM | Dump: PATIENCE

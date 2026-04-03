@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Scarletfoot",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Scarletfoot rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129122,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 45,
+      "CHAOS": 100,
+      "WISDOM": 79,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 899489571,
+  "totalStats": 385
+}

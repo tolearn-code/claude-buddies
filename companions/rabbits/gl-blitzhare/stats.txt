@@ -1,0 +1,11 @@
+Mîr-Opalfoot — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: WISDOM | Dump: SNARK

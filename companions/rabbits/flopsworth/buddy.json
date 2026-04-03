@@ -1,0 +1,25 @@
+{
+  "name": "Crystalfoot",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Crystalfoot speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129096,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 61,
+      "PATIENCE": 54,
+      "CHAOS": 81,
+      "WISDOM": 100,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 719140572,
+  "totalStats": 383
+}

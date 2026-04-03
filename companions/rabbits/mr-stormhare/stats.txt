@@ -1,0 +1,11 @@
+Gîl-Ivorydash — Legendary (★★★★★) Tophat ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████████████░░░░  81
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

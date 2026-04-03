@@ -1,0 +1,11 @@
+Aur-Citrindash — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ███████████░░░░░░░░░  58
+  CHAOS      █████████████████░░░  87
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

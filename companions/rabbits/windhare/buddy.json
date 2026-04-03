@@ -1,0 +1,25 @@
+{
+  "name": "Vermilleap",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Vermilleap never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129107,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 67,
+      "CHAOS": 48,
+      "WISDOM": 88,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 179089913,
+  "totalStats": 381
+}

@@ -1,0 +1,11 @@
+Veloxfoot — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: PATIENCE | Dump: WISDOM

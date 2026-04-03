@@ -1,0 +1,25 @@
+{
+  "name": "Coralleap",
+  "personality": "A wild-eyed force who thrives in broken deploys. Coralleap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129104,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 40,
+      "CHAOS": 100,
+      "WISDOM": 56,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 81730929,
+  "totalStats": 368
+}

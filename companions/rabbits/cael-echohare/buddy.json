@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Crystalfoot",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Crystalfoot waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129129,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 40,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 74,
+      "SNARK": 65
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 85145275,
+  "totalStats": 367
+}

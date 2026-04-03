@@ -1,0 +1,11 @@
+Anar-Amethystleap — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      █████████████████░░░  86
+
+Peak: CHAOS | Dump: DEBUGGING

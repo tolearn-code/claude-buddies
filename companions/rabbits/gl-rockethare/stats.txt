@@ -1,0 +1,11 @@
+Cael-Rubyfoot — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   █████████████░░░░░░░  65
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: WISDOM | Dump: SNARK

@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Blazedash",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Mîr-Blazedash speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129126,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "@",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 69,
+      "PATIENCE": 89,
+      "CHAOS": 51,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 701878178,
+  "totalStats": 398
+}

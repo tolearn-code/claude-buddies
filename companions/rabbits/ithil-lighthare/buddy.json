@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Coralleap",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Anar-Coralleap waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129121,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 100,
+      "CHAOS": 89,
+      "WISDOM": 79,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 511878994,
+  "totalStats": 391
+}

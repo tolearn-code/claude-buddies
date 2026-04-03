@@ -1,0 +1,11 @@
+Onyxdash — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ████████░░░░░░░░░░░░  40 (dump)
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

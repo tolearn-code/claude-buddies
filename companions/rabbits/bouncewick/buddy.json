@@ -1,0 +1,25 @@
+{
+  "name": "Stormleap",
+  "personality": "A wild-eyed force who thrives in broken deploys. Stormleap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129095,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 53,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 9995257,
+  "totalStats": 411
+}

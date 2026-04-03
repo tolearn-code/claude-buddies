@@ -1,0 +1,11 @@
+Violetdash — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████░░░░░░░░░░░░  41 (dump)
+
+Peak: PATIENCE | Dump: SNARK

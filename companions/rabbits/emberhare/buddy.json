@@ -1,0 +1,25 @@
+{
+  "name": "Boltleap",
+  "personality": "A wild-eyed force who thrives in broken deploys. Boltleap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129100,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 45,
+      "CHAOS": 100,
+      "WISDOM": 87,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 697546320,
+  "totalStats": 385
+}

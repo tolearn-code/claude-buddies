@@ -1,0 +1,25 @@
+{
+  "name": "Flashstrike",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Flashstrike never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129110,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 78,
+      "CHAOS": 68,
+      "WISDOM": 52,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 429538390,
+  "totalStats": 387
+}

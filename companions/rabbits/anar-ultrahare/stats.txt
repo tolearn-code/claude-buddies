@@ -1,0 +1,11 @@
+Lúth-Flashstrike — Legendary (★★★★★) Halo ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ███████████░░░░░░░░░  58
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  87
+
+Peak: WISDOM | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Crimsonfoot — Legendary (★★★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ████████████░░░░░░░░  62
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████░░░░  82
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

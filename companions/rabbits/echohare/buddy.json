@@ -1,0 +1,25 @@
+{
+  "name": "Blazedash",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Blazedash waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129110,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 100,
+      "CHAOS": 83,
+      "WISDOM": 84,
+      "SNARK": 44
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 737833095,
+  "totalStats": 390
+}

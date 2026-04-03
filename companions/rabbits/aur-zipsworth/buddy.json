@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Boltleap",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Ithil-Boltleap never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129116,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 67,
+      "CHAOS": 88,
+      "WISDOM": 50,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 480539601,
+  "totalStats": 379
+}

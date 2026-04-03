@@ -1,0 +1,25 @@
+{
+  "name": "Indigoleap",
+  "personality": "A sage whose · eyes glow with ten thousand resolved tickets. Indigoleap speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211274389,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "·",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 51,
+      "CHAOS": 85,
+      "WISDOM": 100,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 291607450,
+  "totalStats": 399
+}

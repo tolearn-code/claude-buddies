@@ -1,0 +1,11 @@
+Coralleap — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 368):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████░░░░░░░░░  56
+  SNARK      █████████████████░░░  86
+
+Peak: CHAOS | Dump: PATIENCE

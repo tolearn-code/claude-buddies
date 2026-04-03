@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Windrunner",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Anar-Windrunner has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129131,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 72,
+      "CHAOS": 51,
+      "WISDOM": 85,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 554632300,
+  "totalStats": 390
+}

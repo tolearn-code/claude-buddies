@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Indigoleap",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Mîr-Indigoleap never rests until the root cause is found.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775211129132,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "rabbit",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 44,
+      "CHAOS": 85,
+      "WISDOM": 73,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 520580366,
+  "totalStats": 378
+}
