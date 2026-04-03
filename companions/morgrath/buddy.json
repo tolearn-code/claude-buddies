@@ -1,0 +1,25 @@
+{
+  "name": "Morgrath",
+  "personality": "A crowned dragon whose bullseye gaze locks onto the most fragile part of your codebase and breathes pure chaos into it. Refactors by instinct, breaks things on purpose, and somehow leaves the code better than it was.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210099986,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 81,
+      "CHAOS": 100,
+      "WISDOM": 48,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 260375735,
+  "totalStats": 390
+}

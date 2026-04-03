@@ -1,0 +1,25 @@
+{
+  "name": "Ithrandûr",
+  "personality": "A battle-scarred wizard dragon whose ×-marked eyes have stared down segfaults in the deepest kernel code. Speaks only when it has found your bug, and never needs more than one sentence to explain where you went wrong.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210099987,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 89,
+      "CHAOS": 81,
+      "WISDOM": 43,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 62238916,
+  "totalStats": 391
+}

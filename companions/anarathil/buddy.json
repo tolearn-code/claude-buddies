@@ -1,0 +1,25 @@
+{
+  "name": "Anarathil",
+  "personality": "A star-eyed scholar dragon who wears its top hat to code reviews like formal occasions. Reads your pull requests the way others read ancient scrolls — with reverence, patience, and the occasional disappointed sigh at your naming conventions.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210099985,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 84,
+      "CHAOS": 75,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 764556605,
+  "totalStats": 399
+}

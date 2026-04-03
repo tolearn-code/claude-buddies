@@ -1,0 +1,11 @@
+Thráindar — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 403):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

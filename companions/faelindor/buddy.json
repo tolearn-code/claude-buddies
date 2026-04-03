@@ -1,0 +1,25 @@
+{
+  "name": "Faelindor",
+  "personality": "A dreamy-eyed dragon who balances a tiny rubber duck on its head as a debugging totem. Do not be fooled by its whimsy — its wisdom stat is maxed and it will dismantle your flawed logic with gentle, devastating clarity.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210099987,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 89,
+      "CHAOS": 79,
+      "WISDOM": 100,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 49328972,
+  "totalStats": 403
+}
