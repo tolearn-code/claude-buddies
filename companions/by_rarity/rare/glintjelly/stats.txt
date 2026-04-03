@@ -1,0 +1,11 @@
+Glintjelly — Rare (★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 319):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     █████░░░░░░░░░░░░░░░  28 (dump)
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: DEBUGGING | Dump: WISDOM

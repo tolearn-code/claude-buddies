@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Cindrath",
+  "personality": "A sun-touched dragon whose scales reflect your git blame back at you. Breathes warm encouragement on good days, literal fire on bad ones.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775217222438,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "dragon",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 60,
+      "CHAOS": 60,
+      "WISDOM": 100,
+      "SNARK": 27
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 485158505,
+  "totalStats": 311
+}

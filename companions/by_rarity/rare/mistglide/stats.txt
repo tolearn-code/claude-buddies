@@ -1,0 +1,11 @@
+Mistglide — Rare (★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 318):
+  DEBUGGING  █████░░░░░░░░░░░░░░░  28 (dump)
+  PATIENCE   ████████████░░░░░░░░  62
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: WISDOM | Dump: DEBUGGING

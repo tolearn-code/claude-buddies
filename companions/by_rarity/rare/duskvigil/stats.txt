@@ -1,0 +1,11 @@
+Duskvigil — Rare (★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 321):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████░░░░░░░░░░░░░░░  29 (dump)
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: CHAOS | Dump: WISDOM

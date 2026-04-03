@@ -1,0 +1,11 @@
+Boulderwatch — Rare (★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 320):
+  DEBUGGING  ████████████░░░░░░░░  63
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      █████░░░░░░░░░░░░░░░  29 (dump)
+
+Peak: CHAOS | Dump: SNARK

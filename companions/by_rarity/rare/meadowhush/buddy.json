@@ -1,0 +1,25 @@
+{
+  "name": "Meadowhush",
+  "personality": "A rare capybara who sits beside your terminal during incidents and does absolutely nothing — but somehow, everything feels less urgent with it there.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775217222446,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "capybara",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 29,
+      "PATIENCE": 64,
+      "CHAOS": 100,
+      "WISDOM": 61,
+      "SNARK": 63
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 954546438,
+  "totalStats": 317
+}

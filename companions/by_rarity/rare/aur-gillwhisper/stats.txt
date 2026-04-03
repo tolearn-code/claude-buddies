@@ -1,0 +1,11 @@
+Aur-Gillwhisper — Rare (★★★) Tinyduck ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 312):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      █████░░░░░░░░░░░░░░░  26 (dump)
+  WISDOM     ███████████░░░░░░░░░  59
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: DEBUGGING | Dump: CHAOS

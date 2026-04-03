@@ -1,0 +1,25 @@
+{
+  "name": "Glintjelly",
+  "personality": "A rare blob that changes color based on your code quality. Bright blue for clean code, murky grey for tech debt. Currently somewhere in between.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775217222436,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "blob",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 64,
+      "CHAOS": 64,
+      "WISDOM": 28,
+      "SNARK": 63
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 720252756,
+  "totalStats": 319
+}

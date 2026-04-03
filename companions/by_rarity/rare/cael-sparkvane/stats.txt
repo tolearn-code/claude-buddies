@@ -1,0 +1,11 @@
+Cael-Sparkvane — Rare (★★★) Beanie ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 306):
+  DEBUGGING  █████░░░░░░░░░░░░░░░  28 (dump)
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ████████████░░░░░░░░  63
+  WISDOM     █████████████████░░░  88 (peak)
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: WISDOM | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Ithil-Dewcrest — Rare (★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 309):
+  DEBUGGING  ████████████░░░░░░░░  60
+  PATIENCE   ███████████░░░░░░░░░  59
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     █████░░░░░░░░░░░░░░░  26 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

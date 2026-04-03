@@ -1,0 +1,11 @@
+Anar-Cindrath — Rare (★★★) Beanie ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 311):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   ████████████░░░░░░░░  60
+  CHAOS      ████████████░░░░░░░░  60
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████░░░░░░░░░░░░░░░  27 (dump)
+
+Peak: WISDOM | Dump: SNARK

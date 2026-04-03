@@ -1,0 +1,11 @@
+Pondmirth — Rare (★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 319):
+  DEBUGGING  ████████████░░░░░░░░  63
+  PATIENCE   █████░░░░░░░░░░░░░░░  29 (dump)
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: WISDOM | Dump: PATIENCE

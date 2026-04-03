@@ -1,0 +1,11 @@
+Ridgeheart — Rare (★★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 319):
+  DEBUGGING  █████░░░░░░░░░░░░░░░  28 (dump)
+  PATIENCE   ████████████░░░░░░░░  63
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: WISDOM | Dump: DEBUGGING

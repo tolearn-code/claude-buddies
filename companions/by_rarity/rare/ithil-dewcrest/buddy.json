@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Dewcrest",
+  "personality": "A moonlit axolotl whose gills flutter with excitement at every green build. Believes no codebase is beyond saving, and has been right so far.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775217222445,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "axolotl",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 60,
+      "PATIENCE": 59,
+      "CHAOS": 64,
+      "WISDOM": 26,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 387068409,
+  "totalStats": 309
+}

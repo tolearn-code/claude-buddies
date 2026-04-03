@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Meadowhush",
+  "personality": "A sun-warmed capybara whose mere presence reduces your cortisol levels by half. Has never once panicked, even when the database was on fire.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775217222446,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 62,
+      "CHAOS": 28,
+      "WISDOM": 64,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 543604299,
+  "totalStats": 307
+}

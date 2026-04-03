@@ -1,0 +1,25 @@
+{
+  "name": "Breezeleap",
+  "personality": "A rare rabbit who reads your entire PR diff in the time it takes you to write the description. Already has three suggestions before you hit submit.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775217222448,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "rabbit",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 28,
+      "PATIENCE": 100,
+      "CHAOS": 64,
+      "WISDOM": 64,
+      "SNARK": 64
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 738742733,
+  "totalStats": 320
+}

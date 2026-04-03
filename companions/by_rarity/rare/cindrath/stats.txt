@@ -1,0 +1,11 @@
+Cindrath — Rare (★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 317):
+  DEBUGGING  ████████████░░░░░░░░  63
+  PATIENCE   █████░░░░░░░░░░░░░░░  29 (dump)
+  CHAOS      ████████████░░░░░░░░  61
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: WISDOM | Dump: PATIENCE

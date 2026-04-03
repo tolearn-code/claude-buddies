@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Gillwhisper",
+  "personality": "A golden mushroom whose cap glows in the dark of your worst legacy modules. Decomposes tangled code into clean nutrients for new growth.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775217222450,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "mushroom",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 64,
+      "CHAOS": 26,
+      "WISDOM": 59,
+      "SNARK": 63
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 629733667,
+  "totalStats": 312
+}

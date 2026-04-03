@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Sparkvane",
+  "personality": "An earthen robot whose chassis has a patina of a thousand debugging sessions. Speaks in exact line numbers and never, ever rounds up its estimates.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775217222448,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "robot",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 28,
+      "PATIENCE": 64,
+      "CHAOS": 63,
+      "WISDOM": 88,
+      "SNARK": 63
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 480864190,
+  "totalStats": 306
+}

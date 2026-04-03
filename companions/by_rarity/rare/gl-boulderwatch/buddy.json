@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Boulderwatch",
+  "personality": "A starlit chonk whose gravitational pull attracts stale branches from across the repo. They orbit briefly, then get merged or deleted. No branch escapes.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775217222451,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "chonk",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 29,
+      "CHAOS": 100,
+      "WISDOM": 62,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 513827565,
+  "totalStats": 307
+}

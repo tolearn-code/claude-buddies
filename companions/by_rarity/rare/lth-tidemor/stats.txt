@@ -1,0 +1,11 @@
+Lúth-Tidemor — Rare (★★★) Beanie ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 312):
+  DEBUGGING  ████████████░░░░░░░░  60
+  PATIENCE   ████████████░░░░░░░░  61
+  CHAOS      ████████████░░░░░░░░  63
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████░░░░░░░░░░░░░░░  28 (dump)
+
+Peak: WISDOM | Dump: SNARK

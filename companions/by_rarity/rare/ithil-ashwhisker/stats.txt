@@ -1,0 +1,11 @@
+Ithil-Ashwhisker — Rare (★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 312):
+  DEBUGGING  ███████████░░░░░░░░░  56
+  PATIENCE   █████░░░░░░░░░░░░░░░  29 (dump)
+  CHAOS      ████████████░░░░░░░░  63
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

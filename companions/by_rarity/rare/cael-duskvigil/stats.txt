@@ -1,0 +1,11 @@
+Cael-Duskvigil — Rare (★★★) Beanie ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 314):
+  DEBUGGING  ████████████░░░░░░░░  63
+  PATIENCE   ████████████░░░░░░░░  63
+  CHAOS      █████░░░░░░░░░░░░░░░  29 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████░░░░░░░░░  59
+
+Peak: WISDOM | Dump: CHAOS

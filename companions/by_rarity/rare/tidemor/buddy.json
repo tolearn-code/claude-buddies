@@ -1,0 +1,25 @@
+{
+  "name": "Tidemor",
+  "personality": "A rare octopus who runs your tests on eight tentacles simultaneously while inking disapproving notes about your variable names with a ninth.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775217222439,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "octopus",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 64,
+      "CHAOS": 64,
+      "WISDOM": 27,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 664046377,
+  "totalStats": 319
+}

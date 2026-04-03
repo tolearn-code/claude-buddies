@@ -1,0 +1,25 @@
+{
+  "name": "Boulderwatch",
+  "personality": "A rare chonk of considerable mass who sits on your most over-engineered abstraction until it compresses into something simpler. Gravity-driven refactoring.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775217222450,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "chonk",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 63,
+      "PATIENCE": 64,
+      "CHAOS": 100,
+      "WISDOM": 64,
+      "SNARK": 29
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 629121323,
+  "totalStats": 320
+}

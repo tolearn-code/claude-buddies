@@ -1,0 +1,25 @@
+{
+  "name": "Glaciford",
+  "personality": "A rare penguin who treats every code review like a formal dinner — proper etiquette, measured feedback, and a silent judgment when you use var.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775217222441,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "penguin",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 61,
+      "PATIENCE": 99,
+      "CHAOS": 64,
+      "WISDOM": 64,
+      "SNARK": 29
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 356174831,
+  "totalStats": 317
+}

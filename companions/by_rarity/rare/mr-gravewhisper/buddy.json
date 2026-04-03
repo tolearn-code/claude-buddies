@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Gravewhisper",
+  "personality": "A jeweled phantom who phases through your code and emerges holding the one dead import that was silently breaking tree-shaking.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775217222444,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "ghost",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 63,
+      "CHAOS": 24,
+      "WISDOM": 61,
+      "SNARK": 98
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 930620749,
+  "totalStats": 310
+}

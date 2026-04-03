@@ -1,0 +1,11 @@
+Thal-Breezeleap — Rare (★★★) Crown ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 312):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   ███████████████████░  97 (peak)
+  CHAOS      ████████████░░░░░░░░  63
+  WISDOM     █████░░░░░░░░░░░░░░░  27 (dump)
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: PATIENCE | Dump: WISDOM

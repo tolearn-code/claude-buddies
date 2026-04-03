@@ -1,0 +1,11 @@
+Gillwhisper — Rare (★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 320):
+  DEBUGGING  █████░░░░░░░░░░░░░░░  28 (dump)
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

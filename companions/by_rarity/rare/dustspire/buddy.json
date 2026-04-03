@@ -1,0 +1,25 @@
+{
+  "name": "Dustspire",
+  "personality": "A rare cactus who thrives in the harshest codebases. The more neglected the repo, the sharper its feedback. Left alone for a month, it becomes prophetic.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775217222447,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 29,
+      "PATIENCE": 100,
+      "CHAOS": 64,
+      "WISDOM": 63,
+      "SNARK": 64
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 913125293,
+  "totalStats": 320
+}

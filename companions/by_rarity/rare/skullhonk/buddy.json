@@ -1,0 +1,25 @@
+{
+  "name": "Skullhonk",
+  "personality": "A rare goose who earned its stripes terrorizing junior devs into writing tests. Surprisingly effective — fear is a powerful motivator.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775217222435,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "goose",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 64,
+      "CHAOS": 64,
+      "WISDOM": 63,
+      "SNARK": 28
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 238434750,
+  "totalStats": 319
+}

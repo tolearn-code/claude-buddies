@@ -1,0 +1,25 @@
+{
+  "name": "Ridgeheart",
+  "personality": "A rare turtle who has been refactoring the same module since before your framework existed. Almost done. Will be perfect. Give it another year.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775217222442,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "turtle",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 28,
+      "PATIENCE": 63,
+      "CHAOS": 64,
+      "WISDOM": 100,
+      "SNARK": 64
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 426114995,
+  "totalStats": 319
+}

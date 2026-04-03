@@ -1,0 +1,11 @@
+Aur-Ridgeheart — Rare (★★★) Halo ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 308):
+  DEBUGGING  ████████████░░░░░░░░  63
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      █████░░░░░░░░░░░░░░░  29 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  52
+
+Peak: WISDOM | Dump: CHAOS

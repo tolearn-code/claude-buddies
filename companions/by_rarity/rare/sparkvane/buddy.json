@@ -1,0 +1,25 @@
+{
+  "name": "Sparkvane",
+  "personality": "A rare robot whose antenna picks up failing CI runs from adjacent repos. Delivers diagnostic reports in a flat monotone that somehow conveys deep disappointment.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775217222447,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "robot",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 100,
+      "CHAOS": 64,
+      "WISDOM": 64,
+      "SNARK": 27
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 271041006,
+  "totalStats": 319
+}

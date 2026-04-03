@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Ridgeheart",
+  "personality": "A golden-shelled turtle whose patience is literally legendary. Has waited three sprints for a code review without complaint, and the code was better for it.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775217222442,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "turtle",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 63,
+      "PATIENCE": 64,
+      "CHAOS": 29,
+      "WISDOM": 100,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 428493554,
+  "totalStats": 308
+}

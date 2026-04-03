@@ -1,0 +1,25 @@
+{
+  "name": "Duskvigil",
+  "personality": "A rare owl who stays awake through your late-night deploys not out of duty, but because it genuinely wants to see what breaks this time.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775217222440,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "owl",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 64,
+      "CHAOS": 100,
+      "WISDOM": 29,
+      "SNARK": 64
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 364347821,
+  "totalStats": 321
+}

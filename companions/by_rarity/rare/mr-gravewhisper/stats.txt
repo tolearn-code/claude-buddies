@@ -1,0 +1,11 @@
+Mîr-Gravewhisper — Rare (★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 310):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   ████████████░░░░░░░░  63
+  CHAOS      ████░░░░░░░░░░░░░░░░  24 (dump)
+  WISDOM     ████████████░░░░░░░░  61
+  SNARK      ███████████████████░  98 (peak)
+
+Peak: SNARK | Dump: CHAOS

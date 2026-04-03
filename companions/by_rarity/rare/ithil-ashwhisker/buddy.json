@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Ashwhisker",
+  "personality": "A moonlit cat whose whiskers twitch at undefined variables from three files away. Knocks your coffee off the desk as a warning.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775217222437,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "cat",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 56,
+      "PATIENCE": 29,
+      "CHAOS": 63,
+      "WISDOM": 64,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 597133194,
+  "totalStats": 312
+}

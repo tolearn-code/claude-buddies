@@ -1,0 +1,11 @@
+Breezeleap — Rare (★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 320):
+  DEBUGGING  █████░░░░░░░░░░░░░░░  28 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: PATIENCE | Dump: DEBUGGING

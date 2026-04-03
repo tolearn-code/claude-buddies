@@ -1,0 +1,11 @@
+Sparkvane — Rare (★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 319):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      █████░░░░░░░░░░░░░░░  27 (dump)
+
+Peak: PATIENCE | Dump: SNARK

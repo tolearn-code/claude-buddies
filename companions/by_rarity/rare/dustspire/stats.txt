@@ -1,0 +1,11 @@
+Dustspire — Rare (★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 320):
+  DEBUGGING  █████░░░░░░░░░░░░░░░  29 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████░░░░░░░░  63
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: PATIENCE | Dump: DEBUGGING

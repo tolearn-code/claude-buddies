@@ -1,0 +1,11 @@
+Lúth-Dustspire — Rare (★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 312):
+  DEBUGGING  ████████████░░░░░░░░  63
+  PATIENCE   ████░░░░░░░░░░░░░░░░  24 (dump)
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████░░░░░░░░  62
+  SNARK      ███████████████████░  99 (peak)
+
+Peak: SNARK | Dump: PATIENCE

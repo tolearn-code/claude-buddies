@@ -1,0 +1,25 @@
+{
+  "name": "Cindrath",
+  "personality": "A rare dragon still young enough to be impressed by clever one-liners, but old enough to know they'll be unreadable in a month.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775217222438,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "dragon",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 63,
+      "PATIENCE": 29,
+      "CHAOS": 61,
+      "WISDOM": 100,
+      "SNARK": 64
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 964972916,
+  "totalStats": 317
+}

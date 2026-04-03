@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Pondmirth",
+  "personality": "A gleaming duck whose feathers catch the light of every passing CI pipeline. Quacks in approval only for code that passes on the first try.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775217222434,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "duck",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 27,
+      "PATIENCE": 62,
+      "CHAOS": 60,
+      "WISDOM": 100,
+      "SNARK": 61
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 734315868,
+  "totalStats": 310
+}

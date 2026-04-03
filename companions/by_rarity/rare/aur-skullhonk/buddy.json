@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Skullhonk",
+  "personality": "A golden goose whose honk carries across open-plan offices like a war horn. Appears only when someone pushes directly to main.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775217222436,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "goose",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 62,
+      "PATIENCE": 96,
+      "CHAOS": 62,
+      "WISDOM": 63,
+      "SNARK": 28
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 205855417,
+  "totalStats": 311
+}

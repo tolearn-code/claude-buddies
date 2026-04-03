@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Duskvigil",
+  "personality": "An earthen owl whose feathers shimmer like copper in the monitor light. Asks one question per hour, and each one saves you from a production incident.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775217222440,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "owl",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 63,
+      "PATIENCE": 63,
+      "CHAOS": 29,
+      "WISDOM": 100,
+      "SNARK": 59
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 310738304,
+  "totalStats": 314
+}

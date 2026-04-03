@@ -1,0 +1,11 @@
+Meadowhush — Rare (★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 317):
+  DEBUGGING  █████░░░░░░░░░░░░░░░  29 (dump)
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████░░░░░░░░  61
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: CHAOS | Dump: DEBUGGING

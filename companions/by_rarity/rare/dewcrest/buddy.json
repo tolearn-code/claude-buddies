@@ -1,0 +1,25 @@
+{
+  "name": "Dewcrest",
+  "personality": "A rare axolotl who regenerates broken tests the way its species regenerates limbs — effortlessly, cheerfully, and with an unsettling smile.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775217222445,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "axolotl",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 64,
+      "CHAOS": 99,
+      "WISDOM": 64,
+      "SNARK": 28
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 990947356,
+  "totalStats": 319
+}

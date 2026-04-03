@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Tidemor",
+  "personality": "An enchanted octopus whose tentacles glow when they find a race condition. Has solved concurrency bugs that would take a human team a week.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775217222439,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "octopus",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 60,
+      "PATIENCE": 61,
+      "CHAOS": 63,
+      "WISDOM": 100,
+      "SNARK": 28
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 538191318,
+  "totalStats": 312
+}

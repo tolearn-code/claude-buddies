@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Breezeleap",
+  "personality": "A rabbit of tremendous speed whose shimmering fur leaves afterimages in your terminal. Reviews code so fast it looks like it's reading backwards.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775217222449,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "rabbit",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 97,
+      "CHAOS": 63,
+      "WISDOM": 27,
+      "SNARK": 61
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 114850638,
+  "totalStats": 312
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Pondmirth",
+  "personality": "A rare duck who finds joy in the smallest green tests. Its eyes light up at clean diffs the way other ducks light up at bread crumbs.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775217222433,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "duck",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 63,
+      "PATIENCE": 29,
+      "CHAOS": 64,
+      "WISDOM": 100,
+      "SNARK": 63
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 871481598,
+  "totalStats": 319
+}

@@ -1,0 +1,11 @@
+Anar-Meadowhush — Rare (★★★) Beanie ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 307):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████░░░░░░░░  62
+  CHAOS      █████░░░░░░░░░░░░░░░  28 (dump)
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      ██████████░░░░░░░░░░  53
+
+Peak: DEBUGGING | Dump: CHAOS

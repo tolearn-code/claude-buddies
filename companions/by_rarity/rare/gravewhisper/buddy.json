@@ -1,0 +1,25 @@
+{
+  "name": "Gravewhisper",
+  "personality": "A rare ghost who haunts the functions you deleted last sprint. Returns at 3am to remind you that one of them was still being called somewhere.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775217222444,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "ghost",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 61,
+      "CHAOS": 64,
+      "WISDOM": 29,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 870926120,
+  "totalStats": 318
+}

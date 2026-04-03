@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Dustspire",
+  "personality": "An enchanted cactus whose spines glow like fiber optics. Each needle points at a different code smell. Touch one and you'll never make that mistake again.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775217222447,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "cactus",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 63,
+      "PATIENCE": 24,
+      "CHAOS": 64,
+      "WISDOM": 62,
+      "SNARK": 99
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 533272112,
+  "totalStats": 312
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Glaciford",
+  "personality": "A penguin of imposing presence whose ice-blue sheen makes even senior engineers sit up straighter during reviews. Approves PRs with a dignified nod.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775217222441,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "penguin",
+    "eye": "°",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 60,
+      "PATIENCE": 62,
+      "CHAOS": 100,
+      "WISDOM": 61,
+      "SNARK": 25
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 620726837,
+  "totalStats": 308
+}

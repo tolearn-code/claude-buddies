@@ -1,0 +1,11 @@
+Dewcrest — Rare (★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 319):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ███████████████████░  99 (peak)
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      █████░░░░░░░░░░░░░░░  28 (dump)
+
+Peak: CHAOS | Dump: SNARK

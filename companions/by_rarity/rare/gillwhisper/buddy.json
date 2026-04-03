@@ -1,0 +1,25 @@
+{
+  "name": "Gillwhisper",
+  "personality": "A rare mushroom who grows in the darkest corners of your codebase, feeding on the complexity others avoid. Its spore reports are unsettling but accurate.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775217222449,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "mushroom",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 28,
+      "PATIENCE": 64,
+      "CHAOS": 64,
+      "WISDOM": 64,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 549473735,
+  "totalStats": 320
+}

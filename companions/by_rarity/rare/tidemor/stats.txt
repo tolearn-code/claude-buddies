@@ -1,0 +1,11 @@
+Tidemor — Rare (★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 319):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     █████░░░░░░░░░░░░░░░  27 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

@@ -1,0 +1,11 @@
+Aur-Skullhonk — Rare (★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 311):
+  DEBUGGING  ████████████░░░░░░░░  62
+  PATIENCE   ███████████████████░  96 (peak)
+  CHAOS      ████████████░░░░░░░░  62
+  WISDOM     ████████████░░░░░░░░  63
+  SNARK      █████░░░░░░░░░░░░░░░  28 (dump)
+
+Peak: PATIENCE | Dump: SNARK

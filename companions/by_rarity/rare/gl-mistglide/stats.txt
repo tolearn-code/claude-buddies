@@ -1,0 +1,11 @@
+Gîl-Mistglide — Rare (★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 312):
+  DEBUGGING  ███████████░░░░░░░░░  57
+  PATIENCE   ████████████░░░░░░░░  62
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████░░░░░░░░░░░░░░░  29 (dump)
+
+Peak: WISDOM | Dump: SNARK

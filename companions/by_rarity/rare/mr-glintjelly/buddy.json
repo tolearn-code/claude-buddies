@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Glintjelly",
+  "personality": "A jewel-toned blob that refracts your errors into rainbows of stack traces. Somehow makes debugging feel beautiful.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775217222437,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "rare",
+    "species": "blob",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 29,
+      "PATIENCE": 64,
+      "CHAOS": 100,
+      "WISDOM": 62,
+      "SNARK": 58
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 697565594,
+  "totalStats": 313
+}

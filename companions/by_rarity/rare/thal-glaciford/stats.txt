@@ -1,0 +1,11 @@
+Thal-Glaciford — Rare (★★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 308):
+  DEBUGGING  ████████████░░░░░░░░  60
+  PATIENCE   ████████████░░░░░░░░  62
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████░░░░░░░░  61
+  SNARK      █████░░░░░░░░░░░░░░░  25 (dump)
+
+Peak: CHAOS | Dump: SNARK

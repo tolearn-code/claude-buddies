@@ -1,0 +1,11 @@
+Glaciford — Rare (★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 317):
+  DEBUGGING  ████████████░░░░░░░░  61
+  PATIENCE   ███████████████████░  99 (peak)
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      █████░░░░░░░░░░░░░░░  29 (dump)
+
+Peak: PATIENCE | Dump: SNARK
