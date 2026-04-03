@@ -1,0 +1,11 @@
+Mîr-Cobaltspore — Legendary (★★★★★) Tinyduck ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████░░░░  84
+
+Peak: DEBUGGING | Dump: WISDOM

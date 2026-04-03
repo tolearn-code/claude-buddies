@@ -1,0 +1,11 @@
+Aur-Sporethane — Legendary (★★★★★) Halo ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: CHAOS

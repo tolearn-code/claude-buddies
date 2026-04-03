@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Silverroot",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Cael-Silverroot waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129166,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 100,
+      "CHAOS": 87,
+      "WISDOM": 42,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 753266432,
+  "totalStats": 389
+}

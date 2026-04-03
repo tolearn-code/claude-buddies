@@ -1,0 +1,25 @@
+{
+  "name": "Violetspore",
+  "personality": "A wild-eyed force who thrives in broken deploys. Violetspore rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129138,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 48,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 187312199,
+  "totalStats": 399
+}

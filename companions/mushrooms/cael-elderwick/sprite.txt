@@ -1,0 +1,30 @@
+Anar-Dawnspore — Legendary Mushroom (★★★★★) ✨
+Eyes: ° | Hat: beanie | Shiny: yes
+
+--- Frame 0 (idle) ---
+   (___)    
+ .-o-OO-o-. 
+(__________)
+   |°  °|   
+   |____|   
+
+--- Frame 1 (idle alt) ---
+   (___)    
+ .-O-oo-O-. 
+(__________)
+   |°  °|   
+   |____|   
+
+--- Frame 2 (wink) ---
+   . o  .   
+ .-o-OO-o-. 
+(__________)
+   |°  °|   
+   |____|   
+
+--- Sleeping ---
+   (___)    
+ .-o-OO-o-. 
+(__________)
+   |-  -|   
+   |____|   

@@ -1,0 +1,25 @@
+{
+  "name": "Dawnspore",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Dawnspore never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129142,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 83,
+      "CHAOS": 46,
+      "WISDOM": 80,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 547315789,
+  "totalStats": 391
+}

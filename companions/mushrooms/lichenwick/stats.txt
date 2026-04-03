@@ -1,0 +1,11 @@
+Rubycap — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 369):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ███████████░░░░░░░░░  58
+
+Peak: CHAOS | Dump: WISDOM

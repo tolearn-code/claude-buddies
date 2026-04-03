@@ -1,0 +1,11 @@
+Scarletgill — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ████████░░░░░░░░░░░░  41 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ███████████████░░░░░  79
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: DEBUGGING

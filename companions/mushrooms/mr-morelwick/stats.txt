@@ -1,0 +1,11 @@
+Aur-Sagecap — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ██████████░░░░░░░░░░  54
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████████████░░░  88
+
+Peak: CHAOS | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Topazspore",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Topazspore never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129145,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 78,
+      "CHAOS": 60,
+      "WISDOM": 54,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 71782382,
+  "totalStats": 380
+}

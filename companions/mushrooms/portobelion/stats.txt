@@ -1,0 +1,11 @@
+Citrinspore — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  69
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      ███████████████░░░░░  79
+
+Peak: DEBUGGING | Dump: WISDOM

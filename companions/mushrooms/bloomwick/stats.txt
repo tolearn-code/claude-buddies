@@ -1,0 +1,11 @@
+Capwhisper — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      ██████████████░░░░░░  70
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  83
+
+Peak: WISDOM | Dump: PATIENCE

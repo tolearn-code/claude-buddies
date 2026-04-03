@@ -1,0 +1,11 @@
+Berylroot — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ███████████████░░░░░  75
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: PATIENCE

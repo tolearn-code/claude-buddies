@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Coralcap",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Anar-Coralcap never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129158,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 49,
+      "CHAOS": 71,
+      "WISDOM": 84,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 805700071,
+  "totalStats": 378
+}

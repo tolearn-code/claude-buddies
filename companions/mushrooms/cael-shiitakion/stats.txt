@@ -1,0 +1,11 @@
+Aur-Goldenspore — Legendary (★★★★★) Beanie ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 401):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

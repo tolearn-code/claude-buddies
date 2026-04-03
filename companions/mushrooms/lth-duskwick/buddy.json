@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Obsidiroot",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Cael-Obsidiroot never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129172,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 72,
+      "CHAOS": 51,
+      "WISDOM": 77,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 15013695,
+  "totalStats": 387
+}

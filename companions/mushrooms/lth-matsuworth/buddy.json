@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Citrinspore",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Aur-Citrinspore speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129159,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 80,
+      "CHAOS": 50,
+      "WISDOM": 100,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 908979030,
+  "totalStats": 384
+}

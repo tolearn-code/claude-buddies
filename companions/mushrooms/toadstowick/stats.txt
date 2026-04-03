@@ -1,0 +1,11 @@
+Sagecap — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  █████████████░░░░░░░  65
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: PATIENCE | Dump: SNARK

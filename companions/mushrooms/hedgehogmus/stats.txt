@@ -1,0 +1,11 @@
+Opalcap — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  62
+
+Peak: WISDOM | Dump: DEBUGGING

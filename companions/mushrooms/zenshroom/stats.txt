@@ -1,0 +1,11 @@
+Rustcap — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  44 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████████░░░░░░░  68
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Quartzcap",
+  "personality": "A wild-eyed force who thrives in broken deploys. Quartzcap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129140,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 75,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 963971527,
+  "totalStats": 397
+}

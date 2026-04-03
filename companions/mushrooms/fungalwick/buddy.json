@@ -1,0 +1,25 @@
+{
+  "name": "Goldenspore",
+  "personality": "A wild-eyed force who thrives in broken deploys. Goldenspore rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129135,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 84,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 161508309,
+  "totalStats": 395
+}

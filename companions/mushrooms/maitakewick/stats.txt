@@ -1,0 +1,11 @@
+Topazspore — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ████████████░░░░░░░░  60
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      █████████████████░░░  88
+
+Peak: DEBUGGING | Dump: WISDOM

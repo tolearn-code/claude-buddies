@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Garnetgill",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Garnetgill rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129171,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 833622798,
+  "totalStats": 399
+}

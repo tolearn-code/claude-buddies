@@ -1,0 +1,25 @@
+{
+  "name": "Emeraldspore",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Emeraldspore waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129138,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 51,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 118669669,
+  "totalStats": 401
+}

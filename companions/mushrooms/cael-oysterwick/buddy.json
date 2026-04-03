@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Jadecap",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Thal-Jadecap speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129159,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 74,
+      "CHAOS": 58,
+      "WISDOM": 100,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 273416854,
+  "totalStats": 374
+}

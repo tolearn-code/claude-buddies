@@ -1,0 +1,11 @@
+Mîr-Indigocap — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  86
+
+Peak: WISDOM | Dump: PATIENCE

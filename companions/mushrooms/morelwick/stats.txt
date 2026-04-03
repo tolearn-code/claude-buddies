@@ -1,0 +1,11 @@
+Emeraldspore — Legendary (★★★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 401):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: WISDOM

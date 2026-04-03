@@ -1,0 +1,11 @@
+Indigocap — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  66
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

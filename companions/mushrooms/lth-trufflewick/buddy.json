@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Indigocap",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Mîr-Indigocap speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129156,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 52,
+      "CHAOS": 73,
+      "WISDOM": 100,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 719060733,
+  "totalStats": 382
+}

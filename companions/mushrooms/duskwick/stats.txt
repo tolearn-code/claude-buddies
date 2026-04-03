@@ -1,0 +1,11 @@
+Rustgill — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████░░░░░░░░░░░░  43 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

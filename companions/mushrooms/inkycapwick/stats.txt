@@ -1,0 +1,11 @@
+Embergill — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████░░░░░░░  68
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: WISDOM | Dump: SNARK

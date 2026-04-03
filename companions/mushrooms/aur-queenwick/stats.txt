@@ -1,0 +1,11 @@
+Gîl-Dewcap — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

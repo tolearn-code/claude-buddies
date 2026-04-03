@@ -1,0 +1,11 @@
+Anar-Coralcap — Legendary (★★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ████████████████░░░░  84
+  SNARK      ██████████████░░░░░░  74
+
+Peak: DEBUGGING | Dump: PATIENCE

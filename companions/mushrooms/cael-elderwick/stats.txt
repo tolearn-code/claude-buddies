@@ -1,0 +1,11 @@
+Anar-Dawnspore — Legendary (★★★★★) Beanie ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  ████████░░░░░░░░░░░░  41 (dump)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  72
+
+Peak: WISDOM | Dump: DEBUGGING

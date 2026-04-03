@@ -1,0 +1,11 @@
+Dawnspore — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████░░░░  82
+
+Peak: DEBUGGING | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Pearlspore",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Pearlspore waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129168,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 100,
+      "CHAOS": 75,
+      "WISDOM": 87,
+      "SNARK": 40
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 982296256,
+  "totalStats": 376
+}

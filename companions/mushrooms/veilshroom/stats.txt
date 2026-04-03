@@ -1,0 +1,11 @@
+Vermilroot — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 405):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████░░░░  82
+
+Peak: DEBUGGING | Dump: PATIENCE

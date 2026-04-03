@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Dawnspore",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Anar-Dawnspore speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129173,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 41,
+      "PATIENCE": 88,
+      "CHAOS": 89,
+      "WISDOM": 100,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 59985142,
+  "totalStats": 390
+}

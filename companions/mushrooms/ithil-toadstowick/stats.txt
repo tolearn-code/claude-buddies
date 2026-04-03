@@ -1,0 +1,11 @@
+Lúth-Pearlspore — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████░░░░░░░░░░░░  40 (dump)
+
+Peak: PATIENCE | Dump: SNARK

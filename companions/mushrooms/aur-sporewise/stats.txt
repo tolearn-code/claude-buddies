@@ -1,0 +1,11 @@
+Mîr-Rustgill — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 368):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ████████████░░░░░░░░  61
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

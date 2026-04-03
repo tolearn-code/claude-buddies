@@ -1,0 +1,11 @@
+Gîl-Copperweave — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 372):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████░░░░░░░░  63
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  82
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: CHAOS | Dump: SNARK

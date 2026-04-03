@@ -1,0 +1,11 @@
+Thal-Rosegill — Legendary (★★★★★) Tophat ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: WISDOM | Dump: SNARK

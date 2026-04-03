@@ -1,0 +1,25 @@
+{
+  "name": "Ivorygill",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ivorygill rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129135,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 53,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 521995794,
+  "totalStats": 399
+}

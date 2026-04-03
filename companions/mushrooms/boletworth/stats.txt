@@ -1,0 +1,11 @@
+Fungalorn — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 410):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     █████████████████░░░  86
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: PATIENCE | Dump: SNARK

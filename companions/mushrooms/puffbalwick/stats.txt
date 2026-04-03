@@ -1,0 +1,11 @@
+Ambergill — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      ██████████████░░░░░░  70
+
+Peak: PATIENCE | Dump: WISDOM

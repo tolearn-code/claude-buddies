@@ -1,0 +1,25 @@
+{
+  "name": "Copperweave",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Copperweave waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129143,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 69,
+      "WISDOM": 44,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 707998228,
+  "totalStats": 391
+}

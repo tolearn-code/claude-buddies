@@ -1,0 +1,25 @@
+{
+  "name": "Sagecap",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Sagecap waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129148,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 65,
+      "PATIENCE": 100,
+      "CHAOS": 89,
+      "WISDOM": 82,
+      "SNARK": 44
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 828805494,
+  "totalStats": 380
+}

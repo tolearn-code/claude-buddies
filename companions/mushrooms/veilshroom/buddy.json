@@ -1,0 +1,25 @@
+{
+  "name": "Vermilroot",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Vermilroot never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129149,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 52,
+      "CHAOS": 84,
+      "WISDOM": 87,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 235928479,
+  "totalStats": 405
+}

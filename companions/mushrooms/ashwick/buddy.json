@@ -1,0 +1,25 @@
+{
+  "name": "Mycelward",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Mycelward never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129151,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 70,
+      "CHAOS": 76,
+      "WISDOM": 52,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 888917464,
+  "totalStats": 386
+}

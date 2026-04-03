@@ -1,0 +1,11 @@
+Truffenthal — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      ███████████████░░░░░  78
+
+Peak: PATIENCE | Dump: WISDOM

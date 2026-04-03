@@ -1,0 +1,11 @@
+Lúth-Azurecap — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████░░░░  83
+
+Peak: DEBUGGING | Dump: WISDOM

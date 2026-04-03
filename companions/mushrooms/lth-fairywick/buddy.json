@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Quartzcap",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Quartzcap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129162,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 50,
+      "PATIENCE": 77,
+      "CHAOS": 100,
+      "WISDOM": 79,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 203625833,
+  "totalStats": 387
+}

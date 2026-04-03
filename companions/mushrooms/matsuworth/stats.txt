@@ -1,0 +1,11 @@
+Garnetgill — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████████████░░░░  81
+
+Peak: DEBUGGING | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Gîl-Ambergill — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  69
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: CHAOS | Dump: SNARK

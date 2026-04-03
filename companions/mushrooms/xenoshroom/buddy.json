@@ -1,0 +1,25 @@
+{
+  "name": "Scarletgill",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Scarletgill waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129150,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 41,
+      "PATIENCE": 100,
+      "CHAOS": 77,
+      "WISDOM": 79,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 575443546,
+  "totalStats": 385
+}

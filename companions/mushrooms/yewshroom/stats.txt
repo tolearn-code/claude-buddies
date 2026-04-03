@@ -1,0 +1,11 @@
+Tealspore — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

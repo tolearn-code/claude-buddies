@@ -1,0 +1,11 @@
+Sporethane — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████░░░░░░░░░░░░  43 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

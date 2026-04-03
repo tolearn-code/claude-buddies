@@ -1,0 +1,11 @@
+Cael-Moldengard — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 404):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: CHAOS | Dump: SNARK

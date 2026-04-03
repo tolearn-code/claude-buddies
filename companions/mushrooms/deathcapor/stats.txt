@@ -1,0 +1,11 @@
+Dewcap — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████████░░░░  80
+
+Peak: PATIENCE | Dump: DEBUGGING

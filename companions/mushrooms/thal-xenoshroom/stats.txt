@@ -1,0 +1,11 @@
+Thal-Rustcap — Legendary (★★★★★) Tinyduck ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ███████████░░░░░░░░░  56
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: WISDOM | Dump: SNARK

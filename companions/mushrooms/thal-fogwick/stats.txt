@@ -1,0 +1,11 @@
+Ithil-Vermilroot — Legendary (★★★★★) Tinyduck ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ████████████████░░░░  80
+  SNARK      █████████████████░░░  85
+
+Peak: PATIENCE | Dump: CHAOS

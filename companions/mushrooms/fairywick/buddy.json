@@ -1,0 +1,25 @@
+{
+  "name": "Silverroot",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Silverroot waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129142,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 100,
+      "CHAOS": 82,
+      "WISDOM": 52,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 642968779,
+  "totalStats": 387
+}

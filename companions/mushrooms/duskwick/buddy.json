@@ -1,0 +1,25 @@
+{
+  "name": "Rustgill",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Rustgill never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129152,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 80,
+      "CHAOS": 89,
+      "WISDOM": 81,
+      "SNARK": 43
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 667011480,
+  "totalStats": 393
+}

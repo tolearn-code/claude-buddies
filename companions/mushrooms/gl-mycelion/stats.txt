@@ -1,0 +1,11 @@
+Lúth-Sapphireroot — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 403):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  79
+
+Peak: WISDOM | Dump: DEBUGGING

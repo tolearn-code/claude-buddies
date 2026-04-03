@@ -1,0 +1,11 @@
+Silverroot — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: WISDOM

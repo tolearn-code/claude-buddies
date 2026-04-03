@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Mossthane",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Ithil-Mossthane has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129170,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "°",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 84,
+      "CHAOS": 64,
+      "WISDOM": 88,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 250138757,
+  "totalStats": 385
+}

@@ -1,0 +1,11 @@
+Moldengard — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ███████████████░░░░░  76
+
+Peak: PATIENCE | Dump: DEBUGGING

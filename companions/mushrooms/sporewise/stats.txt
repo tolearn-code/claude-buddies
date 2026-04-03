@@ -1,0 +1,11 @@
+Rosegill — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: WISDOM | Dump: SNARK

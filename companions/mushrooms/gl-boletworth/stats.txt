@@ -1,0 +1,11 @@
+Mîr-Opalcap — Legendary (★★★★★) Crown ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 394):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      ████████████████░░░░  81
+
+Peak: DEBUGGING | Dump: WISDOM

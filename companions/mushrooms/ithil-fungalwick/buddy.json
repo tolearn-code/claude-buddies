@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Emeraldspore",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Mîr-Emeraldspore speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129155,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 85,
+      "CHAOS": 84,
+      "WISDOM": 100,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 410421424,
+  "totalStats": 396
+}

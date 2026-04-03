@@ -1,0 +1,11 @@
+Jadecap — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  69
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ███████████████░░░░░  76
+
+Peak: DEBUGGING | Dump: WISDOM

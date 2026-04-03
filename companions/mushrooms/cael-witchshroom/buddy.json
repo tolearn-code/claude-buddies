@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Copperweave",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Copperweave rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129170,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 63,
+      "CHAOS": 100,
+      "WISDOM": 82,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 617007431,
+  "totalStats": 372
+}

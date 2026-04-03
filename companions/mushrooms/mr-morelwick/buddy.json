@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Sagecap",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Sagecap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129158,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 54,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 402909357,
+  "totalStats": 377
+}

@@ -1,0 +1,30 @@
+Gîl-Onyxcap — Legendary Mushroom (★★★★★) ✨
+Eyes: × | Hat: propeller | Shiny: yes
+
+--- Frame 0 (idle) ---
+    -+-     
+ .-o-OO-o-. 
+(__________)
+   |×  ×|   
+   |____|   
+
+--- Frame 1 (idle alt) ---
+    -+-     
+ .-O-oo-O-. 
+(__________)
+   |×  ×|   
+   |____|   
+
+--- Frame 2 (wink) ---
+   . o  .   
+ .-o-OO-o-. 
+(__________)
+   |×  ×|   
+   |____|   
+
+--- Sleeping ---
+    -+-     
+ .-o-OO-o-. 
+(__________)
+   |-  -|   
+   |____|   

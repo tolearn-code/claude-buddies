@@ -1,0 +1,11 @@
+Obsidiroot — Legendary (★★★★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Gillthorn",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Lúth-Gillthorn never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129169,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 84,
+      "WISDOM": 49,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 624995044,
+  "totalStats": 396
+}

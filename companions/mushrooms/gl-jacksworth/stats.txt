@@ -1,0 +1,11 @@
+Anar-Amethystspore — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████░░░░  84
+
+Peak: PATIENCE | Dump: WISDOM

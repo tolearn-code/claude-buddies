@@ -1,0 +1,11 @@
+Thal-Rootweaver — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  69
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████░░░░  82
+
+Peak: DEBUGGING | Dump: CHAOS

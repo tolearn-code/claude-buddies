@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Topazspore",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Thal-Topazspore never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129171,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 50,
+      "CHAOS": 75,
+      "WISDOM": 83,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 250056124,
+  "totalStats": 388
+}

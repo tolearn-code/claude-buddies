@@ -1,0 +1,11 @@
+Crystalgill — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  █████████████░░░░░░░  67
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

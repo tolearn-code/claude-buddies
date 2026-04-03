@@ -1,0 +1,25 @@
+{
+  "name": "Rosegill",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Rosegill speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129134,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "·",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 78,
+      "CHAOS": 75,
+      "WISDOM": 100,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 359493643,
+  "totalStats": 394
+}

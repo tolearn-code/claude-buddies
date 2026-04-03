@@ -1,0 +1,11 @@
+Aur-Darkspore — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  84
+
+Peak: WISDOM | Dump: DEBUGGING

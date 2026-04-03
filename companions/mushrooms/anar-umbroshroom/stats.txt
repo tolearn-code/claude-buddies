@@ -1,0 +1,11 @@
+Lúth-Gillthorn — Legendary (★★★★★) Halo ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 396):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ███████████████░░░░░  75
+
+Peak: DEBUGGING | Dump: WISDOM

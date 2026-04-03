@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Amethystspore",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Anar-Amethystspore waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129164,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 100,
+      "CHAOS": 87,
+      "WISDOM": 50,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 921454330,
+  "totalStats": 393
+}

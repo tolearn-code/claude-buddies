@@ -1,0 +1,11 @@
+Aur-Citrinspore — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  81
+
+Peak: WISDOM | Dump: CHAOS

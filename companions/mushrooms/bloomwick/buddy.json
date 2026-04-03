@@ -1,0 +1,25 @@
+{
+  "name": "Capwhisper",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Capwhisper speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129152,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 44,
+      "CHAOS": 70,
+      "WISDOM": 100,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 184026273,
+  "totalStats": 374
+}

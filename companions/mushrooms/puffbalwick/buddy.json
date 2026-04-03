@@ -1,0 +1,25 @@
+{
+  "name": "Ambergill",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ambergill waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129147,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 47,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 378642804,
+  "totalStats": 380
+}

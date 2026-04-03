@@ -1,0 +1,25 @@
+{
+  "name": "Gillthorn",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Gillthorn waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129134,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 48,
+      "PATIENCE": 100,
+      "CHAOS": 80,
+      "WISDOM": 88,
+      "SNARK": 66
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 92439522,
+  "totalStats": 382
+}

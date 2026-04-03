@@ -1,0 +1,25 @@
+{
+  "name": "Dewcap",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Dewcap waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129141,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 100,
+      "CHAOS": 83,
+      "WISDOM": 77,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 343631791,
+  "totalStats": 386
+}

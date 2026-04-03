@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Berylroot",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Ithil-Berylroot never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129165,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 85,
+      "CHAOS": 89,
+      "WISDOM": 85,
+      "SNARK": 43
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 469111756,
+  "totalStats": 402
+}

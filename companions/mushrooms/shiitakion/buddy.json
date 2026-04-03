@@ -1,0 +1,25 @@
+{
+  "name": "Azurecap",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Azurecap speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129136,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "·",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 81,
+      "CHAOS": 87,
+      "WISDOM": 100,
+      "SNARK": 46
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 739456100,
+  "totalStats": 402
+}

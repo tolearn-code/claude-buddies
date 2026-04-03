@@ -1,0 +1,25 @@
+{
+  "name": "Fungalorn",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Fungalorn waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129141,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 82,
+      "WISDOM": 86,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 477964507,
+  "totalStats": 410
+}

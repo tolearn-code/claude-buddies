@@ -1,0 +1,11 @@
+Ithil-Berylroot — Legendary (★★★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 402):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████████████░░░  89
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████░░░░░░░░░░░░  43 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

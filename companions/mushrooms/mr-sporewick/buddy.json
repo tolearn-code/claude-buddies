@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Ivorygill",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Gîl-Ivorygill waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129168,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 100,
+      "CHAOS": 79,
+      "WISDOM": 85,
+      "SNARK": 45
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 687171936,
+  "totalStats": 394
+}

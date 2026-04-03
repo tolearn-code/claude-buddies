@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Tealspore",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Cael-Tealspore waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129167,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 100,
+      "CHAOS": 82,
+      "WISDOM": 49,
+      "SNARK": 57
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 613716621,
+  "totalStats": 369
+}

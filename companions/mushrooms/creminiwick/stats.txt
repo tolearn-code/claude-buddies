@@ -1,0 +1,11 @@
+Rootweaver — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 401):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

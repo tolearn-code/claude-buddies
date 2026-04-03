@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Lavendcap",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Lavendcap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129163,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 82,
+      "CHAOS": 100,
+      "WISDOM": 72,
+      "SNARK": 42
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 893720346,
+  "totalStats": 380
+}

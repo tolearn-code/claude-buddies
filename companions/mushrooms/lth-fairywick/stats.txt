@@ -1,0 +1,11 @@
+Thal-Quartzcap — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████░░░░  81
+
+Peak: CHAOS | Dump: DEBUGGING

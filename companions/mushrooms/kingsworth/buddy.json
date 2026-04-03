@@ -1,0 +1,25 @@
+{
+  "name": "Sapphireroot",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Sapphireroot never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129145,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 77,
+      "CHAOS": 77,
+      "WISDOM": 48,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 874141441,
+  "totalStats": 380
+}

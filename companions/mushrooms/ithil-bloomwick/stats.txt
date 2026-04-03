@@ -1,0 +1,11 @@
+Aur-Garnetgill — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      ██████████████░░░░░░  72
+
+Peak: CHAOS | Dump: DEBUGGING

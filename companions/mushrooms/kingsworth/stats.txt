@@ -1,0 +1,11 @@
+Sapphireroot — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: WISDOM

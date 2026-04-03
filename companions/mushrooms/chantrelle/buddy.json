@@ -1,0 +1,25 @@
+{
+  "name": "Moldengard",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Moldengard waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129136,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "·",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 100,
+      "CHAOS": 75,
+      "WISDOM": 77,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 235607989,
+  "totalStats": 381
+}

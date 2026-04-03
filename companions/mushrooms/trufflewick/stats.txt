@@ -1,0 +1,11 @@
+Ivorygill — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████████░░░░░░  70
+
+Peak: CHAOS | Dump: PATIENCE

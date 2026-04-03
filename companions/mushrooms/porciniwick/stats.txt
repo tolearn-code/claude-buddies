@@ -1,0 +1,11 @@
+Quartzcap — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 397):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  80
+
+Peak: CHAOS | Dump: DEBUGGING

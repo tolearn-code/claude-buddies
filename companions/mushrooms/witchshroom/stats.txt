@@ -1,0 +1,11 @@
+Lavendcap — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 397):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ██████████████░░░░░░  74
+
+Peak: PATIENCE | Dump: CHAOS

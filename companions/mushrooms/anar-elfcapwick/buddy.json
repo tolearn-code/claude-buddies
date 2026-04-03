@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Mycelward",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Gîl-Mycelward speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129162,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 71,
+      "CHAOS": 85,
+      "WISDOM": 100,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 747208218,
+  "totalStats": 397
+}

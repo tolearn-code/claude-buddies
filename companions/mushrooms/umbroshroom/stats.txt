@@ -1,0 +1,11 @@
+Cobaltspore — Legendary (★★★★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ██████████████░░░░░░  70
+  SNARK      ████████████████░░░░  80
+
+Peak: DEBUGGING | Dump: PATIENCE

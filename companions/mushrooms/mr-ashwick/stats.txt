@@ -1,0 +1,11 @@
+Anar-Crimsonroot — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: WISDOM | Dump: SNARK

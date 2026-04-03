@@ -1,0 +1,11 @@
+Gîl-Ivorygill — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 394):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████████████░░░  85
+  SNARK      █████████░░░░░░░░░░░  45 (dump)
+
+Peak: PATIENCE | Dump: SNARK

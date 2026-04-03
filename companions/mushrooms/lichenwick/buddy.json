@@ -1,0 +1,25 @@
+{
+  "name": "Rubycap",
+  "personality": "A wild-eyed force who thrives in broken deploys. Rubycap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775211129145,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "mushroom",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 48,
+      "SNARK": 58
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 911752464,
+  "totalStats": 369
+}
