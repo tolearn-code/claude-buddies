@@ -595,10 +595,10 @@ def write_patcher_state(state: dict) -> None:
         f.write("\n")
 
 
-def _scan_companion_dirs(base: Path) -> dict:
-    """Scan for companion directories, including one level of subdirectories."""
+def _scan_companion_dirs(base: Path, depth: int = 0) -> dict:
+    """Scan for companion directories, recursing up to 3 levels deep."""
     results = {}
-    if not base.exists():
+    if not base.exists() or depth > 3:
         return results
     for entry in base.iterdir():
         if not entry.is_dir():
@@ -606,10 +606,9 @@ def _scan_companion_dirs(base: Path) -> dict:
         if (entry / "buddy.json").exists():
             results[entry.name] = entry
         else:
-            # Scan one level deeper
-            for sub in entry.iterdir():
-                if sub.is_dir() and (sub / "buddy.json").exists():
-                    results[sub.name] = sub
+            for name, path in _scan_companion_dirs(entry, depth + 1).items():
+                if name not in results:
+                    results[name] = path
     return results
 
 

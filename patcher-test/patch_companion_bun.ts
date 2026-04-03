@@ -392,22 +392,17 @@ function writePatcherState(state: any): void {
   writeFileSync(PATCHER_STATE, JSON.stringify(state, null, 2) + "\n");
 }
 
-function scanCompanionDirs(base: string): Map<string, string> {
+function scanCompanionDirs(base: string, depth = 0): Map<string, string> {
   const results = new Map<string, string>();
-  if (!existsSync(base)) return results;
+  if (!existsSync(base) || depth > 3) return results;
   for (const entry of readdirSync(base, { withFileTypes: true })) {
     if (!entry.isDirectory()) continue;
     const full = join(base, entry.name);
     if (existsSync(join(full, "buddy.json"))) {
       results.set(entry.name, full);
     } else {
-      // Scan one level deeper for subdirectories
-      for (const sub of readdirSync(full, { withFileTypes: true })) {
-        if (!sub.isDirectory()) continue;
-        const subFull = join(full, sub.name);
-        if (existsSync(join(subFull, "buddy.json"))) {
-          results.set(sub.name, subFull);
-        }
+      for (const [k, v] of scanCompanionDirs(full, depth + 1)) {
+        if (!results.has(k)) results.set(k, v);
       }
     }
   }
