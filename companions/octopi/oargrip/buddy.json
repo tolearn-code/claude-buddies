@@ -1,0 +1,25 @@
+{
+  "name": "Frostdeep",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Frostdeep never rests until the root cause is found.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128674,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 81,
+      "WISDOM": 52,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 85600540,
+  "totalStats": 405
+}

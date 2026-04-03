@@ -1,0 +1,11 @@
+Anar-Opalcoral — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ████████████░░░░░░░░  60
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: CHAOS | Dump: WISDOM

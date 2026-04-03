@@ -1,0 +1,11 @@
+Ithil-Coppersea — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████░░░░░░░░░░░░  43 (dump)
+
+Peak: CHAOS | Dump: SNARK

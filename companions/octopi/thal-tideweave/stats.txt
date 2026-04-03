@@ -1,0 +1,11 @@
+Thal-Quartzreef — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 372):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      ████████████░░░░░░░░  60
+
+Peak: DEBUGGING | Dump: WISDOM

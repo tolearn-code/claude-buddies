@@ -1,0 +1,25 @@
+{
+  "name": "Embertide",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Embertide has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128663,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 79,
+      "CHAOS": 45,
+      "WISDOM": 61,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 316441834,
+  "totalStats": 369
+}

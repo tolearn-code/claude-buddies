@@ -1,0 +1,25 @@
+{
+  "name": "Inkweald",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Inkweald speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128660,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 47,
+      "CHAOS": 84,
+      "WISDOM": 100,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 155555942,
+  "totalStats": 390
+}

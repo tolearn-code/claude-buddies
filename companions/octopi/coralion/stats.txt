@@ -1,0 +1,11 @@
+Abysswarden — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 368):
+  DEBUGGING  ████████░░░░░░░░░░░░  41 (dump)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████░░░░░░░░  60
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

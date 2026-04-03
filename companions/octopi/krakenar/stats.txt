@@ -1,0 +1,11 @@
+Seaquake — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: WISDOM | Dump: CHAOS

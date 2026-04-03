@@ -1,0 +1,11 @@
+Embertide — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 369):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     ████████████░░░░░░░░  61
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

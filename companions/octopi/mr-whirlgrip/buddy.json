@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Garnettide",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Gîl-Garnettide speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128688,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 78,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 44
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 472847522,
+  "totalStats": 387
+}

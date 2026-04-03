@@ -1,0 +1,11 @@
+Starreef — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ████████████████░░░░  81
+
+Peak: PATIENCE | Dump: CHAOS

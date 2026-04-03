@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Maelvorath",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Maelvorath rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128696,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 52,
+      "CHAOS": 100,
+      "WISDOM": 87,
+      "SNARK": 71
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 54124733,
+  "totalStats": 381
+}

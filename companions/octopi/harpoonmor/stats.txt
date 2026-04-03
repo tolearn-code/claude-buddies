@@ -1,0 +1,11 @@
+Tenthralis — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      ████████████████░░░░  81
+
+Peak: PATIENCE | Dump: WISDOM

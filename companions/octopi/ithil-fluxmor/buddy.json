@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Fathomguard",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Fathomguard rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128692,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 84,
+      "CHAOS": 100,
+      "WISDOM": 58,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 396548212,
+  "totalStats": 378
+}

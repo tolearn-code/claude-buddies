@@ -1,0 +1,11 @@
+Amethysttide — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 404):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████████████░░░  85
+
+Peak: DEBUGGING | Dump: PATIENCE

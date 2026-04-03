@@ -1,0 +1,11 @@
+Thal-Rubycoral — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      █████████████████░░░  85
+
+Peak: DEBUGGING | Dump: WISDOM

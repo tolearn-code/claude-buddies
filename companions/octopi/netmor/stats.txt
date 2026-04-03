@@ -1,0 +1,11 @@
+Crystaltide — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: CHAOS | Dump: SNARK

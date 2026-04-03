@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Rubycoral",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Thal-Rubycoral never rests until the root cause is found.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128695,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 86,
+      "CHAOS": 87,
+      "WISDOM": 41,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 723214665,
+  "totalStats": 399
+}

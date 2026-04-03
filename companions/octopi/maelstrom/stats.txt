@@ -1,0 +1,11 @@
+Coralbane — Legendary (★★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████░░░░░░░  68
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ██████████████░░░░░░  72
+
+Peak: PATIENCE | Dump: WISDOM

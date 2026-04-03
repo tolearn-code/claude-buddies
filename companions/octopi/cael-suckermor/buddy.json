@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Nauthrion",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Gîl-Nauthrion waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128686,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 100,
+      "CHAOS": 76,
+      "WISDOM": 53,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 390619605,
+  "totalStats": 378
+}

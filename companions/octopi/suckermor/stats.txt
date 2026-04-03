@@ -1,0 +1,11 @@
+Sapphiresea — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 401):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  80
+  SNARK      █████████████████░░░  86
+
+Peak: CHAOS | Dump: PATIENCE

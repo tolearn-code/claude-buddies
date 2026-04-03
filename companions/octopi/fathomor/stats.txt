@@ -1,0 +1,11 @@
+Reefguard — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 373):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ████████░░░░░░░░░░░░  40 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████████░░░░░░░  66
+
+Peak: DEBUGGING | Dump: CHAOS

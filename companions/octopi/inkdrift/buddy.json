@@ -1,0 +1,25 @@
+{
+  "name": "Gulfrender",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Gulfrender waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128672,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 100,
+      "CHAOS": 71,
+      "WISDOM": 79,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 717690476,
+  "totalStats": 384
+}

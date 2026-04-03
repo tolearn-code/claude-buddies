@@ -1,0 +1,11 @@
+Garnettide — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

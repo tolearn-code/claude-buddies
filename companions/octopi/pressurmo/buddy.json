@@ -1,0 +1,25 @@
+{
+  "name": "Jadecoral",
+  "personality": "A wild-eyed force who thrives in broken deploys. Jadecoral rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128675,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 52,
+      "SNARK": 63
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 661489527,
+  "totalStats": 377
+}

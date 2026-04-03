@@ -1,0 +1,11 @@
+Aur-Topazdeep — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  44 (dump)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ██████████████░░░░░░  74
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,11 @@
+Ithil-Maelvorath — Legendary (★★★★★) Halo ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  87
+  SNARK      ██████████████░░░░░░  71
+
+Peak: CHAOS | Dump: PATIENCE

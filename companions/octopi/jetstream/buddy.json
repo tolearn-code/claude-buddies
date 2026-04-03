@@ -1,0 +1,25 @@
+{
+  "name": "Whirlmaw",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Whirlmaw speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128661,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 75,
+      "PATIENCE": 42,
+      "CHAOS": 89,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 663387962,
+  "totalStats": 394
+}

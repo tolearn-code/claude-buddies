@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Whirlmaw",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Ithil-Whirlmaw speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128691,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 73,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 94556643,
+  "totalStats": 382
+}

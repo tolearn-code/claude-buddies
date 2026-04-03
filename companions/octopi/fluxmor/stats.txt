@@ -1,0 +1,11 @@
+Stormtide — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: WISDOM

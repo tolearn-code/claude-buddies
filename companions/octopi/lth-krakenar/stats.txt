@@ -1,0 +1,11 @@
+Aur-Goldenreef — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ████████░░░░░░░░░░░░  41 (dump)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Reefguard",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Reefguard never rests until the root cause is found.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128659,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 78,
+      "CHAOS": 40,
+      "WISDOM": 89,
+      "SNARK": 66
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 547190046,
+  "totalStats": 373
+}

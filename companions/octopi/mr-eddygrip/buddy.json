@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Amethysttide",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Amethysttide waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128692,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 100,
+      "CHAOS": 87,
+      "WISDOM": 52,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 52390330,
+  "totalStats": 398
+}

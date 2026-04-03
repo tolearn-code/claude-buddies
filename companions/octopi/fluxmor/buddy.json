@@ -1,0 +1,25 @@
+{
+  "name": "Stormtide",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Stormtide waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128670,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 75,
+      "PATIENCE": 100,
+      "CHAOS": 73,
+      "WISDOM": 54,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 376315339,
+  "totalStats": 385
+}

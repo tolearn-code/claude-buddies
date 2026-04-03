@@ -1,0 +1,11 @@
+Krethidon — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: WISDOM | Dump: SNARK

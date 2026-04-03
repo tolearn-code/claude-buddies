@@ -1,0 +1,11 @@
+Waverender — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: DEBUGGING

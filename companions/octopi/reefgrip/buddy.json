@@ -1,0 +1,25 @@
+{
+  "name": "Opalcoral",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Opalcoral waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128676,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 100,
+      "CHAOS": 87,
+      "WISDOM": 46,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 642615126,
+  "totalStats": 387
+}

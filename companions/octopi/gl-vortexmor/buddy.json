@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Waverender",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Waverender rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128688,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 45,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 726688182,
+  "totalStats": 386
+}

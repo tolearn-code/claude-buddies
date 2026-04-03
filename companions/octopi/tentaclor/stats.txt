@@ -1,0 +1,11 @@
+Rubycoral — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 389):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

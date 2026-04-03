@@ -1,0 +1,11 @@
+Mîr-Silverdeep — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      █████████████████░░░  87
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

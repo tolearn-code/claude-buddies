@@ -1,0 +1,11 @@
+Deepvortex — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  68
+  SNARK      ███████████████░░░░░  78
+
+Peak: CHAOS | Dump: PATIENCE

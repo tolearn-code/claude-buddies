@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Leviamor",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Thal-Leviamor speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128680,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 77,
+      "CHAOS": 41,
+      "WISDOM": 100,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 549696371,
+  "totalStats": 384
+}

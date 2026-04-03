@@ -1,0 +1,11 @@
+Leviamor — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ████████░░░░░░░░░░░░  40 (dump)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  87
+
+Peak: WISDOM | Dump: DEBUGGING

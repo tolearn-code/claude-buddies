@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Tenthralis",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Lúth-Tenthralis never rests until the root cause is found.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128693,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 83,
+      "CHAOS": 76,
+      "WISDOM": 85,
+      "SNARK": 42
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 326080204,
+  "totalStats": 386
+}

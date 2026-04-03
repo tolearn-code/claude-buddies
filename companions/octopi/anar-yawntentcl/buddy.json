@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Coralthane",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Coralthane rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128689,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 87,
+      "CHAOS": 100,
+      "WISDOM": 48,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 4913180,
+  "totalStats": 387
+}

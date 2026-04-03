@@ -1,0 +1,25 @@
+{
+  "name": "Pelaginos",
+  "personality": "A wild-eyed force who thrives in broken deploys. Pelaginos rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128672,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 43,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 60
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 324981960,
+  "totalStats": 368
+}

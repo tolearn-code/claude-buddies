@@ -1,0 +1,11 @@
+Tidewrath — Legendary (★★★★★) Crown
+Eyes: @ | Shiny: no
+
+Stats (total: 403):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

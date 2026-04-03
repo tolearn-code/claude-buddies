@@ -1,0 +1,11 @@
+Ithil-Inkweald — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: CHAOS | Dump: SNARK

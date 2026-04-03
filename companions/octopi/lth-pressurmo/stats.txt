@@ -1,0 +1,11 @@
+Gîl-Jadecoral — Legendary (★★★★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ███████████░░░░░░░░░  59
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: WISDOM | Dump: SNARK

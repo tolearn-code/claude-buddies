@@ -1,0 +1,11 @@
+Quartzreef — Legendary (★★★★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████░░░░░░░░░░░░  42 (dump)
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: WISDOM | Dump: PATIENCE

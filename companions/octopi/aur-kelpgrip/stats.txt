@@ -1,0 +1,11 @@
+Gîl-Reefguard — Legendary (★★★★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████░░░░░░░░  61
+  CHAOS      █████████████████░░░  87
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

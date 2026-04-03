@@ -1,0 +1,25 @@
+{
+  "name": "Pearldeep",
+  "personality": "A wild-eyed force who thrives in broken deploys. Pearldeep rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128667,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 68,
+      "PATIENCE": 48,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 5483942,
+  "totalStats": 383
+}

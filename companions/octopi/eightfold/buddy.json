@@ -1,0 +1,25 @@
+{
+  "name": "Darkfathom",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Darkfathom never rests until the root cause is found.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128659,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 71,
+      "CHAOS": 84,
+      "WISDOM": 72,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 52692889,
+  "totalStats": 380
+}

@@ -1,0 +1,11 @@
+Thalassor — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  72
+
+Peak: WISDOM | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Reefguard",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Gîl-Reefguard never rests until the root cause is found.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128694,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "°",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 61,
+      "CHAOS": 87,
+      "WISDOM": 79,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 954104907,
+  "totalStats": 381
+}

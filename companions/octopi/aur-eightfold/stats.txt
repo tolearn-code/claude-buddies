@@ -1,0 +1,11 @@
+Thal-Leviamor — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████░░░░░░░░░░░░  41 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  80
+
+Peak: WISDOM | Dump: CHAOS

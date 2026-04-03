@@ -1,0 +1,11 @@
+Ithil-Whirlmaw — Legendary (★★★★★) Crown ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  80
+
+Peak: WISDOM | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Cael-Pressurion — Legendary (★★★★★) Beanie ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: WISDOM | Dump: SNARK

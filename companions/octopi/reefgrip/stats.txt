@@ -1,0 +1,11 @@
+Opalcoral — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      █████████████░░░░░░░  68
+
+Peak: PATIENCE | Dump: WISDOM

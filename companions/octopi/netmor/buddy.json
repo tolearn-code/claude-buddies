@@ -1,0 +1,25 @@
+{
+  "name": "Crystaltide",
+  "personality": "A wild-eyed force who thrives in broken deploys. Crystaltide rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128674,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 64,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 29410136,
+  "totalStats": 378
+}

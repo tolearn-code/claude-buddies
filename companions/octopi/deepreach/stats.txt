@@ -1,0 +1,11 @@
+Coralthane — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 404):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████░░░░  81
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: CHAOS

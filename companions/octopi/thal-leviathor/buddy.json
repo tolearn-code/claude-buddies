@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Berylcoral",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Anar-Berylcoral never rests until the root cause is found.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128683,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 82,
+      "CHAOS": 42,
+      "WISDOM": 81,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 646854857,
+  "totalStats": 377
+}

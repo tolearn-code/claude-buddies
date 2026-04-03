@@ -1,0 +1,11 @@
+Whirlmaw — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ████████░░░░░░░░░░░░  42 (dump)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: PATIENCE

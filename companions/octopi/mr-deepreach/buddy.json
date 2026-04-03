@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Opalcoral",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Opalcoral rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128677,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 60,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 50,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 907756868,
+  "totalStats": 382
+}

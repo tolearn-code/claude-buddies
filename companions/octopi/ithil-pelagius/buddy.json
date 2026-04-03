@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Moonreef",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Moonreef waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128685,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 51,
+      "WISDOM": 78,
+      "SNARK": 65
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 8606345,
+  "totalStats": 383
+}

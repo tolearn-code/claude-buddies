@@ -1,0 +1,11 @@
+Aur-Darkfathom — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████░░░░  80
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,30 @@
+Mîr-Kelplord — Legendary Octopus (★★★★★) ✨
+Eyes: ° | Hat: propeller | Shiny: yes
+
+--- Frame 0 (idle) ---
+    -+-     
+   .----.   
+  ( °  ° )  
+  (______)  
+  /\/\/\/\  
+
+--- Frame 1 (idle alt) ---
+    -+-     
+   .----.   
+  ( °  ° )  
+  (______)  
+  \/\/\/\/  
+
+--- Frame 2 (wink) ---
+     o      
+   .----.   
+  ( °  ° )  
+  (______)  
+  /\/\/\/\  
+
+--- Sleeping ---
+    -+-     
+   .----.   
+  ( -  - )  
+  (______)  
+  /\/\/\/\  

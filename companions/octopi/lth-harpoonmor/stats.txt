@@ -1,0 +1,11 @@
+Cael-Frostdeep — Legendary (★★★★★) Wizard ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████░░░░░░░░░░░░  43 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

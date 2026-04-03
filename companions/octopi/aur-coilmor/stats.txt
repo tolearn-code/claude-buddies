@@ -1,0 +1,11 @@
+Cael-Tidewrath — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

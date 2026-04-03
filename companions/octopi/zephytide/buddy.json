@@ -1,0 +1,25 @@
+{
+  "name": "Quartzreef",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Quartzreef speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128668,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 42,
+      "CHAOS": 81,
+      "WISDOM": 100,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 326043548,
+  "totalStats": 386
+}

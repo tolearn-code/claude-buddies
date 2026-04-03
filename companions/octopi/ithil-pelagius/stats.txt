@@ -1,0 +1,11 @@
+Ithil-Moonreef — Legendary (★★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████████░░░░░░░  65
+
+Peak: PATIENCE | Dump: CHAOS

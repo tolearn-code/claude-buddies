@@ -1,0 +1,11 @@
+Mîr-Kelplord — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ███████████████░░░░░  76
+
+Peak: PATIENCE | Dump: WISDOM

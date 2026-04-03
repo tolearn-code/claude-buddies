@@ -1,0 +1,11 @@
+Onyxsea — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  77
+
+Peak: WISDOM | Dump: DEBUGGING

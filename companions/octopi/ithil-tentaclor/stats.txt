@@ -1,0 +1,11 @@
+Anar-Starreef — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

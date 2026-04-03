@@ -1,0 +1,11 @@
+Brinelord — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      ██████████████░░░░░░  74
+
+Peak: PATIENCE | Dump: DEBUGGING

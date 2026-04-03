@@ -1,0 +1,11 @@
+Fathomguard — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 368):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ██████████░░░░░░░░░░  53
+
+Peak: PATIENCE | Dump: WISDOM

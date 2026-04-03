@@ -1,0 +1,25 @@
+{
+  "name": "Amethysttide",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Amethysttide never rests until the root cause is found.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128664,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 44,
+      "CHAOS": 86,
+      "WISDOM": 89,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 702589221,
+  "totalStats": 404
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Inkweald",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Inkweald rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128687,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 71,
+      "CHAOS": 100,
+      "WISDOM": 75,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 447184860,
+  "totalStats": 379
+}

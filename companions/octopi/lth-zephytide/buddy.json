@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Coppersea",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Coppersea rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128689,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 76,
+      "CHAOS": 100,
+      "WISDOM": 87,
+      "SNARK": 43
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 532600840,
+  "totalStats": 383
+}

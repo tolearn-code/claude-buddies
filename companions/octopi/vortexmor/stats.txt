@@ -1,0 +1,11 @@
+Emeraldtide — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

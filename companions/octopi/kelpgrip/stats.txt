@@ -1,0 +1,11 @@
+Ripthralis — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      █████████████░░░░░░░  68
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: WISDOM | Dump: SNARK

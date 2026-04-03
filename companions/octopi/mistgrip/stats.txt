@@ -1,0 +1,11 @@
+Moonreef — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 397):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      █████████████████░░░  89
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: WISDOM

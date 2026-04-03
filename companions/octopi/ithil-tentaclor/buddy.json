@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Starreef",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Anar-Starreef never rests until the root cause is found.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128678,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 70,
+      "CHAOS": 86,
+      "WISDOM": 83,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 370482993,
+  "totalStats": 388
+}

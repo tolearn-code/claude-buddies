@@ -1,0 +1,11 @@
+Mîr-Pelaginos — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████░░░░░░░░░  57
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: CHAOS

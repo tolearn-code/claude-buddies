@@ -1,0 +1,25 @@
+{
+  "name": "Depthwarden",
+  "personality": "A wild-eyed force who thrives in broken deploys. Depthwarden rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128671,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 87,
+      "CHAOS": 100,
+      "WISDOM": 84,
+      "SNARK": 40
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 411221851,
+  "totalStats": 381
+}

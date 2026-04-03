@@ -1,0 +1,25 @@
+{
+  "name": "Abysswarden",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Abysswarden has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128656,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 41,
+      "PATIENCE": 83,
+      "CHAOS": 60,
+      "WISDOM": 84,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 4998908,
+  "totalStats": 368
+}

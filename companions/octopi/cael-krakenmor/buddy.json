@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Pressurion",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Cael-Pressurion speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128683,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 68,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 843619704,
+  "totalStats": 382
+}

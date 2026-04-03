@@ -1,0 +1,11 @@
+Depthwarden — Legendary (★★★★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████░░░░░░░░░░░░  40 (dump)
+
+Peak: CHAOS | Dump: SNARK

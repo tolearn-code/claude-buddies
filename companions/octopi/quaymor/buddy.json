@@ -1,0 +1,25 @@
+{
+  "name": "Silverdeep",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Silverdeep waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128675,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 100,
+      "CHAOS": 80,
+      "WISDOM": 89,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 383810088,
+  "totalStats": 388
+}

@@ -1,0 +1,11 @@
+Ithil-Emeraldtide — Legendary (★★★★★) Tinyduck ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

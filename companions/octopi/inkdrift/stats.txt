@@ -1,0 +1,11 @@
+Gulfrender — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: DEBUGGING

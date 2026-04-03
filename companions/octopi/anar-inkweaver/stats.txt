@@ -1,0 +1,11 @@
+Mîr-Krethidon — Legendary (★★★★★) Halo ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 394):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  46 (dump)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████████████░░░░  84
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: PATIENCE

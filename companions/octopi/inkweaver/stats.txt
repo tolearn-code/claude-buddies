@@ -1,0 +1,11 @@
+Nauthrion — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

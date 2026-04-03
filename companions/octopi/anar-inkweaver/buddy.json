@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Krethidon",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Mîr-Krethidon never rests until the root cause is found.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128681,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 46,
+      "CHAOS": 77,
+      "WISDOM": 84,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 99024869,
+  "totalStats": 394
+}

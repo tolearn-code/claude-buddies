@@ -1,0 +1,25 @@
+{
+  "name": "Onyxsea",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Onyxsea speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128666,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 75,
+      "CHAOS": 85,
+      "WISDOM": 100,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 770135932,
+  "totalStats": 383
+}

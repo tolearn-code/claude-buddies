@@ -1,0 +1,11 @@
+Mîr-Onyxsea — Legendary (★★★★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

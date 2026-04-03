@@ -1,0 +1,11 @@
+Topazdeep — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: PATIENCE

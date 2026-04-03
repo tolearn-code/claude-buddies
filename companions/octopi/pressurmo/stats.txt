@@ -1,0 +1,11 @@
+Jadecoral — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: CHAOS | Dump: WISDOM

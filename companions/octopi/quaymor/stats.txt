@@ -1,0 +1,11 @@
+Silverdeep — Legendary (★★★★★) Beanie
+Eyes: ° | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████████░░░░░░  72
+
+Peak: PATIENCE | Dump: DEBUGGING

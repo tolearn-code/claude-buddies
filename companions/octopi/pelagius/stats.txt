@@ -1,0 +1,11 @@
+Goldenreef — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████░░░░░░░░░░░░  43 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: PATIENCE

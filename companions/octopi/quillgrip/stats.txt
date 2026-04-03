@@ -1,0 +1,11 @@
+Coppersea — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ███████████████░░░░░  75
+
+Peak: PATIENCE | Dump: CHAOS

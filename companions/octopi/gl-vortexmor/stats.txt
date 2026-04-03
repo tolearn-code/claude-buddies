@@ -1,0 +1,11 @@
+Thal-Waverender — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████░░░░  81
+
+Peak: CHAOS | Dump: PATIENCE

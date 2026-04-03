@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Abysswarden",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Anar-Abysswarden waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128685,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 100,
+      "CHAOS": 53,
+      "WISDOM": 86,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 983656847,
+  "totalStats": 393
+}

@@ -1,0 +1,11 @@
+Anar-Berylcoral — Legendary (★★★★★) Tinyduck ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████░░░░░░░░░░░░  42 (dump)
+  WISDOM     ████████████████░░░░  81
+  SNARK      ██████████████░░░░░░  72
+
+Peak: DEBUGGING | Dump: CHAOS

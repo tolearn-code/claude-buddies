@@ -1,0 +1,11 @@
+Gîl-Coralbane — Legendary (★★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 371):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████░░░░░░░░░░░░  42 (dump)
+  SNARK      █████████████░░░░░░░  65
+
+Peak: PATIENCE | Dump: WISDOM
