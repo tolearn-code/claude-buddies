@@ -1,0 +1,22 @@
+{
+  "name": "Thunderthistl",
+  "personality": "A restless owl who spots bugs with preternatural speed but gets bored watching your fixes, leaving sarcastic hoots and flying off to knock things off your desk mid-debugging session.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775194687074,
+  "salt": "friend-2026-401",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "owl",
+    "eye": "·",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 19,
+      "PATIENCE": 38,
+      "CHAOS": 87,
+      "WISDOM": 47,
+      "SNARK": 5
+    }
+  },
+  "inspirationSeed": 108316043
+}
