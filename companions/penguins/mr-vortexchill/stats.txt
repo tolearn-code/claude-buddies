@@ -1,0 +1,11 @@
+Gîl-Quartzhelm — Legendary (★★★★★) Tophat ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 372):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   █████████████░░░░░░░  65
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  81
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: CHAOS | Dump: SNARK

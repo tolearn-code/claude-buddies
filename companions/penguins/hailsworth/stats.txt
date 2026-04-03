@@ -1,0 +1,11 @@
+Icecrown — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  42 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      █████████████████░░░  85
+
+Peak: PATIENCE | Dump: CHAOS

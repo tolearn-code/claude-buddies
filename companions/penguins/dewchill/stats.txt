@@ -1,0 +1,11 @@
+Blizzarion — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████░░░░░░░  67
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████░░░░░░░░░░░  45 (dump)
+
+Peak: CHAOS | Dump: SNARK

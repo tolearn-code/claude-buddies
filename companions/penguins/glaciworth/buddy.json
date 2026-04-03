@@ -1,0 +1,25 @@
+{
+  "name": "Berghelm",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Berghelm has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128753,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 74,
+      "CHAOS": 46,
+      "WISDOM": 84,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 976381233,
+  "totalStats": 370
+}

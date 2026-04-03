@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Snowmantle",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Anar-Snowmantle never rests until the root cause is found.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128773,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "·",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 69,
+      "CHAOS": 82,
+      "WISDOM": 54,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 472929185,
+  "totalStats": 382
+}

@@ -1,0 +1,11 @@
+Aur-Frosthelm — Legendary (★★★★★) Halo ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  █████████████░░░░░░░  69
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

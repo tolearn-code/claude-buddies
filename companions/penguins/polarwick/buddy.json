@@ -1,0 +1,25 @@
+{
+  "name": "Topazhelm",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Topazhelm has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128757,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 41,
+      "PATIENCE": 85,
+      "CHAOS": 82,
+      "WISDOM": 89,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 285357835,
+  "totalStats": 397
+}

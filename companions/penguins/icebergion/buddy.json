@@ -1,0 +1,25 @@
+{
+  "name": "Floehelm",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Floehelm has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128754,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 60,
+      "CHAOS": 72,
+      "WISDOM": 54,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 916724878,
+  "totalStats": 370
+}

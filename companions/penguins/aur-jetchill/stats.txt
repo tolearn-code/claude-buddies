@@ -1,0 +1,11 @@
+Aur-Fjordhelm — Legendary (★★★★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ██████████████░░░░░░  70
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Cael-Amethysthelm — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  █████████████░░░░░░░  68
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

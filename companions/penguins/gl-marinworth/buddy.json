@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Moonice",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Cael-Moonice has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128778,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 78,
+      "CHAOS": 87,
+      "WISDOM": 52,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 227941213,
+  "totalStats": 370
+}

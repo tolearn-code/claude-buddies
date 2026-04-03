@@ -1,0 +1,25 @@
+{
+  "name": "Starfrost",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Starfrost never rests until the root cause is found.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128767,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 77,
+      "CHAOS": 44,
+      "WISDOM": 87,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 415204763,
+  "totalStats": 396
+}

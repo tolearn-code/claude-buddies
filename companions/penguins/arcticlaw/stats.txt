@@ -1,0 +1,11 @@
+Glaciermane — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

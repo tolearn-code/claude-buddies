@@ -1,0 +1,11 @@
+Gîl-Sleetguard — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      █████████████░░░░░░░  68
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  84
+
+Peak: WISDOM | Dump: DEBUGGING

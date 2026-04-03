@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Azuremane",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Azuremane rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128780,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 77,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 240023729,
+  "totalStats": 386
+}

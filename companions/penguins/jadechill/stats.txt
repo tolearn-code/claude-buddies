@@ -1,0 +1,11 @@
+Crystallhelm — Legendary (★★★★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████░░░░░░░░░░░░  43 (dump)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

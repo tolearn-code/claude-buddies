@@ -1,0 +1,11 @@
+Thal-Sapphireice — Legendary (★★★★★) Wizard ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: PATIENCE | Dump: WISDOM

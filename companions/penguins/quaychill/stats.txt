@@ -1,0 +1,11 @@
+Onyxfrost — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 369):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████░░░░░░░░░░░░  44 (dump)
+  SNARK      ██████████████░░░░░░  70
+
+Peak: CHAOS | Dump: WISDOM

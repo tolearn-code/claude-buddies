@@ -1,0 +1,11 @@
+Icewardyn — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  78
+
+Peak: WISDOM | Dump: PATIENCE

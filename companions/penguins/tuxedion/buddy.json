@@ -1,0 +1,25 @@
+{
+  "name": "Obsidifrost",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Obsidifrost never rests until the root cause is found.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128749,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 80,
+      "CHAOS": 85,
+      "WISDOM": 44,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 965444620,
+  "totalStats": 396
+}

@@ -1,0 +1,11 @@
+Mîr-Copperfrost — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  █████████████░░░░░░░  65
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████████████░░░  87
+
+Peak: CHAOS | Dump: PATIENCE

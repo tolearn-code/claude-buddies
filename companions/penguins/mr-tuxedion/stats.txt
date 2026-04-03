@@ -1,0 +1,11 @@
+Aur-Obsidifrost — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████░░░░░░░░░░░░  42 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

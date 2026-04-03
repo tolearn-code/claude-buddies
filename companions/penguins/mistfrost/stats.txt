@@ -1,0 +1,11 @@
+Jadeice — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: CHAOS

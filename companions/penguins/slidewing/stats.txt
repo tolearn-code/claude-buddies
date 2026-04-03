@@ -1,0 +1,11 @@
+Berylice — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 397):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: WISDOM | Dump: SNARK

@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Glaciermane",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Gîl-Glaciermane never rests until the root cause is found.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128776,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 52,
+      "CHAOS": 63,
+      "WISDOM": 77,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 527791482,
+  "totalStats": 381
+}

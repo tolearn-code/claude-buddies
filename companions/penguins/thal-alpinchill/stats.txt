@@ -1,0 +1,11 @@
+Mîr-Citrinfrost — Legendary (★★★★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 359):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: CHAOS | Dump: PATIENCE

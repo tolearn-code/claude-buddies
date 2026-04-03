@@ -1,0 +1,25 @@
+{
+  "name": "Chillvane",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Chillvane waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128751,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 82,
+      "SNARK": 42
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 9595313,
+  "totalStats": 390
+}

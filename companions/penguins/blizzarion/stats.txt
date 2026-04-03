@@ -1,0 +1,11 @@
+Northguard — Legendary (★★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████████░░░░░░░  69
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: PATIENCE | Dump: SNARK

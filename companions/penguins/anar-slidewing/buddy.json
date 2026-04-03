@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Winterthane",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Winterthane rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128772,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 42,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 434155836,
+  "totalStats": 397
+}

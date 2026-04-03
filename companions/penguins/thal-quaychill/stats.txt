@@ -1,0 +1,11 @@
+Cael-Crimsonhelm — Legendary (★★★★★) Tinyduck ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 370):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: PATIENCE | Dump: DEBUGGING

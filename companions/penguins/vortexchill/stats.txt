@@ -1,0 +1,11 @@
+Citrinfrost — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 404):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

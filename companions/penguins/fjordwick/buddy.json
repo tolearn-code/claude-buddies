@@ -1,0 +1,25 @@
+{
+  "name": "Hailmere",
+  "personality": "A wild-eyed force who thrives in broken deploys. Hailmere rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128752,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 77,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 315697662,
+  "totalStats": 397
+}

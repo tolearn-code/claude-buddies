@@ -1,0 +1,11 @@
+Thal-Pearlmane — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: CHAOS

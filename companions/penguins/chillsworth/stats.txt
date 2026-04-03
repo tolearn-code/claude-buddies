@@ -1,0 +1,11 @@
+Winterthane — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████░░░░  80
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: WISDOM

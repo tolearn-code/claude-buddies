@@ -1,0 +1,11 @@
+Pearlmane — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      █████████████░░░░░░░  65
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  87
+
+Peak: WISDOM | Dump: DEBUGGING

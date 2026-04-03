@@ -1,0 +1,25 @@
+{
+  "name": "Driftmane",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Driftmane never rests until the root cause is found.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128749,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 73,
+      "CHAOS": 87,
+      "WISDOM": 58,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 828531630,
+  "totalStats": 369
+}

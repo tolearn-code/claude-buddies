@@ -1,0 +1,11 @@
+Emeraldhelm — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: WISDOM | Dump: SNARK

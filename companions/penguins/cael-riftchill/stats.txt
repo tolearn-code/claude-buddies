@@ -1,0 +1,11 @@
+Aur-Polarguard — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ███████████████░░░░░  77
+
+Peak: CHAOS | Dump: PATIENCE

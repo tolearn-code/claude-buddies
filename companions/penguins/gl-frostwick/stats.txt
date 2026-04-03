@@ -1,0 +1,11 @@
+Anar-Crystallhelm — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      █████████████░░░░░░░  66
+
+Peak: PATIENCE | Dump: WISDOM

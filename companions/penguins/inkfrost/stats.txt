@@ -1,0 +1,11 @@
+Peakwarden — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ██████████████░░░░░░  74
+
+Peak: DEBUGGING | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Polarguard — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

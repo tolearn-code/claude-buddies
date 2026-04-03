@@ -1,0 +1,11 @@
+Thal-Chillvane — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 372):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  76
+
+Peak: WISDOM | Dump: PATIENCE

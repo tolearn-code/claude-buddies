@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Crystallhelm",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Anar-Crystallhelm waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128771,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 100,
+      "CHAOS": 81,
+      "WISDOM": 52,
+      "SNARK": 66
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 611234645,
+  "totalStats": 384
+}

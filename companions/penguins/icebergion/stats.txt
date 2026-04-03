@@ -1,0 +1,11 @@
+Floehelm — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 370):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████░░░░░░░░  60
+  CHAOS      ██████████████░░░░░░  72
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

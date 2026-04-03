@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Violetfrost",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Violetfrost rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128777,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 67,
+      "PATIENCE": 53,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 166248904,
+  "totalStats": 381
+}

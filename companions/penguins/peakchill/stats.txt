@@ -1,0 +1,11 @@
+Rubyfrost — Legendary (★★★★★) Beanie
+Eyes: ° | Shiny: no
+
+Stats (total: 409):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: PATIENCE

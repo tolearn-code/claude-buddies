@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Sapphireice",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Sapphireice waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128786,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 49,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 110092265,
+  "totalStats": 376
+}

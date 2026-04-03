@@ -1,0 +1,11 @@
+Driftmane — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 369):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      █████████████████░░░  87
+  WISDOM     ███████████░░░░░░░░░  58
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

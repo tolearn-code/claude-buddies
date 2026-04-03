@@ -1,0 +1,11 @@
+Gîl-Glaciermane — Legendary (★★★★★) Halo ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ████████████░░░░░░░░  63
+  WISDOM     ███████████████░░░░░  77
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: PATIENCE

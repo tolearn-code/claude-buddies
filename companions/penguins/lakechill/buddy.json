@@ -1,0 +1,25 @@
+{
+  "name": "Dawnhelm",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Dawnhelm speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128767,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 85,
+      "CHAOS": 84,
+      "WISDOM": 100,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 489719092,
+  "totalStats": 408
+}

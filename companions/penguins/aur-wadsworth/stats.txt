@@ -1,0 +1,11 @@
+Ithil-Tundravane — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 406):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: WISDOM

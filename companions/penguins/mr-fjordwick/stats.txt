@@ -1,0 +1,11 @@
+Lúth-Berylice — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ████████████░░░░░░░░  60
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: CHAOS

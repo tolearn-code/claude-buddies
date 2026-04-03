@@ -1,0 +1,25 @@
+{
+  "name": "Blizzarion",
+  "personality": "A wild-eyed force who thrives in broken deploys. Blizzarion rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128763,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 67,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 45
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 67804698,
+  "totalStats": 377
+}

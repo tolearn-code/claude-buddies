@@ -1,0 +1,11 @@
+Coralhelm — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 363):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      █████████████░░░░░░░  65
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ████████░░░░░░░░░░░░  43 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

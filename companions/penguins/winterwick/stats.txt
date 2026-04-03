@@ -1,0 +1,11 @@
+Indigofloe — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 402):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ███████████████░░░░░  78
+
+Peak: CHAOS | Dump: WISDOM

@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Icecrown",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Thal-Icecrown speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128790,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 49,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 709506290,
+  "totalStats": 394
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Quartzhelm",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Quartzhelm waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128759,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 50,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 72,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 106723736,
+  "totalStats": 393
+}

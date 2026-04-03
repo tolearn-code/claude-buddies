@@ -1,0 +1,11 @@
+Frosthelm — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: DEBUGGING

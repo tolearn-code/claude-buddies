@@ -1,0 +1,11 @@
+Chillvane — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████░░░░░░░░░░░░  42 (dump)
+
+Peak: PATIENCE | Dump: SNARK

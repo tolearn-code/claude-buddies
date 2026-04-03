@@ -1,0 +1,11 @@
+Anar-Emeraldhelm — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████░░░░░░░░░░░░  44 (dump)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: CHAOS | Dump: WISDOM

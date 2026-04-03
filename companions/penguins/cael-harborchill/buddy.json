@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Berghelm",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Lúth-Berghelm speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128786,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 87,
+      "CHAOS": 51,
+      "WISDOM": 100,
+      "SNARK": 71
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 157866573,
+  "totalStats": 379
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Chillvane",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Thal-Chillvane speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128774,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 40,
+      "CHAOS": 79,
+      "WISDOM": 100,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 585916968,
+  "totalStats": 372
+}

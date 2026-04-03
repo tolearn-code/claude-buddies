@@ -1,0 +1,11 @@
+Mîr-Hailmere — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,11 @@
+Cael-Frostmantle — Legendary (★★★★★) Beanie ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  █████████████░░░░░░░  69
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  82
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: PATIENCE

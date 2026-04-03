@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Onyxfrost",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Onyxfrost waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128782,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 78,
+      "SNARK": 44
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 382107020,
+  "totalStats": 397
+}

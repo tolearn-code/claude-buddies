@@ -1,0 +1,11 @@
+Garnetfloe — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      █████████████████░░░  85
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

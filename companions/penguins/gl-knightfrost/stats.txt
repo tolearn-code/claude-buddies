@@ -1,0 +1,11 @@
+Lúth-Silverfrost — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 372):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████░░░░░░░░░  57
+  CHAOS      ██████████████░░░░░░  72
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

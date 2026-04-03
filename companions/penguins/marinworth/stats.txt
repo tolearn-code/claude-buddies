@@ -1,0 +1,11 @@
+Copperfrost — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 408):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: CHAOS

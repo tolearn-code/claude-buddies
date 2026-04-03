@@ -1,0 +1,11 @@
+Aur-Dawnhelm — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 375):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      █████████████░░░░░░░  69
+
+Peak: PATIENCE | Dump: WISDOM

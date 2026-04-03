@@ -1,0 +1,11 @@
+Snowmantle — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      ████████████████░░░░  81
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

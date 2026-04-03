@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Peakwarden",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Peakwarden rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128774,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 67,
+      "CHAOS": 100,
+      "WISDOM": 54,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 888775639,
+  "totalStats": 386
+}

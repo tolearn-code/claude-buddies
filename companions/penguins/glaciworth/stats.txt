@@ -1,0 +1,11 @@
+Berghelm — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 370):
+  DEBUGGING  █████████████░░░░░░░  66
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

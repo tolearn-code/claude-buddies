@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Fjordhelm",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Aur-Fjordhelm has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128787,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "°",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 53,
+      "CHAOS": 70,
+      "WISDOM": 79,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 316145879,
+  "totalStats": 385
+}

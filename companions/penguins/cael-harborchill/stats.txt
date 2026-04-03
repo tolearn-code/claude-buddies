@@ -1,0 +1,11 @@
+Lúth-Berghelm — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  71
+
+Peak: WISDOM | Dump: CHAOS

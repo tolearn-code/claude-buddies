@@ -1,0 +1,25 @@
+{
+  "name": "Frosthelm",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Frosthelm waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128761,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 100,
+      "CHAOS": 75,
+      "WISDOM": 67,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 440639008,
+  "totalStats": 378
+}

@@ -1,0 +1,11 @@
+Amethysthelm — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

@@ -1,0 +1,25 @@
+{
+  "name": "Peakwarden",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Peakwarden never rests until the root cause is found.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128765,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 53,
+      "CHAOS": 79,
+      "WISDOM": 78,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 941837778,
+  "totalStats": 384
+}

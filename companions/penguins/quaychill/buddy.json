@@ -1,0 +1,25 @@
+{
+  "name": "Onyxfrost",
+  "personality": "A wild-eyed force who thrives in broken deploys. Onyxfrost rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128770,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 73,
+      "CHAOS": 100,
+      "WISDOM": 44,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 413062454,
+  "totalStats": 369
+}

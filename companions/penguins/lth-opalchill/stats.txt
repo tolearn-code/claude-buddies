@@ -1,0 +1,11 @@
+Gîl-Topazhelm — Legendary (★★★★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: CHAOS | Dump: WISDOM

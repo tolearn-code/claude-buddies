@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Floehelm",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Gîl-Floehelm waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128783,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 100,
+      "CHAOS": 75,
+      "WISDOM": 73,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 743928094,
+  "totalStats": 383
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Pearlmane",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Pearlmane waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128778,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 100,
+      "CHAOS": 52,
+      "WISDOM": 77,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 785346148,
+  "totalStats": 388
+}

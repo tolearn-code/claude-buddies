@@ -1,0 +1,11 @@
+Tundravane — Legendary (★★★★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████░░░░░░░░  63
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      █████████████████░░░  85
+
+Peak: DEBUGGING | Dump: WISDOM

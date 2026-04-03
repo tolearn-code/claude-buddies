@@ -1,0 +1,11 @@
+Dawnhelm — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 408):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  86
+
+Peak: WISDOM | Dump: DEBUGGING

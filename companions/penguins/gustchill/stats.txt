@@ -1,0 +1,11 @@
+Frostmantle — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████░░░░░░░░░░░  45 (dump)
+
+Peak: CHAOS | Dump: SNARK

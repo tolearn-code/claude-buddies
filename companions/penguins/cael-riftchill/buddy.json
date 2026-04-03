@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Polarguard",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Polarguard rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128780,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 50,
+      "CHAOS": 100,
+      "WISDOM": 72,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 716498314,
+  "totalStats": 383
+}

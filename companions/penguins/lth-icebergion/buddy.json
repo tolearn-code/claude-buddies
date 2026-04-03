@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Rubyfrost",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Aur-Rubyfrost speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128776,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 65,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 72057165,
+  "totalStats": 386
+}

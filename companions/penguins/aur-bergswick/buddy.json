@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Blizzarion",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Cael-Blizzarion speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128784,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "@",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 79,
+      "CHAOS": 86,
+      "WISDOM": 100,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 653155592,
+  "totalStats": 399
+}

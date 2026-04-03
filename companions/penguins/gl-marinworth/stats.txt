@@ -1,0 +1,11 @@
+Cael-Moonice — Legendary (★★★★★) Crown ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 370):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████░░░░░░░░░░  52
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

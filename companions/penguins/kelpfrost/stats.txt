@@ -1,0 +1,11 @@
+Moonice — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████░░░░░░░░░░░░  43 (dump)
+
+Peak: CHAOS | Dump: SNARK

@@ -1,0 +1,25 @@
+{
+  "name": "Winterthane",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Winterthane never rests until the root cause is found.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128751,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "·",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 83,
+      "CHAOS": 80,
+      "WISDOM": 46,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 149079091,
+  "totalStats": 396
+}

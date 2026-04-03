@@ -1,0 +1,11 @@
+Amberhelm — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 364):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   █████████░░░░░░░░░░░  46 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ██████████████░░░░░░  70
+
+Peak: CHAOS | Dump: PATIENCE

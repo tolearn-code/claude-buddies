@@ -1,0 +1,11 @@
+Sleetguard — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: PATIENCE | Dump: DEBUGGING

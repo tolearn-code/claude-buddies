@@ -1,0 +1,25 @@
+{
+  "name": "Tundravane",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Tundravane never rests until the root cause is found.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128764,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 63,
+      "CHAOS": 75,
+      "WISDOM": 52,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 431152065,
+  "totalStats": 375
+}

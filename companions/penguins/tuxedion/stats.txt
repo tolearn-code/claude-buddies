@@ -1,0 +1,11 @@
+Obsidifrost — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████░░░░░░░░░░░░  44 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: WISDOM

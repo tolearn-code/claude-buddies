@@ -1,0 +1,11 @@
+Thal-Starfrost — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 403):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: PATIENCE | Dump: SNARK

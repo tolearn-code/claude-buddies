@@ -1,0 +1,25 @@
+{
+  "name": "Amberhelm",
+  "personality": "A wild-eyed force who thrives in broken deploys. Amberhelm rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128748,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "·",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 46,
+      "CHAOS": 100,
+      "WISDOM": 76,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 649994078,
+  "totalStats": 364
+}

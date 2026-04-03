@@ -1,0 +1,11 @@
+Quartzhelm — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      █████████████████░░░  86
+
+Peak: PATIENCE | Dump: DEBUGGING

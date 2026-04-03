@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Berylice",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Lúth-Berylice speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128775,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 60,
+      "PATIENCE": 82,
+      "CHAOS": 50,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 991677713,
+  "totalStats": 380
+}
