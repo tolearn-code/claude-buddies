@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Inksworth",
+  "personality": "An enchanted octopus whose ink writes self-documenting code. Unfortunately, it only writes in a dialect of Haskell that nobody else understands.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775217297863,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "octopus",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 11,
+      "CHAOS": 93,
+      "WISDOM": 50,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 127699603,
+  "totalStats": 259
+}

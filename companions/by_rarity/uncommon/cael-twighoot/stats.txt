@@ -1,0 +1,11 @@
+Cael-Twighoot — Uncommon (★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 266):
+  DEBUGGING  ██████████░░░░░░░░░░  51
+  PATIENCE   ███░░░░░░░░░░░░░░░░░  17 (dump)
+  CHAOS      ██████████░░░░░░░░░░  54
+  WISDOM     ██████████████████░░  93 (peak)
+  SNARK      ██████████░░░░░░░░░░  51
+
+Peak: WISDOM | Dump: PATIENCE

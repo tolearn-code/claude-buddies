@@ -1,0 +1,11 @@
+Dashpaw — Uncommon (★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 273):
+  DEBUGGING  ██████████░░░░░░░░░░  54
+  PATIENCE   ██████████░░░░░░░░░░  54
+  CHAOS      ███░░░░░░░░░░░░░░░░░  19 (dump)
+  WISDOM     ██████████░░░░░░░░░░  52
+  SNARK      ██████████████████░░  94 (peak)
+
+Peak: SNARK | Dump: CHAOS

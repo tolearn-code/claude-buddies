@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Gentlebrook",
+  "personality": "A sun-warmed capybara whose contentment is contagious. Entire teams have shipped calm, well-tested releases under its influence.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775217297870,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 48,
+      "CHAOS": 19,
+      "WISDOM": 93,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 427072837,
+  "totalStats": 267
+}

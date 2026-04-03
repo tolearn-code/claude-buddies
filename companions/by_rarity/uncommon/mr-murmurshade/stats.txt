@@ -1,0 +1,11 @@
+Mîr-Murmurshade — Uncommon (★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 260):
+  DEBUGGING  ██████████░░░░░░░░░░  53
+  PATIENCE   ██████████████████░░  93 (peak)
+  CHAOS      █████████░░░░░░░░░░░  47
+  WISDOM     ██░░░░░░░░░░░░░░░░░░  14 (dump)
+  SNARK      ██████████░░░░░░░░░░  53
+
+Peak: PATIENCE | Dump: WISDOM

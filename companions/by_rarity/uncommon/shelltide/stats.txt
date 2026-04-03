@@ -1,0 +1,11 @@
+Shelltide — Uncommon (★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 273):
+  DEBUGGING  ██████████░░░░░░░░░░  53
+  PATIENCE   ██████████░░░░░░░░░░  54
+  CHAOS      ███░░░░░░░░░░░░░░░░░  18 (dump)
+  WISDOM     ██████████████████░░  94 (peak)
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: WISDOM | Dump: CHAOS

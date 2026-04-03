@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Hearthstone",
+  "personality": "A starlit chonk of immense presence whose gravitational field attracts stale TODOs from across the codebase. They pile up around it like offerings.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775217297874,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "chonk",
+    "eye": "×",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 16,
+      "CHAOS": 94,
+      "WISDOM": 43,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 984823224,
+  "totalStats": 260
+}

@@ -1,0 +1,11 @@
+Gîl-Dreadbill — Uncommon (★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 263):
+  DEBUGGING  ███░░░░░░░░░░░░░░░░░  19 (dump)
+  PATIENCE   ██████████████████░░  94 (peak)
+  CHAOS      █████████░░░░░░░░░░░  45
+  WISDOM     ██████████░░░░░░░░░░  53
+  SNARK      ██████████░░░░░░░░░░  52
+
+Peak: PATIENCE | Dump: DEBUGGING

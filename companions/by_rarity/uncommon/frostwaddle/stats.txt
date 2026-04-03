@@ -1,0 +1,11 @@
+Frostwaddle — Uncommon (★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 271):
+  DEBUGGING  ██████████████████░░  94 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  54
+  CHAOS      ██████████░░░░░░░░░░  53
+  WISDOM     ██████████░░░░░░░░░░  51
+  SNARK      ███░░░░░░░░░░░░░░░░░  19 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

@@ -1,0 +1,25 @@
+{
+  "name": "Puddleshire",
+  "personality": "An uncommon duck who learned to debug by staring at its own reflection in still water. Finds symmetry bugs that no linter catches.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775217297857,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "duck",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 54,
+      "CHAOS": 94,
+      "WISDOM": 50,
+      "SNARK": 19
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 446411420,
+  "totalStats": 271
+}

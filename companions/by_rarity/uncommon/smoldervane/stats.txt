@@ -1,0 +1,11 @@
+Smoldervane — Uncommon (★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 270):
+  DEBUGGING  ██████████░░░░░░░░░░  53
+  PATIENCE   ███░░░░░░░░░░░░░░░░░  19 (dump)
+  CHAOS      ██████████░░░░░░░░░░  54
+  WISDOM     ██████████░░░░░░░░░░  51
+  SNARK      ██████████████████░░  93 (peak)
+
+Peak: SNARK | Dump: PATIENCE

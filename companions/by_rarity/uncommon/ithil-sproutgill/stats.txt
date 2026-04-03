@@ -1,0 +1,11 @@
+Ithil-Sproutgill — Uncommon (★★) Halo ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 266):
+  DEBUGGING  ██████████████████░░  92 (peak)
+  PATIENCE   ███░░░░░░░░░░░░░░░░░  19 (dump)
+  CHAOS      ██████████░░░░░░░░░░  52
+  WISDOM     ██████████░░░░░░░░░░  53
+  SNARK      ██████████░░░░░░░░░░  50
+
+Peak: DEBUGGING | Dump: PATIENCE

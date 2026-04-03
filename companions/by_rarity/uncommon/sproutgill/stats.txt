@@ -1,0 +1,11 @@
+Sproutgill — Uncommon (★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 270):
+  DEBUGGING  ██████████░░░░░░░░░░  54
+  PATIENCE   ██████████░░░░░░░░░░  53
+  CHAOS      ██████████░░░░░░░░░░  53
+  WISDOM     ██████████████████░░  92 (peak)
+  SNARK      ███░░░░░░░░░░░░░░░░░  18 (dump)
+
+Peak: WISDOM | Dump: SNARK

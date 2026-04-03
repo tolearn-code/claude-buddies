@@ -1,0 +1,11 @@
+Thal-Frostwaddle — Uncommon (★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 265):
+  DEBUGGING  ██████████░░░░░░░░░░  54
+  PATIENCE   █████████████████░░░  87 (peak)
+  CHAOS      ███░░░░░░░░░░░░░░░░░  17 (dump)
+  WISDOM     ██████████░░░░░░░░░░  54
+  SNARK      ██████████░░░░░░░░░░  53
+
+Peak: PATIENCE | Dump: CHAOS

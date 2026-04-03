@@ -1,0 +1,11 @@
+Anar-Gentlebrook — Uncommon (★★) Tophat ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 267):
+  DEBUGGING  ██████████░░░░░░░░░░  54
+  PATIENCE   █████████░░░░░░░░░░░  48
+  CHAOS      ███░░░░░░░░░░░░░░░░░  19 (dump)
+  WISDOM     ██████████████████░░  93 (peak)
+  SNARK      ██████████░░░░░░░░░░  53
+
+Peak: WISDOM | Dump: CHAOS

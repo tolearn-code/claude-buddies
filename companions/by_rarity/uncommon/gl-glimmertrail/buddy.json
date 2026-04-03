@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Glimmertrail",
+  "personality": "A starlit snail whose trail spells out error messages in cursive. Moves at one function per day, but its reviews are gallery-worthy.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775217297867,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "snail",
+    "eye": "°",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 91,
+      "PATIENCE": 52,
+      "CHAOS": 51,
+      "WISDOM": 16,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 733423954,
+  "totalStats": 264
+}

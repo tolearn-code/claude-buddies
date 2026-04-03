@@ -1,0 +1,11 @@
+Needleguard — Uncommon (★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 272):
+  DEBUGGING  ██████████████████░░  94 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  54
+  CHAOS      ██████████░░░░░░░░░░  51
+  WISDOM     ██████████░░░░░░░░░░  54
+  SNARK      ███░░░░░░░░░░░░░░░░░  19 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

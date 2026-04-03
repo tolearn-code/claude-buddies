@@ -1,0 +1,25 @@
+{
+  "name": "Dashpaw",
+  "personality": "An uncommon rabbit who reads your commit messages faster than you write them. Already has opinions about your branch naming convention.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775217297872,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "rabbit",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 54,
+      "CHAOS": 19,
+      "WISDOM": 52,
+      "SNARK": 94
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 477245387,
+  "totalStats": 273
+}

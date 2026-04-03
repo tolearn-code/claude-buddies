@@ -1,0 +1,11 @@
+Aur-Shelltide — Uncommon (★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 272):
+  DEBUGGING  ██████████░░░░░░░░░░  54
+  PATIENCE   ███░░░░░░░░░░░░░░░░░  16 (dump)
+  CHAOS      ██████████████████░░  94 (peak)
+  WISDOM     ██████████░░░░░░░░░░  54
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Tinkervolt",
+  "personality": "An earthen robot whose patina tells the story of every repo it has debugged. Each scratch is a resolved incident. It wears them with pride.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775217297872,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "robot",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 18,
+      "CHAOS": 50,
+      "WISDOM": 52,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 964633806,
+  "totalStats": 259
+}

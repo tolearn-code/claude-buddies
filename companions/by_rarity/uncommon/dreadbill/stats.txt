@@ -1,0 +1,11 @@
+Dreadbill — Uncommon (★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 270):
+  DEBUGGING  ██████████░░░░░░░░░░  51
+  PATIENCE   ██████████████████░░  93 (peak)
+  CHAOS      ██████████░░░░░░░░░░  54
+  WISDOM     ██████████░░░░░░░░░░  53
+  SNARK      ███░░░░░░░░░░░░░░░░░  19 (dump)
+
+Peak: PATIENCE | Dump: SNARK

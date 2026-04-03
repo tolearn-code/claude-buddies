@@ -1,0 +1,25 @@
+{
+  "name": "Capweaver",
+  "personality": "An uncommon mushroom who grows in the margins of your documentation, filling in the parts you were too lazy to write. The docs are better, but damper.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775217297873,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "mushroom",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 53,
+      "CHAOS": 54,
+      "WISDOM": 16,
+      "SNARK": 94
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 534308458,
+  "totalStats": 270
+}

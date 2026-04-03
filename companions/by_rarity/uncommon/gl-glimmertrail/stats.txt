@@ -1,0 +1,11 @@
+Gîl-Glimmertrail — Uncommon (★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 264):
+  DEBUGGING  ██████████████████░░  91 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  52
+  CHAOS      ██████████░░░░░░░░░░  51
+  WISDOM     ███░░░░░░░░░░░░░░░░░  16 (dump)
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: DEBUGGING | Dump: WISDOM

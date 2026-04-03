@@ -1,0 +1,11 @@
+Hearthstone — Uncommon (★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 272):
+  DEBUGGING  ██████████░░░░░░░░░░  54
+  PATIENCE   ██████████░░░░░░░░░░  54
+  CHAOS      ██████████████████░░  91 (peak)
+  WISDOM     ███░░░░░░░░░░░░░░░░░  19 (dump)
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: CHAOS | Dump: WISDOM

@@ -1,0 +1,11 @@
+Capweaver — Uncommon (★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 270):
+  DEBUGGING  ██████████░░░░░░░░░░  53
+  PATIENCE   ██████████░░░░░░░░░░  53
+  CHAOS      ██████████░░░░░░░░░░  54
+  WISDOM     ███░░░░░░░░░░░░░░░░░  16 (dump)
+  SNARK      ██████████████████░░  94 (peak)
+
+Peak: SNARK | Dump: WISDOM

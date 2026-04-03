@@ -1,0 +1,11 @@
+Dewmeld — Uncommon (★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 272):
+  DEBUGGING  ██████████░░░░░░░░░░  53
+  PATIENCE   ███░░░░░░░░░░░░░░░░░  19 (dump)
+  CHAOS      ██████████░░░░░░░░░░  54
+  WISDOM     ██████████████████░░  92 (peak)
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: WISDOM | Dump: PATIENCE

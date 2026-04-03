@@ -1,0 +1,25 @@
+{
+  "name": "Tinkervolt",
+  "personality": "An uncommon robot who beeps once for clean code and twice for technical debt. Your office sounds like a heart monitor during legacy refactors.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775217297871,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 92,
+      "PATIENCE": 53,
+      "CHAOS": 19,
+      "WISDOM": 54,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 842113262,
+  "totalStats": 272
+}

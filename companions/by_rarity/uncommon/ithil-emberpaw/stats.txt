@@ -1,0 +1,11 @@
+Ithil-Emberpaw — Uncommon (★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 259):
+  DEBUGGING  █████████░░░░░░░░░░░  49
+  PATIENCE   ██████████████████░░  91 (peak)
+  CHAOS      ███░░░░░░░░░░░░░░░░░  18 (dump)
+  WISDOM     ██████████░░░░░░░░░░  51
+  SNARK      ██████████░░░░░░░░░░  50
+
+Peak: PATIENCE | Dump: CHAOS

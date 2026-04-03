@@ -1,0 +1,25 @@
+{
+  "name": "Dewmeld",
+  "personality": "An uncommon blob that seeps into the gaps between your modules, filling them with just enough glue code to hold everything together.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775217297860,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 19,
+      "CHAOS": 54,
+      "WISDOM": 92,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 863498769,
+  "totalStats": 272
+}

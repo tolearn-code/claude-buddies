@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Twighoot",
+  "personality": "An earthen owl whose questions cut deeper than any linter. Asks things like 'what happens when this is null?' at 2am. Always right.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775217297864,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "owl",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 17,
+      "CHAOS": 54,
+      "WISDOM": 93,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 422451213,
+  "totalStats": 266
+}

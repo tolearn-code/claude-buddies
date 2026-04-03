@@ -1,0 +1,11 @@
+Lúth-Needleguard — Uncommon (★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 259):
+  DEBUGGING  ███░░░░░░░░░░░░░░░░░  17 (dump)
+  PATIENCE   ██████████░░░░░░░░░░  50
+  CHAOS      █████████░░░░░░░░░░░  47
+  WISDOM     ██████████████████░░  92 (peak)
+  SNARK      ██████████░░░░░░░░░░  53
+
+Peak: WISDOM | Dump: DEBUGGING

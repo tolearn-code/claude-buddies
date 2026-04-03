@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Dashpaw",
+  "personality": "A rabbit of blinding speed who proofreads your PR description before you finish typing it. Its suggestions arrive as autocomplete. Spookily accurate.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775217297873,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "rabbit",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 16,
+      "PATIENCE": 51,
+      "CHAOS": 93,
+      "WISDOM": 53,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 612662975,
+  "totalStats": 261
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Emberpaw",
+  "personality": "A moonlit cat whose purring frequency matches the exact rhythm of productive flow state. Stops purring when you open social media.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775217297861,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "cat",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 91,
+      "CHAOS": 18,
+      "WISDOM": 51,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 488722878,
+  "totalStats": 259
+}

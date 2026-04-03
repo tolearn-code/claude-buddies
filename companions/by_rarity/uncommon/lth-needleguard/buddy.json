@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Needleguard",
+  "personality": "An enchanted cactus whose glowing needles point at code smells like a divining rod points at water. Painfully accurate.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775217297871,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "cactus",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 17,
+      "PATIENCE": 50,
+      "CHAOS": 47,
+      "WISDOM": 92,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 606888710,
+  "totalStats": 259
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Smoldervane",
+  "personality": "A sun-kissed young dragon whose tiny flames illuminate typos in your comments. Will grow into something terrifying, but for now, it's helpful.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775217297862,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "dragon",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 18,
+      "PATIENCE": 50,
+      "CHAOS": 52,
+      "WISDOM": 50,
+      "SNARK": 93
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 670981076,
+  "totalStats": 263
+}

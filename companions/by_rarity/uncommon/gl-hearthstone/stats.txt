@@ -1,0 +1,11 @@
+Gîl-Hearthstone — Uncommon (★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 260):
+  DEBUGGING  ██████████░░░░░░░░░░  53
+  PATIENCE   ███░░░░░░░░░░░░░░░░░  16 (dump)
+  CHAOS      ██████████████████░░  94 (peak)
+  WISDOM     ████████░░░░░░░░░░░░  43
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: CHAOS | Dump: PATIENCE

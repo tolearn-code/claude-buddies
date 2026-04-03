@@ -1,0 +1,25 @@
+{
+  "name": "Sproutgill",
+  "personality": "An uncommon axolotl who regrows broken test fixtures overnight. You come in the next morning and everything just works. You learn not to ask how.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775217297869,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 53,
+      "CHAOS": 53,
+      "WISDOM": 92,
+      "SNARK": 18
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 257225048,
+  "totalStats": 270
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Sproutgill",
+  "personality": "A moonlit axolotl whose regenerative powers extend to entire git branches. Reverts gone wrong? It's already healing.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775217297869,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "axolotl",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 92,
+      "PATIENCE": 19,
+      "CHAOS": 52,
+      "WISDOM": 53,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 352060597,
+  "totalStats": 266
+}

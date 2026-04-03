@@ -1,0 +1,11 @@
+Tinkervolt — Uncommon (★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 272):
+  DEBUGGING  ██████████████████░░  92 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  53
+  CHAOS      ███░░░░░░░░░░░░░░░░░  19 (dump)
+  WISDOM     ██████████░░░░░░░░░░  54
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: DEBUGGING | Dump: CHAOS

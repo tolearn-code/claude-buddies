@@ -1,0 +1,11 @@
+Thal-Dashpaw — Uncommon (★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 261):
+  DEBUGGING  ███░░░░░░░░░░░░░░░░░  16 (dump)
+  PATIENCE   ██████████░░░░░░░░░░  51
+  CHAOS      ██████████████████░░  93 (peak)
+  WISDOM     ██████████░░░░░░░░░░  53
+  SNARK      █████████░░░░░░░░░░░  48
+
+Peak: CHAOS | Dump: DEBUGGING

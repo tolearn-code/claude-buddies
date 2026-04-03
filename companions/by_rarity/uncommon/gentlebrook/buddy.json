@@ -1,0 +1,25 @@
+{
+  "name": "Gentlebrook",
+  "personality": "An uncommon capybara who sits in your lap during standups and absorbs all the stress. The standup still runs long, but you mind less.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775217297870,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 53,
+      "CHAOS": 19,
+      "WISDOM": 92,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 2761316,
+  "totalStats": 270
+}

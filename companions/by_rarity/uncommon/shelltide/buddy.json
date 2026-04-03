@@ -1,0 +1,25 @@
+{
+  "name": "Shelltide",
+  "personality": "An uncommon turtle who carries your oldest open PR on its back. Has been working on it since last quarter. It will be perfect when it's done.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775217297866,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "turtle",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 54,
+      "CHAOS": 18,
+      "WISDOM": 94,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 280523355,
+  "totalStats": 273
+}

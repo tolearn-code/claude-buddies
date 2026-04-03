@@ -1,0 +1,25 @@
+{
+  "name": "Murmurshade",
+  "personality": "An uncommon ghost who whispers your deleted code back to you in dreams. Some of it deserved to be deleted. Some of it didn't.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775217297868,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "ghost",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 18,
+      "PATIENCE": 53,
+      "CHAOS": 54,
+      "WISDOM": 93,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 91515387,
+  "totalStats": 271
+}

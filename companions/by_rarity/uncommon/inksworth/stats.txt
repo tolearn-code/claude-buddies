@@ -1,0 +1,11 @@
+Inksworth — Uncommon (★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 271):
+  DEBUGGING  ██████████░░░░░░░░░░  53
+  PATIENCE   ███░░░░░░░░░░░░░░░░░  16 (dump)
+  CHAOS      ██████████████████░░  94 (peak)
+  WISDOM     ██████████░░░░░░░░░░  54
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: CHAOS | Dump: PATIENCE

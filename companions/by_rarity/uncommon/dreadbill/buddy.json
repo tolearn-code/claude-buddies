@@ -1,0 +1,25 @@
+{
+  "name": "Dreadbill",
+  "personality": "An uncommon goose who honks at every uncommitted change like a guard dog at a fence. Annoying, but has saved more branches than it's broken.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775217297859,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "goose",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 93,
+      "CHAOS": 54,
+      "WISDOM": 53,
+      "SNARK": 19
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 275599987,
+  "totalStats": 270
+}

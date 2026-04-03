@@ -1,0 +1,11 @@
+Emberpaw — Uncommon (★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 272):
+  DEBUGGING  ██████████░░░░░░░░░░  54
+  PATIENCE   ██████████████████░░  94 (peak)
+  CHAOS      ██████████░░░░░░░░░░  53
+  WISDOM     ███░░░░░░░░░░░░░░░░░  19 (dump)
+  SNARK      ██████████░░░░░░░░░░  52
+
+Peak: PATIENCE | Dump: WISDOM

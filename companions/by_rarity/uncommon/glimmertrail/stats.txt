@@ -1,0 +1,11 @@
+Glimmertrail — Uncommon (★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 269):
+  DEBUGGING  ███░░░░░░░░░░░░░░░░░  19 (dump)
+  PATIENCE   ██████████░░░░░░░░░░  53
+  CHAOS      ██████████░░░░░░░░░░  54
+  WISDOM     █████████░░░░░░░░░░░  49
+  SNARK      ██████████████████░░  94 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

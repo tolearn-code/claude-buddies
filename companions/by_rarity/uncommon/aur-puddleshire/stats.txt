@@ -1,0 +1,11 @@
+Aur-Puddleshire — Uncommon (★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 261):
+  DEBUGGING  ██████████░░░░░░░░░░  52
+  PATIENCE   ████████████████░░░░  84 (peak)
+  CHAOS      ███░░░░░░░░░░░░░░░░░  19 (dump)
+  WISDOM     ██████████░░░░░░░░░░  54
+  SNARK      ██████████░░░░░░░░░░  52
+
+Peak: PATIENCE | Dump: CHAOS

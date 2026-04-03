@@ -1,0 +1,11 @@
+Anar-Smoldervane — Uncommon (★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 263):
+  DEBUGGING  ███░░░░░░░░░░░░░░░░░  18 (dump)
+  PATIENCE   ██████████░░░░░░░░░░  50
+  CHAOS      ██████████░░░░░░░░░░  52
+  WISDOM     ██████████░░░░░░░░░░  50
+  SNARK      ██████████████████░░  93 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

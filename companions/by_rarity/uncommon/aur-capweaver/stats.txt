@@ -1,0 +1,11 @@
+Aur-Capweaver — Uncommon (★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 268):
+  DEBUGGING  ███░░░░░░░░░░░░░░░░░  19 (dump)
+  PATIENCE   █████████░░░░░░░░░░░  48
+  CHAOS      ██████████████████░░  94 (peak)
+  WISDOM     ██████████░░░░░░░░░░  53
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: CHAOS | Dump: DEBUGGING

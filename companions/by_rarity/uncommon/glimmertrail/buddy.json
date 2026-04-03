@@ -1,0 +1,25 @@
+{
+  "name": "Glimmertrail",
+  "personality": "An uncommon snail who leaves a trail of breadcrumb comments through your code. Follow the trail and you'll find where you went wrong last Tuesday.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775217297867,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "snail",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 19,
+      "PATIENCE": 53,
+      "CHAOS": 54,
+      "WISDOM": 49,
+      "SNARK": 94
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 634340280,
+  "totalStats": 269
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Inksworth",
+  "personality": "An uncommon octopus who uses its ink to redline your code reviews. The marks fade after a day, but the shame lingers longer.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775217297863,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "octopus",
+    "eye": "·",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 16,
+      "CHAOS": 94,
+      "WISDOM": 54,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 263006065,
+  "totalStats": 271
+}

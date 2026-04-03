@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Puddleshire",
+  "personality": "A golden duck whose reflection in your monitor shows the correct code. You just have to look at the right angle.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775217297858,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "duck",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 84,
+      "CHAOS": 19,
+      "WISDOM": 54,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 393380363,
+  "totalStats": 261
+}

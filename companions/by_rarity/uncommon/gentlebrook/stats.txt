@@ -1,0 +1,11 @@
+Gentlebrook — Uncommon (★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 270):
+  DEBUGGING  ██████████░░░░░░░░░░  52
+  PATIENCE   ██████████░░░░░░░░░░  53
+  CHAOS      ███░░░░░░░░░░░░░░░░░  19 (dump)
+  WISDOM     ██████████████████░░  92 (peak)
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: WISDOM | Dump: CHAOS

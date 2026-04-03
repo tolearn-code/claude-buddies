@@ -1,0 +1,11 @@
+Puddleshire — Uncommon (★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 271):
+  DEBUGGING  ██████████░░░░░░░░░░  54
+  PATIENCE   ██████████░░░░░░░░░░  54
+  CHAOS      ██████████████████░░  94 (peak)
+  WISDOM     ██████████░░░░░░░░░░  50
+  SNARK      ███░░░░░░░░░░░░░░░░░  19 (dump)
+
+Peak: CHAOS | Dump: SNARK

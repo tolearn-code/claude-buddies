@@ -1,0 +1,25 @@
+{
+  "name": "Smoldervane",
+  "personality": "An uncommon dragon still small enough to perch on your monitor, but already opinionated enough to smoke at your naming conventions.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775217297862,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "dragon",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 19,
+      "CHAOS": 54,
+      "WISDOM": 51,
+      "SNARK": 93
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 652291009,
+  "totalStats": 270
+}

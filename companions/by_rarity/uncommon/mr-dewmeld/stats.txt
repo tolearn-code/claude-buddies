@@ -1,0 +1,11 @@
+Mîr-Dewmeld — Uncommon (★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 262):
+  DEBUGGING  ██████████░░░░░░░░░░  52
+  PATIENCE   ██████████░░░░░░░░░░  52
+  CHAOS      ██████████░░░░░░░░░░  53
+  WISDOM     ██░░░░░░░░░░░░░░░░░░  11 (dump)
+  SNARK      ██████████████████░░  94 (peak)
+
+Peak: SNARK | Dump: WISDOM

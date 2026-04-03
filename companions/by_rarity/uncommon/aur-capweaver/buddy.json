@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Capweaver",
+  "personality": "A golden mushroom whose mycelial network connects every file in your repo. Change one thing and it lights up every file that will break.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775217297874,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "mushroom",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 19,
+      "PATIENCE": 48,
+      "CHAOS": 94,
+      "WISDOM": 53,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 733399391,
+  "totalStats": 268
+}

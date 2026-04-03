@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Dewmeld",
+  "personality": "A jewel-bright blob that absorbs your worst function and excretes it as two clean ones. The process is not pretty, but the results are.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775217297860,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "blob",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 52,
+      "CHAOS": 53,
+      "WISDOM": 11,
+      "SNARK": 94
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 631019834,
+  "totalStats": 262
+}

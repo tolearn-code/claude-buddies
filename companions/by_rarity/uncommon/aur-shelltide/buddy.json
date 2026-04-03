@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Shelltide",
+  "personality": "A golden turtle whose shell displays a miniature Kanban board. Every ticket moves at turtle speed, but every ticket gets done.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775217297866,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "turtle",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 16,
+      "CHAOS": 94,
+      "WISDOM": 54,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 320513420,
+  "totalStats": 272
+}

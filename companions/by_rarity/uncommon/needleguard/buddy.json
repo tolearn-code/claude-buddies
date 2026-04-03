@@ -1,0 +1,25 @@
+{
+  "name": "Needleguard",
+  "personality": "An uncommon cactus who pricks you every time you skip writing a test. Your test coverage has improved 40% since it arrived. You resent it and rely on it equally.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775217297870,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "cactus",
+    "eye": "·",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 94,
+      "PATIENCE": 54,
+      "CHAOS": 51,
+      "WISDOM": 54,
+      "SNARK": 19
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 274486085,
+  "totalStats": 272
+}

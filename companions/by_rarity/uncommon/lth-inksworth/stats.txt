@@ -1,0 +1,11 @@
+Lúth-Inksworth — Uncommon (★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 259):
+  DEBUGGING  ██████████░░░░░░░░░░  53
+  PATIENCE   ██░░░░░░░░░░░░░░░░░░  11 (dump)
+  CHAOS      ██████████████████░░  93 (peak)
+  WISDOM     ██████████░░░░░░░░░░  50
+  SNARK      ██████████░░░░░░░░░░  52
+
+Peak: CHAOS | Dump: PATIENCE

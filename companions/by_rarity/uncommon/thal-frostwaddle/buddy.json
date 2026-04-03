@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Frostwaddle",
+  "personality": "A penguin of distinguished bearing who treats your test suite like a ballroom. Every test must be properly dressed before it's allowed to run.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775217297865,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "penguin",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 87,
+      "CHAOS": 17,
+      "WISDOM": 54,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 656882958,
+  "totalStats": 265
+}

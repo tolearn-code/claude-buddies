@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Murmurshade",
+  "personality": "A crystalline phantom whose transparency reveals the hidden dependencies in your imports. You can see your technical debt through it, literally.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775217297868,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "ghost",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 93,
+      "CHAOS": 47,
+      "WISDOM": 14,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 816803449,
+  "totalStats": 260
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Emberpaw",
+  "personality": "An uncommon cat who sits on your keyboard only when you're about to type something you'll regret. Saves more code than it deletes.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775217297861,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "cat",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 94,
+      "CHAOS": 53,
+      "WISDOM": 19,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 337389514,
+  "totalStats": 272
+}

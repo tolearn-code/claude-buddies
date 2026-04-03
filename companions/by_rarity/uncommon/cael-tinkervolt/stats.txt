@@ -1,0 +1,11 @@
+Cael-Tinkervolt — Uncommon (★★) Crown ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 259):
+  DEBUGGING  █████████████████░░░  87 (peak)
+  PATIENCE   ███░░░░░░░░░░░░░░░░░  18 (dump)
+  CHAOS      ██████████░░░░░░░░░░  50
+  WISDOM     ██████████░░░░░░░░░░  52
+  SNARK      ██████████░░░░░░░░░░  52
+
+Peak: DEBUGGING | Dump: PATIENCE

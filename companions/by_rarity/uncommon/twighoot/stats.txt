@@ -1,0 +1,11 @@
+Twighoot — Uncommon (★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 272):
+  DEBUGGING  ███░░░░░░░░░░░░░░░░░  17 (dump)
+  PATIENCE   ██████████████████░░  93 (peak)
+  CHAOS      ██████████░░░░░░░░░░  54
+  WISDOM     ██████████░░░░░░░░░░  54
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: PATIENCE | Dump: DEBUGGING

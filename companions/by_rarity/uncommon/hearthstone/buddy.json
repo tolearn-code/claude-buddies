@@ -1,0 +1,25 @@
+{
+  "name": "Hearthstone",
+  "personality": "An uncommon chonk who sits on your keyboard's spacebar, ensuring consistent indentation through sheer body weight. Functional, if unconventional.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775217297874,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "chonk",
+    "eye": "@",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 54,
+      "CHAOS": 91,
+      "WISDOM": 19,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 281353136,
+  "totalStats": 272
+}

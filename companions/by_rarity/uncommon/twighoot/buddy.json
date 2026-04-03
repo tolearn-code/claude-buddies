@@ -1,0 +1,25 @@
+{
+  "name": "Twighoot",
+  "personality": "An uncommon owl who asks 'but why?' exactly three times per code review. By the third time, you've usually found the bug yourself.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775217297864,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "uncommon",
+    "species": "owl",
+    "eye": "×",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 17,
+      "PATIENCE": 93,
+      "CHAOS": 54,
+      "WISDOM": 54,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 274301762,
+  "totalStats": 272
+}

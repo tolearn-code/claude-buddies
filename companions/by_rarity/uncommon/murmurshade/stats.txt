@@ -1,0 +1,11 @@
+Murmurshade — Uncommon (★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 271):
+  DEBUGGING  ███░░░░░░░░░░░░░░░░░  18 (dump)
+  PATIENCE   ██████████░░░░░░░░░░  53
+  CHAOS      ██████████░░░░░░░░░░  54
+  WISDOM     ██████████████████░░  93 (peak)
+  SNARK      ██████████░░░░░░░░░░  53
+
+Peak: WISDOM | Dump: DEBUGGING
