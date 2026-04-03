@@ -1,0 +1,26 @@
+Thistlewing — Uncommon Owl (★★)
+Eyes: · | Hat: none | Shiny: no
+
+--- Frame 0 (idle) ---
+   /\  /\
+  ((·)(·))
+  (  ><  )
+   `----´
+
+--- Frame 1 (idle) ---
+   /\  /\
+  ((·)(·))
+  (  ><  )
+   .----.
+
+--- Frame 2 (wink) ---
+   /\  /\
+  ((·)(-))
+  (  ><  )
+   `----´
+
+--- Sleeping ---
+   /\  /\
+  ((-)(-))
+  (  ><  )
+   `----´
