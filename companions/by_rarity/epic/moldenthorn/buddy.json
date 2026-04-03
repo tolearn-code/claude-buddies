@@ -1,0 +1,25 @@
+{
+  "name": "Moldenthorn",
+  "personality": "An immovable presence who watches builds with the patience of mountains. Moldenthorn waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775216842553,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "mushroom",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 100,
+      "CHAOS": 39,
+      "WISDOM": 74,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 520803085,
+  "totalStats": 361
+}

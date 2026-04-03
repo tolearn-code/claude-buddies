@@ -1,0 +1,11 @@
+Ashenvyr — Epic (★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 359):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████░░░░░░░░░░░░░  38 (dump)
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ██████████████░░░░░░  74
+
+Peak: PATIENCE | Dump: CHAOS

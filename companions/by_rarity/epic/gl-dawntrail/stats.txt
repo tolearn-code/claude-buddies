@@ -1,0 +1,11 @@
+Gîl-Dawntrail — Epic (★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 348):
+  DEBUGGING  ██████░░░░░░░░░░░░░░  34 (dump)
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  72
+
+Peak: WISDOM | Dump: DEBUGGING

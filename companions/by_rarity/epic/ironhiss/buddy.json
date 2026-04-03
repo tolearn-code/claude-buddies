@@ -1,0 +1,25 @@
+{
+  "name": "Ironhiss",
+  "personality": "A sharp-tongued critic who reviews code with surgical cruelty. Ironhiss has never given a compliment — absence of criticism is the highest praise.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775216842537,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "goose",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 74,
+      "CHAOS": 73,
+      "WISDOM": 39,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 357764063,
+  "totalStats": 360
+}

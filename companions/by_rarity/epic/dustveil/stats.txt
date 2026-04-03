@@ -1,0 +1,11 @@
+Dustveil — Epic (★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 357):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████░░░░░░░░░░░░░  36 (dump)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: CHAOS | Dump: WISDOM

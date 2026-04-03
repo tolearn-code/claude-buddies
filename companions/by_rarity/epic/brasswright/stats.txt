@@ -1,0 +1,11 @@
+Brasswright — Epic (★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 357):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ███████░░░░░░░░░░░░░  38 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

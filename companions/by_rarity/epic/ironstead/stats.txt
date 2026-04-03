@@ -1,0 +1,11 @@
+Ironstead — Epic (★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 359):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████░░░░░░░░░░░░░  39 (dump)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ██████████████░░░░░░  73
+
+Peak: DEBUGGING | Dump: PATIENCE

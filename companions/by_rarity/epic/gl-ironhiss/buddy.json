@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Ironhiss",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace. Gîl-Ironhiss never rests until the root cause is found.",
+  "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
+  "hatchedAt": 1775216842537,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "goose",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 98,
+      "PATIENCE": 71,
+      "CHAOS": 74,
+      "WISDOM": 72,
+      "SNARK": 39
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 664071367,
+  "totalStats": 354
+}

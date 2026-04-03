@@ -1,0 +1,11 @@
+Thal-Icemantle — Epic (★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 348):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      █████░░░░░░░░░░░░░░░  29 (dump)
+
+Peak: PATIENCE | Dump: SNARK

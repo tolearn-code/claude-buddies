@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Voidshimmer",
+  "personality": "A sharp-tongued critic who reviews code with surgical cruelty. Mîr-Voidshimmer has never given a compliment — absence of criticism is the highest praise.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775216842538,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "blob",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 69,
+      "CHAOS": 72,
+      "WISDOM": 38,
+      "SNARK": 96
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 501682525,
+  "totalStats": 347
+}

@@ -1,0 +1,11 @@
+Ironhiss — Epic (★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 360):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ███████░░░░░░░░░░░░░  39 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

@@ -1,0 +1,11 @@
+Aur-Moldenthorn — Epic (★★★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 357):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ███████░░░░░░░░░░░░░  39 (dump)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: DEBUGGING | Dump: WISDOM

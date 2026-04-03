@@ -1,0 +1,11 @@
+Voidshimmer — Epic (★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 358):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ███████░░░░░░░░░░░░░  38 (dump)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

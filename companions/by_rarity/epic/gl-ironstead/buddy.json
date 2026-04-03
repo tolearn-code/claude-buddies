@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Ironstead",
+  "personality": "An immovable presence who watches builds with the patience of mountains. Gîl-Ironstead waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775216842554,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "chonk",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 98,
+      "CHAOS": 67,
+      "WISDOM": 39,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 913094946,
+  "totalStats": 348
+}

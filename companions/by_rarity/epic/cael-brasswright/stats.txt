@@ -1,0 +1,11 @@
+Cael-Brasswright — Epic (★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 346):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  67
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ███████░░░░░░░░░░░░░  38 (dump)
+  SNARK      ██████████████░░░░░░  70
+
+Peak: DEBUGGING | Dump: WISDOM

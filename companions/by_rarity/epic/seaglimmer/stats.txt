@@ -1,0 +1,11 @@
+Seaglimmer — Epic (★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 361):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████░░░░░░░░░░░░░  39 (dump)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ██████████████░░░░░░  74
+
+Peak: DEBUGGING | Dump: PATIENCE

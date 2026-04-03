@@ -1,0 +1,11 @@
+Mossward — Epic (★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 359):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ███████░░░░░░░░░░░░░  38 (dump)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,11 @@
+Warmhollow — Epic (★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 360):
+  DEBUGGING  ███████░░░░░░░░░░░░░  39 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ██████████████░░░░░░  73
+
+Peak: PATIENCE | Dump: DEBUGGING

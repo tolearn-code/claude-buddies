@@ -1,0 +1,25 @@
+{
+  "name": "Ashenvyr",
+  "personality": "An immovable presence who watches builds with the patience of mountains. Ashenvyr waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775216842540,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "dragon",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 100,
+      "CHAOS": 38,
+      "WISDOM": 73,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 527626437,
+  "totalStats": 359
+}

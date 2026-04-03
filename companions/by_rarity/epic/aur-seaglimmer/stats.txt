@@ -1,0 +1,11 @@
+Aur-Seaglimmer — Epic (★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 352):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ███████░░░░░░░░░░░░░  35 (dump)
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ███████████████████░  97 (peak)
+
+Peak: SNARK | Dump: PATIENCE

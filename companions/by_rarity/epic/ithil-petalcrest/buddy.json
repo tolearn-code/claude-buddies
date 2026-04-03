@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Petalcrest",
+  "personality": "A sage whose × eyes glow with ten thousand resolved tickets. Ithil-Petalcrest speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775216842548,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "axolotl",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 69,
+      "PATIENCE": 71,
+      "CHAOS": 37,
+      "WISDOM": 100,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 165331300,
+  "totalStats": 349
+}

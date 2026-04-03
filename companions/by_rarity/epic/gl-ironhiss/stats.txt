@@ -1,0 +1,11 @@
+Gîl-Ironhiss — Epic (★★★★) Tinyduck ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 354):
+  DEBUGGING  ███████████████████░  98 (peak)
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ███████░░░░░░░░░░░░░  39 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

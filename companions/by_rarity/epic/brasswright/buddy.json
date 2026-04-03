@@ -1,0 +1,25 @@
+{
+  "name": "Brasswright",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace. Brasswright never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775216842551,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "robot",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 73,
+      "CHAOS": 74,
+      "WISDOM": 72,
+      "SNARK": 38
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 345934320,
+  "totalStats": 357
+}

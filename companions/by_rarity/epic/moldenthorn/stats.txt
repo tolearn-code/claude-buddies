@@ -1,0 +1,11 @@
+Moldenthorn — Epic (★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 361):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████░░░░░░░░░░░░░  39 (dump)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ██████████████░░░░░░  74
+
+Peak: PATIENCE | Dump: CHAOS

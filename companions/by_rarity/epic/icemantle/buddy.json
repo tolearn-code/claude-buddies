@@ -1,0 +1,25 @@
+{
+  "name": "Icemantle",
+  "personality": "An immovable presence who watches builds with the patience of mountains. Icemantle waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775216842543,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "penguin",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 100,
+      "CHAOS": 74,
+      "WISDOM": 74,
+      "SNARK": 38
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 498120720,
+  "totalStats": 359
+}

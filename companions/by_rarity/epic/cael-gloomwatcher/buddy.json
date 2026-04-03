@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Gloomwatcher",
+  "personality": "An immovable presence who watches builds with the patience of mountains. Cael-Gloomwatcher waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775216842543,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "owl",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 100,
+      "CHAOS": 74,
+      "WISDOM": 39,
+      "SNARK": 59
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 508766824,
+  "totalStats": 346
+}

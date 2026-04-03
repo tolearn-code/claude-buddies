@@ -1,0 +1,11 @@
+Petalcrest — Epic (★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 358):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ██████████████░░░░░░  72
+  WISDOM     ███████░░░░░░░░░░░░░  39 (dump)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: DEBUGGING | Dump: WISDOM

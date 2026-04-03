@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Moldenthorn",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace. Aur-Moldenthorn never rests until the root cause is found.",
+  "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
+  "hatchedAt": 1775216842553,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "mushroom",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 73,
+      "CHAOS": 71,
+      "WISDOM": 39,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 761100883,
+  "totalStats": 357
+}

@@ -1,0 +1,11 @@
+Gloomwatcher — Epic (★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 359):
+  DEBUGGING  ███████░░░░░░░░░░░░░  39 (dump)
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: WISDOM | Dump: DEBUGGING

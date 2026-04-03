@@ -1,0 +1,11 @@
+Icemantle — Epic (★★★★) Beanie
+Eyes: ° | Shiny: no
+
+Stats (total: 359):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ███████░░░░░░░░░░░░░  38 (dump)
+
+Peak: PATIENCE | Dump: SNARK

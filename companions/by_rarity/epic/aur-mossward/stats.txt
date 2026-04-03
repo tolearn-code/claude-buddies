@@ -1,0 +1,11 @@
+Aur-Mossward — Epic (★★★★) Beanie ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 357):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ███████░░░░░░░░░░░░░  38 (dump)
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: WISDOM | Dump: PATIENCE

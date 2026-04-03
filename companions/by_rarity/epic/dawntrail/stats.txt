@@ -1,0 +1,11 @@
+Dawntrail — Epic (★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 359):
+  DEBUGGING  ███████░░░░░░░░░░░░░  37 (dump)
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Petalcrest",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace. Petalcrest never rests until the root cause is found.",
+  "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
+  "hatchedAt": 1775216842548,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "axolotl",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 74,
+      "CHAOS": 72,
+      "WISDOM": 39,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 934230110,
+  "totalStats": 358
+}

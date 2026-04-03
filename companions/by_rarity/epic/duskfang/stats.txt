@@ -1,0 +1,11 @@
+Duskfang — Epic (★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 359):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ███████░░░░░░░░░░░░░  38 (dump)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,11 @@
+Thal-Galebound — Epic (★★★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 352):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████░░░░░░░░░░░░░  39 (dump)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      █████████████░░░░░░░  68
+
+Peak: DEBUGGING | Dump: PATIENCE

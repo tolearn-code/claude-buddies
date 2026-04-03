@@ -1,0 +1,11 @@
+Galebound — Epic (★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 361):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ███████░░░░░░░░░░░░░  39 (dump)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: WISDOM | Dump: PATIENCE

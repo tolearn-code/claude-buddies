@@ -1,0 +1,25 @@
+{
+  "name": "Warmhollow",
+  "personality": "An immovable presence who watches builds with the patience of mountains. Warmhollow waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775216842549,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "capybara",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 39,
+      "PATIENCE": 100,
+      "CHAOS": 74,
+      "WISDOM": 74,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 230245990,
+  "totalStats": 360
+}

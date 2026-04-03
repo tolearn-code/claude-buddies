@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Brasswright",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace. Cael-Brasswright never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775216842551,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "robot",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 67,
+      "CHAOS": 71,
+      "WISDOM": 38,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 206320978,
+  "totalStats": 346
+}

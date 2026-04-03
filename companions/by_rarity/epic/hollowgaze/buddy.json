@@ -1,0 +1,25 @@
+{
+  "name": "Hollowgaze",
+  "personality": "An immovable presence who watches builds with the patience of mountains. Hollowgaze waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775216842547,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "ghost",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 100,
+      "CHAOS": 74,
+      "WISDOM": 74,
+      "SNARK": 38
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 750354893,
+  "totalStats": 359
+}

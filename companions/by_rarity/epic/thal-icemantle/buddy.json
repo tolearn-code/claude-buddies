@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Icemantle",
+  "personality": "An immovable presence who watches builds with the patience of mountains. Thal-Icemantle waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775216842544,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "penguin",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 100,
+      "CHAOS": 73,
+      "WISDOM": 73,
+      "SNARK": 29
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 439106938,
+  "totalStats": 348
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Warmhollow",
+  "personality": "A wild force who thrives in broken deploys. Anar-Warmhollow rewrites your plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775216842549,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "capybara",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 37,
+      "CHAOS": 97,
+      "WISDOM": 70,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 997232385,
+  "totalStats": 346
+}

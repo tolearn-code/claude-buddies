@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Ashenvyr",
+  "personality": "A wild force who thrives in broken deploys. Anar-Ashenvyr rewrites your plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775216842541,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "dragon",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 73,
+      "CHAOS": 100,
+      "WISDOM": 70,
+      "SNARK": 39
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 311949181,
+  "totalStats": 352
+}

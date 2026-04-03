@@ -1,0 +1,25 @@
+{
+  "name": "Dustveil",
+  "personality": "A wild force who thrives in broken deploys. Dustveil rewrites your plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775216842550,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 73,
+      "CHAOS": 100,
+      "WISDOM": 36,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 299622565,
+  "totalStats": 357
+}

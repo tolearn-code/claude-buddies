@@ -1,0 +1,25 @@
+{
+  "name": "Galebound",
+  "personality": "A sage whose · eyes glow with ten thousand resolved tickets. Galebound speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
+  "hatchedAt": 1775216842552,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "epic",
+    "species": "rabbit",
+    "eye": "·",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 39,
+      "CHAOS": 74,
+      "WISDOM": 100,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 82215024,
+  "totalStats": 361
+}

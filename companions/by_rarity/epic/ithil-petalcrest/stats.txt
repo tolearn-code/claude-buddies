@@ -1,0 +1,11 @@
+Ithil-Petalcrest — Epic (★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 349):
+  DEBUGGING  █████████████░░░░░░░  69
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      ███████░░░░░░░░░░░░░  37 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  72
+
+Peak: WISDOM | Dump: CHAOS

@@ -1,0 +1,11 @@
+Ithil-Duskfang — Epic (★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 357):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ███████░░░░░░░░░░░░░  38 (dump)
+
+Peak: PATIENCE | Dump: SNARK
