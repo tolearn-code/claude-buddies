@@ -1,0 +1,30 @@
+Lúth-Crimsontrail — Legendary Snail (★★★★★) ✨
+Eyes: ✦ | Hat: tophat | Shiny: yes
+
+--- Frame 0 (idle) ---
+   [___]    
+ ✦    .--.  
+  \  ( @ )  
+   \_`--´   
+  ~~~~~~~   
+
+--- Frame 1 (idle alt) ---
+   [___]    
+  ✦   .--.  
+  |  ( @ )  
+   \_`--´   
+  ~~~~~~~   
+
+--- Frame 2 (wink) ---
+   [___]    
+ ✦    .--.  
+  \  ( @  ) 
+   \_`--´   
+   ~~~~~~   
+
+--- Sleeping ---
+   [___]    
+ -    .--.  
+  \  ( @ )  
+   \_`--´   
+  ~~~~~~~   

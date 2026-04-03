@@ -1,0 +1,11 @@
+Citringlide — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ███████████████░░░░░  75
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,11 @@
+Ithil-Indigopath — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 405):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      ███████████████░░░░░  77
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,11 @@
+Ithil-Opalpath — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████░░░░░░░░  60
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

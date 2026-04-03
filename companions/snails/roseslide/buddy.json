@@ -1,0 +1,25 @@
+{
+  "name": "Ambertrail",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ambertrail rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128847,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 61,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 78873904,
+  "totalStats": 378
+}

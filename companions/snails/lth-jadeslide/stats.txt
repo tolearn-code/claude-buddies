@@ -1,0 +1,11 @@
+Thal-Obsiditrail — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ███████████░░░░░░░░░  56
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Rosepath",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Aur-Rosepath speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128860,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 78,
+      "CHAOS": 81,
+      "WISDOM": 100,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 256266788,
+  "totalStats": 391
+}

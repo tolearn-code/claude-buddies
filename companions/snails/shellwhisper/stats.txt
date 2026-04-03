@@ -1,0 +1,11 @@
+Indigopath — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████░░░░  80
+
+Peak: CHAOS | Dump: WISDOM

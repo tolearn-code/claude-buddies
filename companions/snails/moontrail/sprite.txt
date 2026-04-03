@@ -1,0 +1,26 @@
+Rubypath — Legendary Snail (★★★★★)
+Eyes: × | Hat: none | Shiny: no
+
+--- Frame 0 (idle) ---
+ ×    .--.  
+  \  ( @ )  
+   \_`--´   
+  ~~~~~~~   
+
+--- Frame 1 (idle alt) ---
+  ×   .--.  
+  |  ( @ )  
+   \_`--´   
+  ~~~~~~~   
+
+--- Frame 2 (wink) ---
+ ×    .--.  
+  \  ( @  ) 
+   \_`--´   
+   ~~~~~~   
+
+--- Sleeping ---
+ -    .--.  
+  \  ( @ )  
+   \_`--´   
+  ~~~~~~~   

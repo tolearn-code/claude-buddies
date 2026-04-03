@@ -1,0 +1,11 @@
+Mîr-Ivorytrail — Legendary (★★★★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  81
+
+Peak: DEBUGGING | Dump: PATIENCE

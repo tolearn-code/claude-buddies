@@ -1,0 +1,11 @@
+Gîl-Trailwhisper — Legendary (★★★★★) Halo ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 375):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████░░░░░░░░░  55
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: DEBUGGING

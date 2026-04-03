@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Coralpath",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Coralpath rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128871,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 89,
+      "CHAOS": 100,
+      "WISDOM": 51,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 368376465,
+  "totalStats": 379
+}

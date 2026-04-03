@@ -1,0 +1,11 @@
+Fernpath — Legendary (★★★★★) Crown
+Eyes: @ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████████░░░░░░░  66
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Sapphiretrail",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Cael-Sapphiretrail has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128860,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 70,
+      "CHAOS": 79,
+      "WISDOM": 54,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 178321293,
+  "totalStats": 380
+}

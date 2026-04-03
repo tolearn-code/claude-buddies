@@ -1,0 +1,25 @@
+{
+  "name": "Cobaltpath",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Cobaltpath has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128848,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 45,
+      "CHAOS": 89,
+      "WISDOM": 65,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 759432722,
+  "totalStats": 385
+}

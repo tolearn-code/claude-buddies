@@ -1,0 +1,11 @@
+Thal-Malachitrace — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: PATIENCE

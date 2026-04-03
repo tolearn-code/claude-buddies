@@ -1,0 +1,11 @@
+Scarletpath — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████░░░░░░░░  62
+
+Peak: CHAOS | Dump: DEBUGGING

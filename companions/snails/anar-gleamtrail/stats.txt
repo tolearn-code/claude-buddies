@@ -1,0 +1,11 @@
+Aur-Dewglimmer — Legendary (★★★★★) Halo ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 373):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ███████████████░░░░░  79
+
+Peak: CHAOS | Dump: PATIENCE

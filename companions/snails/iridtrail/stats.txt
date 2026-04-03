@@ -1,0 +1,11 @@
+Silverglide — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████░░░░░░░░  60
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: WISDOM | Dump: SNARK

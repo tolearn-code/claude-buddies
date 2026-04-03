@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Obsiditrail",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Obsiditrail waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128865,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 56,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 51,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 422615696,
+  "totalStats": 379
+}

@@ -1,0 +1,11 @@
+Twilpath — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████░░░░░░░  66
+  WISDOM     █████████████████░░░  86
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: DEBUGGING

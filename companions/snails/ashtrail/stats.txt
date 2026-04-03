@@ -1,0 +1,11 @@
+Dewglimmer — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  41 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: CHAOS

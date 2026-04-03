@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Silkpath",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Silkpath rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128863,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 82,
+      "CHAOS": 100,
+      "WISDOM": 85,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 292289351,
+  "totalStats": 401
+}

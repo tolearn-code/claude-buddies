@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Trailwhisper",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Gîl-Trailwhisper waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128861,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 100,
+      "CHAOS": 55,
+      "WISDOM": 87,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 473665663,
+  "totalStats": 375
+}

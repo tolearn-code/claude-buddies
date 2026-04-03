@@ -1,0 +1,11 @@
+Emeraldglide — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████░░░░░░░░░░░░  41 (dump)
+  WISDOM     ███████████████░░░░░  76
+  SNARK      █████████████████░░░  88
+
+Peak: DEBUGGING | Dump: CHAOS

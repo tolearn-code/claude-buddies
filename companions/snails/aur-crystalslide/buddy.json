@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Gentlewind",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Cael-Gentlewind has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128873,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "@",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 75,
+      "PATIENCE": 48,
+      "CHAOS": 85,
+      "WISDOM": 77,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 371326559,
+  "totalStats": 385
+}

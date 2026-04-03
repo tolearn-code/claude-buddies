@@ -1,0 +1,25 @@
+{
+  "name": "Mistglimmer",
+  "personality": "A wild-eyed force who thrives in broken deploys. Mistglimmer rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128842,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 69,
+      "PATIENCE": 46,
+      "CHAOS": 100,
+      "WISDOM": 73,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 588298582,
+  "totalStats": 375
+}

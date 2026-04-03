@@ -1,0 +1,11 @@
+Pearlglide — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 400):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ████████████████░░░░  82
+
+Peak: DEBUGGING | Dump: WISDOM

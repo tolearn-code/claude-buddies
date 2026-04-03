@@ -1,0 +1,11 @@
+Shimmerglide — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████░░░░  84
+
+Peak: PATIENCE | Dump: DEBUGGING

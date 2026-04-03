@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Emeraldglide",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Ithil-Emeraldglide has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128878,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 83,
+      "CHAOS": 88,
+      "WISDOM": 41,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 97279498,
+  "totalStats": 397
+}

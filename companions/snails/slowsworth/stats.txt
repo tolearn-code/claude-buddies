@@ -1,0 +1,11 @@
+Crimsontrail — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 400):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████░░░░░░░░░░░░  44 (dump)
+  SNARK      ████████████████░░░░  83
+
+Peak: DEBUGGING | Dump: WISDOM

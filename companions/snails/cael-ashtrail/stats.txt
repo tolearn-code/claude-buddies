@@ -1,0 +1,11 @@
+Anar-Dawntrail — Legendary (★★★★★) Beanie ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  █████████████░░░░░░░  65
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  87
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: CHAOS | Dump: SNARK

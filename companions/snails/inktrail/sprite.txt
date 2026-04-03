@@ -1,0 +1,30 @@
+Crystalpath — Legendary Snail (★★★★★)
+Eyes: ✦ | Hat: halo | Shiny: no
+
+--- Frame 0 (idle) ---
+   (   )    
+ ✦    .--.  
+  \  ( @ )  
+   \_`--´   
+  ~~~~~~~   
+
+--- Frame 1 (idle alt) ---
+   (   )    
+  ✦   .--.  
+  |  ( @ )  
+   \_`--´   
+  ~~~~~~~   
+
+--- Frame 2 (wink) ---
+   (   )    
+ ✦    .--.  
+  \  ( @  ) 
+   \_`--´   
+   ~~~~~~   
+
+--- Sleeping ---
+   (   )    
+ -    .--.  
+  \  ( @ )  
+   \_`--´   
+  ~~~~~~~   

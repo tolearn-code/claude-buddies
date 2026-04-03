@@ -1,0 +1,11 @@
+Gentlewind — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 369):
+  DEBUGGING  █████████████░░░░░░░  69
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  43 (dump)
+  WISDOM     █████████████████░░░  85
+  SNARK      ██████████████░░░░░░  72
+
+Peak: PATIENCE | Dump: CHAOS

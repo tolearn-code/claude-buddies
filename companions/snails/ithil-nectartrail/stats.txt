@@ -1,0 +1,11 @@
+Ithil-Emeraldglide — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 397):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

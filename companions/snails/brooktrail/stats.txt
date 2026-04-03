@@ -1,0 +1,11 @@
+Trailwhisper — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  47 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████░░░░  84
+
+Peak: PATIENCE | Dump: CHAOS

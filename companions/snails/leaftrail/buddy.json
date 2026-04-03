@@ -1,0 +1,25 @@
+{
+  "name": "Embertrace",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Embertrace never rests until the root cause is found.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128856,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 47,
+      "CHAOS": 88,
+      "WISDOM": 87,
+      "SNARK": 71
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 952025958,
+  "totalStats": 393
+}

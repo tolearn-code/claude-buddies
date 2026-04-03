@@ -1,0 +1,11 @@
+Anar-Vermilglide — Legendary (★★★★★) Tinyduck ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████████░░░░░░░  65
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: PATIENCE | Dump: SNARK

@@ -1,0 +1,11 @@
+Lúth-Crimsontrail — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████░░░░░░░░░░░░  41 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

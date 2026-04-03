@@ -1,0 +1,11 @@
+Lúth-Lavendtrail — Legendary (★★★★★) Tinyduck ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 375):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████░░░░░░░░  60
+  SNARK      ███████████████░░░░░  77
+
+Peak: PATIENCE | Dump: DEBUGGING

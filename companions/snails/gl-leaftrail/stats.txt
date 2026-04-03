@@ -1,0 +1,11 @@
+Anar-Embertrace — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 407):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  81
+
+Peak: DEBUGGING | Dump: CHAOS

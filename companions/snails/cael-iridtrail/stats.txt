@@ -1,0 +1,11 @@
+Lúth-Shimmerglide — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 366):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ███████████░░░░░░░░░  59
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: PATIENCE

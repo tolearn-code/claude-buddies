@@ -1,0 +1,25 @@
+{
+  "name": "Lavendtrail",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Lavendtrail has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128849,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 87,
+      "CHAOS": 53,
+      "WISDOM": 88,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 761563267,
+  "totalStats": 405
+}

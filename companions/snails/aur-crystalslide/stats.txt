@@ -1,0 +1,11 @@
+Cael-Gentlewind — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

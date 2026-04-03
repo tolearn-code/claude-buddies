@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Quartzpath",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Quartzpath waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128880,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 100,
+      "CHAOS": 86,
+      "WISDOM": 82,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 625965262,
+  "totalStats": 390
+}

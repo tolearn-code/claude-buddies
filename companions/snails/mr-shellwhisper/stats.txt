@@ -1,0 +1,11 @@
+Aur-Rosepath — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: WISDOM | Dump: SNARK

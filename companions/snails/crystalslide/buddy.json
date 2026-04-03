@@ -1,0 +1,25 @@
+{
+  "name": "Spiralwind",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Spiralwind has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128851,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "@",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 48,
+      "PATIENCE": 70,
+      "CHAOS": 86,
+      "WISDOM": 73,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 564909391,
+  "totalStats": 377
+}

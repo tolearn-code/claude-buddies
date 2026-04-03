@@ -1,0 +1,11 @@
+Aur-Quartzpath — Legendary (★★★★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████░░░░  82
+  SNARK      ███████████████░░░░░  75
+
+Peak: PATIENCE | Dump: DEBUGGING

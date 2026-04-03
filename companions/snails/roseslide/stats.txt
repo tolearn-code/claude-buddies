@@ -1,0 +1,11 @@
+Ambertrail — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████░░░░░░░░  61
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: CHAOS | Dump: SNARK

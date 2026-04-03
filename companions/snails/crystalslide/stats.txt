@@ -1,0 +1,11 @@
+Spiralwind — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      █████████████████░░░  86
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Mîr-Ambertrail — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   █████████████░░░░░░░  69
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: CHAOS | Dump: SNARK

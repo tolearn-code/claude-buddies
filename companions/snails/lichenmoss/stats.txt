@@ -1,0 +1,11 @@
+Amethystglide — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 402):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

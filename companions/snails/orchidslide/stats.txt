@@ -1,0 +1,11 @@
+Beryltrail — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████░░░░░░░░░░░░  44 (dump)
+  SNARK      ████████████████░░░░  84
+
+Peak: PATIENCE | Dump: WISDOM

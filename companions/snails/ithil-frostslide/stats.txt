@@ -1,0 +1,11 @@
+Gîl-Garnettrail — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

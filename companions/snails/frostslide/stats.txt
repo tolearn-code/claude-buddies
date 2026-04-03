@@ -1,0 +1,11 @@
+Glowtrail — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      █████████████░░░░░░░  67
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

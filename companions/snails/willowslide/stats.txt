@@ -1,0 +1,11 @@
+Vermilglide — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 368):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ██████████░░░░░░░░░░  51
+  WISDOM     ████████░░░░░░░░░░░░  43 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: WISDOM

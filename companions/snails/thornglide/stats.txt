@@ -1,0 +1,11 @@
+Malachitrace — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████░░░░  80
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

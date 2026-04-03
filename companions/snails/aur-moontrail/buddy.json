@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Starglide",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Starglide rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128866,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "×",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 89,
+      "CHAOS": 100,
+      "WISDOM": 68,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 662178759,
+  "totalStats": 396
+}

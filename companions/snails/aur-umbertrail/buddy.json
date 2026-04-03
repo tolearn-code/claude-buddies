@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Mistglimmer",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Mistglimmer waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128870,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 68,
+      "PATIENCE": 100,
+      "CHAOS": 87,
+      "WISDOM": 50,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 264557557,
+  "totalStats": 386
+}

@@ -1,0 +1,11 @@
+Ithil-Cobaltpath — Legendary (★★★★★) Tinyduck ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████████░░░░░░  73
+
+Peak: CHAOS | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Rubypath",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Rubypath speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128845,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "×",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 69,
+      "CHAOS": 83,
+      "WISDOM": 100,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 566162423,
+  "totalStats": 390
+}

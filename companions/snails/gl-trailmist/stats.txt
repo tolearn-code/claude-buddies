@@ -1,0 +1,11 @@
+Cael-Sapphiretrail — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

@@ -1,0 +1,11 @@
+Thal-Silkpath — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 401):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  85
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: DEBUGGING

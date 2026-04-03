@@ -1,0 +1,11 @@
+Aur-Glowtrail — Legendary (★★★★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: CHAOS | Dump: SNARK

@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Indigopath",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Indigopath waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128872,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 100,
+      "CHAOS": 51,
+      "WISDOM": 89,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 148945658,
+  "totalStats": 405
+}

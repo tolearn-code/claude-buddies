@@ -1,0 +1,11 @@
+Goldentrail — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████████░░░░░░░  67
+
+Peak: CHAOS | Dump: DEBUGGING

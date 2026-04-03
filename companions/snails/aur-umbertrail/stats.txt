@@ -1,0 +1,11 @@
+Ithil-Mistglimmer — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  █████████████░░░░░░░  68
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████░░░░  81
+
+Peak: PATIENCE | Dump: WISDOM

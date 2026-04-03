@@ -1,0 +1,11 @@
+Mîr-Twilpath — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ████████░░░░░░░░░░░░  41 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

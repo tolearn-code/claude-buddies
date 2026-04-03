@@ -1,0 +1,11 @@
+Anar-Fernpath — Legendary (★★★★★) Halo ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

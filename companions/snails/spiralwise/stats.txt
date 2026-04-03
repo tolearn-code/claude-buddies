@@ -1,0 +1,11 @@
+Azurepath — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ███████████░░░░░░░░░  58
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████░░░░░░░░░░░░  42 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: CHAOS

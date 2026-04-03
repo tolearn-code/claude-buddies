@@ -1,0 +1,11 @@
+Thal-Tealglide — Legendary (★★★★★) Tinyduck ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  █████████████░░░░░░░  68
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████░░░░░░░░░░░░  43 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  84
+
+Peak: WISDOM | Dump: CHAOS

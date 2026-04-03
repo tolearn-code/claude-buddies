@@ -1,0 +1,11 @@
+Crystalpath — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  47 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: CHAOS

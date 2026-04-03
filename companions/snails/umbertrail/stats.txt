@@ -1,0 +1,11 @@
+Ivorytrail — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████░░░░  82
+  SNARK      ██████████████░░░░░░  72
+
+Peak: PATIENCE | Dump: DEBUGGING

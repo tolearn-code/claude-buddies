@@ -1,0 +1,25 @@
+{
+  "name": "Azurepath",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Azurepath speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128839,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 58,
+      "PATIENCE": 85,
+      "CHAOS": 42,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 153865742,
+  "totalStats": 374
+}

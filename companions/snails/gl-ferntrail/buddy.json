@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Opalpath",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Ithil-Opalpath has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128863,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 84,
+      "CHAOS": 60,
+      "WISDOM": 88,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 968575689,
+  "totalStats": 381
+}

@@ -1,0 +1,11 @@
+Lúth-Coralpath — Legendary (★★★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ██████████░░░░░░░░░░  51
+
+Peak: CHAOS | Dump: WISDOM

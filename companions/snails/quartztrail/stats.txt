@@ -1,0 +1,11 @@
+Obsiditrail — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 407):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: CHAOS | Dump: SNARK

@@ -1,0 +1,25 @@
+{
+  "name": "Jadepath",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Jadepath has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128843,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 84,
+      "CHAOS": 78,
+      "WISDOM": 73,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 43606922,
+  "totalStats": 386
+}

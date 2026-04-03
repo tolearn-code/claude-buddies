@@ -1,0 +1,11 @@
+Rosepath — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: PATIENCE | Dump: SNARK

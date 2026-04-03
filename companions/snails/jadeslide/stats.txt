@@ -1,0 +1,11 @@
+Jadepath — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Mîr-Spiralwind — Legendary (★★★★★) Halo ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 396):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  68
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: CHAOS | Dump: SNARK

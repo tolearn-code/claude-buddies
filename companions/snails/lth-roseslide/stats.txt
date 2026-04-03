@@ -1,0 +1,11 @@
+Gîl-Citringlide — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 369):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████░░░░░░░░░░░░  42 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████░░░░░░░░  61
+  SNARK      ████████████████░░░░  80
+
+Peak: CHAOS | Dump: PATIENCE

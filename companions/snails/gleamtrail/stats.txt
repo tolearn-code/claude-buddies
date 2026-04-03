@@ -1,0 +1,11 @@
+Starglide — Legendary (★★★★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: WISDOM | Dump: SNARK

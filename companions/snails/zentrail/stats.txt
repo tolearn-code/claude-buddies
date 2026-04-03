@@ -1,0 +1,11 @@
+Tealglide — Legendary (★★★★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████░░░░░░░░  62
+  WISDOM     ████████░░░░░░░░░░░░  43 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: WISDOM

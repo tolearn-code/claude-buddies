@@ -1,0 +1,11 @@
+Sapphiretrail — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████████████░░░  85
+
+Peak: PATIENCE | Dump: CHAOS

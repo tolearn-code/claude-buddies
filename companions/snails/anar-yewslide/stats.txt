@@ -1,0 +1,11 @@
+Lúth-Moontrail — Legendary (★★★★★) Halo ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ███████████░░░░░░░░░  55
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

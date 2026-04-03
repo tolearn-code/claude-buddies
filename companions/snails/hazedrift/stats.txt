@@ -1,0 +1,11 @@
+Dawntrail — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████░░░░░░░░░░░░  40 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  83
+
+Peak: WISDOM | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Pearlglide",
+  "personality": "A wild-eyed force who thrives in broken deploys. Cael-Pearlglide rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128876,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 87,
+      "CHAOS": 100,
+      "WISDOM": 75,
+      "SNARK": 47
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 954777323,
+  "totalStats": 392
+}

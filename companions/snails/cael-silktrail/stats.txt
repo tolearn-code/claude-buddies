@@ -1,0 +1,11 @@
+Gîl-Goldentrail — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     █████████████████░░░  88
+  SNARK      ███████████████░░░░░  77
+
+Peak: DEBUGGING | Dump: PATIENCE

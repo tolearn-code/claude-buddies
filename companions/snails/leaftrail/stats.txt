@@ -1,0 +1,11 @@
+Embertrace — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████████████░░░  87
+  SNARK      ██████████████░░░░░░  71
+
+Peak: DEBUGGING | Dump: PATIENCE

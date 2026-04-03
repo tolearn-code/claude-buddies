@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Vermilglide",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Anar-Vermilglide waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128866,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 65,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 248096620,
+  "totalStats": 391
+}

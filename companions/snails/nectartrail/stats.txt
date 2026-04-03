@@ -1,0 +1,11 @@
+Garnettrail — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ████████░░░░░░░░░░░░  40 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  78
+
+Peak: WISDOM | Dump: DEBUGGING

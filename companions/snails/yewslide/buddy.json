@@ -1,0 +1,25 @@
+{
+  "name": "Scarletpath",
+  "personality": "A wild-eyed force who thrives in broken deploys. Scarletpath rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128849,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 42,
+      "PATIENCE": 89,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 62
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 278285291,
+  "totalStats": 381
+}

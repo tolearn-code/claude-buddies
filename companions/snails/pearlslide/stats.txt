@@ -1,0 +1,11 @@
+Coralpath — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ████████████████░░░░  81
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Obsiditrail",
+  "personality": "A wild-eyed force who thrives in broken deploys. Obsiditrail rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128846,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 84,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 908691650,
+  "totalStats": 407
+}

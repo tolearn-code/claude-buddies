@@ -1,0 +1,11 @@
+Silkpath — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: WISDOM | Dump: SNARK

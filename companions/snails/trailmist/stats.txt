@@ -1,0 +1,11 @@
+Sageglide — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████░░░░░░░░░░░░  41 (dump)
+
+Peak: PATIENCE | Dump: SNARK

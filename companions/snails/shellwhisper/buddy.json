@@ -1,0 +1,25 @@
+{
+  "name": "Indigopath",
+  "personality": "A wild-eyed force who thrives in broken deploys. Indigopath rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128838,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 72,
+      "CHAOS": 100,
+      "WISDOM": 54,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 578352051,
+  "totalStats": 379
+}

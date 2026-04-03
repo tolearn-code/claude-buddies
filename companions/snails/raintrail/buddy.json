@@ -1,0 +1,25 @@
+{
+  "name": "Citringlide",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Citringlide waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128859,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 100,
+      "CHAOS": 79,
+      "WISDOM": 53,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 293874460,
+  "totalStats": 394
+}

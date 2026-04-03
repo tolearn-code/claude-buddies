@@ -1,0 +1,11 @@
+Onyxpath — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      █████████████░░░░░░░  65
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: PATIENCE

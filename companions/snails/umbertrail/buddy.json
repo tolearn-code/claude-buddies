@@ -1,0 +1,25 @@
+{
+  "name": "Ivorytrail",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ivorytrail waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
+  "hatchedAt": 1775211128848,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "snail",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 100,
+      "CHAOS": 83,
+      "WISDOM": 82,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 91170562,
+  "totalStats": 388
+}

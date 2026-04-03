@@ -1,0 +1,11 @@
+Lavendtrail — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 405):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS
