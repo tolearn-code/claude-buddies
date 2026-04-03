@@ -48,24 +48,24 @@ python3 patcher-test/patch_companion.py eldurion --wyhash
 
 | Species | Folder | Count | Theme |
 |---------|--------|:-----:|-------|
-| Axolotl | `companions/axolotls/` | 96 | Bloom/renewal names (Bloomthistle, Regenstar) |
-| Blob | `companions/blobs/` | 96 | Arcane/ethereal names (Glymorthin, Aethergel) |
-| Cactus | `companions/cacti/` | 96 | Desert/fortified names (Thornhelm, Ironspire) |
-| Capybara | `companions/capybaras/` | 96 | Peaceful/grounded names (Stillwater, Calmhearth) |
-| Cat | `companions/cats/` | 96 | Shadow/dark names (Nyxshadow, Velvetdusk) |
-| Chonk | `companions/chonks/` | 96 | Grand/imposing names (Grandheim, Vastheart) |
-| Dragon | `companions/dragons/` | 96 | Tolkien-inspired names (Aldranoth, Orthandir) |
-| Duck | `companions/ducks/` | 96 | Aquatic/elvish names (Quellindor, Wavecrest) |
-| Ghost | `companions/ghosts/` | 96 | Void/spectral names (Nullvarden, Grimsorrow) |
-| Goose | `companions/geese/` | 96 | Orcish/aggressive names (Grakthul, Dreadscar) |
-| Mushroom | `companions/mushrooms/` | 96 | Fungal/mystic names (Sporethane, Mycelward) |
-| Octopus | `companions/octopi/` | 96 | Deep sea/ancient names (Thalassor, Krethidon) |
-| Owl | `companions/owls/` | 96 | Wise/celestial names (Talonmere, Moonvigil) |
-| Penguin | `companions/penguins/` | 96 | Noble/frost names (Frosthelm, Glaciermane) |
-| Rabbit | `companions/rabbits/` | 96 | Swift/wind names (Swifthare, Veloxfoot) |
-| Robot | `companions/robots/` | 96 | Metal/forge names (Ferronax, Voltarian) |
-| Snail | `companions/snails/` | 96 | Nature/gentle names (Dewglimmer, Spiralwind) |
-| Turtle | `companions/turtles/` | 96 | Earthen/stoic names (Stoneguard, Boulderheart) |
+| Axolotl | `companions/by_species/axolotls/` | 96 | Bloom/renewal names (Bloomthistle, Regenstar) |
+| Blob | `companions/by_species/blobs/` | 96 | Arcane/ethereal names (Glymorthin, Aethergel) |
+| Cactus | `companions/by_species/cacti/` | 96 | Desert/fortified names (Thornhelm, Ironspire) |
+| Capybara | `companions/by_species/capybaras/` | 96 | Peaceful/grounded names (Stillwater, Calmhearth) |
+| Cat | `companions/by_species/cats/` | 96 | Shadow/dark names (Nyxshadow, Velvetdusk) |
+| Chonk | `companions/by_species/chonks/` | 96 | Grand/imposing names (Grandheim, Vastheart) |
+| Dragon | `companions/by_species/dragons/` | 96 | Tolkien-inspired names (Aldranoth, Orthandir) |
+| Duck | `companions/by_species/ducks/` | 96 | Aquatic/elvish names (Quellindor, Wavecrest) |
+| Ghost | `companions/by_species/ghosts/` | 96 | Void/spectral names (Nullvarden, Grimsorrow) |
+| Goose | `companions/by_species/geese/` | 96 | Orcish/aggressive names (Grakthul, Dreadscar) |
+| Mushroom | `companions/by_species/mushrooms/` | 96 | Fungal/mystic names (Sporethane, Mycelward) |
+| Octopus | `companions/by_species/octopi/` | 96 | Deep sea/ancient names (Thalassor, Krethidon) |
+| Owl | `companions/by_species/owls/` | 96 | Wise/celestial names (Talonmere, Moonvigil) |
+| Penguin | `companions/by_species/penguins/` | 96 | Noble/frost names (Frosthelm, Glaciermane) |
+| Rabbit | `companions/by_species/rabbits/` | 96 | Swift/wind names (Swifthare, Veloxfoot) |
+| Robot | `companions/by_species/robots/` | 96 | Metal/forge names (Ferronax, Voltarian) |
+| Snail | `companions/by_species/snails/` | 96 | Nature/gentle names (Dewglimmer, Spiralwind) |
+| Turtle | `companions/by_species/turtles/` | 96 | Earthen/stoic names (Stoneguard, Boulderheart) |
 
 Plus 9 featured companions at the top level: Eldurion, Vyrenth, Thistlewing, Thunderthistl, and 5 hand-picked dragons.
 
@@ -91,7 +91,7 @@ Each companion folder contains 4 files:
 
 ### Reference Guides
 
-Each species folder has an `info/<species>.md` with a full table of all companions, their visual combos, stats, and top 5 rankings.
+All species reference guides are in [`companions/info/`](companions/info/) with full tables of all companions, their visual combos, stats, and top 5 rankings.
 
 ## Generators
 
@@ -126,7 +126,7 @@ The patcher modifies Claude Code's CLI to display any companion's exact species,
 
 Features:
 - Auto-detects hash algorithm (wyhash vs FNV-1a)
-- Scans subdirectories (`companions/dragons/aldranoth/`)
+- Recursively scans subdirectories (`companions/by_species/dragons/aldranoth/`)
 - Creates backups before any modification
 - Rejects compiled binaries (requires npm install)
 - Backup-based restore via `--restore`
@@ -153,14 +153,21 @@ claude-buddies/
 │   ├── vyrenth/
 │   ├── thistlewing/
 │   ├── thunderthistl/
-│   ├── dragons/               96 legendary dragons
-│   │   ├── aldranoth/
+│   ├── anarathil/
+│   ├── ...
+│   ├── info/                  Species reference guides
+│   │   ├── dragons.md
+│   │   ├── ducks.md
 │   │   ├── ...
-│   │   └── info/dragons.md
-│   ├── ducks/                 96 legendary ducks
-│   ├── geese/                 96 legendary geese
-│   ├── ...                    (17 species total)
-│   └── turtles/
+│   │   └── turtles.md
+│   └── by_species/            Generated collections (18 species)
+│       ├── dragons/
+│       │   ├── aldranoth/
+│       │   └── ...
+│       ├── ducks/
+│       ├── geese/
+│       ├── ...
+│       └── turtles/
 ├── patcher-test/              Companion patcher (Bun + Python)
 ├── bun-wyhash-generator/      Bun buddy generator
 ├── generator/                 Python buddy generator
