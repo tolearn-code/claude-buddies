@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Starback",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Starback rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128825,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 46,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 878771041,
+  "totalStats": 400
+}

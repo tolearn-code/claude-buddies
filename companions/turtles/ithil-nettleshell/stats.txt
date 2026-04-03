@@ -1,0 +1,11 @@
+Mîr-Copperheart — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ███████████████░░░░░  76
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,11 @@
+Ancientheart — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 369):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ███████████░░░░░░░░░  57
+  SNARK      ███████████████░░░░░  76
+
+Peak: DEBUGGING | Dump: PATIENCE

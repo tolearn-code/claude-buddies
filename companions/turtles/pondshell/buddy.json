@@ -1,0 +1,25 @@
+{
+  "name": "Rubyheart",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Rubyheart never rests until the root cause is found.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128811,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 75,
+      "CHAOS": 83,
+      "WISDOM": 40,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 823285218,
+  "totalStats": 377
+}

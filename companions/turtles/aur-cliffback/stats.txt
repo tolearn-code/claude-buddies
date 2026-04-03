@@ -1,0 +1,11 @@
+Cael-Ashstone — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 372):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      ███████████████░░░░░  76
+
+Peak: CHAOS | Dump: WISDOM

@@ -1,0 +1,11 @@
+Goldenshell — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  81
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: CHAOS | Dump: SNARK

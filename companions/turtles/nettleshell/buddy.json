@@ -1,0 +1,25 @@
+{
+  "name": "Opalback",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Opalback has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128810,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 48,
+      "PATIENCE": 85,
+      "CHAOS": 82,
+      "WISDOM": 63,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 46251117,
+  "totalStats": 378
+}

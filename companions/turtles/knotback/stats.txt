@@ -1,0 +1,11 @@
+Silvershield — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  80
+
+Peak: WISDOM | Dump: PATIENCE

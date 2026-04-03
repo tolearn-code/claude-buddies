@@ -1,0 +1,11 @@
+Ithil-Fossilguard — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

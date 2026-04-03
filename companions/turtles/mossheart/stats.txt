@@ -1,0 +1,11 @@
+Copperheart — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████░░░░░░░░░░░  47 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  75
+
+Peak: WISDOM | Dump: CHAOS

@@ -1,0 +1,11 @@
+Aur-Dawnshield — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ████████████████░░░░  84
+  SNARK      █████████░░░░░░░░░░░  45 (dump)
+
+Peak: PATIENCE | Dump: SNARK

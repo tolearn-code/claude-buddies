@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Granitshell",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Anar-Granitshell speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128822,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 43,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 65
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 453586665,
+  "totalStats": 377
+}

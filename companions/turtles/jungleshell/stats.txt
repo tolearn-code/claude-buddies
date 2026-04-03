@@ -1,0 +1,11 @@
+Flintheart — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: WISDOM

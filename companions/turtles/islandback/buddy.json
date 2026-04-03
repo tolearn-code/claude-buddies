@@ -1,0 +1,25 @@
+{
+  "name": "Slateback",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Slateback waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128808,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 86,
+      "WISDOM": 51,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 827145933,
+  "totalStats": 400
+}

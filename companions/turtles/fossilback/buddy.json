@@ -1,0 +1,25 @@
+{
+  "name": "Fossilguard",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Fossilguard speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128795,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 78,
+      "CHAOS": 78,
+      "WISDOM": 100,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 368540002,
+  "totalStats": 376
+}

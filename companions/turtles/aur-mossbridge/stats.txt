@@ -1,0 +1,11 @@
+Gîl-Deeproot — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████░░░░░░░░  60
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

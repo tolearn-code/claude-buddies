@@ -1,0 +1,25 @@
+{
+  "name": "Indigoshield",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Indigoshield waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128802,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 100,
+      "CHAOS": 51,
+      "WISDOM": 50,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 980475515,
+  "totalStats": 375
+}

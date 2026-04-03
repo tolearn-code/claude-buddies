@@ -1,0 +1,11 @@
+Cael-Coralshield — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████░░░░  82
+
+Peak: CHAOS | Dump: DEBUGGING

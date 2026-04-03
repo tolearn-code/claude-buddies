@@ -1,0 +1,25 @@
+{
+  "name": "Sapphireshield",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Sapphireshield speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128799,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 63,
+      "CHAOS": 45,
+      "WISDOM": 100,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 320953141,
+  "totalStats": 380
+}

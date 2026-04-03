@@ -1,0 +1,11 @@
+Ashstone — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  40 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      ███████████████░░░░░  77
+
+Peak: PATIENCE | Dump: CHAOS

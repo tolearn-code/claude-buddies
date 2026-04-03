@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Onyxshield",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Onyxshield waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128827,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 100,
+      "CHAOS": 41,
+      "WISDOM": 84,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 276387076,
+  "totalStats": 388
+}

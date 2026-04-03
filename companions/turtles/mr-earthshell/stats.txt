@@ -1,0 +1,11 @@
+Anar-Emeraldstone — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  ████████░░░░░░░░░░░░  43 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  69
+
+Peak: WISDOM | Dump: DEBUGGING

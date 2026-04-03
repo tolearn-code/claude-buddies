@@ -1,0 +1,11 @@
+Granitshell — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████░░░░░░░░░░░░  43 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  72
+
+Peak: WISDOM | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Topazshell",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Topazshell speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128799,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 81,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 41
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 936996101,
+  "totalStats": 390
+}

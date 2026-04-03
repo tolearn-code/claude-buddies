@@ -1,0 +1,11 @@
+Deeproot — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: CHAOS

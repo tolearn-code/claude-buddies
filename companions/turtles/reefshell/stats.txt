@@ -1,0 +1,11 @@
+Garnetback — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  81
+  WISDOM     █████████░░░░░░░░░░░  45 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: WISDOM

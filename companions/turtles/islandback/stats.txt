@@ -1,0 +1,11 @@
+Slateback — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 400):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: PATIENCE | Dump: WISDOM

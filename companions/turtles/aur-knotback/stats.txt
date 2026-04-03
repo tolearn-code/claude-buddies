@@ -1,0 +1,11 @@
+Aur-Ancientheart — Legendary (★★★★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████░░░░░░░░░░░░  40 (dump)
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: DEBUGGING | Dump: WISDOM

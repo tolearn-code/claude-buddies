@@ -1,0 +1,11 @@
+Fossilguard — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: WISDOM | Dump: DEBUGGING

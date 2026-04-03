@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Amethystback",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Cael-Amethystback waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128815,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 100,
+      "CHAOS": 79,
+      "WISDOM": 52,
+      "SNARK": 60
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 205340926,
+  "totalStats": 379
+}

@@ -1,0 +1,11 @@
+Thal-Azureshield — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████░░░░░░░░░░░░  42 (dump)
+
+Peak: CHAOS | Dump: SNARK

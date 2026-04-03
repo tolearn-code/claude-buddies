@@ -1,0 +1,11 @@
+Starback — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████░░░░░░░░  63
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████░░░░  83
+
+Peak: DEBUGGING | Dump: WISDOM

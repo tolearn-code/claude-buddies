@@ -1,0 +1,26 @@
+Gîl-Deeproot — Legendary Turtle (★★★★★) ✨
+Eyes: × | Hat: none | Shiny: yes
+
+--- Frame 0 (idle) ---
+   _,--._   
+  ( ×  × )  
+ /[______]\ 
+  ``    ``  
+
+--- Frame 1 (idle alt) ---
+   _,--._   
+  ( ×  × )  
+ /[______]\ 
+   ``  ``   
+
+--- Frame 2 (wink) ---
+   _,--._   
+  ( ×  × )  
+ /[======]\ 
+  ``    ``  
+
+--- Sleeping ---
+   _,--._   
+  ( -  - )  
+ /[______]\ 
+  ``    ``  

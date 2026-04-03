@@ -1,0 +1,11 @@
+Thal-Starback — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   █████████░░░░░░░░░░░  46 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████████████░░░  88
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Cael-Moonstone — Legendary (★★★★★) Crown ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  80
+
+Peak: WISDOM | Dump: CHAOS

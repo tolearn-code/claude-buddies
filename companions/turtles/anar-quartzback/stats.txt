@@ -1,0 +1,11 @@
+Anar-Granitshell — Legendary (★★★★★) Halo ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████░░░░░░░░░░░░  43 (dump)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  65
+
+Peak: WISDOM | Dump: PATIENCE

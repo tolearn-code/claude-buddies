@@ -1,0 +1,11 @@
+Obsidiback — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████░░░░░░░░  64
+
+Peak: DEBUGGING | Dump: WISDOM

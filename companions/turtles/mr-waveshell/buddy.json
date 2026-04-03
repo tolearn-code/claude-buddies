@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Quartzstone",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Gîl-Quartzstone has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128825,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 82,
+      "CHAOS": 86,
+      "WISDOM": 78,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 478378529,
+  "totalStats": 400
+}

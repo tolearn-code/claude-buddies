@@ -1,0 +1,25 @@
+{
+  "name": "Violetstone",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Violetstone speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128803,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 45,
+      "PATIENCE": 84,
+      "CHAOS": 76,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 449701503,
+  "totalStats": 393
+}

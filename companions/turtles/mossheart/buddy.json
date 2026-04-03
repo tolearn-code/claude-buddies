@@ -1,0 +1,25 @@
+{
+  "name": "Copperheart",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Copperheart speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128792,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 77,
+      "CHAOS": 47,
+      "WISDOM": 100,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 598717197,
+  "totalStats": 376
+}

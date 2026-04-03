@@ -1,0 +1,11 @@
+Indigoshield — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ██████████░░░░░░░░░░  50
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: CHAOS

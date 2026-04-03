@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Berylback",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Lúth-Berylback speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128817,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 59,
+      "PATIENCE": 85,
+      "CHAOS": 52,
+      "WISDOM": 100,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 438472138,
+  "totalStats": 380
+}

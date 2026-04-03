@@ -1,0 +1,11 @@
+Earthwarden — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 371):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ████████░░░░░░░░░░░░  44 (dump)
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████████░░░░░░░  65
+
+Peak: DEBUGGING | Dump: CHAOS

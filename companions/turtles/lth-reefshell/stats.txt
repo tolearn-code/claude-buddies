@@ -1,0 +1,11 @@
+Mîr-Garnetback — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 375):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

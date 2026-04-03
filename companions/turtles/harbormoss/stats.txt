@@ -1,0 +1,11 @@
+Sandguard — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 371):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   █████████████░░░░░░░  67
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  71
+
+Peak: WISDOM | Dump: CHAOS

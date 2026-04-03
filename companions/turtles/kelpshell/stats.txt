@@ -1,0 +1,11 @@
+Crystalback — Legendary (★★★★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 406):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   █████████████████░░░  87
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  45 (dump)
+
+Peak: WISDOM | Dump: SNARK

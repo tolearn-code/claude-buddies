@@ -1,0 +1,25 @@
+{
+  "name": "Pearlheart",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Pearlheart has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128792,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 84,
+      "CHAOS": 46,
+      "WISDOM": 86,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 918424015,
+  "totalStats": 399
+}

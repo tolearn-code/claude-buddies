@@ -1,0 +1,11 @@
+Thal-Pearlheart — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

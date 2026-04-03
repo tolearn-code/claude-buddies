@@ -1,0 +1,25 @@
+{
+  "name": "Amberback",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Amberback never rests until the root cause is found.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128802,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 85,
+      "CHAOS": 84,
+      "WISDOM": 46,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 953016232,
+  "totalStats": 382
+}

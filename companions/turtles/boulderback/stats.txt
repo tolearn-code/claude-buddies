@@ -1,0 +1,11 @@
+Boulderheart — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

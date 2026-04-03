@@ -1,0 +1,11 @@
+Gîl-Goldenshell — Legendary (★★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████░░░░░░░░░░░░  42 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ███████████████░░░░░  79
+
+Peak: DEBUGGING | Dump: CHAOS

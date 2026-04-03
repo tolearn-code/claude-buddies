@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Coralshield",
+  "personality": "A wild-eyed force who thrives in broken deploys. Cael-Coralshield rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128833,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 50,
+      "PATIENCE": 84,
+      "CHAOS": 100,
+      "WISDOM": 84,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 414959580,
+  "totalStats": 400
+}

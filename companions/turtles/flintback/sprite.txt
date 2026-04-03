@@ -1,0 +1,30 @@
+Oakenshield — Legendary Turtle (★★★★★)
+Eyes: @ | Hat: propeller | Shiny: no
+
+--- Frame 0 (idle) ---
+    -+-     
+   _,--._   
+  ( @  @ )  
+ /[______]\ 
+  ``    ``  
+
+--- Frame 1 (idle alt) ---
+    -+-     
+   _,--._   
+  ( @  @ )  
+ /[______]\ 
+   ``  ``   
+
+--- Frame 2 (wink) ---
+    -+-     
+   _,--._   
+  ( @  @ )  
+ /[======]\ 
+  ``    ``  
+
+--- Sleeping ---
+    -+-     
+   _,--._   
+  ( -  - )  
+ /[______]\ 
+  ``    ``  

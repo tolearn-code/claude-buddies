@@ -1,0 +1,11 @@
+Mîr-Oakenshield — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 375):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████░░░░░░░░  63
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

@@ -1,0 +1,11 @@
+Ithil-Jadeshield — Legendary (★★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████░░░░░░░░░░░  45 (dump)
+
+Peak: CHAOS | Dump: SNARK

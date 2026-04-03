@@ -1,0 +1,11 @@
+Berylback — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 364):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████░░░░░░░░░░░░  40 (dump)
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      █████████████░░░░░░░  65
+
+Peak: DEBUGGING | Dump: CHAOS

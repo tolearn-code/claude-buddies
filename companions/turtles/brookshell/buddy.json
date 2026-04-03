@@ -1,0 +1,25 @@
+{
+  "name": "Earthwarden",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Earthwarden never rests until the root cause is found.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128805,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 74,
+      "CHAOS": 44,
+      "WISDOM": 88,
+      "SNARK": 65
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 143964262,
+  "totalStats": 371
+}

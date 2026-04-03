@@ -1,0 +1,11 @@
+Mîr-Quartzshield — Legendary (★★★★★) Crown ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: WISDOM | Dump: SNARK

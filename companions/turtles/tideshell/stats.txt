@@ -1,0 +1,11 @@
+Quartzstone — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

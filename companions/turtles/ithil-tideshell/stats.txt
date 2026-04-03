@@ -1,0 +1,11 @@
+Anar-Opalback — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████░░░░░░░░░░░░  43 (dump)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Dunekeeper",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Dunekeeper waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128807,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 100,
+      "CHAOS": 49,
+      "WISDOM": 76,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 609281800,
+  "totalStats": 385
+}

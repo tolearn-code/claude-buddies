@@ -1,0 +1,11 @@
+Violetstone — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: DEBUGGING

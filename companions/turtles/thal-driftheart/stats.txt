@@ -1,0 +1,11 @@
+Ithil-Amberback — Legendary (★★★★★) Tinyduck ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Copperheart",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Copperheart waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128833,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 100,
+      "CHAOS": 78,
+      "WISDOM": 52,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 723871991,
+  "totalStats": 388
+}

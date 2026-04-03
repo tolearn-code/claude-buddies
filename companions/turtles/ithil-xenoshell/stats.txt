@@ -1,0 +1,11 @@
+Lúth-Emberstone — Legendary (★★★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ██████████░░░░░░░░░░  53
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████████░░░  89
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

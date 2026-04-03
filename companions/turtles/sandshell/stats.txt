@@ -1,0 +1,11 @@
+Emeraldstone — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 371):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████░░░░░░░░░  57
+  SNARK      ████████████████░░░░  80
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Jadeshield",
+  "personality": "A wild-eyed force who thrives in broken deploys. Jadeshield rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128798,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 77,
+      "CHAOS": 100,
+      "WISDOM": 84,
+      "SNARK": 47
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 869793852,
+  "totalStats": 386
+}

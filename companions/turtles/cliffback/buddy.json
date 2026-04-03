@@ -1,0 +1,25 @@
+{
+  "name": "Granitshell",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Granitshell speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128805,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "@",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 87,
+      "CHAOS": 43,
+      "WISDOM": 100,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 530621755,
+  "totalStats": 391
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Azureshield",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Azureshield speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128804,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 78,
+      "CHAOS": 79,
+      "WISDOM": 100,
+      "SNARK": 41
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 933586800,
+  "totalStats": 386
+}

@@ -1,0 +1,11 @@
+Lúth-Violetstone — Legendary (★★★★★) Tinyduck ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ████████░░░░░░░░░░░░  43 (dump)
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: WISDOM

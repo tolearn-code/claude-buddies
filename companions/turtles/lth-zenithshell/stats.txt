@@ -1,0 +1,11 @@
+Ithil-Onyxshield — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  41 (dump)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ███████████████░░░░░  77
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,11 @@
+Dawnshield — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 404):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      █████████████████░░░  86
+
+Peak: CHAOS | Dump: WISDOM

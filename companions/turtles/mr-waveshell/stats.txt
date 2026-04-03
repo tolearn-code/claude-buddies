@@ -1,0 +1,11 @@
+Gîl-Quartzstone — Legendary (★★★★★) Tophat ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      █████████████████░░░  86
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

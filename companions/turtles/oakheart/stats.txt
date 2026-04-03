@@ -1,0 +1,11 @@
+Amethystback — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

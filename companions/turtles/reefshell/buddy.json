@@ -1,0 +1,25 @@
+{
+  "name": "Garnetback",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Garnetback waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128800,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 100,
+      "CHAOS": 81,
+      "WISDOM": 45,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 462512992,
+  "totalStats": 395
+}

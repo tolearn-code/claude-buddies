@@ -1,0 +1,11 @@
+Thal-Sapphireshield — Legendary (★★★★★) Wizard ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████░░░░░░░░  62
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: CHAOS | Dump: SNARK

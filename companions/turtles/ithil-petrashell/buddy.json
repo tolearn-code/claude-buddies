@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Jadeshield",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Jadeshield rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128822,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 71,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 45
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 790645826,
+  "totalStats": 386
+}

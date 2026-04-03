@@ -1,0 +1,11 @@
+Moonstone — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ███████████████░░░░░  79
+
+Peak: CHAOS | Dump: WISDOM

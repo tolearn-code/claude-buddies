@@ -1,0 +1,11 @@
+Azureshield — Legendary (★★★★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████░░░░░░░░░░░░  41 (dump)
+
+Peak: WISDOM | Dump: SNARK

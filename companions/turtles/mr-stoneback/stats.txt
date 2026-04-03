@@ -1,0 +1,11 @@
+Aur-Obsidiback — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 397):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

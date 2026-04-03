@@ -1,0 +1,25 @@
+{
+  "name": "Emeraldstone",
+  "personality": "A wild-eyed force who thrives in broken deploys. Emeraldstone rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128801,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 49,
+      "CHAOS": 100,
+      "WISDOM": 57,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 794939710,
+  "totalStats": 371
+}

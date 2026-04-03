@@ -1,0 +1,25 @@
+{
+  "name": "Oakenshield",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Oakenshield has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128806,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 70,
+      "CHAOS": 79,
+      "WISDOM": 89,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 860693371,
+  "totalStats": 392
+}

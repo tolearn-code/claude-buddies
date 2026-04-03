@@ -1,0 +1,11 @@
+Crimsonback — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      █████████████████░░░  85
+
+Peak: PATIENCE | Dump: DEBUGGING

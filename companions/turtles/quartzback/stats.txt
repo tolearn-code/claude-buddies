@@ -1,0 +1,11 @@
+Topazshell — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████░░░░░░░░░░░░  41 (dump)
+
+Peak: WISDOM | Dump: SNARK

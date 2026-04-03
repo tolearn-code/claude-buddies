@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Violetstone",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Violetstone waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128820,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 78,
+      "WISDOM": 43,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 627973000,
+  "totalStats": 398
+}

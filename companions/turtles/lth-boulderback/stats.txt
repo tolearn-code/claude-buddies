@@ -1,0 +1,11 @@
+Cael-Amethystback — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ████████████░░░░░░░░  60
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,11 @@
+Pearlheart — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Cliffheart",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Cliffheart never rests until the root cause is found.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128807,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 73,
+      "CHAOS": 85,
+      "WISDOM": 75,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 971200840,
+  "totalStats": 386
+}

@@ -1,0 +1,11 @@
+Dunekeeper — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ████████████████░░░░  81
+
+Peak: PATIENCE | Dump: CHAOS

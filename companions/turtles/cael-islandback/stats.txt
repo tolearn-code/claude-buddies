@@ -1,0 +1,11 @@
+Cael-Sandmantle — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████░░░░░░░░░░  53
+  SNARK      ████████████████░░░░  82
+
+Peak: DEBUGGING | Dump: PATIENCE

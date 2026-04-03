@@ -1,0 +1,11 @@
+Coralshield — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 363):
+  DEBUGGING  ██████████░░░░░░░░░░  52
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████░░░░░░░░░░░░  42 (dump)
+
+Peak: PATIENCE | Dump: SNARK

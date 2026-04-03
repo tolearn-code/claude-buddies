@@ -1,0 +1,11 @@
+Citrinshield — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  71
+
+Peak: WISDOM | Dump: DEBUGGING

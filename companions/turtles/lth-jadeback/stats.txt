@@ -1,0 +1,11 @@
+Aur-Rubyheart — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      █████████████████░░░  89
+  WISDOM     █████████████░░░░░░░  68
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

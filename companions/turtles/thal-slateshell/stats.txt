@@ -1,0 +1,11 @@
+Cael-Crimsonback — Legendary (★★★★★) Tinyduck ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████░░░░░░░  69
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████░░░░░░░░░░░  47 (dump)
+
+Peak: PATIENCE | Dump: SNARK

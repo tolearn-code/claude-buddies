@@ -1,0 +1,11 @@
+Lúth-Berylback — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ███████████░░░░░░░░░  59
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  84
+
+Peak: WISDOM | Dump: CHAOS

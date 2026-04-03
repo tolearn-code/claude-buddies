@@ -1,0 +1,11 @@
+Mossmantle — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 366):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ███████████░░░░░░░░░  57
+
+Peak: DEBUGGING | Dump: WISDOM

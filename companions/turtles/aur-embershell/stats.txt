@@ -1,0 +1,11 @@
+Thal-Petrashield — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 392):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████████████░░░  86
+
+Peak: CHAOS | Dump: PATIENCE

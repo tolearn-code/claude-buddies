@@ -1,0 +1,30 @@
+Ithil-Onyxshield — Legendary Turtle (★★★★★) ✨
+Eyes: ◉ | Hat: wizard | Shiny: yes
+
+--- Frame 0 (idle) ---
+    /^\     
+   _,--._   
+  ( ◉  ◉ )  
+ /[______]\ 
+  ``    ``  
+
+--- Frame 1 (idle alt) ---
+    /^\     
+   _,--._   
+  ( ◉  ◉ )  
+ /[______]\ 
+   ``  ``   
+
+--- Frame 2 (wink) ---
+    /^\     
+   _,--._   
+  ( ◉  ◉ )  
+ /[======]\ 
+  ``    ``  
+
+--- Sleeping ---
+    /^\     
+   _,--._   
+  ( -  - )  
+ /[______]\ 
+  ``    ``  

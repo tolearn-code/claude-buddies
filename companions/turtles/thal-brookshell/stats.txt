@@ -1,0 +1,11 @@
+Mîr-Citrinshield — Legendary (★★★★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

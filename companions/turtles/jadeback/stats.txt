@@ -1,0 +1,11 @@
+Quartzshield — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ██████████████░░░░░░  72
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: PATIENCE

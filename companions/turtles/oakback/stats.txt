@@ -1,0 +1,11 @@
+Emberstone — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      █████████████████░░░  87
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

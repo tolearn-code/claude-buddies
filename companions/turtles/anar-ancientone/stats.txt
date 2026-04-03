@@ -1,0 +1,11 @@
+Aur-Stoneguard — Legendary (★★★★★) Halo ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 397):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████████░░░  87
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

@@ -1,0 +1,11 @@
+Rubyheart — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████░░░░░░░░░░░░  40 (dump)
+  SNARK      ███████████████░░░░░  79
+
+Peak: DEBUGGING | Dump: WISDOM

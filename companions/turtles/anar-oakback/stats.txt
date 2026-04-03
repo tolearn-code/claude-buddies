@@ -1,0 +1,11 @@
+Ithil-Earthwarden — Legendary (★★★★★) Halo ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 410):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   █████████████████░░░  88
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

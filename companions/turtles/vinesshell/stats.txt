@@ -1,0 +1,11 @@
+Amberback — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: DEBUGGING | Dump: WISDOM

@@ -1,0 +1,11 @@
+Ithil-Flintheart — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  ███████████░░░░░░░░░  55
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

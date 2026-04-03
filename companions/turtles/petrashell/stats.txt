@@ -1,0 +1,11 @@
+Sapphireshield — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████░░░░░░░░  63
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: CHAOS

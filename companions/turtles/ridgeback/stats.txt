@@ -1,0 +1,11 @@
+Onyxshield — Legendary (★★★★★) Beanie
+Eyes: ° | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ████████████████░░░░  80
+
+Peak: PATIENCE | Dump: WISDOM

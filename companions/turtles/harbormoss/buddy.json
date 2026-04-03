@@ -1,0 +1,25 @@
+{
+  "name": "Sandguard",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Sandguard speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128796,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 67,
+      "CHAOS": 54,
+      "WISDOM": 100,
+      "SNARK": 71
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 827211253,
+  "totalStats": 371
+}

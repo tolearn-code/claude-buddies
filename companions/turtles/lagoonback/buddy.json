@@ -1,0 +1,25 @@
+{
+  "name": "Moonstone",
+  "personality": "A wild-eyed force who thrives in broken deploys. Moonstone rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
+  "hatchedAt": 1775211128797,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "turtle",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 72,
+      "CHAOS": 100,
+      "WISDOM": 52,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 565584961,
+  "totalStats": 391
+}
