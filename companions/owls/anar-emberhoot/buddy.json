@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Starwatcher",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Starwatcher rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128725,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 54,
+      "CHAOS": 100,
+      "WISDOM": 80,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 567667623,
+  "totalStats": 389
+}

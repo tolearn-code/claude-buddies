@@ -1,0 +1,11 @@
+Crimsongaze — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████░░░░  84
+
+Peak: CHAOS | Dump: DEBUGGING

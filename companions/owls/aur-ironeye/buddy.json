@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Ashtalon",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Thal-Ashtalon never rests until the root cause is found.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128727,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 49,
+      "CHAOS": 64,
+      "WISDOM": 68,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 406823480,
+  "totalStats": 368
+}

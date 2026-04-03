@@ -1,0 +1,11 @@
+Lúth-Sagefeather — Legendary (★★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: CHAOS

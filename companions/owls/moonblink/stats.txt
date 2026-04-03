@@ -1,0 +1,11 @@
+Copperwing — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ███████████░░░░░░░░░  59
+  SNARK      ████████████████░░░░  84
+
+Peak: DEBUGGING | Dump: PATIENCE

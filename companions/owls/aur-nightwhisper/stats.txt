@@ -1,0 +1,11 @@
+Aur-Frostwisdom — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 369):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ██████████░░░░░░░░░░  53
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████░░░░░░░░░░░  45 (dump)
+
+Peak: CHAOS | Dump: SNARK

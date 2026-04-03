@@ -1,0 +1,11 @@
+Cael-Ironbeak — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: PATIENCE | Dump: SNARK

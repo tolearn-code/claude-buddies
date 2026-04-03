@@ -1,0 +1,11 @@
+Berylfeather — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
+
+Stats (total: 398):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████████████░░░  85
+  SNARK      █████████░░░░░░░░░░░  47 (dump)
+
+Peak: PATIENCE | Dump: SNARK

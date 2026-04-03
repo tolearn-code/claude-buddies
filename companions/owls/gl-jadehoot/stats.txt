@@ -1,0 +1,11 @@
+Ithil-Silverwing — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ███████████████░░░░░  76
+
+Peak: PATIENCE | Dump: CHAOS

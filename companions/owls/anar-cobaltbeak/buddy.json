@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Talonmere",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Aur-Talonmere has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128738,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 67,
+      "PATIENCE": 78,
+      "CHAOS": 74,
+      "WISDOM": 54,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 371713529,
+  "totalStats": 373
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Violettalon",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Violettalon rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128743,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 74,
+      "CHAOS": 100,
+      "WISDOM": 50,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 901836829,
+  "totalStats": 386
+}

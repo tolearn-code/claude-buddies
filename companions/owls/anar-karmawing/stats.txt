@@ -1,0 +1,11 @@
+Ithil-Duskfeather — Legendary (★★★★★) Halo ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████░░░░░░░░  63
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

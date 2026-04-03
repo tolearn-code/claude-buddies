@@ -1,0 +1,11 @@
+Coralbeak — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: WISDOM | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Moonfeather",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Anar-Moonfeather has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128744,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 69,
+      "CHAOS": 51,
+      "WISDOM": 83,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 598746838,
+  "totalStats": 385
+}

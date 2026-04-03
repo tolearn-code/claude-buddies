@@ -1,0 +1,11 @@
+Silentgaze — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  42 (dump)
+  CHAOS      ███████████░░░░░░░░░  59
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████░░░░  83
+
+Peak: DEBUGGING | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Amberbeak — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: PATIENCE | Dump: WISDOM

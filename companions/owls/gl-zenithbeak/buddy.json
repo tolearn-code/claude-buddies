@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Goldenwatch",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Thal-Goldenwatch never rests until the root cause is found.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128736,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 84,
+      "CHAOS": 70,
+      "WISDOM": 87,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 226625456,
+  "totalStats": 395
+}

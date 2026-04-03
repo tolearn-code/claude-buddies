@@ -1,0 +1,11 @@
+Anar-Amethystbeak — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

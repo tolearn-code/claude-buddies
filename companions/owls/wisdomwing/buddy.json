@@ -1,0 +1,25 @@
+{
+  "name": "Violettalon",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Violettalon speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128710,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 71,
+      "CHAOS": 89,
+      "WISDOM": 100,
+      "SNARK": 43
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 532173671,
+  "totalStats": 386
+}

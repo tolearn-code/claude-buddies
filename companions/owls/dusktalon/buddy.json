@@ -1,0 +1,25 @@
+{
+  "name": "Nightseeker",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Nightseeker never rests until the root cause is found.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128701,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 54,
+      "CHAOS": 74,
+      "WISDOM": 86,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 492981335,
+  "totalStats": 403
+}

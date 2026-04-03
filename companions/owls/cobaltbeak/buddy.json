@@ -1,0 +1,25 @@
+{
+  "name": "Moonvigil",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Moonvigil never rests until the root cause is found.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128714,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 84,
+      "CHAOS": 74,
+      "WISDOM": 76,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 185861441,
+  "totalStats": 387
+}

@@ -1,0 +1,11 @@
+Rubytalon — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ████████░░░░░░░░░░░░  44 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

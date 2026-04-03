@@ -1,0 +1,11 @@
+Ithil-Emeraldgaze — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████░░░░░░░░  61
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ███████████████░░░░░  76
+
+Peak: DEBUGGING | Dump: WISDOM

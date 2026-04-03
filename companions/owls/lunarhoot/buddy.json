@@ -1,0 +1,25 @@
+{
+  "name": "Jadebeak",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Jadebeak never rests until the root cause is found.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128719,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 48,
+      "CHAOS": 84,
+      "WISDOM": 77,
+      "SNARK": 66
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 394323070,
+  "totalStats": 375
+}

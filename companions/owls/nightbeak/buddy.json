@@ -1,0 +1,25 @@
+{
+  "name": "Emberwisdom",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Emberwisdom never rests until the root cause is found.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128705,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 80,
+      "CHAOS": 82,
+      "WISDOM": 78,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 284498130,
+  "totalStats": 388
+}

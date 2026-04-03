@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Onyxseeker",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Onyxseeker waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128746,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 100,
+      "CHAOS": 79,
+      "WISDOM": 53,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 23418196,
+  "totalStats": 399
+}

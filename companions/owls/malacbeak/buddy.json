@@ -1,0 +1,25 @@
+{
+  "name": "Goldenwatch",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Goldenwatch speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128719,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 88,
+      "CHAOS": 45,
+      "WISDOM": 100,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 255048034,
+  "totalStats": 401
+}

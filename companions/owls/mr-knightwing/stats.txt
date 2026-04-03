@@ -1,0 +1,11 @@
+Cael-Pearlwing — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 401):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      █████████████████░░░  85
+
+Peak: PATIENCE | Dump: WISDOM

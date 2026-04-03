@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Crimsongaze",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Crimsongaze waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128731,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 89,
+      "SNARK": 42
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 678597095,
+  "totalStats": 385
+}

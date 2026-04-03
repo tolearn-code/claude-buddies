@@ -1,0 +1,25 @@
+{
+  "name": "Berylfeather",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Berylfeather waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128707,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 85,
+      "SNARK": 47
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 616285697,
+  "totalStats": 398
+}

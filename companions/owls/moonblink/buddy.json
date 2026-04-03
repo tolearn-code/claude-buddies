@@ -1,0 +1,25 @@
+{
+  "name": "Copperwing",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Copperwing never rests until the root cause is found.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128700,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 45,
+      "CHAOS": 84,
+      "WISDOM": 59,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 553833190,
+  "totalStats": 372
+}

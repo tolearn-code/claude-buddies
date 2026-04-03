@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Frostwisdom",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Frostwisdom rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128723,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "·",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 53,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 45
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 272151123,
+  "totalStats": 369
+}

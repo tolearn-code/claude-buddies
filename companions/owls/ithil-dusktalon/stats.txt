@@ -1,0 +1,11 @@
+Gîl-Opaltalon — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: CHAOS | Dump: SNARK

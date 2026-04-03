@@ -1,0 +1,25 @@
+{
+  "name": "Garnetwing",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Garnetwing speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128721,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 75,
+      "PATIENCE": 54,
+      "CHAOS": 78,
+      "WISDOM": 100,
+      "SNARK": 71
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 614705707,
+  "totalStats": 378
+}

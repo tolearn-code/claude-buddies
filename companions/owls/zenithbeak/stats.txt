@@ -1,0 +1,11 @@
+Malachiwing — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████████░░░░░░░  66
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: PATIENCE | Dump: SNARK

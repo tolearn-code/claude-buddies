@@ -1,0 +1,11 @@
+Lúth-Startalon — Legendary (★★★★★) Crown ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 402):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ███████████████░░░░░  79
+
+Peak: CHAOS | Dump: WISDOM

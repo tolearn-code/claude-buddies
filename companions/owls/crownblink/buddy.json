@@ -1,0 +1,25 @@
+{
+  "name": "Duskfeather",
+  "personality": "A wild force who thrives in broken deploys. Duskfeather rewrites your plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211274387,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 87,
+      "CHAOS": 100,
+      "WISDOM": 50,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 694583271,
+  "totalStats": 380
+}

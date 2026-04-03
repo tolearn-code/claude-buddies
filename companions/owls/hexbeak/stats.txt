@@ -1,0 +1,11 @@
+Eclipsewing — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████░░░░░░░░  61
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: CHAOS | Dump: SNARK

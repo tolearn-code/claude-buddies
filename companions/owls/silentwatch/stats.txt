@@ -1,0 +1,11 @@
+Pearlwing — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

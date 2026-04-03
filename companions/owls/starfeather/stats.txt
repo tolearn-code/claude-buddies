@@ -1,0 +1,11 @@
+Obsiditalon — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  46 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████████░░░░░░░  67
+
+Peak: DEBUGGING | Dump: PATIENCE

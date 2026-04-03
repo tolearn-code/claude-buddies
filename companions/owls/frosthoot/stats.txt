@@ -1,0 +1,11 @@
+Frostwisdom — Legendary (★★★★★) Crown
+Eyes: @ | Shiny: no
+
+Stats (total: 373):
+  DEBUGGING  ████████████░░░░░░░░  62
+  PATIENCE   █████████░░░░░░░░░░░  46 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: PATIENCE

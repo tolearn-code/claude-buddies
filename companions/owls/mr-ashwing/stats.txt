@@ -1,0 +1,11 @@
+Anar-Berylfeather — Legendary (★★★★★) Tophat ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ██████████████░░░░░░  72
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████████░░░░░░  71
+
+Peak: DEBUGGING | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Sagefeather",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Sagefeather waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128720,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 43,
+      "PATIENCE": 100,
+      "CHAOS": 80,
+      "WISDOM": 83,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 917471882,
+  "totalStats": 378
+}

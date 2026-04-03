@@ -1,0 +1,11 @@
+Twilwisdom — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 403):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Obsiditalon",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Obsiditalon never rests until the root cause is found.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128700,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 46,
+      "CHAOS": 85,
+      "WISDOM": 89,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 672995331,
+  "totalStats": 387
+}

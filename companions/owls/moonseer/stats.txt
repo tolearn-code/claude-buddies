@@ -1,0 +1,11 @@
+Opaltalon — Legendary (★★★★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████░░░░░░░░  63
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: PATIENCE

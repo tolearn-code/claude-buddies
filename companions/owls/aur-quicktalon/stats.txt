@@ -1,0 +1,11 @@
+Mîr-Voidwatcher — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████░░░░░░░░░░░░  44 (dump)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████░░░░  82
+
+Peak: DEBUGGING | Dump: CHAOS

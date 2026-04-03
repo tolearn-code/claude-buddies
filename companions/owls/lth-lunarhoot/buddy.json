@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Topazwatcher",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Topazwatcher rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128742,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 80,
+      "CHAOS": 100,
+      "WISDOM": 77,
+      "SNARK": 61
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 45098057,
+  "totalStats": 370
+}

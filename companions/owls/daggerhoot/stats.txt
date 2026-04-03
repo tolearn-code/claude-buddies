@@ -1,0 +1,11 @@
+Grimbeak — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  87
+
+Peak: WISDOM | Dump: CHAOS

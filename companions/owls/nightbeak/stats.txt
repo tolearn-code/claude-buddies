@@ -1,0 +1,11 @@
+Emberwisdom — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

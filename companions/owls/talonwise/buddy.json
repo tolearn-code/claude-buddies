@@ -1,0 +1,25 @@
+{
+  "name": "Quartzwatcher",
+  "personality": "A wild-eyed force who thrives in broken deploys. Quartzwatcher rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128723,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 53,
+      "CHAOS": 100,
+      "WISDOM": 67,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 726881142,
+  "totalStats": 375
+}

@@ -1,0 +1,11 @@
+Lúth-Nightseeker — Legendary (★★★★★) Halo ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  █████████████░░░░░░░  67
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

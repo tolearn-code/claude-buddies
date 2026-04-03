@@ -1,0 +1,11 @@
+Cael-Silentgaze — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 402):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████░░░░░░░░░░░░  42 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

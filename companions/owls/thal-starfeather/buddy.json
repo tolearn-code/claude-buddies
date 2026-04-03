@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Azurebeak",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Cael-Azurebeak speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128747,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 88,
+      "CHAOS": 57,
+      "WISDOM": 100,
+      "SNARK": 45
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 911932857,
+  "totalStats": 378
+}

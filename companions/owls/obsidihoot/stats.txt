@@ -1,0 +1,11 @@
+Sagefeather — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ████████░░░░░░░░░░░░  43 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████░░░░  83
+  SNARK      ██████████████░░░░░░  72
+
+Peak: PATIENCE | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Duskfeather — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  50
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Mîr-Amberbeak — Legendary (★★★★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 370):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████░░░░░░░░░░░░  43 (dump)
+  WISDOM     ██████████░░░░░░░░░░  51
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: CHAOS

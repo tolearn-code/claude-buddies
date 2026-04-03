@@ -1,0 +1,11 @@
+Jadebeak — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ███████████████░░░░░  77
+  SNARK      █████████████░░░░░░░  66
+
+Peak: DEBUGGING | Dump: PATIENCE

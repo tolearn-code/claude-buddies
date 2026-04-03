@@ -1,0 +1,11 @@
+Topazwatcher — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████░░░░░░░░░  59
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: CHAOS | Dump: SNARK

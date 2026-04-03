@@ -1,0 +1,11 @@
+Nightseeker — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 403):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     █████████████████░░░  86
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: PATIENCE

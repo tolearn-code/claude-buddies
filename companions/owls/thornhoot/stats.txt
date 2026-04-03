@@ -1,0 +1,11 @@
+Citrinwing — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████░░░░░░░░░░░░  44 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

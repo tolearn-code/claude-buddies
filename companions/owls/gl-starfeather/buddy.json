@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Jadebeak",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Cael-Jadebeak has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128724,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 47,
+      "CHAOS": 87,
+      "WISDOM": 85,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 944659880,
+  "totalStats": 407
+}

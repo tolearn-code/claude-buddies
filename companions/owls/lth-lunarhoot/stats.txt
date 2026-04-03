@@ -1,0 +1,11 @@
+Aur-Topazwatcher — Legendary (★★★★★) Wizard ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 370):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: CHAOS | Dump: DEBUGGING

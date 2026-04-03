@@ -1,0 +1,25 @@
+{
+  "name": "Dawnseeker",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Dawnseeker has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128717,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 53,
+      "CHAOS": 85,
+      "WISDOM": 89,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 969219624,
+  "totalStats": 416
+}

@@ -1,0 +1,11 @@
+Thal-Ashtalon — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 368):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     █████████████░░░░░░░  68
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: PATIENCE

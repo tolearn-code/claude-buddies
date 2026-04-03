@@ -1,0 +1,11 @@
+Silverwing — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  71
+
+Peak: WISDOM | Dump: CHAOS

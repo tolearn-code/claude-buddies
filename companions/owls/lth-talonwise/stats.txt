@@ -1,0 +1,11 @@
+Mîr-Onyxseeker — Legendary (★★★★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: WISDOM

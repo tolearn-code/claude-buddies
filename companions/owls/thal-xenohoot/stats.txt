@@ -1,0 +1,11 @@
+Thal-Malachiwing — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: DEBUGGING

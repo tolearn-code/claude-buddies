@@ -1,0 +1,11 @@
+Violettalon — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████░░░░░░░░░░░░  43 (dump)
+
+Peak: WISDOM | Dump: SNARK

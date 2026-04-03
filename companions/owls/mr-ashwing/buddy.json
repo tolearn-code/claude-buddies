@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Berylfeather",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Anar-Berylfeather never rests until the root cause is found.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128737,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 54,
+      "CHAOS": 72,
+      "WISDOM": 89,
+      "SNARK": 71
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 482329240,
+  "totalStats": 386
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Pearlwing",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Cael-Pearlwing waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128729,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 47,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 342492155,
+  "totalStats": 401
+}

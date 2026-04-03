@@ -1,0 +1,11 @@
+Amethystbeak — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  75
+
+Peak: WISDOM | Dump: DEBUGGING

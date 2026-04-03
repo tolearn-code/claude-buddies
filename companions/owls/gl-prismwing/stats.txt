@@ -1,0 +1,11 @@
+Anar-Moonfeather — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████░░░░░░░  69
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,11 @@
+Thal-Obsiditalon — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 367):
+  DEBUGGING  ██████████░░░░░░░░░░  52
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████░░░░  81
+  SNARK      █████████░░░░░░░░░░░  47 (dump)
+
+Peak: PATIENCE | Dump: SNARK

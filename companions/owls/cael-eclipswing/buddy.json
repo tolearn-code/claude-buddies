@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Stormtalon",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Anar-Stormtalon never rests until the root cause is found.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128739,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 80,
+      "CHAOS": 80,
+      "WISDOM": 41,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 927795875,
+  "totalStats": 376
+}

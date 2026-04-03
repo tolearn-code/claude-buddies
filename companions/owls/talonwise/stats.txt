@@ -1,0 +1,11 @@
+Quartzwatcher — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  █████████████░░░░░░░  66
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: PATIENCE

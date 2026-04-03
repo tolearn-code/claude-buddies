@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Mistfeather",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Mistfeather waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128736,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 50,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 72,
+      "SNARK": 71
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 766202681,
+  "totalStats": 377
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Stormtalon",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Stormtalon speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128703,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 86,
+      "CHAOS": 76,
+      "WISDOM": 100,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 43172850,
+  "totalStats": 390
+}

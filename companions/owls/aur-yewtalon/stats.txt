@@ -1,0 +1,11 @@
+Ithil-Mistfeather — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ██████████████░░░░░░  71
+
+Peak: PATIENCE | Dump: DEBUGGING

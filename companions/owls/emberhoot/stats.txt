@@ -1,0 +1,11 @@
+Ashtalon — Legendary (★★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   █████████████░░░░░░░  65
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  82
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: DEBUGGING

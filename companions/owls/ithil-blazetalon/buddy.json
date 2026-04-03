@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Copperwing",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Copperwing waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128737,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 100,
+      "CHAOS": 52,
+      "WISDOM": 81,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 114253076,
+  "totalStats": 399
+}

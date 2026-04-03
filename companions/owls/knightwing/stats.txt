@@ -1,0 +1,11 @@
+Moonfeather — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      █████████████░░░░░░░  66
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

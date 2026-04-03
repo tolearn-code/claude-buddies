@@ -1,0 +1,11 @@
+Shadowbeak — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      █████████████░░░░░░░  65
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

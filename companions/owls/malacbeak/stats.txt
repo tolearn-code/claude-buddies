@@ -1,0 +1,11 @@
+Goldenwatch — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 401):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████████░░░  88
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  86
+
+Peak: WISDOM | Dump: CHAOS

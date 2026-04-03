@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Silverwing",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Silverwing waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128728,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 100,
+      "CHAOS": 51,
+      "WISDOM": 77,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 55501831,
+  "totalStats": 388
+}

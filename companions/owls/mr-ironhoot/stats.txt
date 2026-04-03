@@ -1,0 +1,11 @@
+Lúth-Coralbeak — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ████████████████░░░░  82
+  SNARK      ██████████████░░░░░░  70
+
+Peak: DEBUGGING | Dump: CHAOS

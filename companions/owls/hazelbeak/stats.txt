@@ -1,0 +1,11 @@
+Stormtalon — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  75
+
+Peak: WISDOM | Dump: DEBUGGING

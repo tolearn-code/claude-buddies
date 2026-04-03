@@ -1,0 +1,11 @@
+Indigowing — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   █████████████░░░░░░░  69
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

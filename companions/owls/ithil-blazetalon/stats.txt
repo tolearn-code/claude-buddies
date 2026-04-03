@@ -1,0 +1,11 @@
+Aur-Copperwing — Legendary (★★★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ████████████████░░░░  81
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: CHAOS

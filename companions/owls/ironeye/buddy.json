@@ -1,0 +1,25 @@
+{
+  "name": "Thornwatcher",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thornwatcher rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128703,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 42,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 68,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 899688735,
+  "totalStats": 379
+}

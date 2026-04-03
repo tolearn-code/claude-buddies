@@ -1,0 +1,11 @@
+Thal-Goldenwatch — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ██████████████░░░░░░  70
+  WISDOM     █████████████████░░░  87
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

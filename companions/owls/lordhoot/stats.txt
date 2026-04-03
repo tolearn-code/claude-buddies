@@ -1,0 +1,11 @@
+Startalon — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 402):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  43 (dump)
+  WISDOM     ████████████████░░░░  84
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: CHAOS

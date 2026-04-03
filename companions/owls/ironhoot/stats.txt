@@ -1,0 +1,11 @@
+Dawnseeker — Legendary (★★★★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 416):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

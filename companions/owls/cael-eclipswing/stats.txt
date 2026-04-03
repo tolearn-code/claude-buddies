@@ -1,0 +1,11 @@
+Anar-Stormtalon — Legendary (★★★★★) Beanie ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      ███████████████░░░░░  75
+
+Peak: DEBUGGING | Dump: WISDOM

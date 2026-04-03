@@ -1,0 +1,11 @@
+Aur-Talonmere — Legendary (★★★★★) Halo ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 373):
+  DEBUGGING  █████████████░░░░░░░  67
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

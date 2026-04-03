@@ -1,0 +1,11 @@
+Thal-Rubytalon — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ███████████░░░░░░░░░  58
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: PATIENCE | Dump: SNARK

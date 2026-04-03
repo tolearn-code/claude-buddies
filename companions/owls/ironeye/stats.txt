@@ -1,0 +1,11 @@
+Thornwatcher — Legendary (★★★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  68
+  SNARK      ████████████████░░░░  84
+
+Peak: CHAOS | Dump: DEBUGGING

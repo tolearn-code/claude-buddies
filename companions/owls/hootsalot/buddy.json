@@ -1,0 +1,25 @@
+{
+  "name": "Ironbeak",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ironbeak waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128723,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 100,
+      "CHAOS": 87,
+      "WISDOM": 86,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 210072615,
+  "totalStats": 412
+}

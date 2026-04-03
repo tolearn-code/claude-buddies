@@ -1,0 +1,11 @@
+Sapphirewing — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  █████████████░░░░░░░  68
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: CHAOS

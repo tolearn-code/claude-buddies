@@ -1,0 +1,25 @@
+{
+  "name": "Crystalgaze",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Crystalgaze speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128718,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 75,
+      "PATIENCE": 79,
+      "CHAOS": 77,
+      "WISDOM": 100,
+      "SNARK": 41
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 823365736,
+  "totalStats": 372
+}

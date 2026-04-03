@@ -1,0 +1,11 @@
+Starwatcher — Legendary (★★★★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

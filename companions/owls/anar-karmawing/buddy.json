@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Duskfeather",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Ithil-Duskfeather never rests until the root cause is found.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128741,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 89,
+      "CHAOS": 81,
+      "WISDOM": 63,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 740352728,
+  "totalStats": 385
+}

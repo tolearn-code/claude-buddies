@@ -1,0 +1,11 @@
+Emeraldgaze — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 397):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████░░░░░░░  69
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: WISDOM | Dump: SNARK

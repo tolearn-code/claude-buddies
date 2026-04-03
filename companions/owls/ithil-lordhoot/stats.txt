@@ -1,0 +1,11 @@
+Ithil-Frostgaze — Legendary (★★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████░░░░░░░░░░░░  41 (dump)
+  SNARK      ███████████████░░░░░  75
+
+Peak: CHAOS | Dump: WISDOM

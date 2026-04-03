@@ -1,0 +1,25 @@
+{
+  "name": "Onyxseeker",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Onyxseeker waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
+  "hatchedAt": 1775211128722,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "owl",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 50,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 379854810,
+  "totalStats": 400
+}
