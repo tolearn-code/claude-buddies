@@ -1,6 +1,9 @@
 # Companion Patcher
 
 Patch Claude Code to use any companion stored in the `companions/` directory.
+Works on **any machine and any account** — the patcher reads your account UUID
+and finds a salt that produces the exact same companion visuals for you.
+
 No external tools or npm packages required — just Python 3.
 
 ## Usage
@@ -17,9 +20,21 @@ python3 patcher-test/patch_companion.py thistlewing
 python3 patcher-test/patch_companion.py --restore
 ```
 
+## How it works
+
+1. Reads the companion's target bones (species, rarity, eye, hat, shiny) from `buddy.json`
+2. Reads your `accountUuid` from `~/.claude.json`
+3. Tries the stored salt first — if it produces matching bones, uses it directly
+4. Otherwise, brute-forces a new salt that produces the exact same visual companion
+5. Patches the salt into Claude Code's CLI file
+6. Updates `~/.claude.json` with the companion's name and personality
+
+Since buddy generation is deterministic (hash + RNG), any salt that produces matching
+bones will give you the same species, rarity, eye style, hat, and shiny status.
+
 ## How it finds Claude Code
 
-The patcher uses multiple strategies to locate the Claude Code CLI:
+Multiple strategies, in order:
 
 1. `CLAUDE_BINARY` env var (manual override)
 2. `which claude` with full symlink resolution
@@ -28,20 +43,11 @@ The patcher uses multiple strategies to locate the Claude Code CLI:
 
 Supports installations via npm, fnm, nvm, volta, homebrew, and the desktop app.
 
-## What it does
-
-1. Reads the companion's `buddy.json` for the salt and `companion.json` for identity
-2. Finds the Claude Code CLI automatically
-3. Backs up the CLI file and `~/.claude.json`
-4. Replaces the salt in the CLI (byte-level, same length)
-5. Re-signs the binary on macOS if needed
-6. Updates the `companion` field in `~/.claude.json`
-7. Saves state to `.patcher-state.json` for restore capability
-
 ## Notes
 
-- The salt determines the visual species. Same salt + same account = same buddy.
-- Name and personality apply immediately; species depends on the salt.
 - Always restart Claude Code after patching.
 - Backups are created before any modification.
 - Works with both `.js` CLI files and compiled binaries.
+- Re-signs binaries on macOS if needed.
+- Uses FNV-1a hash (Node.js runtime). If your install uses Bun, the salt search
+  may need adjustment.
