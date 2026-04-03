@@ -232,8 +232,16 @@ function resolveCliJs(binaryPath: string): string | null {
     if (existsSync(c)) return c;
   }
 
-  // Large binary (compiled)
-  if (existsSync(resolved) && statSync(resolved).size >= 1_000_000) return resolved;
+  // Compiled binaries cannot be safely patched — byte replacement invalidates
+  // their internal integrity checksums, causing segfaults on startup.
+  if (existsSync(resolved) && statSync(resolved).size >= 1_000_000) {
+    throw new Error(
+      `Found compiled binary at ${resolved} but cannot patch it.\n` +
+      "  Patching compiled binaries corrupts their integrity checksums, causing segfaults.\n" +
+      "  Install Claude Code via npm/pnpm so the patcher can modify cli.js directly:\n" +
+      "    npm install -g @anthropic-ai/claude-code"
+    );
+  }
   return null;
 }
 
@@ -496,12 +504,13 @@ function patchCompanion(name: string, forceHash?: "wyhash" | "fnv1a"): void {
   console.log(`New salt:     ${newSalt}`);
   console.log();
 
+  let cliBackupPath: string | null = null;
   if (currentSalt === newSalt) {
     console.log("Salt already matches — just updating companion identity.");
   } else {
-    const backupPath = `${cliPath}.backup-${Math.floor(Date.now() / 1000)}`;
-    copyFileSync(cliPath, backupPath);
-    console.log(`Backed up CLI to ${backupPath.split("/").pop()}`);
+    cliBackupPath = `${cliPath}.backup-${Math.floor(Date.now() / 1000)}`;
+    copyFileSync(cliPath, cliBackupPath);
+    console.log(`Backed up CLI to ${cliBackupPath.split("/").pop()}`);
 
     try {
       const count = patchSalt(cliPath, currentSalt, newSalt);
@@ -509,7 +518,7 @@ function patchCompanion(name: string, forceHash?: "wyhash" | "fnv1a"): void {
     } catch (e: any) {
       console.error(`Patch failed: ${e.message}`);
       console.log("Restoring backup.");
-      copyFileSync(backupPath, cliPath);
+      copyFileSync(cliBackupPath, cliPath);
       process.exit(1);
     }
   }
@@ -524,6 +533,8 @@ function patchCompanion(name: string, forceHash?: "wyhash" | "fnv1a"): void {
     currentSalt: newSalt,
     companion: name,
     cliPath,
+    cliBackup: cliBackupPath,
+    configBackup,
     hashAlgorithm: hashName,
     patchedAt: new Date().toISOString(),
   });
@@ -540,43 +551,81 @@ function patchCompanion(name: string, forceHash?: "wyhash" | "fnv1a"): void {
 }
 
 function restoreDefault(forceHash?: "wyhash" | "fnv1a"): void {
-  let cliPath: string;
-  try { cliPath = findClaudeBinary(); } catch (e: any) { console.error(`Error: ${e.message}`); process.exit(1); }
+  const state = readPatcherState();
+  const cliBackup: string | null = state.cliBackup ?? null;
+  const configBackup: string | null = state.configBackup ?? null;
+  let cliPath: string = state.cliPath ?? "";
 
-  const knownSalts = listCompanions()
-    .map((n) => { try { return loadCompanion(n).buddy.salt; } catch { return null; } })
-    .filter(Boolean);
+  // Restore CLI from backup file if available
+  if (cliBackup && existsSync(cliBackup)) {
+    if (!cliPath) cliPath = cliBackup.split(".backup-")[0];
+    console.log(`Restoring CLI from backup: ${cliBackup.split("/").pop()}`);
+    copyFileSync(cliBackup, cliPath);
+    console.log(`  ${cliPath} restored.`);
+  } else {
+    // No backup file — fall back to byte replacement
+    if (!cliPath) {
+      try { cliPath = findClaudeBinary(); } catch (e: any) { console.error(`Error: ${e.message}`); process.exit(1); }
+    }
 
-  const currentSalt = getCurrentSalt(cliPath, knownSalts);
+    const knownSalts = listCompanions()
+      .map((n) => { try { return loadCompanion(n).buddy.salt; } catch { return null; } })
+      .filter(Boolean);
 
-  if (currentSalt === DEFAULT_SALT) {
-    console.log("Already using the default salt. Nothing to restore.");
-    return;
+    const currentSalt = getCurrentSalt(cliPath, knownSalts);
+
+    if (currentSalt === DEFAULT_SALT) {
+      console.log("Already using the default salt. Nothing to restore.");
+      return;
+    }
+
+    // Refuse to byte-replace on compiled binaries
+    if (!cliPath.endsWith(".js") && !cliPath.endsWith(".mjs")) {
+      console.error(
+        "Error: No backup file found and CLI is a compiled binary.\n" +
+        "  Cannot safely restore via byte replacement.\n" +
+        "  Reinstall Claude Code to fix:\n" +
+        "    npm install -g @anthropic-ai/claude-code"
+      );
+      process.exit(1);
+    }
+
+    console.log("No backup file found — falling back to salt replacement.");
+    console.log(`Restoring default salt: ${DEFAULT_SALT}`);
+    console.log(`Current salt:           ${currentSalt}`);
+
+    const preRestoreBackup = `${cliPath}.backup-${Math.floor(Date.now() / 1000)}`;
+    copyFileSync(cliPath, preRestoreBackup);
+
+    try {
+      patchSalt(cliPath, currentSalt, DEFAULT_SALT);
+    } catch (e: any) {
+      console.error(`Restore failed: ${e.message}`);
+      copyFileSync(preRestoreBackup, cliPath);
+      process.exit(1);
+    }
   }
 
-  console.log(`Restoring default salt: ${DEFAULT_SALT}`);
-  console.log(`Current salt:           ${currentSalt}`);
-
-  const backupPath = `${cliPath}.backup-${Math.floor(Date.now() / 1000)}`;
-  copyFileSync(cliPath, backupPath);
-
-  try {
-    patchSalt(cliPath, currentSalt, DEFAULT_SALT);
-  } catch (e: any) {
-    console.error(`Restore failed: ${e.message}`);
-    copyFileSync(backupPath, cliPath);
-    process.exit(1);
+  // Restore config from backup if available
+  if (configBackup && existsSync(configBackup)) {
+    const configPath = configBackup.split(".backup-")[0];
+    console.log(`Restoring config from backup: ${configBackup.split("/").pop()}`);
+    copyFileSync(configBackup, configPath);
+  } else {
+    console.log("  No config backup found — companion identity was not reverted.");
   }
 
   writePatcherState({
-    previousSalt: currentSalt,
+    previousSalt: state.currentSalt ?? null,
     currentSalt: DEFAULT_SALT,
     companion: null,
     cliPath,
+    cliBackup: null,
+    configBackup: null,
     patchedAt: new Date().toISOString(),
   });
 
-  console.log("Default salt restored. Restart Claude Code.");
+  console.log("Restored. Restart Claude Code.");
 }
 
 // ── CLI ──

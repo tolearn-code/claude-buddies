@@ -416,8 +416,17 @@ def _resolve_to_cli_js(binary_path: str) -> Optional[str]:
     for candidate in candidates:
         if os.path.exists(candidate):
             return candidate
+    # Compiled binaries cannot be safely patched — byte replacement invalidates
+    # their internal integrity checksums, causing segfaults on startup.
     if os.path.exists(resolved) and os.path.getsize(resolved) >= 1_000_000:
-        return resolved
+        raise RuntimeError(
+            f"Found compiled binary at {resolved} but cannot patch it.\n"
+            "  Patching compiled binaries corrupts their integrity checksums,"
+            " causing segfaults.\n"
+            "  Install Claude Code via npm/pnpm so the patcher can modify"
+            " cli.js directly:\n"
+            "    npm install -g @anthropic-ai/claude-code"
+        )
     return None
 
 
@@ -714,10 +723,12 @@ def patch_companion(name: str, force_hash: Optional[str] = None) -> None:
     print(f"New salt:     {new_salt}")
     print()
 
+    cli_backup_path: Optional[str] = None
     if current_salt == new_salt:
         print("Salt already matches — just updating companion identity.")
     else:
-        backup_path = cli_path + f".backup-{int(datetime.now().timestamp())}"
+        cli_backup_path = cli_path + f".backup-{int(datetime.now().timestamp())}"
+        backup_path = cli_backup_path
         shutil.copy2(cli_path, backup_path)
         print(f"Backed up CLI to {os.path.basename(backup_path)}")
 
@@ -743,6 +754,8 @@ def patch_companion(name: str, force_hash: Optional[str] = None) -> None:
             "currentSalt": new_salt,
             "companion": name,
             "cliPath": cli_path,
+            "cliBackup": cli_backup_path,
+            "configBackup": str(config_backup),
             "hashAlgorithm": hash_name,
             "patchedAt": datetime.now(timezone.utc).isoformat(),
         }
@@ -761,47 +774,83 @@ def patch_companion(name: str, force_hash: Optional[str] = None) -> None:
 
 
 def restore_default() -> None:
-    """Restore the default salt."""
-    try:
-        cli_path = find_claude_binary()
-    except FileNotFoundError as e:
-        print(f"Error: {e}")
-        sys.exit(1)
+    """Restore from the pre-patch backup, or fall back to salt replacement."""
+    state = read_patcher_state()
+    cli_backup = state.get("cliBackup")
+    config_backup = state.get("configBackup")
+    cli_path = state.get("cliPath")
 
-    try:
-        current_salt = get_current_salt(cli_path)
-    except RuntimeError as e:
-        print(f"Error: {e}")
-        sys.exit(1)
+    # Restore CLI from backup file if available
+    if cli_backup and os.path.exists(cli_backup):
+        if not cli_path:
+            cli_path = cli_backup.rsplit(".backup-", 1)[0]
+        print(f"Restoring CLI from backup: {os.path.basename(cli_backup)}")
+        shutil.copy2(cli_backup, cli_path)
+        print(f"  {cli_path} restored.")
+    else:
+        # No backup file — fall back to byte replacement
+        try:
+            if not cli_path:
+                cli_path = find_claude_binary()
+        except FileNotFoundError as e:
+            print(f"Error: {e}")
+            sys.exit(1)
 
-    if current_salt == DEFAULT_SALT:
-        print("Already using the default salt. Nothing to restore.")
-        return
+        try:
+            current_salt = get_current_salt(cli_path)
+        except RuntimeError as e:
+            print(f"Error: {e}")
+            sys.exit(1)
 
-    print(f"Restoring default salt: {DEFAULT_SALT}")
-    print(f"Current salt:           {current_salt}")
+        if current_salt == DEFAULT_SALT:
+            print("Already using the default salt. Nothing to restore.")
+            return
 
-    backup_path = cli_path + f".backup-{int(datetime.now().timestamp())}"
-    shutil.copy2(cli_path, backup_path)
+        # Refuse to byte-replace on compiled binaries
+        if not cli_path.endswith((".js", ".mjs")):
+            print(
+                "Error: No backup file found and CLI is a compiled binary.\n"
+                "  Cannot safely restore via byte replacement.\n"
+                "  Reinstall Claude Code to fix:\n"
+                "    npm install -g @anthropic-ai/claude-code"
+            )
+            sys.exit(1)
 
-    try:
-        patch_salt(cli_path, current_salt, DEFAULT_SALT)
-    except (RuntimeError, ValueError) as e:
-        print(f"Restore failed: {e}")
-        shutil.copy2(backup_path, cli_path)
-        sys.exit(1)
+        print(f"No backup file found — falling back to salt replacement.")
+        print(f"Restoring default salt: {DEFAULT_SALT}")
+        print(f"Current salt:           {current_salt}")
+
+        pre_restore_backup = cli_path + f".backup-{int(datetime.now().timestamp())}"
+        shutil.copy2(cli_path, pre_restore_backup)
+
+        try:
+            patch_salt(cli_path, current_salt, DEFAULT_SALT)
+        except (RuntimeError, ValueError) as e:
+            print(f"Restore failed: {e}")
+            shutil.copy2(pre_restore_backup, cli_path)
+            sys.exit(1)
+
+    # Restore config from backup if available
+    if config_backup and os.path.exists(config_backup):
+        config_path = config_backup.rsplit(".backup-", 1)[0]
+        print(f"Restoring config from backup: {os.path.basename(config_backup)}")
+        shutil.copy2(config_backup, config_path)
+    else:
+        print("  No config backup found — companion identity was not reverted.")
 
     write_patcher_state(
         {
-            "previousSalt": current_salt,
+            "previousSalt": state.get("currentSalt"),
             "currentSalt": DEFAULT_SALT,
             "companion": None,
             "cliPath": cli_path,
+            "cliBackup": None,
+            "configBackup": None,
             "patchedAt": datetime.now(timezone.utc).isoformat(),
         }
     )
 
-    print("Default salt restored. Restart Claude Code.")
+    print("Restored. Restart Claude Code.")
 
 
 def detect_hash_report() -> None:

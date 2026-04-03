@@ -93,7 +93,8 @@ Supports installations via npm, fnm, nvm, volta, homebrew, and the desktop app.
 
 - Always restart Claude Code after patching.
 - Backups are created before any modification.
-- Works with both `.js` CLI files and compiled binaries.
+- **Only `.js` CLI files can be patched.** Compiled binaries are rejected — byte replacement corrupts their internal integrity checksums, causing segfaults.
+- `--restore` uses the backup file from patcher state when available, which is safe for any file type. Falls back to byte replacement only for `.js` files.
 - Re-signs binaries on macOS if needed.
 - The Bun patcher is faster for wyhash salt brute-forcing since it hashes natively.
 - The Python patcher shells out to bun for wyhash — requires bun on PATH.
