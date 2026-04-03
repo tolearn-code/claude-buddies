@@ -1,0 +1,11 @@
+Xalthorn — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   █████████████████░░░  86
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     █████████████░░░░░░░  68
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

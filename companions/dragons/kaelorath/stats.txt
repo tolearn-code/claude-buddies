@@ -1,0 +1,11 @@
+Kaelorath — Legendary (★★★★★) Crown
+Eyes: @ | Shiny: no
+
+Stats (total: 367):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      █████████████░░░░░░░  68
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,11 @@
+Nargathil — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ██████████░░░░░░░░░░  51
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

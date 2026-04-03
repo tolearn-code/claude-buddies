@@ -1,0 +1,11 @@
+Caradhorn — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: WISDOM | Dump: SNARK

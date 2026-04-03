@@ -1,0 +1,11 @@
+Ithrandûl — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 403):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████░░░░  81
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Aur-Xarathion — Legendary (★★★★★) Beanie ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  ████████████░░░░░░░░  62
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: CHAOS | Dump: SNARK

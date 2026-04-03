@@ -1,0 +1,11 @@
+Quelindor — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ███████████░░░░░░░░░  57
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      █████████████████░░░  87
+
+Peak: CHAOS | Dump: PATIENCE

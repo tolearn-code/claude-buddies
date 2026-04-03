@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Nargathil",
+  "personality": "An immovable dragon who watches your builds with the patience of mountains. Ithil-Nargathil waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253389,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 76,
+      "WISDOM": 52,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 735843482,
+  "totalStats": 391
+}

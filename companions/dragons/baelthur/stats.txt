@@ -1,0 +1,11 @@
+Baelthûr — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     █████████████░░░░░░░  66
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: CHAOS

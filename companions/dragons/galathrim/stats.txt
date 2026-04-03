@@ -1,0 +1,11 @@
+Galathrim — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ███████████░░░░░░░░░  59
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: WISDOM

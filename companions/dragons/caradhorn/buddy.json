@@ -1,0 +1,25 @@
+{
+  "name": "Caradhorn",
+  "personality": "A sage dragon whose · eyes glow with the light of ten thousand resolved tickets. Caradhorn speaks rarely, but each word reshapes how you think about your architecture.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253361,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 75,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 127958579,
+  "totalStats": 393
+}

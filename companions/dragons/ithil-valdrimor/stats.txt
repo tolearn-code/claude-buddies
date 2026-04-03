@@ -1,0 +1,11 @@
+Ithil-Valdrimor — Legendary (★★★★★) Halo ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 366):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      ██████████████░░░░░░  70
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

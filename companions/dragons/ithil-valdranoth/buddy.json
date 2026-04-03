@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Valdranoth",
+  "personality": "An immovable dragon who watches your builds with the patience of mountains. Ithil-Valdranoth waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253404,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 100,
+      "CHAOS": 86,
+      "WISDOM": 88,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 368868957,
+  "totalStats": 399
+}

@@ -1,0 +1,11 @@
+Faldrimor — Legendary (★★★★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  70
+  WISDOM     █████████████░░░░░░░  65
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: DEBUGGING

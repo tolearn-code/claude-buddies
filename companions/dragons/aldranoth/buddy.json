@@ -1,0 +1,25 @@
+{
+  "name": "Aldranoth",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Aldranoth never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253360,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "·",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 77,
+      "CHAOS": 68,
+      "WISDOM": 49,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 668770265,
+  "totalStats": 383
+}

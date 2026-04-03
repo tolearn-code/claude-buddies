@@ -1,0 +1,11 @@
+Mîr-Quelindor — Legendary (★★★★★) Tinyduck ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ███████████████░░░░░  78
+
+Peak: CHAOS | Dump: PATIENCE

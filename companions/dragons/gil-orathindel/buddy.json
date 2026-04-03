@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Orathindel",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Gîl-Orathindel never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253401,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 84,
+      "WISDOM": 50,
+      "SNARK": 58
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 516401691,
+  "totalStats": 380
+}

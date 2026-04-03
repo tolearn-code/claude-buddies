@@ -1,0 +1,25 @@
+{
+  "name": "Suldranoth",
+  "personality": "A sage dragon whose ° eyes glow with the light of ten thousand resolved tickets. Suldranoth speaks rarely, but each word reshapes how you think about your architecture.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253380,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 68,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 729062355,
+  "totalStats": 374
+}

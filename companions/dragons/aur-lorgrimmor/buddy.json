@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Lorgrimmor",
+  "personality": "A sage dragon whose @ eyes glow with the light of ten thousand resolved tickets. Aur-Lorgrimmor speaks rarely, but each word reshapes how you think about your architecture.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253399,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 50,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 100432676,
+  "totalStats": 367
+}

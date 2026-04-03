@@ -1,0 +1,30 @@
+Mîr-Uldraneth — Legendary Dragon (★★★★★) ✨
+Eyes: ° | Hat: propeller | Shiny: yes
+
+--- Frame 0 (idle) ---
+    -+-     
+  /^\  /^\  
+ <  °  °  > 
+ (   ~~   ) 
+  `-vvvv-´  
+
+--- Frame 1 (idle alt) ---
+    -+-     
+  /^\  /^\  
+ <  °  °  > 
+ (        ) 
+  `-vvvv-´  
+
+--- Frame 2 (wink) ---
+   ~    ~   
+  /^\  /^\  
+ <  °  °  > 
+ (   ~~   ) 
+  `-vvvv-´  
+
+--- Sleeping ---
+    -+-     
+  /^\  /^\  
+ <  -  -  > 
+ (   ~~   ) 
+  `-vvvv-´  

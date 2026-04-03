@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Thranduril",
+  "personality": "An immovable dragon who watches your builds with the patience of mountains. Aur-Thranduril waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253392,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 100,
+      "CHAOS": 40,
+      "WISDOM": 79,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 505052976,
+  "totalStats": 380
+}

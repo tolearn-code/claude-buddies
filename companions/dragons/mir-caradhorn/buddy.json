@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Caradhorn",
+  "personality": "A wild-eyed dragon who thrives in the wreckage of broken deploys. Mîr-Caradhorn rewrites your careful plans with reckless brilliance, leaving code that somehow works better than what you had.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253385,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 83,
+      "CHAOS": 100,
+      "WISDOM": 82,
+      "SNARK": 41
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 378715166,
+  "totalStats": 386
+}

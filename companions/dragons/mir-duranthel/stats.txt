@@ -1,0 +1,11 @@
+Mîr-Duranthel — Legendary (★★★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     ████████████████░░░░  84
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: PATIENCE

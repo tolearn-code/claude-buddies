@@ -1,0 +1,11 @@
+Kaldreth — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: PATIENCE | Dump: SNARK

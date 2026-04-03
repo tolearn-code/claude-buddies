@@ -1,0 +1,11 @@
+Gorthain — Legendary (★★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     █████████████░░░░░░░  68
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

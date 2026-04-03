@@ -1,0 +1,11 @@
+Uldraneth — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 373):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████░░░░░░░░░░░░  42 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: WISDOM | Dump: CHAOS

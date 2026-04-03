@@ -1,0 +1,11 @@
+Aur-Gorthain — Legendary (★★★★★) Beanie ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████░░░░  82
+  SNARK      █████████████████░░░  86
+
+Peak: PATIENCE | Dump: DEBUGGING

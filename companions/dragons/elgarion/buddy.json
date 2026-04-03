@@ -1,0 +1,25 @@
+{
+  "name": "Elgarion",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Elgarion never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253363,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 63,
+      "CHAOS": 72,
+      "WISDOM": 48,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 43127929,
+  "totalStats": 371
+}

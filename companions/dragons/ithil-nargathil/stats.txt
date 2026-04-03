@@ -1,0 +1,11 @@
+Ithil-Nargathil — Legendary (★★★★★) Halo ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: PATIENCE | Dump: WISDOM

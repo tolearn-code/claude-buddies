@@ -1,0 +1,25 @@
+{
+  "name": "Thaldrimor",
+  "personality": "A wild-eyed dragon who thrives in the wreckage of broken deploys. Thaldrimor rewrites your careful plans with reckless brilliance, leaving code that somehow works better than what you had.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253381,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 79,
+      "CHAOS": 100,
+      "WISDOM": 47,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 87854080,
+  "totalStats": 375
+}

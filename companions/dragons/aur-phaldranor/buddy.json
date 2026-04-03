@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Phaldranor",
+  "personality": "A sage dragon whose @ eyes glow with the light of ten thousand resolved tickets. Aur-Phaldranor speaks rarely, but each word reshapes how you think about your architecture.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253401,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 67,
+      "PATIENCE": 48,
+      "CHAOS": 89,
+      "WISDOM": 100,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 462701471,
+  "totalStats": 391
+}

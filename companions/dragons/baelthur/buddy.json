@@ -1,0 +1,25 @@
+{
+  "name": "Baelthûr",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Baelthûr never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253361,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 87,
+      "CHAOS": 50,
+      "WISDOM": 66,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 581310638,
+  "totalStats": 381
+}

@@ -1,0 +1,11 @@
+Mîr-Quorathil — Legendary (★★★★★) Tinyduck ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 372):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     █████████████████░░░  87
+  SNARK      █████████████░░░░░░░  65
+
+Peak: DEBUGGING | Dump: PATIENCE

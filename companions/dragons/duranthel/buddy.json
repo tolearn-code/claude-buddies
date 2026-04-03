@@ -1,0 +1,25 @@
+{
+  "name": "Duranthel",
+  "personality": "A sage dragon whose ◉ eyes glow with the light of ten thousand resolved tickets. Duranthel speaks rarely, but each word reshapes how you think about your architecture.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253374,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 40,
+      "PATIENCE": 86,
+      "CHAOS": 79,
+      "WISDOM": 100,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 930615932,
+  "totalStats": 386
+}

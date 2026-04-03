@@ -1,0 +1,11 @@
+Aur-Loranthir — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      █████████████░░░░░░░  69
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  84
+
+Peak: WISDOM | Dump: PATIENCE

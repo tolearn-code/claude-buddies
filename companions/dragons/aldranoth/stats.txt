@@ -1,0 +1,11 @@
+Aldranoth — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████░░░░░░░  68
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: WISDOM

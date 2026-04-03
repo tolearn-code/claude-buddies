@@ -1,0 +1,11 @@
+Ithrandir — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: WISDOM | Dump: SNARK

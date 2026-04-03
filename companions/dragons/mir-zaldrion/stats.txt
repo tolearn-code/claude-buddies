@@ -1,0 +1,11 @@
+Mîr-Zaldrion — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: CHAOS | Dump: SNARK

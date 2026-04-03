@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Suldranoth",
+  "personality": "A sage dragon whose ° eyes glow with the light of ten thousand resolved tickets. Gîl-Suldranoth speaks rarely, but each word reshapes how you think about your architecture.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253402,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 89,
+      "CHAOS": 65,
+      "WISDOM": 100,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 230983338,
+  "totalStats": 376
+}

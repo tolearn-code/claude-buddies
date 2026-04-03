@@ -1,0 +1,11 @@
+Mîr-Caradhorn — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████░░░░░░░░░░░░  41 (dump)
+
+Peak: CHAOS | Dump: SNARK

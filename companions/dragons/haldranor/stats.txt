@@ -1,0 +1,11 @@
+Haldranor — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: CHAOS

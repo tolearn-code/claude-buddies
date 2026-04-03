@@ -1,0 +1,11 @@
+Gîl-Faldrimor — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 392):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  80
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: CHAOS | Dump: SNARK

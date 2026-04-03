@@ -1,0 +1,11 @@
+Thranduril — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ███████████████░░░░░  76
+  SNARK      █████████████░░░░░░░  67
+
+Peak: DEBUGGING | Dump: PATIENCE

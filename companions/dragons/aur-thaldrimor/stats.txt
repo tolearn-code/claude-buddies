@@ -1,0 +1,11 @@
+Aur-Thaldrimor — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: CHAOS | Dump: SNARK

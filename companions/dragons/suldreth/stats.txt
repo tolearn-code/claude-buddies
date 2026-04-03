@@ -1,0 +1,11 @@
+Sûldreth — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████░░░░░░░░  63
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: PATIENCE | Dump: SNARK

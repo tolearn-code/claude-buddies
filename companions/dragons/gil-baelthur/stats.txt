@@ -1,0 +1,11 @@
+Gîl-Baelthûr — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 409):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  81
+
+Peak: CHAOS | Dump: PATIENCE

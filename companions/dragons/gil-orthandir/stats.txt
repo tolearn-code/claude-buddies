@@ -1,0 +1,11 @@
+Gîl-Orthandir — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████░░░░░░░░░░░░  41 (dump)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  77
+
+Peak: WISDOM | Dump: DEBUGGING

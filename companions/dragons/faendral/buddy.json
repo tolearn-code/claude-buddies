@@ -1,0 +1,25 @@
+{
+  "name": "Faendral",
+  "personality": "A wild-eyed dragon who thrives in the wreckage of broken deploys. Faendral rewrites your careful plans with reckless brilliance, leaving code that somehow works better than what you had.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253363,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 84,
+      "CHAOS": 100,
+      "WISDOM": 87,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 352084087,
+  "totalStats": 387
+}

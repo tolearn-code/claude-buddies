@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Xalthorn",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Aur-Xalthorn never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253394,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 46,
+      "CHAOS": 77,
+      "WISDOM": 85,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 389831034,
+  "totalStats": 394
+}

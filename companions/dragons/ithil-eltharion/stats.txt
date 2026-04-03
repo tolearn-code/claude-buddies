@@ -1,0 +1,11 @@
+Ithil-Eltharion — Legendary (★★★★★) Halo ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  81
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: PATIENCE

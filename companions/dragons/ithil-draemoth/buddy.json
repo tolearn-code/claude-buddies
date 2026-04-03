@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Draemoth",
+  "personality": "A wild-eyed dragon who thrives in the wreckage of broken deploys. Ithil-Draemoth rewrites your careful plans with reckless brilliance, leaving code that somehow works better than what you had.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253385,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 82,
+      "CHAOS": 100,
+      "WISDOM": 74,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 960118610,
+  "totalStats": 385
+}

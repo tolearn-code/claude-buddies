@@ -1,0 +1,11 @@
+Elgarion — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 371):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████░░░░░░░░  63
+  CHAOS      ██████████████░░░░░░  72
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      █████████████████░░░  88
+
+Peak: DEBUGGING | Dump: WISDOM

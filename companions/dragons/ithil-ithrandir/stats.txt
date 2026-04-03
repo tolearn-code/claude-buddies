@@ -1,0 +1,11 @@
+Ithil-Ithrandir — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ███████████░░░░░░░░░  58
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

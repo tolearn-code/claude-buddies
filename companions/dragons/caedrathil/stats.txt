@@ -1,0 +1,11 @@
+Caedrathil — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████░░░░  84
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: PATIENCE | Dump: SNARK

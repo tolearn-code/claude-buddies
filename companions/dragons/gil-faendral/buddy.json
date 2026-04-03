@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Faendral",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Gîl-Faendral never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253386,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 86,
+      "CHAOS": 82,
+      "WISDOM": 65,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 800346701,
+  "totalStats": 386
+}

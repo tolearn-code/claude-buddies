@@ -1,0 +1,25 @@
+{
+  "name": "Quelindor",
+  "personality": "A wild-eyed dragon who thrives in the wreckage of broken deploys. Quelindor rewrites your careful plans with reckless brilliance, leaving code that somehow works better than what you had.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253368,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 57,
+      "PATIENCE": 53,
+      "CHAOS": 100,
+      "WISDOM": 77,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 552177318,
+  "totalStats": 374
+}

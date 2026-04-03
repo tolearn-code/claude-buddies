@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Kaelorath",
+  "personality": "An immovable dragon who watches your builds with the patience of mountains. Gîl-Kaelorath waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253399,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 100,
+      "CHAOS": 82,
+      "WISDOM": 53,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 993066117,
+  "totalStats": 396
+}

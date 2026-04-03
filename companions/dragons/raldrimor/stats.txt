@@ -1,0 +1,11 @@
+Raldrimor — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 397):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████████████░░░  86
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: DEBUGGING

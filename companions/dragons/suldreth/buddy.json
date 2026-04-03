@@ -1,0 +1,25 @@
+{
+  "name": "Sûldreth",
+  "personality": "An immovable dragon who watches your builds with the patience of mountains. Sûldreth waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253369,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 100,
+      "CHAOS": 63,
+      "WISDOM": 79,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 277133083,
+  "totalStats": 375
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Kaelorath",
+  "personality": "An immovable dragon who watches your builds with the patience of mountains. Kaelorath waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253377,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 100,
+      "CHAOS": 78,
+      "WISDOM": 50,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 328120529,
+  "totalStats": 367
+}

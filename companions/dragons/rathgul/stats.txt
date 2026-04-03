@@ -1,0 +1,11 @@
+Rathgûl — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████░░░░░░░░░░░░  43 (dump)
+
+Peak: PATIENCE | Dump: SNARK

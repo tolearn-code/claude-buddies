@@ -1,0 +1,11 @@
+Mîr-Maeldranor — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  40 (dump)
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      █████████████████░░░  86
+
+Peak: PATIENCE | Dump: CHAOS

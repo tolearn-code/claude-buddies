@@ -1,0 +1,11 @@
+Thaldrimor — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      ███████████████░░░░░  77
+
+Peak: CHAOS | Dump: WISDOM

@@ -1,0 +1,30 @@
+Kaldreth — Legendary Dragon (★★★★★)
+Eyes: ✦ | Hat: crown | Shiny: no
+
+--- Frame 0 (idle) ---
+   \^^^/    
+  /^\  /^\  
+ <  ✦  ✦  > 
+ (   ~~   ) 
+  `-vvvv-´  
+
+--- Frame 1 (idle alt) ---
+   \^^^/    
+  /^\  /^\  
+ <  ✦  ✦  > 
+ (        ) 
+  `-vvvv-´  
+
+--- Frame 2 (wink) ---
+   ~    ~   
+  /^\  /^\  
+ <  ✦  ✦  > 
+ (   ~~   ) 
+  `-vvvv-´  
+
+--- Sleeping ---
+   \^^^/    
+  /^\  /^\  
+ <  -  -  > 
+ (   ~~   ) 
+  `-vvvv-´  

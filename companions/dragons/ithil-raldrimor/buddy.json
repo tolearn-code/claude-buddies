@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Raldrimor",
+  "personality": "A sage dragon whose ° eyes glow with the light of ten thousand resolved tickets. Ithil-Raldrimor speaks rarely, but each word reshapes how you think about your architecture.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253402,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "°",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 40,
+      "PATIENCE": 77,
+      "CHAOS": 67,
+      "WISDOM": 100,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 857569062,
+  "totalStats": 369
+}

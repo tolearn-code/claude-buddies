@@ -1,0 +1,11 @@
+Mîr-Haldrim — Legendary (★★★★★) Tinyduck ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 374):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: DEBUGGING

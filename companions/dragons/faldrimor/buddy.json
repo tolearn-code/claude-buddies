@@ -1,0 +1,25 @@
+{
+  "name": "Faldrimor",
+  "personality": "An immovable dragon who watches your builds with the patience of mountains. Faldrimor waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253375,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 100,
+      "CHAOS": 70,
+      "WISDOM": 65,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 533668978,
+  "totalStats": 378
+}

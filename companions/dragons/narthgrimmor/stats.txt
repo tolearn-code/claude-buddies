@@ -1,0 +1,11 @@
+Narthgrimmor — Legendary (★★★★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Mîr-Uldraneth — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: PATIENCE | Dump: SNARK

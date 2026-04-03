@@ -1,0 +1,11 @@
+Xarathion — Legendary (★★★★★) Beanie
+Eyes: ° | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ███████████████░░░░░  77
+
+Peak: DEBUGGING | Dump: CHAOS

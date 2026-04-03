@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Kaldreth",
+  "personality": "A sage dragon whose ✦ eyes glow with the light of ten thousand resolved tickets. Gîl-Kaldreth speaks rarely, but each word reshapes how you think about your architecture.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253388,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 87,
+      "CHAOS": 44,
+      "WISDOM": 100,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 945487443,
+  "totalStats": 386
+}

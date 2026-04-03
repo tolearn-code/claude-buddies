@@ -1,0 +1,11 @@
+Wyrathil — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████░░░░░░░░░░░░  43 (dump)
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: WISDOM

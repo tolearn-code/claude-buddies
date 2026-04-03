@@ -1,0 +1,25 @@
+{
+  "name": "Haldranor",
+  "personality": "An immovable dragon who watches your builds with the patience of mountains. Haldranor waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253376,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 100,
+      "CHAOS": 52,
+      "WISDOM": 86,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 773470703,
+  "totalStats": 390
+}

@@ -1,0 +1,11 @@
+Aur-Aldranoth — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████░░░░  80
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

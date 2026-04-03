@@ -1,0 +1,11 @@
+Gîl-Wyrathil — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   █████████░░░░░░░░░░░  46 (dump)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

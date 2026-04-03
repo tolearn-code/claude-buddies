@@ -1,0 +1,11 @@
+Gîl-Kaldreth — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████░░░░░░░░░░░░  44 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: WISDOM | Dump: CHAOS

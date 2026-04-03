@@ -1,0 +1,25 @@
+{
+  "name": "Uldranor",
+  "personality": "An immovable dragon who watches your builds with the patience of mountains. Uldranor waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253370,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 100,
+      "CHAOS": 75,
+      "WISDOM": 42,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 787818288,
+  "totalStats": 385
+}

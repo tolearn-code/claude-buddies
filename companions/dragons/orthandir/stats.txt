@@ -1,0 +1,11 @@
+Orthandir — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 404):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████████░░░  89
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

@@ -1,0 +1,11 @@
+Gîl-Suldranoth — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████░░░░░░░  65
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  75
+
+Peak: WISDOM | Dump: DEBUGGING

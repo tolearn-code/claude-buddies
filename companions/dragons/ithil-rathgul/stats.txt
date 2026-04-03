@@ -1,0 +1,11 @@
+Ithil-Rathgûl — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      █████████████████░░░  85
+
+Peak: DEBUGGING | Dump: CHAOS

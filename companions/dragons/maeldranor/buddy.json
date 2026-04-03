@@ -1,0 +1,25 @@
+{
+  "name": "Maeldranor",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Maeldranor never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253378,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 72,
+      "CHAOS": 86,
+      "WISDOM": 44,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 854664275,
+  "totalStats": 388
+}

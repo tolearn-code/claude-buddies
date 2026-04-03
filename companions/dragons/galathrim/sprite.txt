@@ -1,0 +1,30 @@
+Galathrim — Legendary Dragon (★★★★★)
+Eyes: ◉ | Hat: beanie | Shiny: no
+
+--- Frame 0 (idle) ---
+   (___)    
+  /^\  /^\  
+ <  ◉  ◉  > 
+ (   ~~   ) 
+  `-vvvv-´  
+
+--- Frame 1 (idle alt) ---
+   (___)    
+  /^\  /^\  
+ <  ◉  ◉  > 
+ (        ) 
+  `-vvvv-´  
+
+--- Frame 2 (wink) ---
+   ~    ~   
+  /^\  /^\  
+ <  ◉  ◉  > 
+ (   ~~   ) 
+  `-vvvv-´  
+
+--- Sleeping ---
+   (___)    
+  /^\  /^\  
+ <  -  -  > 
+ (   ~~   ) 
+  `-vvvv-´  

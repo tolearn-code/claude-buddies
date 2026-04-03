@@ -1,0 +1,11 @@
+Phaldranor — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     █████████████░░░░░░░  68
+  SNARK      █████████████████░░░  86
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,11 @@
+Ithil-Draemoth — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████░░░░  82
+
+Peak: CHAOS | Dump: DEBUGGING

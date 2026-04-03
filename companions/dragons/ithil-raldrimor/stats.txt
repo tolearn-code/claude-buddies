@@ -1,0 +1,11 @@
+Ithil-Raldrimor — Legendary (★★★★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 369):
+  DEBUGGING  ████████░░░░░░░░░░░░  40 (dump)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████░░░░░░░  67
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: DEBUGGING

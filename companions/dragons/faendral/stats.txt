@@ -1,0 +1,11 @@
+Faendral — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  █████████████░░░░░░░  66
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  87
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: CHAOS | Dump: SNARK

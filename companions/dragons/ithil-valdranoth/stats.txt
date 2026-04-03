@@ -1,0 +1,11 @@
+Ithil-Valdranoth — Legendary (★★★★★) Halo ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████████████░░░  88
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: PATIENCE | Dump: SNARK

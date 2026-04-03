@@ -1,0 +1,11 @@
+Wyrmathil — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: WISDOM | Dump: SNARK

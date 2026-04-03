@@ -1,0 +1,11 @@
+Aur-Xalthorn — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 394):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  46 (dump)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     █████████████████░░░  85
+  SNARK      █████████████████░░░  86
+
+Peak: DEBUGGING | Dump: PATIENCE

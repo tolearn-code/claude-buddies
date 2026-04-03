@@ -1,0 +1,11 @@
+Gîl-Kaelorath — Legendary (★★★★★) Crown ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 396):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: WISDOM

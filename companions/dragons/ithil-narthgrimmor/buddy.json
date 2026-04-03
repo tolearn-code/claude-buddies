@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Narthgrimmor",
+  "personality": "A wild-eyed dragon who thrives in the wreckage of broken deploys. Ithil-Narthgrimmor rewrites your careful plans with reckless brilliance, leaving code that somehow works better than what you had.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253400,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 83,
+      "CHAOS": 100,
+      "WISDOM": 45,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 322242690,
+  "totalStats": 397
+}

@@ -1,0 +1,11 @@
+Ithil-Ithrandûl — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████░░░░░░░░  63
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

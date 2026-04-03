@@ -1,0 +1,11 @@
+Balgrimmor — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: CHAOS | Dump: WISDOM

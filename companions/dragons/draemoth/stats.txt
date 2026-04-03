@@ -1,0 +1,11 @@
+Draemoth — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 398):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      █████████░░░░░░░░░░░  47 (dump)
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

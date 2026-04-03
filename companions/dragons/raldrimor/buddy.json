@@ -1,0 +1,25 @@
+{
+  "name": "Raldrimor",
+  "personality": "An immovable dragon who watches your builds with the patience of mountains. Raldrimor waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253380,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 100,
+      "CHAOS": 79,
+      "WISDOM": 86,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 172018747,
+  "totalStats": 397
+}

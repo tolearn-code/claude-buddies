@@ -1,0 +1,11 @@
+Haldrim — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 400):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████░░░░  80
+
+Peak: PATIENCE | Dump: DEBUGGING

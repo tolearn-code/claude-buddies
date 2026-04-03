@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Valdrimor",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Ithil-Valdrimor never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775210253393,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 71,
+      "CHAOS": 70,
+      "WISDOM": 75,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 225813893,
+  "totalStats": 366
+}
