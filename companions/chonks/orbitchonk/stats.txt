@@ -1,0 +1,11 @@
+Obsidiheim — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      ███████████████░░░░░  77
+
+Peak: DEBUGGING | Dump: PATIENCE

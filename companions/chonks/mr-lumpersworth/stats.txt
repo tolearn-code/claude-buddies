@@ -1,0 +1,11 @@
+Thal-Rosestead — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 406):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  84
+
+Peak: PATIENCE | Dump: CHAOS

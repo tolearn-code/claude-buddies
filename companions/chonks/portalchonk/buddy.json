@@ -1,0 +1,25 @@
+{
+  "name": "Amberheft",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Amberheft has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129193,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 74,
+      "CHAOS": 84,
+      "WISDOM": 54,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 931976612,
+  "totalStats": 390
+}

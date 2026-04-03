@@ -1,0 +1,26 @@
+Thal-Stonefort — Legendary Chonk (★★★★★) ✨
+Eyes: · | Hat: none | Shiny: yes
+
+--- Frame 0 (idle) ---
+  /\    /\  
+ ( ·    · ) 
+ (   ..   ) 
+  `------´  
+
+--- Frame 1 (idle alt) ---
+  /\    /|  
+ ( ·    · ) 
+ (   ..   ) 
+  `------´  
+
+--- Frame 2 (wink) ---
+  /\    /\  
+ ( ·    · ) 
+ (   ..   ) 
+  `------´~ 
+
+--- Sleeping ---
+  /\    /\  
+ ( -    - ) 
+ (   ..   ) 
+  `------´  

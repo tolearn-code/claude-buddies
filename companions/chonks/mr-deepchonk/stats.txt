@@ -1,0 +1,11 @@
+Anar-Crimsonhelm — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 401):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████░░░░░░░░░░░░  43 (dump)
+
+Peak: CHAOS | Dump: SNARK

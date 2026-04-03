@@ -1,0 +1,11 @@
+Indigoheim — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  66
+
+Peak: WISDOM | Dump: PATIENCE

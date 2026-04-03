@@ -1,0 +1,25 @@
+{
+  "name": "Crimsontide",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Crimsontide never rests until the root cause is found.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129175,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 86,
+      "CHAOS": 80,
+      "WISDOM": 74,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 307432260,
+  "totalStats": 394
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Scarletheft",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Lúth-Scarletheft speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129200,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 44,
+      "PATIENCE": 87,
+      "CHAOS": 81,
+      "WISDOM": 100,
+      "SNARK": 71
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 858200056,
+  "totalStats": 383
+}

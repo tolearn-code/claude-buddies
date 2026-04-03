@@ -1,0 +1,11 @@
+Lúth-Crystalheim — Legendary (★★★★★) Beanie ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  69
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: DEBUGGING

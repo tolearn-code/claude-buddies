@@ -1,0 +1,11 @@
+Sapphireheim — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      █████████████░░░░░░░  69
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  82
+
+Peak: WISDOM | Dump: DEBUGGING

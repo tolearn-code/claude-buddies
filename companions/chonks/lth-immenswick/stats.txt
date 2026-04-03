@@ -1,0 +1,11 @@
+Thal-Quartzstead — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████░░░░░░░░░░░░  43 (dump)
+  SNARK      ███████████████░░░░░  77
+
+Peak: CHAOS | Dump: WISDOM

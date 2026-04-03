@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Azureheft",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Azureheft waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129198,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 100,
+      "CHAOS": 89,
+      "WISDOM": 64,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 665957122,
+  "totalStats": 372
+}

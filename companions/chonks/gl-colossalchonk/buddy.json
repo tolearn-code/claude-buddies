@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Emberheft",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Ithil-Emberheft never rests until the root cause is found.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129207,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 45,
+      "CHAOS": 85,
+      "WISDOM": 89,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 312993092,
+  "totalStats": 405
+}

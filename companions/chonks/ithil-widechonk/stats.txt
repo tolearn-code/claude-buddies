@@ -1,0 +1,11 @@
+Lúth-Pearlheft — Legendary (★★★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 371):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  69
+  SNARK      █████████████░░░░░░░  68
+
+Peak: CHAOS | Dump: PATIENCE

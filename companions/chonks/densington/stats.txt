@@ -1,0 +1,11 @@
+Greatshire — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: WISDOM | Dump: DEBUGGING

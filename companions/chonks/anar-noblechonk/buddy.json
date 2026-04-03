@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Ironmass",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Ironmass rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129212,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 73,
+      "CHAOS": 100,
+      "WISDOM": 75,
+      "SNARK": 45
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 597558477,
+  "totalStats": 382
+}

@@ -1,0 +1,11 @@
+Broadhelm — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ███████████████░░░░░  79
+
+Peak: CHAOS | Dump: DEBUGGING

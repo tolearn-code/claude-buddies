@@ -1,0 +1,11 @@
+Jadefort — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 407):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: CHAOS

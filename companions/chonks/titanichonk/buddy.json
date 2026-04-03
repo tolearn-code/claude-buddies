@@ -1,0 +1,25 @@
+{
+  "name": "Sagehelm",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Sagehelm has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129184,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 88,
+      "CHAOS": 85,
+      "WISDOM": 87,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 139001761,
+  "totalStats": 414
+}

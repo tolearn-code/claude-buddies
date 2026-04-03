@@ -1,0 +1,11 @@
+Goldenhelm — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ███████████░░░░░░░░░  57
+  CHAOS      █████████████████░░░  89
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

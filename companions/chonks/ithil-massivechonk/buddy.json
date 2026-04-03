@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Emeraldheim",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Mîr-Emeraldheim speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129211,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 71,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 60
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 486978273,
+  "totalStats": 373
+}

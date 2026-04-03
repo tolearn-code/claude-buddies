@@ -1,0 +1,25 @@
+{
+  "name": "Ruststead",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Ruststead has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129186,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 82,
+      "CHAOS": 52,
+      "WISDOM": 65,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 306681093,
+  "totalStats": 385
+}

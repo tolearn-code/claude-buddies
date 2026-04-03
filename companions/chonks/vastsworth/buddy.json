@@ -1,0 +1,25 @@
+{
+  "name": "Vermilstead",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Vermilstead has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129185,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 70,
+      "CHAOS": 75,
+      "WISDOM": 52,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 684423414,
+  "totalStats": 384
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Violetstead",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Ithil-Violetstead speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129206,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 75,
+      "CHAOS": 74,
+      "WISDOM": 100,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 781436814,
+  "totalStats": 382
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Crimsonhelm",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Crimsonhelm rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129208,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 87,
+      "CHAOS": 100,
+      "WISDOM": 85,
+      "SNARK": 43
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 670568767,
+  "totalStats": 401
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Coralhelm",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Anar-Coralhelm waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129195,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 100,
+      "CHAOS": 71,
+      "WISDOM": 80,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 484555866,
+  "totalStats": 381
+}

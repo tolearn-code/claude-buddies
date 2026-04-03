@@ -1,0 +1,11 @@
+Mîr-Emeraldheim — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 373):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  60
+
+Peak: WISDOM | Dump: DEBUGGING

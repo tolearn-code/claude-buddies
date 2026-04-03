@@ -1,0 +1,11 @@
+Thal-Stonefort — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████░░░░░░░░░░░░  41 (dump)
+  PATIENCE   █████████████░░░░░░░  66
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

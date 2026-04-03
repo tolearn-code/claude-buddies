@@ -1,0 +1,11 @@
+Dawnheft — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████████░░░░░░░  66
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████░░░░░░░░░░░  47 (dump)
+
+Peak: CHAOS | Dump: SNARK

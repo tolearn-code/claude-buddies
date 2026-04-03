@@ -1,0 +1,11 @@
+Violetstead — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Pearlheft",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Pearlheft rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129205,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 45,
+      "CHAOS": 100,
+      "WISDOM": 69,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 57128795,
+  "totalStats": 371
+}

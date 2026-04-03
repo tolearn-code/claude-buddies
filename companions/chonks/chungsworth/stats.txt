@@ -1,0 +1,11 @@
+Ironmass — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 373):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      █████████████░░░░░░░  65
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  75
+
+Peak: WISDOM | Dump: DEBUGGING

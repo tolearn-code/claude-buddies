@@ -1,0 +1,25 @@
+{
+  "name": "Topazstead",
+  "personality": "A wild-eyed force who thrives in broken deploys. Topazstead rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129175,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 44,
+      "PATIENCE": 86,
+      "CHAOS": 100,
+      "WISDOM": 87,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 512073376,
+  "totalStats": 387
+}

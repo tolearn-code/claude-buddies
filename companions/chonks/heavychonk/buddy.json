@@ -1,0 +1,25 @@
+{
+  "name": "Silverstead",
+  "personality": "A wild-eyed force who thrives in broken deploys. Silverstead rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129189,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 87,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 395486258,
+  "totalStats": 396
+}

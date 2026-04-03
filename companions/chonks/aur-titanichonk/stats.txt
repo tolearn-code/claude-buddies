@@ -1,0 +1,11 @@
+Ithil-Heavenshire — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  ████████████░░░░░░░░  61
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: WISDOM

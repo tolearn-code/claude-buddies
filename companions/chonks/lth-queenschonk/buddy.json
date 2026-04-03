@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Amberheft",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Amberheft rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129202,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 49,
+      "CHAOS": 100,
+      "WISDOM": 58,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 910910588,
+  "totalStats": 379
+}

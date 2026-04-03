@@ -1,0 +1,30 @@
+Cael-Malachheim — Legendary Chonk (★★★★★) ✨
+Eyes: · | Hat: tophat | Shiny: yes
+
+--- Frame 0 (idle) ---
+   [___]    
+  /\    /\  
+ ( ·    · ) 
+ (   ..   ) 
+  `------´  
+
+--- Frame 1 (idle alt) ---
+   [___]    
+  /\    /|  
+ ( ·    · ) 
+ (   ..   ) 
+  `------´  
+
+--- Frame 2 (wink) ---
+   [___]    
+  /\    /\  
+ ( ·    · ) 
+ (   ..   ) 
+  `------´~ 
+
+--- Sleeping ---
+   [___]    
+  /\    /\  
+ ( -    - ) 
+ (   ..   ) 
+  `------´  

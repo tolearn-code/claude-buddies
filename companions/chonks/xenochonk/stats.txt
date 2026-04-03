@@ -1,0 +1,11 @@
+Scarletheft — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████░░░░░░░  66
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

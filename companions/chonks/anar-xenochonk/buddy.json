@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Deepmantle",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Lúth-Deepmantle speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129205,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 65,
+      "CHAOS": 50,
+      "WISDOM": 100,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 570935586,
+  "totalStats": 377
+}

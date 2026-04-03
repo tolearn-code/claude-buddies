@@ -1,0 +1,11 @@
+Thal-Topazstead — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: PATIENCE

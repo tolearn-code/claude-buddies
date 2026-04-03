@@ -1,0 +1,11 @@
+Malachheim — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: WISDOM | Dump: SNARK

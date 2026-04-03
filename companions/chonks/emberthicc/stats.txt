@@ -1,0 +1,11 @@
+Stonefort — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 403):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████████░░░░░░  72
+
+Peak: PATIENCE | Dump: DEBUGGING

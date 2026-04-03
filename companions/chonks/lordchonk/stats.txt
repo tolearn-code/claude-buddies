@@ -1,0 +1,11 @@
+Rubyheft — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Rosestead",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Rosestead waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129211,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 100,
+      "CHAOS": 53,
+      "WISDOM": 89,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 93174661,
+  "totalStats": 406
+}

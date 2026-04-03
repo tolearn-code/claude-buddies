@@ -1,0 +1,11 @@
+Onyxheft — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  78
+
+Peak: WISDOM | Dump: PATIENCE

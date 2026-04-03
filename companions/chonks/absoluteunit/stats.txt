@@ -1,0 +1,11 @@
+Grandheim — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 364):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      ████████████░░░░░░░░  60
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  86
+
+Peak: WISDOM | Dump: DEBUGGING

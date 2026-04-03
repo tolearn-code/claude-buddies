@@ -1,0 +1,11 @@
+Cael-Rubyheft — Legendary (★★★★★) Crown ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   █████████████████░░░  87
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

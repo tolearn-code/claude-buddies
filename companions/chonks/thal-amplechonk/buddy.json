@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Cobaltheim",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Cobaltheim waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129207,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 60,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 673215331,
+  "totalStats": 375
+}

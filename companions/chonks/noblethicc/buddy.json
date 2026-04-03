@@ -1,0 +1,25 @@
+{
+  "name": "Pearlheft",
+  "personality": "A wild-eyed force who thrives in broken deploys. Pearlheft rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129181,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 48,
+      "CHAOS": 100,
+      "WISDOM": 74,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 292240837,
+  "totalStats": 382
+}

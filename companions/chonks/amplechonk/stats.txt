@@ -1,0 +1,11 @@
+Vastheart — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: WISDOM | Dump: SNARK

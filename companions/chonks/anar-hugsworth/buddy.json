@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Vastheart",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Gîl-Vastheart speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129199,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 49,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 921779206,
+  "totalStats": 379
+}

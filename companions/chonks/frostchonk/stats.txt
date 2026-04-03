@@ -1,0 +1,11 @@
+Mightystead — Legendary (★★★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 364):
+  DEBUGGING  ████████░░░░░░░░░░░░  40 (dump)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

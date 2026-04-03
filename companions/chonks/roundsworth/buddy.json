@@ -1,0 +1,25 @@
+{
+  "name": "Azureheft",
+  "personality": "A wild-eyed force who thrives in broken deploys. Azureheft rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129183,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 46,
+      "CHAOS": 100,
+      "WISDOM": 75,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 52097161,
+  "totalStats": 369
+}

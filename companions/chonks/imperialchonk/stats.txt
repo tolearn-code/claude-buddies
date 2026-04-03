@@ -1,0 +1,11 @@
+Copperstead — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ███████████████░░░░░  78
+
+Peak: PATIENCE | Dump: CHAOS

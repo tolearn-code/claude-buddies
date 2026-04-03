@@ -1,0 +1,25 @@
+{
+  "name": "Opalheim",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Opalheim speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129190,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 50,
+      "PATIENCE": 89,
+      "CHAOS": 85,
+      "WISDOM": 100,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 684162464,
+  "totalStats": 391
+}

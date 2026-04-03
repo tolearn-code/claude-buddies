@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Dawnheft",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Anar-Dawnheft has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129209,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 85,
+      "CHAOS": 47,
+      "WISDOM": 85,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 970072692,
+  "totalStats": 397
+}

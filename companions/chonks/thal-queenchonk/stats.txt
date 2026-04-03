@@ -1,0 +1,11 @@
+Cael-Tealheim — Legendary (★★★★★) Tinyduck ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ███████████████░░░░░  77
+
+Peak: DEBUGGING | Dump: CHAOS

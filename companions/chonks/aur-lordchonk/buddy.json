@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Colossheim",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Mîr-Colossheim speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129200,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "×",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 89,
+      "CHAOS": 59,
+      "WISDOM": 100,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 935572847,
+  "totalStats": 387
+}

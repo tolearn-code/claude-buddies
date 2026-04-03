@@ -1,0 +1,11 @@
+Gîl-Amberheft — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████░░░░░░░░░  58
+  SNARK      █████████████████░░░  88
+
+Peak: CHAOS | Dump: PATIENCE

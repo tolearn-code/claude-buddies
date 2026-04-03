@@ -1,0 +1,11 @@
+Topazstead — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  87
+  SNARK      ██████████████░░░░░░  70
+
+Peak: CHAOS | Dump: DEBUGGING

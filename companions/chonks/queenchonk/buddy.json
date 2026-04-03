@@ -1,0 +1,25 @@
+{
+  "name": "Indigoheim",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Indigoheim speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129193,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 52,
+      "CHAOS": 71,
+      "WISDOM": 100,
+      "SNARK": 66
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 420992400,
+  "totalStats": 374
+}

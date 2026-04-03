@@ -1,0 +1,25 @@
+{
+  "name": "Vastheart",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Vastheart speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129187,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 82,
+      "CHAOS": 76,
+      "WISDOM": 100,
+      "SNARK": 46
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 162371775,
+  "totalStats": 385
+}

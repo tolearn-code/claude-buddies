@@ -1,0 +1,11 @@
+Lavendhelm — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: PATIENCE

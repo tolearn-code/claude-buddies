@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Broadhelm",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Broadhelm waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129197,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 100,
+      "CHAOS": 52,
+      "WISDOM": 74,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 675833030,
+  "totalStats": 386
+}

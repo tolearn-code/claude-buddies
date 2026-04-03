@@ -1,0 +1,11 @@
+Aur-Broadhelm — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: CHAOS

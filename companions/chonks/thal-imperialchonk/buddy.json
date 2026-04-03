@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Lavendhelm",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Lavendhelm rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129210,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 86,
+      "CHAOS": 100,
+      "WISDOM": 65,
+      "SNARK": 43
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 466883972,
+  "totalStats": 383
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Coralmantle",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Coralmantle never rests until the root cause is found.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129192,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 79,
+      "CHAOS": 47,
+      "WISDOM": 72,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 820060345,
+  "totalStats": 384
+}

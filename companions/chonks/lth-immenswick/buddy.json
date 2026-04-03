@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Quartzstead",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Quartzstead rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129199,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 75,
+      "CHAOS": 100,
+      "WISDOM": 43,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 369651584,
+  "totalStats": 378
+}

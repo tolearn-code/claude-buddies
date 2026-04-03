@@ -1,0 +1,11 @@
+Ithil-Violetstead — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: WISDOM | Dump: SNARK

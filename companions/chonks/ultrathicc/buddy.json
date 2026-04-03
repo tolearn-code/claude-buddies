@@ -1,0 +1,25 @@
+{
+  "name": "Ivoryheft",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ivoryheft waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129176,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 100,
+      "CHAOS": 74,
+      "WISDOM": 52,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 117920855,
+  "totalStats": 387
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Onyxheft",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Onyxheft speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129191,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 51,
+      "CHAOS": 83,
+      "WISDOM": 100,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 304395593,
+  "totalStats": 394
+}

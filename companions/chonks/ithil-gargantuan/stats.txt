@@ -1,0 +1,11 @@
+Gîl-Onyxheft — Legendary (★★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████░░░░░░░░  63
+  PATIENCE   ████████░░░░░░░░░░░░  43 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      █████████████████░░░  87
+
+Peak: CHAOS | Dump: PATIENCE

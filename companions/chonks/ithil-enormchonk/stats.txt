@@ -1,0 +1,11 @@
+Aur-Garnethelm — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  69
+
+Peak: WISDOM | Dump: CHAOS

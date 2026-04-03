@@ -1,0 +1,11 @@
+Mîr-Opalheim — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: CHAOS | Dump: SNARK

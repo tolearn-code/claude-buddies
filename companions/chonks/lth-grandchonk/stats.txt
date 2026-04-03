@@ -1,0 +1,11 @@
+Cael-Obsidiheim — Legendary (★★★★★) Wizard ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████░░░░░░░░  61
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

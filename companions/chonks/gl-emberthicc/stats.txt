@@ -1,0 +1,11 @@
+Anar-Amethystfort — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 395):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: CHAOS | Dump: SNARK

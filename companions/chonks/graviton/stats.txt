@@ -1,0 +1,11 @@
+Crystalheim — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ███████████████░░░░░  79
+  SNARK      █████████████████░░░  88
+
+Peak: DEBUGGING | Dump: PATIENCE

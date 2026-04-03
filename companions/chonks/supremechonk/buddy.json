@@ -1,0 +1,25 @@
+{
+  "name": "Rosestead",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Rosestead speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129177,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "·",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 41,
+      "CHAOS": 86,
+      "WISDOM": 100,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 4396339,
+  "totalStats": 402
+}

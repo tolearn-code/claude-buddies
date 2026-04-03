@@ -1,0 +1,11 @@
+Emeraldheim — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: DEBUGGING

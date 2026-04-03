@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Jadefort",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Thal-Jadefort has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129203,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 64,
+      "CHAOS": 52,
+      "WISDOM": 89,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 175588835,
+  "totalStats": 381
+}

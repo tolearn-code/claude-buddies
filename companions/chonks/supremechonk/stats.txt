@@ -1,0 +1,11 @@
+Rosestead — Legendary (★★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 402):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  86
+
+Peak: WISDOM | Dump: PATIENCE

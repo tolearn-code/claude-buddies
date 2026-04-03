@@ -1,0 +1,25 @@
+{
+  "name": "Garnethelm",
+  "personality": "A wild-eyed force who thrives in broken deploys. Garnethelm rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129191,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 77,
+      "CHAOS": 100,
+      "WISDOM": 68,
+      "SNARK": 43
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 176408678,
+  "totalStats": 358
+}

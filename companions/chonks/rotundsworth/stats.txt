@@ -1,0 +1,11 @@
+Crimsontide — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

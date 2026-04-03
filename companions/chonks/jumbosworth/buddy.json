@@ -1,0 +1,25 @@
+{
+  "name": "Emberheft",
+  "personality": "A wild-eyed force who thrives in broken deploys. Emberheft rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129180,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 60,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 884780243,
+  "totalStats": 373
+}

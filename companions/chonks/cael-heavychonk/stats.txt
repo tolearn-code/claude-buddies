@@ -1,0 +1,11 @@
+Anar-Dawnheft — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 397):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████░░░░░░░░░░░  47 (dump)
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

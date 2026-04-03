@@ -1,0 +1,11 @@
+Mîr-Indigoheim — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████░░░░  83
+  SNARK      ██████████████░░░░░░  72
+
+Peak: DEBUGGING | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Quartzstead — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████████████░░░  85
+
+Peak: DEBUGGING | Dump: PATIENCE

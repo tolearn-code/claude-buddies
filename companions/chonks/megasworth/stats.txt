@@ -1,0 +1,11 @@
+Berylstead — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   █████████████████░░░  88
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,11 @@
+Lúth-Azureheft — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 372):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: PATIENCE | Dump: SNARK

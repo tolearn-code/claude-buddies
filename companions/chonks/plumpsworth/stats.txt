@@ -1,0 +1,11 @@
+Citrinhelm — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ██████████████░░░░░░  70
+  WISDOM     █████████████████░░░  85
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

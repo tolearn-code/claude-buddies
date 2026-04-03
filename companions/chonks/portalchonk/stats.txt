@@ -1,0 +1,11 @@
+Amberheft — Legendary (★★★★★) Beanie
+Eyes: ° | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

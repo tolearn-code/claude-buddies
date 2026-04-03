@@ -1,0 +1,11 @@
+Mîr-Colossheim — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ███████████░░░░░░░░░  59
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: WISDOM | Dump: SNARK

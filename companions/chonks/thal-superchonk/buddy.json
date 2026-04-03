@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Ruststead",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Thal-Ruststead has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129203,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 85,
+      "CHAOS": 82,
+      "WISDOM": 48,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 806304990,
+  "totalStats": 397
+}

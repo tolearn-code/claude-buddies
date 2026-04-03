@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Malachheim",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Cael-Malachheim speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129194,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 82,
+      "CHAOS": 42,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 461107818,
+  "totalStats": 384
+}

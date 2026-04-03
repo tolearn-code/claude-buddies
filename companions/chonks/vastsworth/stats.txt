@@ -1,0 +1,11 @@
+Vermilstead — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

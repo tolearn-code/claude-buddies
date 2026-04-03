@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Indigoheim",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Mîr-Indigoheim never rests until the root cause is found.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129196,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 52,
+      "CHAOS": 86,
+      "WISDOM": 83,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 246100052,
+  "totalStats": 393
+}

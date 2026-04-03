@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Garnethelm",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Aur-Garnethelm speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129208,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 89,
+      "CHAOS": 49,
+      "WISDOM": 100,
+      "SNARK": 69
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 297918609,
+  "totalStats": 388
+}

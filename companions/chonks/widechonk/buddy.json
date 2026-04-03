@@ -1,0 +1,25 @@
+{
+  "name": "Lavendhelm",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Lavendhelm speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129185,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 40,
+      "CHAOS": 71,
+      "WISDOM": 100,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 526765093,
+  "totalStats": 382
+}

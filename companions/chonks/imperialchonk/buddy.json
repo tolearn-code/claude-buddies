@@ -1,0 +1,25 @@
+{
+  "name": "Copperstead",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Copperstead waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129190,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 100,
+      "CHAOS": 45,
+      "WISDOM": 84,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 265146357,
+  "totalStats": 390
+}

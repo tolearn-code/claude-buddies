@@ -1,0 +1,11 @@
+Lúth-Scarletheft — Legendary (★★★★★) Tinyduck ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  71
+
+Peak: WISDOM | Dump: DEBUGGING

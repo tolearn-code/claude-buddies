@@ -1,0 +1,11 @@
+Pearlheft — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: PATIENCE

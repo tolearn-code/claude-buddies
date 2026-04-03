@@ -1,0 +1,11 @@
+Tealheim — Legendary (★★★★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 404):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

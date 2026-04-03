@@ -1,0 +1,11 @@
+Boulderford — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: WISDOM | Dump: PATIENCE

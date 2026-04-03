@@ -1,0 +1,25 @@
+{
+  "name": "Cobaltheim",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Cobaltheim waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129185,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 100,
+      "CHAOS": 52,
+      "WISDOM": 78,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 67661269,
+  "totalStats": 397
+}

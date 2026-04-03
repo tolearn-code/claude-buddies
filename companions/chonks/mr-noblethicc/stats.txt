@@ -1,0 +1,11 @@
+Aur-Sagehelm — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 375):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████░░░░░░░░  60
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

@@ -1,0 +1,11 @@
+Cael-Malachheim — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████░░░░░░░░░░░░  42 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: CHAOS

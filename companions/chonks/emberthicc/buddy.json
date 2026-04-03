@@ -1,0 +1,25 @@
+{
+  "name": "Stonefort",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Stonefort waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129178,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 89,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 524953964,
+  "totalStats": 403
+}

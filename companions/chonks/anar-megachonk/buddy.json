@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Boulderford",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Mîr-Boulderford speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129195,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 63,
+      "PATIENCE": 85,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 43
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 82329456,
+  "totalStats": 373
+}

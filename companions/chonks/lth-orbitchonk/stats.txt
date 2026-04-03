@@ -1,0 +1,11 @@
+Aur-Citrinhelm — Legendary (★★★★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 405):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  82
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: CHAOS | Dump: SNARK

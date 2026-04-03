@@ -1,0 +1,11 @@
+Garnethelm — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 358):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  68
+  SNARK      ████████░░░░░░░░░░░░  43 (dump)
+
+Peak: CHAOS | Dump: SNARK

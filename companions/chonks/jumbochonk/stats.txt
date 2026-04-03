@@ -1,0 +1,11 @@
+Opalheim — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: WISDOM | Dump: DEBUGGING

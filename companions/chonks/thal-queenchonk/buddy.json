@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Tealheim",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Cael-Tealheim never rests until the root cause is found.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129213,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 77,
+      "CHAOS": 45,
+      "WISDOM": 87,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 52478349,
+  "totalStats": 386
+}

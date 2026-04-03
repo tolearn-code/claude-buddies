@@ -1,0 +1,11 @@
+Ivoryheft — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: WISDOM

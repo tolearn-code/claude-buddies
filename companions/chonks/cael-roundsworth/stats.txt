@@ -1,0 +1,11 @@
+Thal-Jadefort — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

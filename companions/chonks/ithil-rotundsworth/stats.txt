@@ -1,0 +1,11 @@
+Anar-Coralhelm — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████░░░░  81
+
+Peak: PATIENCE | Dump: DEBUGGING

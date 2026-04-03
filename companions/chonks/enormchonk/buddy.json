@@ -1,0 +1,25 @@
+{
+  "name": "Broadhelm",
+  "personality": "A wild-eyed force who thrives in broken deploys. Broadhelm rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129188,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 86,
+      "CHAOS": 100,
+      "WISDOM": 77,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 720111755,
+  "totalStats": 393
+}

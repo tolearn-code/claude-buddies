@@ -1,0 +1,11 @@
+Thal-Ruststead — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 397):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████░░░░  82
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Crystalheim",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Crystalheim rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129199,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 84,
+      "CHAOS": 100,
+      "WISDOM": 69,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 461627528,
+  "totalStats": 388
+}

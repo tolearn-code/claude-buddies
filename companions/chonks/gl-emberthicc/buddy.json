@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Amethystfort",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Amethystfort rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
+  "hatchedAt": 1775211129197,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "chonk",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 87,
+      "CHAOS": 100,
+      "WISDOM": 75,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 198941954,
+  "totalStats": 395
+}

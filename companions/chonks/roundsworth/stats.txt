@@ -1,0 +1,11 @@
+Azureheft — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 369):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   █████████░░░░░░░░░░░  46 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ███████████████░░░░░  75
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Silverstead — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ███████████████░░░░░  77
+
+Peak: CHAOS | Dump: DEBUGGING

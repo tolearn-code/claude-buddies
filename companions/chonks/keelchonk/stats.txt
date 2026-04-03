@@ -1,0 +1,11 @@
+Amethystfort — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 403):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: CHAOS

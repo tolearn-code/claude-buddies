@@ -1,0 +1,11 @@
+Ruststead — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     █████████████░░░░░░░  65
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS
