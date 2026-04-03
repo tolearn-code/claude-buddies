@@ -1,0 +1,25 @@
+{
+  "name": "Malachcore",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Malachcore never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129068,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 86,
+      "CHAOS": 86,
+      "WISDOM": 41,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 415468214,
+  "totalStats": 385
+}

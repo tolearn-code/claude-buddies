@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Vermilcoil",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Vermilcoil rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129093,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 74,
+      "CHAOS": 100,
+      "WISDOM": 44,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 380408017,
+  "totalStats": 367
+}

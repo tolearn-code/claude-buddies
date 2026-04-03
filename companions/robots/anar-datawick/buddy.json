@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Cogsworth",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Gîl-Cogsworth speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129075,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 46,
+      "CHAOS": 67,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 588262325,
+  "totalStats": 383
+}

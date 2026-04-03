@@ -1,0 +1,11 @@
+Violetcoil — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ██████████░░░░░░░░░░  53
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

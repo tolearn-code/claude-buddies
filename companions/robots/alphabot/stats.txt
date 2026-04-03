@@ -1,0 +1,11 @@
+Cogsworth — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████░░░░░░░░░░░░  43 (dump)
+  SNARK      ████████████░░░░░░░░  62
+
+Peak: CHAOS | Dump: WISDOM

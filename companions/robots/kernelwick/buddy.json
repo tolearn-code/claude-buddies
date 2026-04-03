@@ -1,0 +1,25 @@
+{
+  "name": "Onyxwright",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Onyxwright speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129065,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 81,
+      "CHAOS": 83,
+      "WISDOM": 100,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 761875766,
+  "totalStats": 395
+}

@@ -1,0 +1,11 @@
+Coilguard — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 411):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████████████░░░  85
+
+Peak: DEBUGGING | Dump: PATIENCE

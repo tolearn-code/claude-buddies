@@ -1,0 +1,11 @@
+Goldencoil — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 405):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: DEBUGGING

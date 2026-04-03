@@ -1,0 +1,11 @@
+Aur-Citrinforge — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  70
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: CHAOS | Dump: SNARK

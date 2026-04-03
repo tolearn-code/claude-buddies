@@ -1,0 +1,25 @@
+{
+  "name": "Sageforge",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Sageforge has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129069,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 60,
+      "CHAOS": 78,
+      "WISDOM": 89,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 528233818,
+  "totalStats": 379
+}

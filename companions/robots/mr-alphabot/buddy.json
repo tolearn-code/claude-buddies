@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Crimsonforge",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Anar-Crimsonforge never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129090,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 89,
+      "CHAOS": 56,
+      "WISDOM": 43,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 145567452,
+  "totalStats": 368
+}

@@ -1,0 +1,30 @@
+Silverframe — Legendary Robot (★★★★★)
+Eyes: × | Hat: propeller | Shiny: no
+
+--- Frame 0 (idle) ---
+    -+-     
+   .[||].   
+  [ ×  × ]  
+  [ ==== ]  
+  `------´  
+
+--- Frame 1 (idle alt) ---
+    -+-     
+   .[||].   
+  [ ×  × ]  
+  [ -==- ]  
+  `------´  
+
+--- Frame 2 (wink) ---
+     *      
+   .[||].   
+  [ ×  × ]  
+  [ ==== ]  
+  `------´  
+
+--- Sleeping ---
+    -+-     
+   .[||].   
+  [ -  - ]  
+  [ ==== ]  
+  `------´  

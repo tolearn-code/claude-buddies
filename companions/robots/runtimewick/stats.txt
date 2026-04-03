@@ -1,0 +1,11 @@
+Crimsonforge — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      █████████████░░░░░░░  69
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: DEBUGGING

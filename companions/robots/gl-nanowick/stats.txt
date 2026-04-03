@@ -1,0 +1,11 @@
+Lúth-Sapphirecoil — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Tealcore",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Cael-Tealcore waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129086,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 69,
+      "PATIENCE": 100,
+      "CHAOS": 77,
+      "WISDOM": 51,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 379365230,
+  "totalStats": 382
+}

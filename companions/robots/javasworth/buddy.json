@@ -1,0 +1,25 @@
+{
+  "name": "Topazforge",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Topazforge never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129064,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 54,
+      "CHAOS": 58,
+      "WISDOM": 89,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 639052669,
+  "totalStats": 388
+}

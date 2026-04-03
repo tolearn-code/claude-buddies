@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Goldencoil",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Aur-Goldencoil never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129080,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 71,
+      "CHAOS": 81,
+      "WISDOM": 56,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 477098735,
+  "totalStats": 358
+}

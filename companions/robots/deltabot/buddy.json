@@ -1,0 +1,25 @@
+{
+  "name": "Dawnforge",
+  "personality": "A wild-eyed force who thrives in broken deploys. Dawnforge rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129072,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 48,
+      "PATIENCE": 76,
+      "CHAOS": 100,
+      "WISDOM": 76,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 572298316,
+  "totalStats": 387
+}

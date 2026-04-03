@@ -1,0 +1,11 @@
+Lavendforge — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  81
+  SNARK      ██████████████░░░░░░  72
+
+Peak: CHAOS | Dump: DEBUGGING

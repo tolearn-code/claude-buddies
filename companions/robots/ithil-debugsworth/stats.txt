@@ -1,0 +1,11 @@
+Mîr-Emeraldcore — Legendary (★★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 369):
+  DEBUGGING  ████████████░░░░░░░░  62
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████░░░░  81
+
+Peak: CHAOS | Dump: PATIENCE

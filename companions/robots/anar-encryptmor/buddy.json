@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Voltarian",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Mîr-Voltarian speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129082,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 85,
+      "CHAOS": 78,
+      "WISDOM": 100,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 90766721,
+  "totalStats": 377
+}

@@ -1,0 +1,11 @@
+Quartzcoil — Legendary (★★★★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ████████░░░░░░░░░░░░  40 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: DEBUGGING

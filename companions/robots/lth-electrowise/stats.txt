@@ -1,0 +1,11 @@
+Thal-Quartzcoil — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ████████░░░░░░░░░░░░  43 (dump)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████░░░░  80
+  WISDOM     █████████████░░░░░░░  66
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

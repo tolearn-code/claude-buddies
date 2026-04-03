@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Brassmantle",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Brassmantle rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129074,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "·",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 80,
+      "CHAOS": 100,
+      "WISDOM": 78,
+      "SNARK": 65
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 671844390,
+  "totalStats": 377
+}

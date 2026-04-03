@@ -1,0 +1,11 @@
+Cael-Gearwarden — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

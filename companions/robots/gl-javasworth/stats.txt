@@ -1,0 +1,11 @@
+Anar-Amethystforge — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  82
+
+Peak: WISDOM | Dump: PATIENCE

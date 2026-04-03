@@ -1,0 +1,11 @@
+Thal-Rustcoil — Legendary (★★★★★) Tinyduck ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████████████░░░  87
+  SNARK      █████████████████░░░  86
+
+Peak: DEBUGGING | Dump: PATIENCE

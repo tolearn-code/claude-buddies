@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Malachcore",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Cael-Malachcore speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129081,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 89,
+      "CHAOS": 77,
+      "WISDOM": 100,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 801087872,
+  "totalStats": 401
+}

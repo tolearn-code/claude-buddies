@@ -1,0 +1,25 @@
+{
+  "name": "Ferronax",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Ferronax speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129061,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 51,
+      "CHAOS": 86,
+      "WISDOM": 100,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 584584301,
+  "totalStats": 386
+}

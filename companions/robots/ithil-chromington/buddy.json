@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Onyxwright",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Onyxwright rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129075,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 45,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 426632326,
+  "totalStats": 393
+}

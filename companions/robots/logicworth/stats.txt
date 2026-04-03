@@ -1,0 +1,11 @@
+Berylcoil — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ███████████░░░░░░░░░  55
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

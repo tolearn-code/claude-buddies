@@ -1,0 +1,25 @@
+{
+  "name": "Silverframe",
+  "personality": "A wild-eyed force who thrives in broken deploys. Silverframe rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129062,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 87,
+      "CHAOS": 100,
+      "WISDOM": 87,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 971251638,
+  "totalStats": 405
+}

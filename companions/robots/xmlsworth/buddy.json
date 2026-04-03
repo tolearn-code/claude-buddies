@@ -1,0 +1,25 @@
+{
+  "name": "Scarletwright",
+  "personality": "A wild-eyed force who thrives in broken deploys. Scarletwright rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129070,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 74,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 476948788,
+  "totalStats": 402
+}

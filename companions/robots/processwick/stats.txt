@@ -1,0 +1,11 @@
+Amberwright — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     █████████████████░░░  87
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

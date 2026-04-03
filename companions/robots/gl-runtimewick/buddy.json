@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Rubycore",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Cael-Rubycore has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129087,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 49,
+      "CHAOS": 87,
+      "WISDOM": 71,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 55114653,
+  "totalStats": 390
+}

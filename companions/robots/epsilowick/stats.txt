@@ -1,0 +1,11 @@
+Jadecore — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████░░░░  82
+
+Peak: DEBUGGING | Dump: PATIENCE

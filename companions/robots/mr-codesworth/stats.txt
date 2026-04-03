@@ -1,0 +1,11 @@
+Cael-Malachcore — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 401):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: WISDOM | Dump: SNARK

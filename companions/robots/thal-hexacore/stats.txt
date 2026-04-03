@@ -1,0 +1,11 @@
+Lúth-Scarletwright — Legendary (★★★★★) Tinyduck ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ███████████████░░░░░  79
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

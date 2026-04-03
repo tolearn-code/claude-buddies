@@ -1,0 +1,11 @@
+Aur-Garnetframe — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 399):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      █████████████████░░░  86
+
+Peak: DEBUGGING | Dump: WISDOM

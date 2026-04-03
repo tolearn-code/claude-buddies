@@ -1,0 +1,25 @@
+{
+  "name": "Jadecore",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Jadecore never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129073,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 41,
+      "CHAOS": 85,
+      "WISDOM": 74,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 785571673,
+  "totalStats": 382
+}

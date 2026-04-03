@@ -1,0 +1,25 @@
+{
+  "name": "Brassmantle",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Brassmantle speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129061,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 67,
+      "PATIENCE": 85,
+      "CHAOS": 47,
+      "WISDOM": 100,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 909505105,
+  "totalStats": 366
+}

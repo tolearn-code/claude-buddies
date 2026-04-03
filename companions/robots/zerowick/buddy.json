@@ -1,0 +1,25 @@
+{
+  "name": "Rustcoil",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Rustcoil has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129071,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 65,
+      "PATIENCE": 84,
+      "CHAOS": 88,
+      "WISDOM": 49,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 672345759,
+  "totalStats": 386
+}

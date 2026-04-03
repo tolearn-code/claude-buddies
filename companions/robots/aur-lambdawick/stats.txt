@@ -1,0 +1,11 @@
+Aur-Brassmantle — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████████░░░░░░░  65
+
+Peak: CHAOS | Dump: DEBUGGING

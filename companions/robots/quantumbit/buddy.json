@@ -1,0 +1,25 @@
+{
+  "name": "Indigocore",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Indigocore waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129060,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 100,
+      "CHAOS": 78,
+      "WISDOM": 68,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 130954571,
+  "totalStats": 382
+}

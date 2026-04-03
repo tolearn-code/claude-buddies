@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Garnetframe",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Aur-Garnetframe never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129091,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 77,
+      "WISDOM": 48,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 783426505,
+  "totalStats": 399
+}

@@ -1,0 +1,11 @@
+Amethystforge — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      █████████████████░░░  87
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

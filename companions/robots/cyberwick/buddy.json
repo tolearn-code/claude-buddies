@@ -1,0 +1,25 @@
+{
+  "name": "Titanforge",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Titanforge speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129072,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 40,
+      "CHAOS": 85,
+      "WISDOM": 100,
+      "SNARK": 66
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 31508012,
+  "totalStats": 378
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Amberwright",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Amberwright never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129067,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 70,
+      "CHAOS": 75,
+      "WISDOM": 87,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 279678278,
+  "totalStats": 380
+}

@@ -1,0 +1,11 @@
+Lúth-Ironwright — Legendary (★★★★★) Halo ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 374):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      █████████████░░░░░░░  66
+  WISDOM     ████████░░░░░░░░░░░░  42 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

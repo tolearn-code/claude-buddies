@@ -1,0 +1,11 @@
+Gîl-Onyxwright — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████░░░░  80
+
+Peak: CHAOS | Dump: PATIENCE

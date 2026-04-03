@@ -1,0 +1,11 @@
+Emeraldcore — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  83
+
+Peak: WISDOM | Dump: DEBUGGING

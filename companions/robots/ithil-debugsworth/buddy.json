@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Emeraldcore",
+  "personality": "A wild-eyed force who thrives in broken deploys. Mîr-Emeraldcore rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129082,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 62,
+      "PATIENCE": 41,
+      "CHAOS": 100,
+      "WISDOM": 85,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 850939112,
+  "totalStats": 369
+}

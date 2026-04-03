@@ -1,0 +1,11 @@
+Lúth-Pearlwright — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 357):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     █████████████░░░░░░░  68
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: DEBUGGING | Dump: CHAOS

@@ -1,0 +1,11 @@
+Sparkwright — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 403):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      █████████████████░░░  87
+
+Peak: CHAOS | Dump: PATIENCE

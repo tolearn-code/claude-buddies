@@ -1,0 +1,11 @@
+Sapphirecoil — Legendary (★★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: CHAOS | Dump: SNARK

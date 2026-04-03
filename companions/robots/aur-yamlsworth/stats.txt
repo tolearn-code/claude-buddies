@@ -1,0 +1,11 @@
+Ithil-Coilguard — Legendary (★★★★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████░░░░░░░░░░░░  43 (dump)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

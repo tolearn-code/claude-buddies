@@ -1,0 +1,11 @@
+Mîr-Indigocore — Legendary (★★★★★) Wizard ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 396):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Ivorywright",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Gîl-Ivorywright never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129087,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 87,
+      "CHAOS": 53,
+      "WISDOM": 83,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 153206382,
+  "totalStats": 390
+}

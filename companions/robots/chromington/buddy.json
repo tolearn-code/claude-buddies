@@ -1,0 +1,25 @@
+{
+  "name": "Gearwarden",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Gearwarden has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129055,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 84,
+      "CHAOS": 85,
+      "WISDOM": 48,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 249854513,
+  "totalStats": 388
+}

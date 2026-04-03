@@ -1,0 +1,25 @@
+{
+  "name": "Cobaltcore",
+  "personality": "A wild-eyed force who thrives in broken deploys. Cobaltcore rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129059,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 45,
+      "CHAOS": 100,
+      "WISDOM": 67,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 198761549,
+  "totalStats": 373
+}

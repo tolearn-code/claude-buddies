@@ -1,0 +1,11 @@
+Cael-Rubycore — Legendary (★★★★★) Crown ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

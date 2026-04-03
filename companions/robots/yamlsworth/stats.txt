@@ -1,0 +1,11 @@
+Tealcore — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 407):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Ironwright",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Ironwright speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129060,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 40,
+      "CHAOS": 89,
+      "WISDOM": 100,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 581819555,
+  "totalStats": 375
+}

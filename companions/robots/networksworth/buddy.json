@@ -1,0 +1,25 @@
+{
+  "name": "Obsidicore",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Obsidicore never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129066,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 70,
+      "CHAOS": 88,
+      "WISDOM": 84,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 653247084,
+  "totalStats": 395
+}

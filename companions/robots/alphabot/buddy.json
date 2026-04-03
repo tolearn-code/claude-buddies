@@ -1,0 +1,25 @@
+{
+  "name": "Cogsworth",
+  "personality": "A wild-eyed force who thrives in broken deploys. Cogsworth rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129071,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 87,
+      "CHAOS": 100,
+      "WISDOM": 43,
+      "SNARK": 62
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 981519398,
+  "totalStats": 374
+}

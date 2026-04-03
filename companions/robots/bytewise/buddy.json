@@ -1,0 +1,25 @@
+{
+  "name": "Chromidan",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Chromidan waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129055,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 100,
+      "CHAOS": 80,
+      "WISDOM": 47,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 976493082,
+  "totalStats": 384
+}

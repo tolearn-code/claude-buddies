@@ -1,0 +1,11 @@
+Titanforge — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  66
+
+Peak: WISDOM | Dump: PATIENCE

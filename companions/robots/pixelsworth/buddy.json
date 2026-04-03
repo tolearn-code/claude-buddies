@@ -1,0 +1,25 @@
+{
+  "name": "Citrinforge",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Citrinforge waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129058,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 100,
+      "CHAOS": 86,
+      "WISDOM": 53,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 37491978,
+  "totalStats": 387
+}

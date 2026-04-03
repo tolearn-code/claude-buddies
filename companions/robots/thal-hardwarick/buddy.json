@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Lavendforge",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Anar-Lavendforge waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129083,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 100,
+      "CHAOS": 49,
+      "WISDOM": 80,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 608075110,
+  "totalStats": 394
+}

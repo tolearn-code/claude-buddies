@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Sparkwright",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Mîr-Sparkwright has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129087,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 50,
+      "PATIENCE": 88,
+      "CHAOS": 87,
+      "WISDOM": 82,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 613236620,
+  "totalStats": 407
+}

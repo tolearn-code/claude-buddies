@@ -1,0 +1,11 @@
+Sageforge — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ████████████░░░░░░░░  60
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

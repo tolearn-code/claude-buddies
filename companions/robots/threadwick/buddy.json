@@ -1,0 +1,25 @@
+{
+  "name": "Rosecoil",
+  "personality": "A wild-eyed force who thrives in broken deploys. Rosecoil rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129068,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 52,
+      "CHAOS": 100,
+      "WISDOM": 77,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 630761163,
+  "totalStats": 392
+}

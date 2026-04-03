@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Citrinforge",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Citrinforge rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129082,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 86,
+      "CHAOS": 100,
+      "WISDOM": 70,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 813044325,
+  "totalStats": 389
+}

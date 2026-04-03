@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Sageforge",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Aur-Sageforge never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129078,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 77,
+      "CHAOS": 81,
+      "WISDOM": 84,
+      "SNARK": 44
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 149708081,
+  "totalStats": 386
+}

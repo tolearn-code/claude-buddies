@@ -1,0 +1,25 @@
+{
+  "name": "Crimsonforge",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Crimsonforge speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129067,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 45,
+      "PATIENCE": 72,
+      "CHAOS": 69,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 439662201,
+  "totalStats": 374
+}

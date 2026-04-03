@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Ironwright",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Lúth-Ironwright has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129079,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 83,
+      "CHAOS": 66,
+      "WISDOM": 42,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 654974552,
+  "totalStats": 374
+}

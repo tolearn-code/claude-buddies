@@ -1,0 +1,25 @@
+{
+  "name": "Sapphirecoil",
+  "personality": "A wild-eyed force who thrives in broken deploys. Sapphirecoil rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129057,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "·",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 78,
+      "CHAOS": 100,
+      "WISDOM": 80,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 308054948,
+  "totalStats": 384
+}

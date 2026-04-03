@@ -1,0 +1,11 @@
+Ivorywright — Legendary (★★★★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████░░░░░░░░  63
+  SNARK      ████████████████░░░░  83
+
+Peak: DEBUGGING | Dump: PATIENCE

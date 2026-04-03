@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Steelheart",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Steelheart waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129085,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 100,
+      "CHAOS": 80,
+      "WISDOM": 85,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 362699086,
+  "totalStats": 401
+}

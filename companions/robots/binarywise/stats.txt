@@ -1,0 +1,11 @@
+Steelheart — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      █████████████░░░░░░░  69
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

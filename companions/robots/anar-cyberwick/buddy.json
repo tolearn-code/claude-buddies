@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Ferronax",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Aur-Ferronax never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129091,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 84,
+      "CHAOS": 85,
+      "WISDOM": 50,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 45218518,
+  "totalStats": 393
+}

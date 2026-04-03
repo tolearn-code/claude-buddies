@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Scarletwright",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Lúth-Scarletwright never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129077,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "·",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 89,
+      "CHAOS": 79,
+      "WISDOM": 79,
+      "SNARK": 46
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 805712888,
+  "totalStats": 393
+}

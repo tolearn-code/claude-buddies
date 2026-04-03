@@ -1,0 +1,11 @@
+Cobaltcore — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 373):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      ████████████████░░░░  84
+
+Peak: CHAOS | Dump: PATIENCE

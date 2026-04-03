@@ -1,0 +1,11 @@
+Ferronax — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: WISDOM | Dump: PATIENCE

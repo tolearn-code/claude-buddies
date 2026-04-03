@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Obsidicore",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Cael-Obsidicore speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129092,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 75,
+      "CHAOS": 50,
+      "WISDOM": 100,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 997478983,
+  "totalStats": 398
+}

@@ -1,0 +1,11 @@
+Cael-Obsidicore — Legendary (★★★★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: CHAOS

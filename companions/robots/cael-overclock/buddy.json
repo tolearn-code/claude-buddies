@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Jadecore",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Thal-Jadecore speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129086,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 83,
+      "CHAOS": 64,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 766900343,
+  "totalStats": 381
+}

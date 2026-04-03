@@ -1,0 +1,11 @@
+Anar-Lavendforge — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 394):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: CHAOS

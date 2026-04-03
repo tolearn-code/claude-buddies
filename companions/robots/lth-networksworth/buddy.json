@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Amberwright",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Gîl-Amberwright speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129086,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 41,
+      "PATIENCE": 79,
+      "CHAOS": 84,
+      "WISDOM": 100,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 752548078,
+  "totalStats": 386
+}

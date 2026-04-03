@@ -1,0 +1,25 @@
+{
+  "name": "Rubycore",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Rubycore speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129064,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 63,
+      "PATIENCE": 87,
+      "CHAOS": 80,
+      "WISDOM": 100,
+      "SNARK": 44
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 613205220,
+  "totalStats": 374
+}

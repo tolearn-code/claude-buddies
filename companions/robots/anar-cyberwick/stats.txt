@@ -1,0 +1,11 @@
+Aur-Ferronax — Legendary (★★★★★) Halo ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: DEBUGGING | Dump: WISDOM

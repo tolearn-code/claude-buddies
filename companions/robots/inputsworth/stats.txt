@@ -1,0 +1,11 @@
+Rubycore — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ████████████░░░░░░░░  63
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: WISDOM | Dump: SNARK

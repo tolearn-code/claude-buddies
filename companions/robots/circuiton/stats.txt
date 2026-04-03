@@ -1,0 +1,11 @@
+Circuithelm — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   █████████████░░░░░░░  69
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  82
+
+Peak: CHAOS | Dump: DEBUGGING

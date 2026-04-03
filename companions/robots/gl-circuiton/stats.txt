@@ -1,0 +1,11 @@
+Ithil-Embercircuit — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: PATIENCE

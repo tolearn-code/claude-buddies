@@ -1,0 +1,11 @@
+Brassmantle — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 366):
+  DEBUGGING  █████████████░░░░░░░  67
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████░░░░░░░░░░░  47 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: WISDOM | Dump: CHAOS

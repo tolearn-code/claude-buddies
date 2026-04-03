@@ -1,0 +1,25 @@
+{
+  "name": "Vermilcoil",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Vermilcoil speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129069,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 50,
+      "PATIENCE": 81,
+      "CHAOS": 68,
+      "WISDOM": 100,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 108177965,
+  "totalStats": 371
+}

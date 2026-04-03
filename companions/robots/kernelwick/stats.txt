@@ -1,0 +1,11 @@
+Onyxwright — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: WISDOM | Dump: SNARK

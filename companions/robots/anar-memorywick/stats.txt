@@ -1,0 +1,11 @@
+Ithil-Steelheart — Legendary (★★★★★) Halo ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 401):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     █████████████████░░░  85
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: PATIENCE | Dump: SNARK

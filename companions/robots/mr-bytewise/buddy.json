@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Azurewright",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Azurewright waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129075,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 69,
+      "PATIENCE": 100,
+      "CHAOS": 70,
+      "WISDOM": 54,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 185965148,
+  "totalStats": 360
+}

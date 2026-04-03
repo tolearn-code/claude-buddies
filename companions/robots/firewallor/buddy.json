@@ -1,0 +1,25 @@
+{
+  "name": "Goldencoil",
+  "personality": "A wild-eyed force who thrives in broken deploys. Goldencoil rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129063,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 81,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 394637465,
+  "totalStats": 405
+}

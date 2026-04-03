@@ -1,0 +1,11 @@
+Thal-Topazforge — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████░░░░░░░░░░░░  42 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

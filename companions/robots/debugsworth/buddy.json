@@ -1,0 +1,25 @@
+{
+  "name": "Coilguard",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Coilguard never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129062,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 54,
+      "CHAOS": 89,
+      "WISDOM": 83,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 911779585,
+  "totalStats": 411
+}

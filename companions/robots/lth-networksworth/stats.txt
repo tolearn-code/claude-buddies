@@ -1,0 +1,11 @@
+Gîl-Amberwright — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 386):
+  DEBUGGING  ████████░░░░░░░░░░░░  41 (dump)
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  82
+
+Peak: WISDOM | Dump: DEBUGGING

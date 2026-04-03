@@ -1,0 +1,11 @@
+Coralforge — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████░░░░░░░░░░░░  40 (dump)
+
+Peak: PATIENCE | Dump: SNARK

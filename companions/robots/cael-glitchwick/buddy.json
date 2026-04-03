@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Silverframe",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Cael-Silverframe speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129083,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 80,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 490009987,
+  "totalStats": 367
+}

@@ -1,0 +1,11 @@
+Pearlwright — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  █████████████░░░░░░░  69
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████░░░░  84
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: PATIENCE | Dump: SNARK

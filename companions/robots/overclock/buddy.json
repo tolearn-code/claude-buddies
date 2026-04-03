@@ -1,0 +1,25 @@
+{
+  "name": "Quartzcoil",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Quartzcoil waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129066,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 40,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 85,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 742298906,
+  "totalStats": 393
+}

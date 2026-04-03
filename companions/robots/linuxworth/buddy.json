@@ -1,0 +1,25 @@
+{
+  "name": "Emeraldcore",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Emeraldcore speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129065,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 50,
+      "PATIENCE": 79,
+      "CHAOS": 83,
+      "WISDOM": 100,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 582148288,
+  "totalStats": 395
+}

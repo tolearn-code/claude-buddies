@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Violetcoil",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Ithil-Violetcoil speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129079,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 48,
+      "PATIENCE": 85,
+      "CHAOS": 85,
+      "WISDOM": 100,
+      "SNARK": 63
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 819232197,
+  "totalStats": 381
+}

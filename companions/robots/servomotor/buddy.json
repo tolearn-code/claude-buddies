@@ -1,0 +1,25 @@
+{
+  "name": "Azurewright",
+  "personality": "A wild-eyed force who thrives in broken deploys. Azurewright rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129058,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 43,
+      "CHAOS": 100,
+      "WISDOM": 80,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 670264812,
+  "totalStats": 393
+}

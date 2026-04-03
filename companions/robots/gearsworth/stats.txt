@@ -1,0 +1,11 @@
+Opalcore — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 397):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  86
+
+Peak: WISDOM | Dump: PATIENCE

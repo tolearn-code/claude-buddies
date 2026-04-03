@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Berylcoil",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Berylcoil waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129085,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 49,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 631974511,
+  "totalStats": 397
+}

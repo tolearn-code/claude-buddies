@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Pearlwright",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Lúth-Pearlwright never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129088,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 82,
+      "CHAOS": 46,
+      "WISDOM": 68,
+      "SNARK": 61
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 971849789,
+  "totalStats": 357
+}

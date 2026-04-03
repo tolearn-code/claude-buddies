@@ -1,0 +1,11 @@
+Thal-Circuithelm — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     █████████████░░░░░░░  65
+  SNARK      █████████████████░░░  87
+
+Peak: PATIENCE | Dump: CHAOS

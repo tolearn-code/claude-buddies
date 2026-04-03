@@ -1,0 +1,11 @@
+Thal-Rosecoil — Legendary (★★★★★) Tophat ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 394):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: WISDOM

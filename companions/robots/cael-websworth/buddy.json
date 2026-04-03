@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Copperwright",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Gîl-Copperwright has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129089,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 84,
+      "CHAOS": 82,
+      "WISDOM": 40,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 260057868,
+  "totalStats": 384
+}

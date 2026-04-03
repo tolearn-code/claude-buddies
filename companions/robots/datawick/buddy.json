@@ -1,0 +1,25 @@
+{
+  "name": "Sparkwright",
+  "personality": "A wild-eyed force who thrives in broken deploys. Sparkwright rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129056,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 51,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 314683524,
+  "totalStats": 403
+}

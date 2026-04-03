@@ -1,0 +1,25 @@
+{
+  "name": "Pearlwright",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Pearlwright waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129058,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 69,
+      "PATIENCE": 100,
+      "CHAOS": 82,
+      "WISDOM": 84,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 92853997,
+  "totalStats": 385
+}

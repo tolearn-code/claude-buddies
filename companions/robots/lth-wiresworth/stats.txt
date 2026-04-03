@@ -1,0 +1,11 @@
+Ithil-Violetcoil — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: WISDOM | Dump: DEBUGGING

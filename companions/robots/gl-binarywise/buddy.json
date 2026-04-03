@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Opalcore",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Mîr-Opalcore speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129081,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 80,
+      "CHAOS": 80,
+      "WISDOM": 100,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 860430653,
+  "totalStats": 398
+}

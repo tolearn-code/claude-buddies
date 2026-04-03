@@ -1,0 +1,11 @@
+Rustcoil — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████████░░░░░░░  65
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

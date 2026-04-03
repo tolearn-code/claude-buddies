@@ -1,0 +1,11 @@
+Embercircuit — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   █████████████░░░░░░░  67
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

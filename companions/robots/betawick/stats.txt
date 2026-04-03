@@ -1,0 +1,11 @@
+Voltarian — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████░░░░░░░░  62
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: PATIENCE | Dump: SNARK

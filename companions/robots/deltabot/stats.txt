@@ -1,0 +1,11 @@
+Dawnforge — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  76
+  SNARK      █████████████████░░░  87
+
+Peak: CHAOS | Dump: DEBUGGING

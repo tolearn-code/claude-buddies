@@ -1,0 +1,25 @@
+{
+  "name": "Ivorywright",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Ivorywright never rests until the root cause is found.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129069,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 47,
+      "CHAOS": 86,
+      "WISDOM": 63,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 652974018,
+  "totalStats": 379
+}

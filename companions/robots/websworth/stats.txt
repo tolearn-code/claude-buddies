@@ -1,0 +1,11 @@
+Vermilcoil — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 371):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      █████████████░░░░░░░  68
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  72
+
+Peak: WISDOM | Dump: DEBUGGING

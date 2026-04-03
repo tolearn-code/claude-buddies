@@ -1,0 +1,11 @@
+Anar-Crimsonforge — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 368):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ███████████░░░░░░░░░  56
+  WISDOM     ████████░░░░░░░░░░░░  43 (dump)
+  SNARK      ████████████████░░░░  80
+
+Peak: DEBUGGING | Dump: WISDOM

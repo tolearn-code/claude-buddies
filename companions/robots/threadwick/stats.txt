@@ -1,0 +1,11 @@
+Rosecoil — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ███████████████░░░░░  77
+
+Peak: CHAOS | Dump: PATIENCE

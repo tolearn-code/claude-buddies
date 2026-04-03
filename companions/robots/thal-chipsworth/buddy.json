@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Cobaltcore",
+  "personality": "A wild-eyed force who thrives in broken deploys. Mîr-Cobaltcore rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
+  "hatchedAt": 1775211129080,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "robot",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 78,
+      "CHAOS": 100,
+      "WISDOM": 82,
+      "SNARK": 42
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 571332396,
+  "totalStats": 391
+}

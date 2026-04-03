@@ -1,0 +1,11 @@
+Ithil-Berylcoil — Legendary (★★★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 397):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ███████████████░░░░░  78
+
+Peak: PATIENCE | Dump: WISDOM
