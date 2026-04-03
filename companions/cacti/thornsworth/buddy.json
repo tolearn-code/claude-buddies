@@ -1,0 +1,25 @@
+{
+  "name": "Sagethorn",
+  "personality": "A wild-eyed force who thrives in broken deploys. Sagethorn rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129011,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "·",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 62,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 71779022,
+  "totalStats": 390
+}

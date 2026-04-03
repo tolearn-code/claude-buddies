@@ -1,0 +1,11 @@
+Ivoryspire — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 399):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: PATIENCE | Dump: SNARK

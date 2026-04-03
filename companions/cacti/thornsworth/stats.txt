@@ -1,0 +1,11 @@
+Sagethorn — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████░░░░░░░░  62
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: CHAOS | Dump: SNARK

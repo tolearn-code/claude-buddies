@@ -1,0 +1,11 @@
+Cael-Desertguard — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 371):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████░░░░░░░░░░░░  43 (dump)
+  SNARK      ████████████████░░░░  81
+
+Peak: CHAOS | Dump: WISDOM

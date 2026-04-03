@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Rustthorn",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Rustthorn waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129047,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 100,
+      "CHAOS": 83,
+      "WISDOM": 75,
+      "SNARK": 42
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 459134800,
+  "totalStats": 383
+}

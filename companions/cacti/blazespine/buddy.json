@@ -1,0 +1,25 @@
+{
+  "name": "Ironspire",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Ironspire never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129027,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "@",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 67,
+      "CHAOS": 49,
+      "WISDOM": 79,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 689178929,
+  "totalStats": 377
+}

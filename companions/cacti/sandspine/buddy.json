@@ -1,0 +1,25 @@
+{
+  "name": "Malachthorn",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Malachthorn never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129013,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 85,
+      "CHAOS": 51,
+      "WISDOM": 54,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 469748056,
+  "totalStats": 377
+}

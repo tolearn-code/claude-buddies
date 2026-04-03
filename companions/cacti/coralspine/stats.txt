@@ -1,0 +1,11 @@
+Sunspire — Legendary (★★★★★) Crown
+Eyes: @ | Shiny: no
+
+Stats (total: 408):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  87
+
+Peak: WISDOM | Dump: DEBUGGING

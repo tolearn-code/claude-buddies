@@ -1,0 +1,11 @@
+Ithil-Violetthorn — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: WISDOM | Dump: SNARK

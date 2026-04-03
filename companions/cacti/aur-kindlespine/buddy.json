@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Flameguard",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Gîl-Flameguard never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129041,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "×",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 87,
+      "CHAOS": 87,
+      "WISDOM": 86,
+      "SNARK": 40
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 919689339,
+  "totalStats": 400
+}

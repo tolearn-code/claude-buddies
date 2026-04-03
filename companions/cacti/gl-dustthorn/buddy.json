@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Emberspire",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Emberspire rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129038,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 42,
+      "CHAOS": 100,
+      "WISDOM": 87,
+      "SNARK": 61
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 734809571,
+  "totalStats": 376
+}

@@ -1,0 +1,11 @@
+Pearlthorn — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 368):
+  DEBUGGING  ██████████░░░░░░░░░░  52
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: WISDOM | Dump: SNARK

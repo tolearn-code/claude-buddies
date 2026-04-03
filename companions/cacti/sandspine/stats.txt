@@ -1,0 +1,11 @@
+Malachthorn — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ██████████░░░░░░░░░░  54
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: CHAOS

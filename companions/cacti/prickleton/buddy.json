@@ -1,0 +1,25 @@
+{
+  "name": "Amberthorn",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Amberthorn speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129013,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 86,
+      "CHAOS": 76,
+      "WISDOM": 100,
+      "SNARK": 41
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 604699735,
+  "totalStats": 374
+}

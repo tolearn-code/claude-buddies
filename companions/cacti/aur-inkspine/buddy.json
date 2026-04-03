@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Goldspine",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Aur-Goldspine has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129051,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 76,
+      "CHAOS": 83,
+      "WISDOM": 88,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 243492038,
+  "totalStats": 401
+}

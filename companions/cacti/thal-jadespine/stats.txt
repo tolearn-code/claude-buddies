@@ -1,0 +1,11 @@
+Anar-Lavendthorn — Legendary (★★★★★) Tinyduck ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 409):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████████████░░░  85
+  SNARK      █████████████████░░░  88
+
+Peak: DEBUGGING | Dump: PATIENCE

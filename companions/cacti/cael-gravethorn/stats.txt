@@ -1,0 +1,11 @@
+Lúth-Crystalthorn — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 374):
+  DEBUGGING  █████████████░░░░░░░  68
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  81
+  SNARK      ██████████████░░░░░░  73
+
+Peak: CHAOS | Dump: PATIENCE

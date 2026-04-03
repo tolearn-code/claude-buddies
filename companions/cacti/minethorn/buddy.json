@@ -1,0 +1,25 @@
+{
+  "name": "Emeraldspire",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Emeraldspire never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129032,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 81,
+      "CHAOS": 59,
+      "WISDOM": 82,
+      "SNARK": 47
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 773116681,
+  "totalStats": 369
+}

@@ -1,0 +1,11 @@
+Thal-Rustthorn — Legendary (★★★★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ████████░░░░░░░░░░░░  42 (dump)
+
+Peak: PATIENCE | Dump: SNARK

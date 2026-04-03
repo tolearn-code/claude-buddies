@@ -1,0 +1,25 @@
+{
+  "name": "Dunewatch",
+  "personality": "A wild-eyed force who thrives in broken deploys. Dunewatch rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129014,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "·",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 83,
+      "CHAOS": 100,
+      "WISDOM": 46,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 593573991,
+  "totalStats": 384
+}

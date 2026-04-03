@@ -1,0 +1,11 @@
+Cael-Obsidispire — Legendary (★★★★★) Wizard ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 368):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ██████████░░░░░░░░░░  52
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Thal-Oasiswarden — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 392):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ███████████████░░░░░  76
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: PATIENCE | Dump: SNARK

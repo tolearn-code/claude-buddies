@@ -1,0 +1,11 @@
+Obsidispire — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  69
+  SNARK      █████████████░░░░░░░  65
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Rustthorn",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Rustthorn never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129026,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 56,
+      "CHAOS": 50,
+      "WISDOM": 85,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 613696266,
+  "totalStats": 369
+}

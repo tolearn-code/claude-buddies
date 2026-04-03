@@ -1,0 +1,11 @@
+Violetthorn — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  █████████████░░░░░░░  66
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Garnetguard — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ███████████░░░░░░░░░  59
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

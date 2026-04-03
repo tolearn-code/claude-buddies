@@ -1,0 +1,11 @@
+Aur-Thornhelm — Legendary (★★★★★) Halo ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████░░░░░░░░░░░░  43 (dump)
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  84
+  SNARK      █████████████████░░░  86
+
+Peak: CHAOS | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Topazspire",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Topazspire waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129045,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 100,
+      "CHAOS": 89,
+      "WISDOM": 40,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 177750593,
+  "totalStats": 403
+}

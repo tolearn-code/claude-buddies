@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Quartzthorn",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Quartzthorn rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129040,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 72,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 522615752,
+  "totalStats": 388
+}

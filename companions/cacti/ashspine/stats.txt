@@ -1,0 +1,11 @@
+Sandmantle — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 397):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  84
+
+Peak: WISDOM | Dump: DEBUGGING

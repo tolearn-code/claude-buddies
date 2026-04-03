@@ -1,0 +1,25 @@
+{
+  "name": "Jadeguard",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Jadeguard speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129017,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 43,
+      "CHAOS": 81,
+      "WISDOM": 100,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 494104186,
+  "totalStats": 382
+}

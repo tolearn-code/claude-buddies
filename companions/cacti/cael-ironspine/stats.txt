@@ -1,0 +1,11 @@
+Cael-Silverspire — Legendary (★★★★★) Beanie ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 412):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      █████████████████░░░  88
+
+Peak: CHAOS | Dump: PATIENCE

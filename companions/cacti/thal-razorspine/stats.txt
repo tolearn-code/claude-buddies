@@ -1,0 +1,11 @@
+Cael-Tealspire — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 375):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      █████████████████░░░  86
+
+Peak: DEBUGGING | Dump: PATIENCE

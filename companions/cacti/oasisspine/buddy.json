@@ -1,0 +1,25 @@
+{
+  "name": "Quartzthorn",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Quartzthorn has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129020,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 87,
+      "CHAOS": 61,
+      "WISDOM": 70,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 172957201,
+  "totalStats": 369
+}

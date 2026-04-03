@@ -1,0 +1,25 @@
+{
+  "name": "Thornhelm",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Thornhelm speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129014,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 74,
+      "CHAOS": 53,
+      "WISDOM": 100,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 123087716,
+  "totalStats": 393
+}

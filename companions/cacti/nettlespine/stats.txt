@@ -1,0 +1,11 @@
+Coralspire — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████░░░░░░░░░░░░  44 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  84
+
+Peak: WISDOM | Dump: CHAOS

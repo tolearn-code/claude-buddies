@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Malachthorn",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Cael-Malachthorn speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129051,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 65,
+      "PATIENCE": 48,
+      "CHAOS": 85,
+      "WISDOM": 100,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 27317867,
+  "totalStats": 366
+}

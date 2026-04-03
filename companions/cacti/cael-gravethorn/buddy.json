@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Crystalthorn",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Crystalthorn rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129050,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 68,
+      "PATIENCE": 52,
+      "CHAOS": 100,
+      "WISDOM": 81,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 660507073,
+  "totalStats": 374
+}

@@ -1,0 +1,11 @@
+Desertguard — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 368):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ███████████░░░░░░░░░  58
+  SNARK      █████████░░░░░░░░░░░  47 (dump)
+
+Peak: PATIENCE | Dump: SNARK

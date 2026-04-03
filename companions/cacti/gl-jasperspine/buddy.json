@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Amethystthorn",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Anar-Amethystthorn never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129051,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 51,
+      "WISDOM": 82,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 878356229,
+  "totalStats": 398
+}

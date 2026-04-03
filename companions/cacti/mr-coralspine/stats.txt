@@ -1,0 +1,11 @@
+Anar-Crimsonspire — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 366):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████░░░░  80
+  SNARK      ██████████░░░░░░░░░░  51
+
+Peak: DEBUGGING | Dump: PATIENCE

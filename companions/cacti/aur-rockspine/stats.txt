@@ -1,0 +1,11 @@
+Mîr-Stonethorn — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████░░░░░░░░░░░░  41 (dump)
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,11 @@
+Silverspire — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  78
+
+Peak: WISDOM | Dump: DEBUGGING

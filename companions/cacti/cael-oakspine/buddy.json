@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Jadeguard",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Thal-Jadeguard speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129053,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 83,
+      "CHAOS": 81,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 382851578,
+  "totalStats": 407
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Lavendthorn",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Lavendthorn has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129024,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 44,
+      "PATIENCE": 88,
+      "CHAOS": 85,
+      "WISDOM": 70,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 916865938,
+  "totalStats": 387
+}

@@ -1,0 +1,11 @@
+Mîr-Cobaltthorn — Legendary (★★★★★) Tinyduck ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 392):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  71
+
+Peak: WISDOM | Dump: PATIENCE

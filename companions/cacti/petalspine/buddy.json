@@ -1,0 +1,25 @@
+{
+  "name": "Citrinspire",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Citrinspire waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129021,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 43,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 50,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 774617758,
+  "totalStats": 370
+}

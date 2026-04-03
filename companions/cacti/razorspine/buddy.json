@@ -1,0 +1,25 @@
+{
+  "name": "Azurethorn",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Azurethorn never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129022,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 86,
+      "CHAOS": 53,
+      "WISDOM": 78,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 410943533,
+  "totalStats": 402
+}

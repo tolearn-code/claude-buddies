@@ -1,0 +1,11 @@
+Crystalthorn — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████░░░░░░░  66
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████████░░░░  80
+
+Peak: PATIENCE | Dump: WISDOM

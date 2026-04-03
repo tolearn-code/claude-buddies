@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Tealspire",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Cael-Tealspire never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129044,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 45,
+      "CHAOS": 80,
+      "WISDOM": 64,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 293128444,
+  "totalStats": 375
+}

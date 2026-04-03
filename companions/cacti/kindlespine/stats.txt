@@ -1,0 +1,11 @@
+Sapphirespire — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

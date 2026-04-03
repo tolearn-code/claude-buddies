@@ -1,0 +1,11 @@
+Lavendthorn — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████████░░░░░░  70
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Dustmantle — Legendary (★★★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: CHAOS | Dump: SNARK

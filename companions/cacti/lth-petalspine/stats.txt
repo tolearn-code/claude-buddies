@@ -1,0 +1,11 @@
+Gîl-Amberthorn — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ██████████████░░░░░░  70
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

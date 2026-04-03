@@ -1,0 +1,11 @@
+Ithil-Dunewatch — Legendary (★★★★★) Halo ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████░░░░░░░░  62
+  SNARK      █████████████████░░░  88
+
+Peak: DEBUGGING | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Opalthorn",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Opalthorn waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129018,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 65,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 88,
+      "SNARK": 41
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 586705990,
+  "totalStats": 382
+}

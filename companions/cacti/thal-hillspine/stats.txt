@@ -1,0 +1,11 @@
+Ithil-Vermilspire — Legendary (★★★★★) Tinyduck ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 373):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  67
+  SNARK      ███████████████░░░░░  76
+
+Peak: CHAOS | Dump: DEBUGGING

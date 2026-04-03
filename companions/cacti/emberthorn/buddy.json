@@ -1,0 +1,25 @@
+{
+  "name": "Stonethorn",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Stonethorn never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129028,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 89,
+      "CHAOS": 61,
+      "WISDOM": 87,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 146470188,
+  "totalStats": 388
+}

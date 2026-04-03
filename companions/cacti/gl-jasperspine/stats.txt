@@ -1,0 +1,11 @@
+Anar-Amethystthorn — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ████████████████░░░░  82
+  SNARK      ███████████████░░░░░  77
+
+Peak: DEBUGGING | Dump: CHAOS

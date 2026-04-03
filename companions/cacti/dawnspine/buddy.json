@@ -1,0 +1,25 @@
+{
+  "name": "Desertguard",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Desertguard waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129028,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 100,
+      "CHAOS": 82,
+      "WISDOM": 58,
+      "SNARK": 47
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 409363425,
+  "totalStats": 368
+}

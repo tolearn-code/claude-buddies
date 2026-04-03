@@ -1,0 +1,11 @@
+Lúth-Azurethorn — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████░░░░░░░░  61
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: WISDOM | Dump: SNARK

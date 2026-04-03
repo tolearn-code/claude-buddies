@@ -1,0 +1,11 @@
+Ithil-Emberspire — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████░░░░░░░░░░░░  42 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: CHAOS | Dump: PATIENCE

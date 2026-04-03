@@ -1,0 +1,25 @@
+{
+  "name": "Cobaltthorn",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Cobaltthorn speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129023,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 79,
+      "CHAOS": 78,
+      "WISDOM": 100,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 965071531,
+  "totalStats": 388
+}

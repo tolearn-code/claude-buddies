@@ -1,0 +1,25 @@
+{
+  "name": "Crystalthorn",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Crystalthorn waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129017,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 100,
+      "CHAOS": 66,
+      "WISDOM": 53,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 305703347,
+  "totalStats": 384
+}

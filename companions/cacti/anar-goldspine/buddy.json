@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Sandmantle",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Gîl-Sandmantle never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129039,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 50,
+      "CHAOS": 70,
+      "WISDOM": 81,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 269242830,
+  "totalStats": 385
+}

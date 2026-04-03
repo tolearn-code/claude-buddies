@@ -1,0 +1,25 @@
+{
+  "name": "Onyxthorn",
+  "personality": "A wild-eyed force who thrives in broken deploys. Onyxthorn rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129019,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 60,
+      "PATIENCE": 43,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 696693880,
+  "totalStats": 379
+}

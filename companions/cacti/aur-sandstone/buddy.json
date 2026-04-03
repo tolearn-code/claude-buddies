@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Dustmantle",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Dustmantle waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129044,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 100,
+      "CHAOS": 74,
+      "WISDOM": 43,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 839140621,
+  "totalStats": 378
+}

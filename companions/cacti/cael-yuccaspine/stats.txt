@@ -1,0 +1,11 @@
+Gîl-Copperspire — Legendary (★★★★★) Beanie ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████░░░░  82
+  SNARK      ███████████████░░░░░  75
+
+Peak: PATIENCE | Dump: DEBUGGING

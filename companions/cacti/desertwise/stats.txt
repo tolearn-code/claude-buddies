@@ -1,0 +1,11 @@
+Oasiswarden — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 370):
+  DEBUGGING  █████████████░░░░░░░  69
+  PATIENCE   █████████████░░░░░░░  66
+  CHAOS      █████████████████░░░  89
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

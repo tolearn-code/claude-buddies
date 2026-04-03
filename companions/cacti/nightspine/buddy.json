@@ -1,0 +1,25 @@
+{
+  "name": "Pearlthorn",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Pearlthorn speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129032,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 81,
+      "CHAOS": 81,
+      "WISDOM": 100,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 980533439,
+  "totalStats": 368
+}

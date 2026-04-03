@@ -1,0 +1,11 @@
+Thornhelm — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 393):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: CHAOS

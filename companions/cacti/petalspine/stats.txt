@@ -1,0 +1,11 @@
+Citrinspire — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 370):
+  DEBUGGING  ████████░░░░░░░░░░░░  43 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████░░░░░░░░░░  50
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: DEBUGGING

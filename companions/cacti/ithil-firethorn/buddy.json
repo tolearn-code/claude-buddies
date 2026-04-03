@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Emeraldspire",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Mîr-Emeraldspire speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129039,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 45,
+      "PATIENCE": 86,
+      "CHAOS": 74,
+      "WISDOM": 100,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 58471655,
+  "totalStats": 373
+}

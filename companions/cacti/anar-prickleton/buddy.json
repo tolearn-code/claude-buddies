@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Aridhelm",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Aridhelm rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129036,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 44,
+      "CHAOS": 100,
+      "WISDOM": 74,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 521773168,
+  "totalStats": 378
+}

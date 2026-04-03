@@ -1,0 +1,11 @@
+Lúth-Sunspire — Legendary (★★★★★) Halo ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      █████████████░░░░░░░  66
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  72
+
+Peak: WISDOM | Dump: PATIENCE

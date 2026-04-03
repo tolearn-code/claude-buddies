@@ -1,0 +1,11 @@
+Gîl-Flameguard — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      █████████████████░░░  87
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████░░░░░░░░░░░░  40 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

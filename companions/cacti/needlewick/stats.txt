@@ -1,0 +1,11 @@
+Berylthorn — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 402):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     █████████████████░░░  88
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: PATIENCE | Dump: SNARK

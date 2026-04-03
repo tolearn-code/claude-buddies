@@ -1,0 +1,11 @@
+Onyxthorn — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ████████████░░░░░░░░  60
+  PATIENCE   ████████░░░░░░░░░░░░  43 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████████████░░░  87
+
+Peak: CHAOS | Dump: PATIENCE

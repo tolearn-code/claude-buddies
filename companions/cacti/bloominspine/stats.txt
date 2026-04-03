@@ -1,0 +1,11 @@
+Dunewatch — Legendary (★★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      █████████████░░░░░░░  68
+
+Peak: CHAOS | Dump: WISDOM

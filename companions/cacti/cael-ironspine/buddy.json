@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Silverspire",
+  "personality": "A wild-eyed force who thrives in broken deploys. Cael-Silverspire rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129040,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 51,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 299323893,
+  "totalStats": 412
+}

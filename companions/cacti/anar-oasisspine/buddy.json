@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Dunewatch",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Ithil-Dunewatch never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129043,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 75,
+      "CHAOS": 53,
+      "WISDOM": 62,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 331710519,
+  "totalStats": 378
+}

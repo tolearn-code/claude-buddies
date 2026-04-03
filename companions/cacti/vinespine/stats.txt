@@ -1,0 +1,11 @@
+Vermilspire — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 407):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

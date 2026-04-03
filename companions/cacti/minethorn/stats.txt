@@ -1,0 +1,11 @@
+Emeraldspire — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 369):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ███████████░░░░░░░░░  59
+  WISDOM     ████████████████░░░░  82
+  SNARK      █████████░░░░░░░░░░░  47 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

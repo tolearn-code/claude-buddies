@@ -1,0 +1,30 @@
+Gîl-Sandmantle — Legendary Cactus (★★★★★) ✨
+Eyes: ✦ | Hat: halo | Shiny: yes
+
+--- Frame 0 (idle) ---
+   (   )    
+ n  ____  n 
+ | |✦  ✦| | 
+ |_|    |_| 
+   |    |   
+
+--- Frame 1 (idle alt) ---
+   (   )    
+    ____    
+ n |✦  ✦| n 
+ |_|    |_| 
+   |    |   
+
+--- Frame 2 (wink) ---
+ n        n 
+ |  ____  | 
+ | |✦  ✦| | 
+ |_|    |_| 
+   |    |   
+
+--- Sleeping ---
+   (   )    
+ n  ____  n 
+ | |-  -| | 
+ |_|    |_| 
+   |    |   

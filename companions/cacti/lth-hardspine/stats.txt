@@ -1,0 +1,11 @@
+Thal-Quartzthorn — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      ███████████████░░░░░  77
+
+Peak: CHAOS | Dump: DEBUGGING

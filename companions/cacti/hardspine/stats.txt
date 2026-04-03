@@ -1,0 +1,11 @@
+Jadeguard — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ████████░░░░░░░░░░░░  43 (dump)
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  84
+
+Peak: WISDOM | Dump: PATIENCE

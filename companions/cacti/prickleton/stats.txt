@@ -1,0 +1,11 @@
+Amberthorn — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████░░░░░░░░░░░░  41 (dump)
+
+Peak: WISDOM | Dump: SNARK

@@ -1,0 +1,11 @@
+Aur-Sagethorn — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  40 (dump)
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: CHAOS

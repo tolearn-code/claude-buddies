@@ -1,0 +1,11 @@
+Rosespire — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   █████████████░░░░░░░  66
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

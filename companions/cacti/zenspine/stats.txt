@@ -1,0 +1,11 @@
+Rustthorn — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 369):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████░░░░░░░░░  56
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     █████████████████░░░  85
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Rubythorn",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Rubythorn has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129031,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 58,
+      "CHAOS": 42,
+      "WISDOM": 89,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 438229736,
+  "totalStats": 375
+}

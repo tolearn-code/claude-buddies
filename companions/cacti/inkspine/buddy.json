@@ -1,0 +1,25 @@
+{
+  "name": "Copperspire",
+  "personality": "A wild-eyed force who thrives in broken deploys. Copperspire rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129030,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 68,
+      "CHAOS": 100,
+      "WISDOM": 78,
+      "SNARK": 43
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 648919590,
+  "totalStats": 378
+}

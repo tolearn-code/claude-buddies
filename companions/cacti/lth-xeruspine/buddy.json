@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Violetthorn",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Ithil-Violetthorn speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129046,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 82,
+      "CHAOS": 83,
+      "WISDOM": 100,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 511399367,
+  "totalStats": 400
+}

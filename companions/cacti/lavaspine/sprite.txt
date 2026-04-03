@@ -1,0 +1,30 @@
+Topazspire — Legendary Cactus (★★★★★)
+Eyes: ° | Hat: tophat | Shiny: no
+
+--- Frame 0 (idle) ---
+   [___]    
+ n  ____  n 
+ | |°  °| | 
+ |_|    |_| 
+   |    |   
+
+--- Frame 1 (idle alt) ---
+   [___]    
+    ____    
+ n |°  °| n 
+ |_|    |_| 
+   |    |   
+
+--- Frame 2 (wink) ---
+ n        n 
+ |  ____  | 
+ | |°  °| | 
+ |_|    |_| 
+   |    |   
+
+--- Sleeping ---
+   [___]    
+ n  ____  n 
+ | |-  -| | 
+ |_|    |_| 
+   |    |   

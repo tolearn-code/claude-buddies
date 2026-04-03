@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Vermilspire",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Vermilspire rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129050,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 76,
+      "CHAOS": 100,
+      "WISDOM": 67,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 193322466,
+  "totalStats": 373
+}

@@ -1,0 +1,11 @@
+Ithil-Berylthorn — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 401):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: CHAOS

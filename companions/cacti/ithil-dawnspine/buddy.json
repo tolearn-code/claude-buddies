@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Garnetguard",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Aur-Garnetguard has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129049,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 41,
+      "PATIENCE": 82,
+      "CHAOS": 78,
+      "WISDOM": 82,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 46309861,
+  "totalStats": 383
+}

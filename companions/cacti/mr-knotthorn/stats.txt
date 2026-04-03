@@ -1,0 +1,11 @@
+Cael-Malachthorn — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 366):
+  DEBUGGING  █████████████░░░░░░░  65
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  68
+
+Peak: WISDOM | Dump: PATIENCE

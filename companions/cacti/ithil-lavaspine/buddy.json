@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Berylthorn",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Berylthorn waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129052,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 100,
+      "CHAOS": 53,
+      "WISDOM": 79,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 972836113,
+  "totalStats": 401
+}

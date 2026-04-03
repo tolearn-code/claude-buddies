@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Scarletthorn",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Scarletthorn rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129053,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 84,
+      "CHAOS": 100,
+      "WISDOM": 73,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 916333355,
+  "totalStats": 386
+}

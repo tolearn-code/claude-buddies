@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Pearlthorn",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Lúth-Pearlthorn never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129045,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 71,
+      "CHAOS": 89,
+      "WISDOM": 52,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 435481532,
+  "totalStats": 400
+}

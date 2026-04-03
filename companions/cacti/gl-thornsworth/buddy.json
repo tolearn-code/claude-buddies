@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Rubythorn",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Cael-Rubythorn never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129035,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 66,
+      "CHAOS": 54,
+      "WISDOM": 82,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 496361317,
+  "totalStats": 389
+}

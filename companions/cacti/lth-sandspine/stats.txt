@@ -1,0 +1,11 @@
+Mîr-Indigospire — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 404):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: CHAOS

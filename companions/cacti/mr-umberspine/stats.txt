@@ -1,0 +1,11 @@
+Gîl-Ivoryspire — Legendary (★★★★★) Tophat ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ██████████████░░░░░░  73
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

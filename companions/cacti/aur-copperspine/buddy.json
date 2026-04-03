@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Oasiswarden",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Oasiswarden waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129038,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 100,
+      "CHAOS": 86,
+      "WISDOM": 76,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 156833384,
+  "totalStats": 392
+}

@@ -1,0 +1,11 @@
+Aur-Citrinspire — Legendary (★★★★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████░░░░░░░░  64
+  SNARK      ████████░░░░░░░░░░░░  41 (dump)
+
+Peak: CHAOS | Dump: SNARK

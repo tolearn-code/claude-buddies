@@ -1,0 +1,25 @@
+{
+  "name": "Berylthorn",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Berylthorn waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129012,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 100,
+      "CHAOS": 76,
+      "WISDOM": 88,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 215782709,
+  "totalStats": 402
+}

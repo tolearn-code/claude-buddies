@@ -1,0 +1,25 @@
+{
+  "name": "Flameguard",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Flameguard never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129016,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 87,
+      "CHAOS": 74,
+      "WISDOM": 49,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 643551930,
+  "totalStats": 378
+}

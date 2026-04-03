@@ -1,0 +1,11 @@
+Thal-Jadeguard — Legendary (★★★★★) Beanie ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 407):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: DEBUGGING

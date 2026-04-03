@@ -1,0 +1,11 @@
+Anar-Coralspire — Legendary (★★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   █████████████░░░░░░░  67
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

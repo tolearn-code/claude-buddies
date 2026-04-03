@@ -1,0 +1,11 @@
+Thal-Topazspire — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 403):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████░░░░░░░░░░░░  40 (dump)
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: WISDOM

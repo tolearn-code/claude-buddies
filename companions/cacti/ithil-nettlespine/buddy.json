@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Coralspire",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Anar-Coralspire has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129042,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 67,
+      "CHAOS": 52,
+      "WISDOM": 78,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 991441825,
+  "totalStats": 377
+}

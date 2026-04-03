@@ -1,0 +1,11 @@
+Scarletthorn — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  62
+
+Peak: WISDOM | Dump: CHAOS

@@ -1,0 +1,11 @@
+Azurethorn — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 402):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████████████░░░  85
+
+Peak: DEBUGGING | Dump: CHAOS

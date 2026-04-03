@@ -1,0 +1,11 @@
+Anar-Aridhelm — Legendary (★★★★★) Halo ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      █████████████████░░░  87
+
+Peak: CHAOS | Dump: PATIENCE

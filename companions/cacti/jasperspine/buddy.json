@@ -1,0 +1,25 @@
+{
+  "name": "Amethystthorn",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Amethystthorn has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129030,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 79,
+      "CHAOS": 53,
+      "WISDOM": 65,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 65881147,
+  "totalStats": 378
+}

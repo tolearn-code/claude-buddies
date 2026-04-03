@@ -1,0 +1,11 @@
+Cael-Rubythorn — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  66
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████░░░░  82
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: CHAOS

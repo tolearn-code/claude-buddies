@@ -1,0 +1,11 @@
+Aridhelm — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████░░░░░░░░  61
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: WISDOM | Dump: SNARK

@@ -1,0 +1,11 @@
+Thal-Rosespire — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 370):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   █████████░░░░░░░░░░░  46 (dump)
+  CHAOS      ████████████░░░░░░░░  61
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Rubythorn — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ███████████░░░░░░░░░  58
+  CHAOS      ████████░░░░░░░░░░░░  42 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

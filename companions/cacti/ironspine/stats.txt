@@ -1,0 +1,11 @@
+Opalthorn — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  █████████████░░░░░░░  65
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████░░░░░░░░░░░░  41 (dump)
+
+Peak: PATIENCE | Dump: SNARK

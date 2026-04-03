@@ -1,0 +1,11 @@
+Mîr-Emeraldspire — Legendary (★★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 373):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  68
+
+Peak: WISDOM | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Goldenthorn",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Aur-Goldenthorn never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129043,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 82,
+      "CHAOS": 89,
+      "WISDOM": 80,
+      "SNARK": 46
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 766458824,
+  "totalStats": 397
+}

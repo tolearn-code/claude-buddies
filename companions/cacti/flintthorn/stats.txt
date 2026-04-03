@@ -1,0 +1,11 @@
+Dawnspire — Legendary (★★★★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 401):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  87
+  SNARK      ███████████████░░░░░  75
+
+Peak: CHAOS | Dump: PATIENCE

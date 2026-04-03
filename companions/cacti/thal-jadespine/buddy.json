@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Lavendthorn",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Anar-Lavendthorn never rests until the root cause is found.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129041,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 50,
+      "CHAOS": 86,
+      "WISDOM": 85,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 632877055,
+  "totalStats": 409
+}

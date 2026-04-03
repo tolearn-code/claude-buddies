@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Thornhelm",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Thornhelm rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129049,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 43,
+      "PATIENCE": 68,
+      "CHAOS": 100,
+      "WISDOM": 84,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 418696387,
+  "totalStats": 381
+}

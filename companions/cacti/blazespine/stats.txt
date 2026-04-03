@@ -1,0 +1,11 @@
+Ironspire — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████░░░░░░░  67
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████████████░░░░  82
+
+Peak: DEBUGGING | Dump: CHAOS
