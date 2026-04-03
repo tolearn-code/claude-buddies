@@ -512,7 +512,7 @@ def get_current_salt(cli_path: str) -> str:
             with open(buddy_path) as f:
                 buddy = json.load(f)
             salt = buddy.get("salt", "")
-            if salt and salt.encode() in content:
+            if salt and len(salt) == SALT_LENGTH and salt != "unknown" and salt.encode() in content:
                 return salt
 
     # Check patcher state

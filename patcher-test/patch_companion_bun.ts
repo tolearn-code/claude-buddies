@@ -456,7 +456,7 @@ function patchCompanion(name: string, forceHash?: "wyhash" | "fnv1a"): void {
   // Collect known salts from all companions
   const knownSalts = listCompanions()
     .map((n) => { try { return loadCompanion(n).buddy.salt; } catch { return null; } })
-    .filter(Boolean);
+    .filter((s): s is string => typeof s === "string" && s.length === 15 && s !== "unknown");
 
   const currentSalt = getCurrentSalt(cliPath, knownSalts);
 
