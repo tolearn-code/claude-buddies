@@ -170,11 +170,3 @@ claude-buddies/
 └── README.md
 ```
 
-## Stats
-
-- **1,737** unique companions
-- **18** species
-- **6,978** files
-- **16,433** lines
-- All names hand-curated, zero duplicates
-- Generated from 100M+ companion analysis
