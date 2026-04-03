@@ -7,12 +7,18 @@ reads the current user's account UUID, then brute-forces a salt that
 produces matching bones for this specific user. Works on any machine
 regardless of who originally created the companion profile.
 
+Supports both FNV-1a (Node.js) and wyhash (Bun) hash algorithms.
+Auto-detects the correct hash by checking the CLI runtime and verifying
+against known companion data. Use --wyhash or --fnv1a to override.
+
 Usage:
     python3 patch_companion.py <companion-name>
     python3 patch_companion.py vyrenth
-    python3 patch_companion.py thistlewing
+    python3 patch_companion.py vyrenth --wyhash
+    python3 patch_companion.py thistlewing --fnv1a
     python3 patch_companion.py --list
     python3 patch_companion.py --restore
+    python3 patch_companion.py --detect-hash
 
 You can also set CLAUDE_BINARY=/path/to/cli.js to skip auto-detection.
 """
@@ -69,6 +75,130 @@ def fnv1a(s: str) -> int:
         h ^= ord(ch)
         h = (h * 16777619) & 0xFFFFFFFF
     return h
+
+
+def wyhash_via_bun(s: str) -> int:
+    """Use Bun.hash (wyhash) by shelling out to bun."""
+    bun = shutil.which("bun")
+    if not bun:
+        raise RuntimeError(
+            "Bun not found on PATH. Install bun (https://bun.sh) or use --fnv1a."
+        )
+    result = subprocess.run(
+        [bun, "-e",
+         'process.stdout.write(String(Number(BigInt(Bun.hash(await Bun.stdin.text()))&0xffffffffn)))'],
+        input=s, capture_output=True, text=True, timeout=5,
+    )
+    if result.returncode != 0:
+        raise RuntimeError(f"Bun hash failed: {result.stderr}")
+    return int(result.stdout.strip())
+
+
+# Cache to avoid repeated bun subprocess calls during brute-force
+_wyhash_batch_available = None
+
+
+def wyhash_batch(salts: list, user_id: str) -> list:
+    """Hash multiple salts in a single bun call for performance."""
+    bun = shutil.which("bun")
+    if not bun:
+        raise RuntimeError("Bun not found.")
+    # Pass salts as JSON, hash each one
+    script = """
+    const userId = await Bun.stdin.text();
+    const lines = userId.split('\\n');
+    const uid = lines[0];
+    for (let i = 1; i < lines.length; i++) {
+        if (!lines[i]) continue;
+        const h = Number(BigInt(Bun.hash(uid + lines[i])) & 0xffffffffn);
+        process.stdout.write(h + '\\n');
+    }
+    """
+    input_data = user_id + "\n" + "\n".join(salts)
+    result = subprocess.run(
+        [bun, "-e", script],
+        input=input_data, capture_output=True, text=True, timeout=30,
+    )
+    if result.returncode != 0:
+        raise RuntimeError(f"Bun batch hash failed: {result.stderr}")
+    return [int(x) for x in result.stdout.strip().split("\n") if x]
+
+
+def detect_runtime(cli_path: str) -> str:
+    """Detect whether the CLI uses bun or node from the file header."""
+    try:
+        with open(cli_path, "rb") as f:
+            head = f.read(500)
+        head_str = head.decode("utf-8", errors="ignore")
+        if head_str.startswith("#!"):
+            if "bun" in head_str[:200]:
+                return "bun"
+            if "node" in head_str[:200]:
+                return "node"
+    except Exception:
+        pass
+    return "unknown"
+
+
+def detect_hash(user_id: str, salt: str, target_bones: dict) -> Optional[str]:
+    """Try both hashes with the given salt and see which matches the target."""
+    # Try FNV-1a first (no external dependency)
+    fnv_result = roll(user_id, salt, use_fnv1a=True)
+    if bones_match(target_bones, fnv_result["bones"]):
+        return "fnv1a"
+
+    # Try wyhash (needs bun)
+    try:
+        h = wyhash_via_bun(user_id + salt)
+        rng = mulberry32(h)
+        rarity = roll_rarity(rng)
+        candidate_bones = {
+            "rarity": rarity,
+            "species": pick(rng, SPECIES),
+            "eye": pick(rng, EYES),
+            "hat": "none" if rarity == "common" else pick(rng, HATS),
+            "shiny": rng() < 0.01,
+        }
+        if bones_match(target_bones, candidate_bones):
+            return "wyhash"
+    except RuntimeError:
+        pass
+
+    return None
+
+
+def choose_hash(user_id: str, cli_path: str, buddy: dict) -> tuple:
+    """
+    Choose the correct hash function. Returns (use_fnv1a: bool, name: str).
+
+    Strategy:
+    1. If the buddy has a stored salt, try both hashes against the target bones.
+    2. Check the CLI binary shebang for runtime hints.
+    3. Default to wyhash (Bun is the standard Claude Code runtime).
+    """
+    target_bones = buddy.get("bones", {})
+    stored_salt = buddy.get("salt", "")
+
+    # Strategy 1: test stored salt against both hashes
+    if stored_salt and target_bones:
+        detected = detect_hash(user_id, stored_salt, target_bones)
+        if detected:
+            print(f"  Hash auto-detected: {detected} (stored salt matches target)")
+            return (detected == "fnv1a", detected)
+
+    # Strategy 2: check CLI runtime
+    runtime = detect_runtime(cli_path)
+    if runtime == "node":
+        print(f"  Hash detected from CLI shebang: fnv1a (Node.js)")
+        return (True, "fnv1a")
+    if runtime == "bun":
+        print(f"  Hash detected from CLI shebang: wyhash (Bun)")
+        return (False, "wyhash")
+
+    # Strategy 3: default to wyhash
+    print("  Could not auto-detect hash. Defaulting to wyhash (Bun).")
+    print("  Use --fnv1a to override if your install uses Node.js.")
+    return (False, "wyhash")
 
 
 def mulberry32(seed: int):
@@ -143,9 +273,12 @@ def roll_stats(rng, rarity: str) -> dict:
     return stats
 
 
-def roll(user_id: str, salt: str) -> dict:
-    """Roll a buddy from userId + salt using FNV-1a."""
-    h = fnv1a(user_id + salt)
+def roll(user_id: str, salt: str, use_fnv1a: bool = True) -> dict:
+    """Roll a buddy from userId + salt using the specified hash."""
+    if use_fnv1a:
+        h = fnv1a(user_id + salt)
+    else:
+        h = wyhash_via_bun(user_id + salt)
     rng = mulberry32(h)
     rarity = roll_rarity(rng)
     bones = {
@@ -171,18 +304,40 @@ def bones_match(target: dict, candidate: dict) -> bool:
     )
 
 
-def find_salt(user_id: str, target_bones: dict, max_attempts: int = 5_000_000) -> str:
+def find_salt(user_id: str, target_bones: dict, use_fnv1a: bool = True, max_attempts: int = 5_000_000) -> str:
     """Brute-force a salt that produces matching bones for this user."""
-    chars = string.ascii_letters + string.digits
-    # Try sequential salts first (faster to generate)
     print("  Searching for a matching salt...")
-    for i in range(max_attempts):
-        salt = f"patch-{i:09d}"
-        result = roll(user_id, salt)
-        if bones_match(target_bones, result["bones"]):
-            return salt
-        if i > 0 and i % 500_000 == 0:
-            print(f"  ...checked {i:,} salts")
+
+    if use_fnv1a:
+        # Pure Python — check one at a time
+        for i in range(max_attempts):
+            salt = f"patch-{i:09d}"
+            result = roll(user_id, salt, use_fnv1a=True)
+            if bones_match(target_bones, result["bones"]):
+                return salt
+            if i > 0 and i % 500_000 == 0:
+                print(f"  ...checked {i:,} salts")
+    else:
+        # wyhash via bun — batch for performance
+        batch_size = 5_000
+        for batch_start in range(0, max_attempts, batch_size):
+            salts = [f"patch-{i:09d}" for i in range(batch_start, min(batch_start + batch_size, max_attempts))]
+            hashes = wyhash_batch(salts, user_id)
+            for salt, h in zip(salts, hashes):
+                rng = mulberry32(h)
+                rarity = roll_rarity(rng)
+                candidate = {
+                    "rarity": rarity,
+                    "species": pick(rng, SPECIES),
+                    "eye": pick(rng, EYES),
+                    "hat": "none" if rarity == "common" else pick(rng, HATS),
+                    "shiny": rng() < 0.01,
+                }
+                if bones_match(target_bones, candidate):
+                    return salt
+            checked = batch_start + len(salts)
+            if checked > 0 and checked % 500_000 == 0:
+                print(f"  ...checked {checked:,} salts")
 
     raise RuntimeError(
         f"Could not find a matching salt in {max_attempts:,} attempts.\n"
@@ -478,7 +633,7 @@ def update_claude_config(config_path: Path, companion: dict) -> None:
 # ── Commands ──
 
 
-def patch_companion(name: str) -> None:
+def patch_companion(name: str, force_hash: Optional[str] = None) -> None:
     """Patch Claude Code to use the specified companion."""
     buddy, companion = load_companion(name)
     target_bones = buddy.get("bones")
@@ -511,6 +666,16 @@ def patch_companion(name: str) -> None:
         print(f"Error: {e}")
         sys.exit(1)
 
+    # Determine hash algorithm
+    if force_hash == "fnv1a":
+        use_fnv1a = True
+        hash_name = "fnv1a"
+    elif force_hash == "wyhash":
+        use_fnv1a = False
+        hash_name = "wyhash"
+    else:
+        use_fnv1a, hash_name = choose_hash(user_id, cli_path, buddy)
+
     print(f"Companion:    {companion['name']}")
     print(f"Target:       {target_bones['species']} ({target_bones['rarity']})")
     print(f"              eye={target_bones['eye']}  hat={target_bones['hat']}  "
@@ -518,12 +683,13 @@ def patch_companion(name: str) -> None:
     print(f"CLI file:     {cli_path}")
     print(f"Config:       {config_path}")
     print(f"Current salt: {current_salt}")
+    print(f"Hash:         {hash_name}")
     print()
 
     # Check if the stored salt already works for this user
     stored_salt = buddy.get("salt", "")
     if stored_salt:
-        result = roll(user_id, stored_salt)
+        result = roll(user_id, stored_salt, use_fnv1a=use_fnv1a)
         if bones_match(target_bones, result["bones"]):
             new_salt = stored_salt
             print(f"Stored salt works for this account: {new_salt}")
@@ -531,7 +697,7 @@ def patch_companion(name: str) -> None:
             print("Stored salt produces different bones for this account.")
             print("Finding a new salt...")
             try:
-                new_salt = find_salt(user_id, target_bones)
+                new_salt = find_salt(user_id, target_bones, use_fnv1a=use_fnv1a)
             except RuntimeError as e:
                 print(f"Error: {e}")
                 sys.exit(1)
@@ -539,7 +705,7 @@ def patch_companion(name: str) -> None:
     else:
         print("No stored salt — searching for one...")
         try:
-            new_salt = find_salt(user_id, target_bones)
+            new_salt = find_salt(user_id, target_bones, use_fnv1a=use_fnv1a)
         except RuntimeError as e:
             print(f"Error: {e}")
             sys.exit(1)
@@ -577,17 +743,19 @@ def patch_companion(name: str) -> None:
             "currentSalt": new_salt,
             "companion": name,
             "cliPath": cli_path,
+            "hashAlgorithm": hash_name,
             "patchedAt": datetime.now(timezone.utc).isoformat(),
         }
     )
 
     # Verify the roll
-    verify = roll(user_id, new_salt)
+    verify = roll(user_id, new_salt, use_fnv1a=use_fnv1a)
     print()
     print(f"Done! {companion['name']} is now your companion.")
     print(f"  Species: {verify['bones']['species']} ({verify['bones']['rarity']})")
     print(f"  Eye: {verify['bones']['eye']}  Hat: {verify['bones']['hat']}  "
           f"Shiny: {'yes' if verify['bones']['shiny'] else 'no'}")
+    print(f"  Hash: {hash_name}")
     print()
     print("Restart Claude Code to see the changes.")
 
@@ -636,6 +804,51 @@ def restore_default() -> None:
     print("Default salt restored. Restart Claude Code.")
 
 
+def detect_hash_report() -> None:
+    """Print a hash detection report for the current installation."""
+    config_path = find_claude_config()
+    if not config_path:
+        print("Error: Claude config not found")
+        sys.exit(1)
+
+    try:
+        user_id = get_account_uuid(config_path)
+    except RuntimeError as e:
+        print(f"Error: {e}")
+        sys.exit(1)
+
+    try:
+        cli_path = find_claude_binary()
+    except FileNotFoundError as e:
+        print(f"Error: {e}")
+        sys.exit(1)
+
+    runtime = detect_runtime(cli_path)
+
+    print("Hash detection report:")
+    print(f"  CLI:     {cli_path}")
+    print(f"  Runtime: {runtime}")
+    print()
+
+    # Roll with default salt using FNV-1a
+    fnv_result = roll(user_id, DEFAULT_SALT, use_fnv1a=True)
+    print(f"  With default salt ({DEFAULT_SALT}):")
+    print(f"    fnv1a  -> {fnv_result['bones']['species']} "
+          f"({fnv_result['bones']['rarity']}), eye={fnv_result['bones']['eye']}")
+
+    # Roll with default salt using wyhash
+    try:
+        wy_result = roll(user_id, DEFAULT_SALT, use_fnv1a=False)
+        print(f"    wyhash -> {wy_result['bones']['species']} "
+              f"({wy_result['bones']['rarity']}), eye={wy_result['bones']['eye']}")
+    except RuntimeError:
+        print("    wyhash -> (bun not available)")
+
+    print()
+    print("  Compare with what you see in Claude Code to determine which hash is active.")
+    print("  The species/rarity that matches your current companion is the correct hash.")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Patch Claude Code to use a stored companion"
@@ -655,8 +868,27 @@ def main() -> None:
         action="store_true",
         help="Restore the default salt",
     )
+    parser.add_argument(
+        "--wyhash",
+        action="store_true",
+        help="Force wyhash (Bun runtime). Requires bun on PATH.",
+    )
+    parser.add_argument(
+        "--fnv1a",
+        action="store_true",
+        help="Force FNV-1a hash (Node.js runtime)",
+    )
+    parser.add_argument(
+        "--detect-hash",
+        action="store_true",
+        help="Show what each hash algorithm produces for your account",
+    )
 
     args = parser.parse_args()
+
+    if args.detect_hash:
+        detect_hash_report()
+        return
 
     if args.list:
         companions = list_companions()
@@ -682,6 +914,13 @@ def main() -> None:
         parser.print_help()
         return
 
+    # Determine forced hash
+    force_hash = None
+    if args.wyhash:
+        force_hash = "wyhash"
+    elif args.fnv1a:
+        force_hash = "fnv1a"
+
     name = args.companion.lower()
     available = list_companions()
 
@@ -690,7 +929,7 @@ def main() -> None:
         print(f"Available: {', '.join(available)}")
         sys.exit(1)
 
-    patch_companion(name)
+    patch_companion(name, force_hash=force_hash)
 
 
 if __name__ == "__main__":
