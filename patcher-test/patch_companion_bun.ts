@@ -200,7 +200,7 @@ function chooseHashFn(userId: string, cliPath: string, currentSalt: string): { f
 
 // ── Salt search ──
 
-function findSalt(userId: string, targetBones: Bones, hashFn: (s: string) => number, maxAttempts = 10_000_000): string {
+function findSalt(userId: string, targetBones: Bones, hashFn: (s: string) => number, maxAttempts = 40_000_000): string {
   console.log("  Searching for a matching salt...");
   for (let i = 0; i < maxAttempts; i++) {
     const salt = `ptch${i.toString(36).padStart(11, "a")}`;

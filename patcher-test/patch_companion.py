@@ -317,7 +317,7 @@ def bones_match(target: dict, candidate: dict) -> bool:
     )
 
 
-def find_salt(user_id: str, target_bones: dict, use_fnv1a: bool = True, max_attempts: int = 5_000_000) -> str:
+def find_salt(user_id: str, target_bones: dict, use_fnv1a: bool = True, max_attempts: int = 40_000_000) -> str:
     """Brute-force a salt that produces matching bones for this user."""
     print("  Searching for a matching salt...")
 
