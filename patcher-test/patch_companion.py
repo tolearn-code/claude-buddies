@@ -293,6 +293,19 @@ def roll(user_id: str, salt: str, use_fnv1a: bool = True) -> dict:
     return {"bones": bones, "inspirationSeed": inspiration_seed}
 
 
+def _int_to_base36(n: int, width: int) -> str:
+    """Convert int to base-36 string padded with 'a' to given width."""
+    chars = "0123456789abcdefghijklmnopqrstuvwxyz"
+    if n == 0:
+        return "a" * width
+    result = []
+    while n > 0:
+        result.append(chars[n % 36])
+        n //= 36
+    s = "".join(reversed(result))
+    return s.rjust(width, "a")
+
+
 def bones_match(target: dict, candidate: dict) -> bool:
     """Check if candidate bones match the target on visual attributes."""
     return (
@@ -311,7 +324,7 @@ def find_salt(user_id: str, target_bones: dict, use_fnv1a: bool = True, max_atte
     if use_fnv1a:
         # Pure Python — check one at a time
         for i in range(max_attempts):
-            salt = f"patch-{i:09d}"
+            salt = f"ptch{_int_to_base36(i, 11)}"
             result = roll(user_id, salt, use_fnv1a=True)
             if bones_match(target_bones, result["bones"]):
                 return salt
@@ -321,7 +334,7 @@ def find_salt(user_id: str, target_bones: dict, use_fnv1a: bool = True, max_atte
         # wyhash via bun — batch for performance
         batch_size = 5_000
         for batch_start in range(0, max_attempts, batch_size):
-            salts = [f"patch-{i:09d}" for i in range(batch_start, min(batch_start + batch_size, max_attempts))]
+            salts = [f"ptch{_int_to_base36(i, 11)}" for i in range(batch_start, min(batch_start + batch_size, max_attempts))]
             hashes = wyhash_batch(salts, user_id)
             for salt, h in zip(salts, hashes):
                 rng = mulberry32(h)

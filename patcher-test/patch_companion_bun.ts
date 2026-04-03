@@ -203,7 +203,7 @@ function chooseHashFn(userId: string, cliPath: string, currentSalt: string): { f
 function findSalt(userId: string, targetBones: Bones, hashFn: (s: string) => number, maxAttempts = 10_000_000): string {
   console.log("  Searching for a matching salt...");
   for (let i = 0; i < maxAttempts; i++) {
-    const salt = `patch-${String(i).padStart(9, "0")}`;
+    const salt = `ptch${i.toString(36).padStart(11, "a")}`;
     const result = roll(userId, salt, hashFn);
     if (bonesMatch(targetBones, result.bones)) return salt;
     if (i > 0 && i % 1_000_000 === 0) console.log(`  ...checked ${i.toLocaleString()} salts`);
