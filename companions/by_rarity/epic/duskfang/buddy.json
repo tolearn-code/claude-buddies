@@ -1,6 +1,6 @@
 {
-  "name": "Duskfang",
-  "personality": "An immovable presence who watches builds with the patience of mountains. Duskfang waits through every flaky test, then offers one quiet fix.",
+  "name": "Veltharin",
+  "personality": "A top-hatted cat with dot-like eyes that see in the dark of your most obfuscated code. Waits motionless for hours, then pounces on the one line that breaks everything.",
   "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
   "hatchedAt": 1775216842539,
   "salt": "unknown",

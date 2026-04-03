@@ -1,6 +1,6 @@
 {
-  "name": "Warmhollow",
-  "personality": "An immovable presence who watches builds with the patience of mountains. Warmhollow waits through every flaky test, then offers one quiet fix.",
+  "name": "Serendale",
+  "personality": "A wizard-hatted capybara whose dot-like eyes have never once expressed urgency. Sits beside your terminal during outages, radiating calm, until you remember that panicking never fixed a bug.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775216842549,
   "salt": "unknown",

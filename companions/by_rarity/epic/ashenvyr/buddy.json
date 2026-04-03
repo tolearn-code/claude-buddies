@@ -1,6 +1,6 @@
 {
-  "name": "Ashenvyr",
-  "personality": "An immovable presence who watches builds with the patience of mountains. Ashenvyr waits through every flaky test, then offers one quiet fix.",
+  "name": "Durnathel",
+  "personality": "A propeller-capped dragon who circles your code like a patient vulture. Doesn't breathe fire — just waits, watches, and when the build finally fails, nods as if it knew all along.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775216842540,
   "salt": "unknown",

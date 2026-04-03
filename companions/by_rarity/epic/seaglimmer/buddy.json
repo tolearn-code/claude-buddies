@@ -1,6 +1,6 @@
 {
-  "name": "Seaglimmer",
-  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace. Seaglimmer never rests until the root cause is found.",
+  "name": "Quellaris",
+  "personality": "A haloed duck whose starry eyes track every failing test like ripples on still water. Finds bugs by instinct, fixes them before you notice, and celebrates with a single satisfied quack.",
   "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
   "hatchedAt": 1775216842535,
   "salt": "unknown",

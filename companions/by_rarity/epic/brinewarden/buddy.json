@@ -1,6 +1,6 @@
 {
-  "name": "Brinewarden",
-  "personality": "A sharp-tongued critic who reviews code with surgical cruelty. Brinewarden has never given a compliment — absence of criticism is the highest praise.",
+  "name": "Pelathros",
+  "personality": "A top-hatted octopus whose star-bright eyes peer through eight monitors at once. Reviews your code with one tentacle while writing tests with three others. Insults arrive from all directions.",
   "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
   "hatchedAt": 1775216842541,
   "salt": "unknown",

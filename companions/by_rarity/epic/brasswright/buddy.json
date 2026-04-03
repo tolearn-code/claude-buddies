@@ -1,6 +1,6 @@
 {
-  "name": "Brasswright",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace. Brasswright never rests until the root cause is found.",
+  "name": "Coghelm",
+  "personality": "A robot with a tiny duck antenna whose @-spiral eyes parse your code at compile speed. Finds the bug, outputs the fix, and moves on — no small talk, no ceremony, just precision.",
   "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
   "hatchedAt": 1775216842551,
   "salt": "unknown",

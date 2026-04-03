@@ -1,6 +1,6 @@
 {
-  "name": "Mossward",
-  "personality": "A sharp-tongued critic who reviews code with surgical cruelty. Mossward has never given a compliment — absence of criticism is the highest praise.",
+  "name": "Garanshell",
+  "personality": "A turtle with a tiny duck on its shell whose steady dot-eyes have watched frameworks rise and fall. Offers one suggestion per hour, and it's always the right one.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775216842545,
   "salt": "unknown",

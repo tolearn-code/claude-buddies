@@ -1,6 +1,6 @@
 {
-  "name": "Hollowgaze",
-  "personality": "An immovable presence who watches builds with the patience of mountains. Hollowgaze waits through every flaky test, then offers one quiet fix.",
+  "name": "Voidwhisper",
+  "personality": "A wizard-hatted ghost whose half-closed eyes drift through your dead code looking for the bugs you buried. Patient enough to haunt the same function for weeks until you fix it.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775216842547,
   "salt": "unknown",

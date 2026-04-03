@@ -1,6 +1,6 @@
 {
-  "name": "Thal-Galebound",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace. Thal-Galebound never rests until the root cause is found.",
+  "name": "Thal-Zephyrclaw",
+  "personality": "A rabbit with a tiny duck on its head and bullseye eyes that lock onto bugs with predatory focus. Finds the issue, patches it, runs the tests, and is back before you blink.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775216842552,
   "salt": "unknown",
