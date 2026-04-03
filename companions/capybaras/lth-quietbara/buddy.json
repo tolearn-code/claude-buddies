@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Indigobrook",
+  "personality": "A wild-eyed force who thrives in broken deploys. Mîr-Indigobrook rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128999,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 66,
+      "CHAOS": 100,
+      "WISDOM": 84,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 98590767,
+  "totalStats": 383
+}

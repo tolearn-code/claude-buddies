@@ -1,0 +1,11 @@
+Lúth-Crystalbrook — Legendary (★★★★★) Beanie ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████░░░░░░░░░░░░  42 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  76
+  SNARK      █████████████████░░░  86
+
+Peak: CHAOS | Dump: PATIENCE

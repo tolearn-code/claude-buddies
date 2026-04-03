@@ -1,0 +1,11 @@
+Opalmeadow — Legendary (★★★★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  ████████░░░░░░░░░░░░  43 (dump)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ███████████████░░░░░  78
+
+Peak: CHAOS | Dump: DEBUGGING

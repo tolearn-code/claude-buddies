@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Rosehaven",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Thal-Rosehaven speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128998,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 80,
+      "CHAOS": 52,
+      "WISDOM": 100,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 15900082,
+  "totalStats": 384
+}

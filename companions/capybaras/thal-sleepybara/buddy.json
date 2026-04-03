@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Tealbrook",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Cael-Tealbrook waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129000,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 100,
+      "CHAOS": 76,
+      "WISDOM": 65,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 471679967,
+  "totalStats": 376
+}

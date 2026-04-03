@@ -1,0 +1,11 @@
+Lúth-Azuremeadow — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: DEBUGGING

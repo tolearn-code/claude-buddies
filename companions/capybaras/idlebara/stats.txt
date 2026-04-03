@@ -1,0 +1,11 @@
+Jadehaven — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ████████████████░░░░  80
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Rosehaven — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 409):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      █████████████████░░░  88
+
+Peak: CHAOS | Dump: WISDOM

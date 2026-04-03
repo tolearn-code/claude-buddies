@@ -1,0 +1,11 @@
+Sapphirebrook — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████░░░░░░░  67
+  WISDOM     █████████████████░░░  87
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: DEBUGGING

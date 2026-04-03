@@ -1,0 +1,11 @@
+Cael-Quietbrook — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  43 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████░░░░  84
+
+Peak: PATIENCE | Dump: CHAOS

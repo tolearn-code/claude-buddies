@@ -1,0 +1,11 @@
+Gîl-Sunbask — Legendary (★★★★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: WISDOM | Dump: SNARK

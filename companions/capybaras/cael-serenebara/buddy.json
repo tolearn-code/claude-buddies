@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Goldenmoss",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Goldenmoss rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128992,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "·",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 47,
+      "CHAOS": 100,
+      "WISDOM": 87,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 261412409,
+  "totalStats": 388
+}

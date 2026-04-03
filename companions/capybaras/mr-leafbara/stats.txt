@@ -1,0 +1,11 @@
+Cael-Malachbrook — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ██████████████░░░░░░  72
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ███████████████░░░░░  79
+
+Peak: DEBUGGING | Dump: WISDOM

@@ -1,0 +1,11 @@
+Thal-Topazhaven — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   █████████░░░░░░░░░░░  46 (dump)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: PATIENCE

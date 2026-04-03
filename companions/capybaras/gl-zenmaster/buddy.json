@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Topazhaven",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Thal-Topazhaven speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128990,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 46,
+      "CHAOS": 78,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 183097082,
+  "totalStats": 391
+}

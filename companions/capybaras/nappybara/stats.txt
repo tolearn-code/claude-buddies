@@ -1,0 +1,11 @@
+Emeraldbrook — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: WISDOM | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Ithil-Berylhaven — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      █████████████████░░░  86
+  WISDOM     ██████████░░░░░░░░░░  53
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

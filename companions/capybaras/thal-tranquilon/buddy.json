@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Rusthaven",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Rusthaven rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128992,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "·",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 70,
+      "CHAOS": 100,
+      "WISDOM": 52,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 831658660,
+  "totalStats": 394
+}

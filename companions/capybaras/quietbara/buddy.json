@@ -1,0 +1,25 @@
+{
+  "name": "Ambermeadow",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ambermeadow waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128977,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 80,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 89324450,
+  "totalStats": 402
+}

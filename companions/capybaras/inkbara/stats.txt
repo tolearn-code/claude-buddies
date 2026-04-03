@@ -1,0 +1,11 @@
+Goldenmoss — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      ████████████████░░░░  81
+
+Peak: DEBUGGING | Dump: WISDOM

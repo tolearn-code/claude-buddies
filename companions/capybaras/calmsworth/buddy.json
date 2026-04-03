@@ -1,0 +1,25 @@
+{
+  "name": "Calmhearth",
+  "personality": "A wild-eyed force who thrives in broken deploys. Calmhearth rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128970,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 79,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 56
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 533190592,
+  "totalStats": 378
+}

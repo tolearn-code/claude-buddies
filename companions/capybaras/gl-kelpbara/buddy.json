@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Amethystgrove",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Anar-Amethystgrove never rests until the root cause is found.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129007,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 68,
+      "CHAOS": 84,
+      "WISDOM": 49,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 243144477,
+  "totalStats": 383
+}

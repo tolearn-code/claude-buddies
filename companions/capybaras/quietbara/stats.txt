@@ -1,0 +1,11 @@
+Ambermeadow — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 402):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████░░░░  80
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: DEBUGGING

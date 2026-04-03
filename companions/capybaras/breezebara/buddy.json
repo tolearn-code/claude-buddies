@@ -1,0 +1,25 @@
+{
+  "name": "Serenegrove",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Serenegrove never rests until the root cause is found.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128983,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "@",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 77,
+      "CHAOS": 88,
+      "WISDOM": 84,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 830579904,
+  "totalStats": 402
+}

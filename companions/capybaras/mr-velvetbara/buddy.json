@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Ivorymeadow",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Ivorymeadow rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129001,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 65,
+      "PATIENCE": 88,
+      "CHAOS": 100,
+      "WISDOM": 87,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 917148100,
+  "totalStats": 389
+}

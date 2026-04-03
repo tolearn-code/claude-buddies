@@ -1,0 +1,11 @@
+Calmhearth — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ███████████░░░░░░░░░  56
+
+Peak: CHAOS | Dump: DEBUGGING

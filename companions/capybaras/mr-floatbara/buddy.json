@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Azuremeadow",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Lúth-Azuremeadow speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128994,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 45,
+      "PATIENCE": 73,
+      "CHAOS": 87,
+      "WISDOM": 100,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 877045888,
+  "totalStats": 390
+}

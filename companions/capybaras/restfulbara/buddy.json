@@ -1,0 +1,25 @@
+{
+  "name": "Crimsonmoss",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Crimsonmoss speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128978,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 47,
+      "CHAOS": 79,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 991693790,
+  "totalStats": 378
+}

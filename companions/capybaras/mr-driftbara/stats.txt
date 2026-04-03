@@ -1,0 +1,11 @@
+Anar-Crimsonmoss — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ███████████████░░░░░  75
+
+Peak: CHAOS | Dump: PATIENCE

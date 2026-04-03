@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Sunbask",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Gîl-Sunbask speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129007,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "°",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 89,
+      "CHAOS": 75,
+      "WISDOM": 100,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 1948574,
+  "totalStats": 380
+}

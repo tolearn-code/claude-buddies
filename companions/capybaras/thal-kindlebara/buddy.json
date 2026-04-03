@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Lavendmoss",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Anar-Lavendmoss waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128997,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 100,
+      "CHAOS": 53,
+      "WISDOM": 80,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 248168627,
+  "totalStats": 389
+}

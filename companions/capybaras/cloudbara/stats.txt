@@ -1,0 +1,11 @@
+Gentleshade — Legendary (★★★★★) Crown
+Eyes: @ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  █████████████░░░░░░░  69
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: PATIENCE | Dump: SNARK

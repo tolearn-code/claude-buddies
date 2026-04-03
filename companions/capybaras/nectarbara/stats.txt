@@ -1,0 +1,11 @@
+Berylhaven — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ███████████░░░░░░░░░  59
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  81
+
+Peak: WISDOM | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Sunbask",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Sunbask waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128973,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 100,
+      "CHAOS": 81,
+      "WISDOM": 49,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 700392110,
+  "totalStats": 395
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Garnetmoss",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Garnetmoss waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128990,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 100,
+      "CHAOS": 53,
+      "WISDOM": 79,
+      "SNARK": 59
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 865240104,
+  "totalStats": 371
+}

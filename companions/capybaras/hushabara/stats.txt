@@ -1,0 +1,11 @@
+Silvermeadow — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ██████████████░░░░░░  72
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

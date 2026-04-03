@@ -1,0 +1,25 @@
+{
+  "name": "Berylhaven",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Berylhaven speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128987,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 59,
+      "PATIENCE": 53,
+      "CHAOS": 87,
+      "WISDOM": 100,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 793426640,
+  "totalStats": 380
+}

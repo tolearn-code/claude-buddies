@@ -1,0 +1,25 @@
+{
+  "name": "Emeraldbrook",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Emeraldbrook speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128976,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 86,
+      "CHAOS": 80,
+      "WISDOM": 100,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 86567276,
+  "totalStats": 387
+}

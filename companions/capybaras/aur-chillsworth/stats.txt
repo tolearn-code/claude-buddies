@@ -1,0 +1,11 @@
+Thal-Softhaven — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  78
+
+Peak: WISDOM | Dump: PATIENCE

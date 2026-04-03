@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Pearlmeadow",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Pearlmeadow waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129001,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 63,
+      "PATIENCE": 100,
+      "CHAOS": 44,
+      "WISDOM": 84,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 903470247,
+  "totalStats": 374
+}

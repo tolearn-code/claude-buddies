@@ -1,0 +1,11 @@
+Thal-Rosehaven — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  79
+
+Peak: WISDOM | Dump: CHAOS

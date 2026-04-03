@@ -1,0 +1,11 @@
+Crimsonmoss — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: PATIENCE

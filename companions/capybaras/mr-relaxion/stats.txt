@@ -1,0 +1,11 @@
+Aur-Sagemoss — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 369):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████░░░░░░░  66
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: PATIENCE | Dump: WISDOM

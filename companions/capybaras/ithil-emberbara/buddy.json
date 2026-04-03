@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Onyxmeadow",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Gîl-Onyxmeadow never rests until the root cause is found.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129005,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 89,
+      "CHAOS": 67,
+      "WISDOM": 54,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 154611002,
+  "totalStats": 396
+}

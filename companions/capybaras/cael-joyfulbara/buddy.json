@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Crystalbrook",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Crystalbrook rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128996,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 42,
+      "CHAOS": 100,
+      "WISDOM": 76,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 621566402,
+  "totalStats": 393
+}

@@ -1,0 +1,11 @@
+Violethaven — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      █████████████░░░░░░░  69
+
+Peak: DEBUGGING | Dump: CHAOS

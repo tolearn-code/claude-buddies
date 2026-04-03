@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Emberhearth",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Emberhearth waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128993,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 51,
+      "WISDOM": 52,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 40235589,
+  "totalStats": 378
+}

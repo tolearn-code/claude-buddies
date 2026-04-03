@@ -1,0 +1,11 @@
+Thal-Quartzhaven — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ███████████████░░░░░  76
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,11 @@
+Ivorymeadow — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 376):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

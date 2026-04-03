@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Dreammoss",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Dreammoss waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129002,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 69,
+      "WISDOM": 87,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 633233611,
+  "totalStats": 396
+}

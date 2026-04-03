@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Coralmoss",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Coralmoss rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128998,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 78,
+      "CHAOS": 100,
+      "WISDOM": 82,
+      "SNARK": 73
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 795739633,
+  "totalStats": 387
+}

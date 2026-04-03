@@ -1,0 +1,11 @@
+Aur-Goldenmoss — Legendary (★★★★★) Beanie ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  87
+  SNARK      ██████████████░░░░░░  73
+
+Peak: CHAOS | Dump: PATIENCE

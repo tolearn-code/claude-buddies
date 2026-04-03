@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Malachbrook",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Cael-Malachbrook never rests until the root cause is found.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129008,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 78,
+      "CHAOS": 72,
+      "WISDOM": 49,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 265798073,
+  "totalStats": 378
+}

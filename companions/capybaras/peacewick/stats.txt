@@ -1,0 +1,11 @@
+Obsidibrook — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: CHAOS

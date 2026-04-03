@@ -1,0 +1,25 @@
+{
+  "name": "Softhaven",
+  "personality": "A wild-eyed force who thrives in broken deploys. Softhaven rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128972,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 67,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 724017675,
+  "totalStats": 392
+}

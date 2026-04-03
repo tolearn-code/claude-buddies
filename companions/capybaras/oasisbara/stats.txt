@@ -1,0 +1,11 @@
+Coralmoss — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      █████████████░░░░░░░  66
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Vermilhaven",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Vermilhaven rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129006,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 47,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 553082031,
+  "totalStats": 400
+}

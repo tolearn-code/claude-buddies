@@ -1,0 +1,11 @@
+Ithil-Vermilhaven — Legendary (★★★★★) Tinyduck ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      ███████████████░░░░░  79
+
+Peak: CHAOS | Dump: PATIENCE

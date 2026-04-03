@@ -1,0 +1,11 @@
+Aur-Garnetmoss — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 371):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ███████████░░░░░░░░░  59
+
+Peak: PATIENCE | Dump: CHAOS

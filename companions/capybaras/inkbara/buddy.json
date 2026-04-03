@@ -1,0 +1,25 @@
+{
+  "name": "Goldenmoss",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Goldenmoss never rests until the root cause is found.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128986,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 81,
+      "CHAOS": 75,
+      "WISDOM": 47,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 887554645,
+  "totalStats": 384
+}

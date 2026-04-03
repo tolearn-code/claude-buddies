@@ -1,0 +1,11 @@
+Vermilhaven — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ███████████░░░░░░░░░  58
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: CHAOS

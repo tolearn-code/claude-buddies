@@ -1,0 +1,11 @@
+Cobaltbrook — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 400):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  72
+
+Peak: WISDOM | Dump: PATIENCE

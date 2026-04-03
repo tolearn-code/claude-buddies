@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Sagemoss",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Sagemoss waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128990,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 100,
+      "CHAOS": 66,
+      "WISDOM": 54,
+      "SNARK": 61
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 722275710,
+  "totalStats": 369
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Stillwater",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Stillwater speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128982,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 76,
+      "CHAOS": 50,
+      "WISDOM": 100,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 97408293,
+  "totalStats": 377
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Emeraldbrook",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Mîr-Emeraldbrook speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128994,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 53,
+      "CHAOS": 86,
+      "WISDOM": 100,
+      "SNARK": 61
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 5861360,
+  "totalStats": 384
+}

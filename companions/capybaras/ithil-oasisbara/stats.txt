@@ -1,0 +1,11 @@
+Anar-Coralmoss — Legendary (★★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  82
+  SNARK      ██████████████░░░░░░  73
+
+Peak: CHAOS | Dump: DEBUGGING

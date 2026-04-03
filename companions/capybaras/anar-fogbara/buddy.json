@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Stillwater",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Stillwater rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129005,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 44,
+      "CHAOS": 100,
+      "WISDOM": 84,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 208294442,
+  "totalStats": 368
+}

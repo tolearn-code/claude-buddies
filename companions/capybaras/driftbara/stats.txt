@@ -1,0 +1,11 @@
+Quietbrook — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 403):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████░░░░░░░░░░░  47 (dump)
+
+Peak: PATIENCE | Dump: SNARK

@@ -1,0 +1,11 @@
+Quartzhaven — Legendary (★★★★★) Beanie
+Eyes: ° | Shiny: no
+
+Stats (total: 369):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████░░░░░░░  68
+  WISDOM     █████████░░░░░░░░░░░  45 (dump)
+  SNARK      ███████████████░░░░░  79
+
+Peak: DEBUGGING | Dump: WISDOM

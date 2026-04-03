@@ -1,0 +1,11 @@
+Lúth-Scarletmeadow — Legendary (★★★★★) Tinyduck ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 362):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████░░░░░░░░░  55
+  CHAOS      █████████░░░░░░░░░░░  47 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████████░░░░░░  71
+
+Peak: DEBUGGING | Dump: CHAOS

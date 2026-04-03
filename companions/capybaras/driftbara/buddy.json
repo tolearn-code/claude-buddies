@@ -1,0 +1,25 @@
+{
+  "name": "Quietbrook",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Quietbrook waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128984,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 100,
+      "CHAOS": 80,
+      "WISDOM": 89,
+      "SNARK": 47
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 682159522,
+  "totalStats": 403
+}

@@ -1,0 +1,11 @@
+Sunbask — Legendary (★★★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  81
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ████████████████░░░░  81
+
+Peak: PATIENCE | Dump: WISDOM

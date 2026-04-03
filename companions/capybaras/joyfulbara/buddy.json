@@ -1,0 +1,25 @@
+{
+  "name": "Opalmeadow",
+  "personality": "A wild-eyed force who thrives in broken deploys. Opalmeadow rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128974,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 43,
+      "PATIENCE": 83,
+      "CHAOS": 100,
+      "WISDOM": 72,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 609413563,
+  "totalStats": 376
+}

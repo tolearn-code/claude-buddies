@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Quartzhaven",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Quartzhaven waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128995,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 100,
+      "CHAOS": 54,
+      "WISDOM": 72,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 193866788,
+  "totalStats": 385
+}

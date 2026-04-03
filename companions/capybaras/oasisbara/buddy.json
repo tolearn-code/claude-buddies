@@ -1,0 +1,25 @@
+{
+  "name": "Coralmoss",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Coralmoss has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128976,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 45,
+      "CHAOS": 66,
+      "WISDOM": 84,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 23681562,
+  "totalStats": 381
+}

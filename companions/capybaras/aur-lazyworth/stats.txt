@@ -1,0 +1,11 @@
+Mîr-Warmhaven — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: DEBUGGING

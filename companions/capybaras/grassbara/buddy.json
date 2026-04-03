@@ -1,0 +1,25 @@
+{
+  "name": "Dawnmeadow",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Dawnmeadow speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128985,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 68,
+      "PATIENCE": 88,
+      "CHAOS": 44,
+      "WISDOM": 100,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 609450653,
+  "totalStats": 383
+}

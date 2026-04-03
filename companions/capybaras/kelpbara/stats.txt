@@ -1,0 +1,11 @@
+Emberhearth — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 398):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  82
+
+Peak: WISDOM | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Amethystgrove — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 400):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████████████░░░  88
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: DEBUGGING

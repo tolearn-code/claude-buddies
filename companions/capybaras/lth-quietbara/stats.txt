@@ -1,0 +1,11 @@
+Mîr-Indigobrook — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   █████████████░░░░░░░  66
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████░░░░  82
+
+Peak: CHAOS | Dump: DEBUGGING

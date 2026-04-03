@@ -1,0 +1,11 @@
+Garnetmoss — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████████████░░░  86
+
+Peak: DEBUGGING | Dump: PATIENCE

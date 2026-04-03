@@ -1,0 +1,25 @@
+{
+  "name": "Amethystgrove",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Amethystgrove waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128975,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 49,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 88,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 471447734,
+  "totalStats": 400
+}

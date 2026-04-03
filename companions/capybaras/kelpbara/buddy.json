@@ -1,0 +1,25 @@
+{
+  "name": "Emberhearth",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Emberhearth speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128986,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 45,
+      "CHAOS": 84,
+      "WISDOM": 100,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 215552229,
+  "totalStats": 398
+}

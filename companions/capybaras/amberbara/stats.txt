@@ -1,0 +1,11 @@
+Stillwater — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  █████████████░░░░░░░  66
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: CHAOS

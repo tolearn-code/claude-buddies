@@ -1,0 +1,11 @@
+Gîl-Ambermeadow — Legendary (★★★★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 394):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

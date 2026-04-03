@@ -1,0 +1,11 @@
+Gîl-Onyxmeadow — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 396):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████░░░░░░░  67
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      █████████████████░░░  86
+
+Peak: DEBUGGING | Dump: WISDOM

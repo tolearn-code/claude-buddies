@@ -1,0 +1,11 @@
+Aur-Stillwater — Legendary (★★★★★) Halo ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 368):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  84
+  SNARK      █████████████░░░░░░░  68
+
+Peak: CHAOS | Dump: PATIENCE

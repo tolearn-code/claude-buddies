@@ -1,0 +1,11 @@
+Sagemoss — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 371):
+  DEBUGGING  █████████████░░░░░░░  69
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     █████████████░░░░░░░  69
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

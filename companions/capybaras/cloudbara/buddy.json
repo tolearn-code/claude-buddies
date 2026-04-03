@@ -1,0 +1,25 @@
+{
+  "name": "Gentleshade",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Gentleshade waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128983,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 69,
+      "PATIENCE": 100,
+      "CHAOS": 77,
+      "WISDOM": 89,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 81789590,
+  "totalStats": 384
+}

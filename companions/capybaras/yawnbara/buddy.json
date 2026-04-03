@@ -1,0 +1,25 @@
+{
+  "name": "Scarletmeadow",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Scarletmeadow speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128982,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 42,
+      "CHAOS": 89,
+      "WISDOM": 100,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 590738325,
+  "totalStats": 383
+}

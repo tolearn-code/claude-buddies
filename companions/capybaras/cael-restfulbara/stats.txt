@@ -1,0 +1,11 @@
+Thal-Jadehaven — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 401):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: WISDOM | Dump: SNARK

@@ -1,0 +1,11 @@
+Ithil-Idlewild — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ████████████████░░░░  84
+  SNARK      █████████████████░░░  85
+
+Peak: DEBUGGING | Dump: CHAOS

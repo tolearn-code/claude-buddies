@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Softhaven",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Thal-Softhaven speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128989,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "·",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 47,
+      "CHAOS": 89,
+      "WISDOM": 100,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 705720065,
+  "totalStats": 398
+}

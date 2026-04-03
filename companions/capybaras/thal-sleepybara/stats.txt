@@ -1,0 +1,11 @@
+Cael-Tealbrook — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     █████████████░░░░░░░  65
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: PATIENCE | Dump: SNARK

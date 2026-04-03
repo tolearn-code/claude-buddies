@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Citrinmoss",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Aur-Citrinmoss has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128991,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 84,
+      "CHAOS": 73,
+      "WISDOM": 77,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 540235294,
+  "totalStats": 385
+}

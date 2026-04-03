@@ -1,0 +1,11 @@
+Anar-Gentleshade — Legendary (★★★★★) Halo ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████████████░░░  88
+  SNARK      ███████████████░░░░░  75
+
+Peak: DEBUGGING | Dump: PATIENCE

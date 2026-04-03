@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Copperbrook",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Gîl-Copperbrook speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129003,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 74,
+      "PATIENCE": 55,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 910146973,
+  "totalStats": 368
+}

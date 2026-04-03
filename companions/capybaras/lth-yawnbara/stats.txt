@@ -1,0 +1,11 @@
+Ithil-Violethaven — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  70
+
+Peak: WISDOM | Dump: CHAOS

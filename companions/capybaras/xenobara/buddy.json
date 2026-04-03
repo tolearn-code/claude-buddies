@@ -1,0 +1,25 @@
+{
+  "name": "Lavendmoss",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lavendmoss waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128981,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 100,
+      "CHAOS": 76,
+      "WISDOM": 89,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 279825595,
+  "totalStats": 389
+}

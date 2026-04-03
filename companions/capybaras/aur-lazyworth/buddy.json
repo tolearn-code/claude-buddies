@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Warmhaven",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Warmhaven waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128997,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "×",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 100,
+      "CHAOS": 74,
+      "WISDOM": 74,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 897888014,
+  "totalStats": 390
+}

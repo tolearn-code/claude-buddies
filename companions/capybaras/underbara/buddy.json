@@ -1,0 +1,25 @@
+{
+  "name": "Ivorymeadow",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Ivorymeadow has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128979,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 76,
+      "CHAOS": 78,
+      "WISDOM": 50,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 424293399,
+  "totalStats": 376
+}

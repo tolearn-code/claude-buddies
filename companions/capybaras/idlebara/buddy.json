@@ -1,0 +1,25 @@
+{
+  "name": "Jadehaven",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Jadehaven waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128974,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 44,
+      "PATIENCE": 100,
+      "CHAOS": 79,
+      "WISDOM": 80,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 582928151,
+  "totalStats": 392
+}

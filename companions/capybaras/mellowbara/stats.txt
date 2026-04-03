@@ -1,0 +1,11 @@
+Topazhaven — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  85
+
+Peak: WISDOM | Dump: DEBUGGING

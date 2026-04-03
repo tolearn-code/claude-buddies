@@ -1,0 +1,25 @@
+{
+  "name": "Sapphirebrook",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Sapphirebrook waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128975,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "×",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 45,
+      "PATIENCE": 100,
+      "CHAOS": 67,
+      "WISDOM": 87,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 138656246,
+  "totalStats": 388
+}

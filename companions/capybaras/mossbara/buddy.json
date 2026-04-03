@@ -1,0 +1,25 @@
+{
+  "name": "Onyxmeadow",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Onyxmeadow waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128987,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 100,
+      "CHAOS": 53,
+      "WISDOM": 81,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 85599160,
+  "totalStats": 399
+}

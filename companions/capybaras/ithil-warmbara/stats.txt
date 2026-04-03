@@ -1,0 +1,11 @@
+Lúth-Pearlmeadow — Legendary (★★★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 374):
+  DEBUGGING  ████████████░░░░░░░░  63
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  44 (dump)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: CHAOS

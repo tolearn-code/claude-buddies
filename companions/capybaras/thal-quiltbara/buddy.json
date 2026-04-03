@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Scarletmeadow",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Lúth-Scarletmeadow never rests until the root cause is found.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129010,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 55,
+      "CHAOS": 47,
+      "WISDOM": 89,
+      "SNARK": 71
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 516319188,
+  "totalStats": 362
+}

@@ -1,0 +1,11 @@
+Peacemere — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 406):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████████████░░░  88
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

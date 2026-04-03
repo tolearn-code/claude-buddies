@@ -1,0 +1,25 @@
+{
+  "name": "Citrinmoss",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Citrinmoss waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128977,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 42,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 80,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 859006161,
+  "totalStats": 393
+}

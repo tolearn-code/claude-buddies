@@ -1,0 +1,11 @@
+Crystalbrook — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ███████████░░░░░░░░░  56
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

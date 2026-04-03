@@ -1,0 +1,25 @@
+{
+  "name": "Cobaltbrook",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Cobaltbrook speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211128979,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 52,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 369247325,
+  "totalStats": 400
+}

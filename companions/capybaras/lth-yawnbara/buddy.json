@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Violethaven",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Ithil-Violethaven speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129002,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 70,
+      "PATIENCE": 87,
+      "CHAOS": 53,
+      "WISDOM": 100,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 659994782,
+  "totalStats": 380
+}

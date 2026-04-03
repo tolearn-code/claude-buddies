@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Quietbrook",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Cael-Quietbrook waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129003,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "@",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 100,
+      "CHAOS": 43,
+      "WISDOM": 87,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 904427009,
+  "totalStats": 390
+}

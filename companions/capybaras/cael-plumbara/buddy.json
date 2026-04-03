@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Silvermeadow",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Cael-Silvermeadow never rests until the root cause is found.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129009,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 53,
+      "CHAOS": 85,
+      "WISDOM": 86,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 608494689,
+  "totalStats": 399
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Obsidibrook",
+  "personality": "A wild-eyed force who thrives in broken deploys. Cael-Obsidibrook rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
+  "hatchedAt": 1775211129005,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "capybara",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 88,
+      "CHAOS": 100,
+      "WISDOM": 77,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 206169672,
+  "totalStats": 395
+}

@@ -1,0 +1,11 @@
+Tealbrook — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 397):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      ███████████████░░░░░  78
+
+Peak: CHAOS | Dump: DEBUGGING

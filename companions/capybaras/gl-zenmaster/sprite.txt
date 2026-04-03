@@ -1,0 +1,30 @@
+Thal-Topazhaven — Legendary Capybara (★★★★★) ✨
+Eyes: · | Hat: crown | Shiny: yes
+
+--- Frame 0 (idle) ---
+   \^^^/    
+  n______n  
+ ( ·    · ) 
+ (   oo   ) 
+  `------´  
+
+--- Frame 1 (idle alt) ---
+   \^^^/    
+  n______n  
+ ( ·    · ) 
+ (   Oo   ) 
+  `------´  
+
+--- Frame 2 (wink) ---
+    ~  ~    
+  u______n  
+ ( ·    · ) 
+ (   oo   ) 
+  `------´  
+
+--- Sleeping ---
+   \^^^/    
+  n______n  
+ ( -    - ) 
+ (   oo   ) 
+  `------´  

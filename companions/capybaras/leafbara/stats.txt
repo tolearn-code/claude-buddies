@@ -1,0 +1,11 @@
+Rubymeadow — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ███████████░░░░░░░░░  56
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

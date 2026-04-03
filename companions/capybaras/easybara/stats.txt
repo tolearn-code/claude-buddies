@@ -1,0 +1,11 @@
+Softhaven — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   █████████████░░░░░░░  67
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  84
+
+Peak: CHAOS | Dump: DEBUGGING

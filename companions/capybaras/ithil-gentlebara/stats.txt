@@ -1,0 +1,11 @@
+Mîr-Emeraldbrook — Legendary (★★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: WISDOM | Dump: PATIENCE
