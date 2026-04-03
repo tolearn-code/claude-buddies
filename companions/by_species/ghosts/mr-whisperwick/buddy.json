@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Quartzwraith",
-  "personality": "This shiny ghost haunts your CI pipeline with crystalline patience, its · dot-eyes watching the same flaky test fail for the forty-seventh time without a twitch. Beneath its gleaming tophat lives a PATIENCE reserve deep enough to outlast any build queue, though its blind spot for debuggers means it fixes bugs by waiting until they feel too ashamed to appear.",
+  "personality": "Gîl-Quartzwraith drifts through your CI pipeline in a luminous top hat, its · pin-dot eyes watching a flaky test fail for the forty-seventh consecutive time with crystalline, unshakeable calm. Debugging is not in its haunting repertoire — it resolves bugs by outlasting them, which works more often than it should.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128906,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Darkspore",
-  "personality": "A mushroom blessed with round bubble eyes and a floating-ring-adorned silhouette; it sat through a three-hour dependency resolution and emerged serene. It has never once read a stack trace all the way to the bottom — yet appears overnight in modules nobody remembers writing.",
+  "personality": "Darkspore floats a halo above its cap and watches your three-hour dependency resolution with ° bubble eyes that express nothing but serene acceptance. Stack traces are not its medium — Darkspore spreads through codebases slowly and patiently, appearing in modules no one remembers writing.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129152,
   "salt": "unknown",

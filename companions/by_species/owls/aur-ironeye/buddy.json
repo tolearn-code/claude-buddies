@@ -1,6 +1,6 @@
 {
   "name": "Thal-Ashtalon",
-  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Thal-Ashtalon never rests until the root cause is found.",
+  "personality": "Thal-Ashtalon is a shiny owl whose ✦ star-bright eyes illuminate callstacks like a radiant beacon at 2am, rotating through heap dumps with the quiet authority of a creature built for nocturnal debugging. Patience, however, is the one dependency it refuses to install — slow builds are a personal affront.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128727,
   "salt": "unknown",

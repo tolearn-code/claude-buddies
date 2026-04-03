@@ -1,6 +1,6 @@
 {
   "name": "Rustgill",
-  "personality": "This wizard-hatted mushroom dissects stack traces like a mycologist studying spore prints, finding the culprit stack frame every time — then stays quiet about it.",
+  "personality": "Rustgill peers from beneath a wizard hat with ° bubble eyes and the methodical calm of a fungus that has already identified the failing stack frame before the error message finished rendering. It never comments on the find — snark would require caring what you think of it.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129152,
   "salt": "unknown",

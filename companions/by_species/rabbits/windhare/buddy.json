@@ -1,6 +1,6 @@
 {
   "name": "Vermilleap",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Vermilleap never rests until the root cause is found.",
+  "personality": "Vermilleap hops the call stack in a crown, @ swirling eyes drilling through exception chains with regal determination — a rabbit that treats every null pointer as a subject to be corrected, not tolerated. Chaos is the one dependency it refuses to accept into the dependency graph.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129107,
   "salt": "unknown",

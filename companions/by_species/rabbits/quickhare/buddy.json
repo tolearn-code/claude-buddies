@@ -1,6 +1,6 @@
 {
   "name": "Obsidifoot",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Obsidifoot never rests until the root cause is found.",
+  "personality": "Obsidifoot wears a propeller hat that keeps spinning long after the rabbit has landed on the root cause, its ◉ bullseye eyes dissecting every stack frame with methodical calm. Chaos is the only exception it refuses to catch — structured debugging only, no cowboy patches.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129105,
   "salt": "unknown",
