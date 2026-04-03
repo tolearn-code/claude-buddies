@@ -1,5 +1,5 @@
 {
   "name": "Thal-Quartzleap",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Quartzleap waits through every flaky test, then offers one quiet fix.",
+  "personality": "The spell-capped rabbit turns its four-pointed gaze to one purpose: it has never once closed a tab mid-compile. Its luminous form is visible from across the office, especially at 3am during the deploy. Thal-Quartzleap color-codes its branches and refuses to merge without a passing lint check, but its ears twitch at the sound of a failing build.",
   "hatchedAt": 1775211129118
 }

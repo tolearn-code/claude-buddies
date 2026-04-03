@@ -1,6 +1,6 @@
 {
   "name": "Baelthûr",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Baelthûr never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "A crowned dragon with quiet · eyes that moves through a codebase like a veteran surgeon: methodical, precise, and mildly irritated by anyone who calls a null pointer exception 'unexpected.' Chaos isn't in its vocabulary — or its stack traces.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253361,
   "salt": "unknown",

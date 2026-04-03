@@ -1,6 +1,6 @@
 {
   "name": "Softhaven",
-  "personality": "A wild-eyed force who thrives in broken deploys. Softhaven rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Softhaven's ✦ eyes glitter with the joy of a capybara who sees a production incident as an invitation to be creative. Crown perched at a jaunty angle, it thrives where runbooks end and improvisation begins — though don't trust it to trace a specific bug methodically, it has already moved on to rewriting the service.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128972,
   "salt": "unknown",

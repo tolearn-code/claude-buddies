@@ -1,6 +1,6 @@
 {
   "name": "Chillvane",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Chillvane waits through every flaky test, then offers one quiet fix.",
+  "personality": "Chillvane's ✦ eyes observe every test failure with PATIENCE so deep it borders on enlightenment; it has never complained about a blocked PR, never sighed at a stale review, and unfortunately also never pointed out when it's been three weeks.",
   "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
   "hatchedAt": 1775211128751,
   "salt": "unknown",

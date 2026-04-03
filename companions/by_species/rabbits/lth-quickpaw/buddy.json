@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Amberfoot",
-  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Amberfoot rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Equal parts wizard-hatted and formidable, this rabbit's single-pixel eyes ensure every deploy is an adventure — it prefers it that way. It glows faintly in the dark of a 2am incident call. Gîl-Amberfoot rage-quit npm install at least twice this week; thumps one foot impatiently during slow CI pipelines.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129115,
   "salt": "unknown",

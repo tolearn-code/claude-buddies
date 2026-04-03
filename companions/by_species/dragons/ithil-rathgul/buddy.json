@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Rathgûl",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Ithil-Rathgûl never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "This luminous hatless dragon fixes its × eyes on a broken test with the focused calm of someone who has done this a thousand times and will do it a thousand more, each time finding the real culprit and never blaming the framework. Entropy is interesting in theory — in practice it tidies up behind it.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253391,
   "salt": "unknown",

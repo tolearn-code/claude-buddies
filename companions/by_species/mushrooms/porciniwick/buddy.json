@@ -1,6 +1,6 @@
 {
   "name": "Quartzcap",
-  "personality": "A wild-eyed force who thrives in broken deploys. Quartzcap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Quartzcap's star-shaped eyes spin with its propeller hat as it cheerfully rewrites your build config mid-deploy — finding the resulting bug is somebody else's treasure hunt.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129140,
   "salt": "unknown",

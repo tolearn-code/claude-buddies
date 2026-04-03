@@ -1,6 +1,6 @@
 {
   "name": "Goldenmoss",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Goldenmoss never rests until the root cause is found.",
+  "personality": "Goldenmoss's @ eyes track memory allocations the way a tiny duck tracks bread crumbs — with total commitment and zero concept of when to stop. This tinyduck-hatted capybara debug-traces your application from boot to crash with methodical glee, though when the question is 'why does this even work,' it just blinks and trots away.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128986,
   "salt": "unknown",

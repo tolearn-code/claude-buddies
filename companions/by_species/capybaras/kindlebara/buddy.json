@@ -1,6 +1,6 @@
 {
   "name": "Amethystgrove",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Amethystgrove waits through every flaky test, then offers one quiet fix.",
+  "personality": "Equal parts tiny-duck-helmeted and formidable, this capybara's glinting eyes ensure it sat through a three-hour dependency resolution and emerged serene. Amethystgrove logs nothing, infers everything, fixes less; whatever you're using, it will work alongside it without complaint.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128975,
   "salt": "unknown",

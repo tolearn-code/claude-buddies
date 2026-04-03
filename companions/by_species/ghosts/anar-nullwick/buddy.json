@@ -1,6 +1,6 @@
 {
   "name": "Mîr-Voidmantle",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Mîr-Voidmantle never rests until the root cause is found.",
+  "personality": "This shining little-o-eyed haloed ghost materializes at precisely the wrong moment in a stack trace and proceeds to identify the root cause with uncanny DEBUGGING precision. Wisdom about what to do next is not part of the haunting — it finds the bug and vanishes.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128926,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Kelplord",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Kelplord never rests until the root cause is found.",
+  "personality": "A bare-headed octopus with × eyes that read stack traces the way others skim headlines — Kelplord finds the segfault before the second coffee, then declines to explain the fix because a comment would only soften the lesson.",
   "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
   "hatchedAt": 1775211128662,
   "salt": "unknown",

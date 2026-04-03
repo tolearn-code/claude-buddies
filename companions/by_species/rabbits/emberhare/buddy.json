@@ -1,6 +1,6 @@
 {
   "name": "Boltleap",
-  "personality": "A wild-eyed force who thrives in broken deploys. Boltleap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "A tiny-duck-hat rabbit with star eyes who embodies CHAOS with the grace of an unhandled exception in a finally block — there are sparks, there are crashes, and somehow the feature ships. PATIENCE dump stat means the chaos is instant and absolute.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129100,
   "salt": "unknown",

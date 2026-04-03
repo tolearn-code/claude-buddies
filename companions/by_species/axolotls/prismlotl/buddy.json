@@ -1,6 +1,6 @@
 {
   "name": "Citrinfin",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Citrinfin waits through every flaky test, then offers one quiet fix.",
+  "personality": "The propeller on Citrinfin's head spins at a speed exactly inverse to the chaos in the room, the ° eyes watching with axolotl serenity as everyone else's tickets catch fire. It holds the queue steady, regenerates blockers one by one, and asks only that you not introduce seventeen breaking changes in the same PR.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128947,
   "salt": "unknown",

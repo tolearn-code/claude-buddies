@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Kaelorath",
-  "personality": "An immovable dragon who watches your builds with the patience of mountains. Gîl-Kaelorath waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "personality": "This iridescent crowned dragon lets its @ eyes rest on the error log with the calm of someone who has already read the documentation three times and is simply waiting for you to catch up. Deep insight is not its instrument — patient, repeatable correctness is.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253399,
   "salt": "unknown",

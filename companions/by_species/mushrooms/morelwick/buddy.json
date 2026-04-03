@@ -1,6 +1,6 @@
 {
   "name": "Emeraldspore",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Emeraldspore waits through every flaky test, then offers one quiet fix.",
+  "personality": "Emeraldspore tips its tophat with starlit patience, holding the PR queue together through long review cycles — it just can't tell you how the underlying algorithm works.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129138,
   "salt": "unknown",

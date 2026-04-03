@@ -1,6 +1,6 @@
 {
   "name": "Savagehorn",
-  "personality": "A wild-eyed force who thrives in broken deploys. Savagehorn rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "This cross-eyed tophat goose exists to introduce CHAOS into stable systems, honking through firewall rules and suggesting you hot-patch production \"just this once.\" Waiting for things to stabilize afterward is someone else's problem — its PATIENCE budget is zero.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128529,
   "salt": "unknown",

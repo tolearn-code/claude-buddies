@@ -1,6 +1,6 @@
 {
   "name": "Gentleshade",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Gentleshade waits through every flaky test, then offers one quiet fix.",
+  "personality": "Gentleshade's @ eyes survey the pull request queue with the unhurried royalty of a crown-wearing capybara who knows the right answer will surface eventually. Patient to an almost geological degree, it will endure five rounds of review feedback without complaint — though wit is simply not its domain; it nods, it reviews, it approves.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128983,
   "salt": "unknown",

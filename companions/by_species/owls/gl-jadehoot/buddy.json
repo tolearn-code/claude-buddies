@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Silverwing",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Silverwing waits through every flaky test, then offers one quiet fix.",
+  "personality": "Ithil-Silverwing's star eyes radiate patience from beneath a luminous crown — it will review every line of your PR with shining thoroughness and never once complain, even when the PR is 400 lines of spaghetti and a description that just says 'fixes stuff.' Chaos, however, will cause it to molt.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128728,
   "salt": "unknown",

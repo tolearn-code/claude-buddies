@@ -1,6 +1,6 @@
 {
   "name": "Coralhelm",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Coralhelm never rests until the root cause is found.",
+  "personality": "A tiny-duck-hatted penguin with × eyes who bisects, reproduces, and squashes bugs with mechanical efficiency, reliably silent on whether the original code deserved to exist at all.",
   "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
   "hatchedAt": 1775211128758,
   "salt": "unknown",

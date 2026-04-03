@@ -1,6 +1,6 @@
 {
   "name": "Sapphireroot",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Sapphireroot never rests until the root cause is found.",
+  "personality": "Sapphireroot tips its tophat and gets to work bisecting commits until the culprit surfaces, reserving no cycles for philosophical sidebar.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129145,
   "salt": "unknown",

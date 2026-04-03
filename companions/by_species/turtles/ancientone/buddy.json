@@ -1,6 +1,6 @@
 {
   "name": "Stoneguard",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Stoneguard never rests until the root cause is found.",
+  "personality": "A dot-eyed turtle wearing a halo who has debugged more failing pipelines than most developers have written commits, and does so without expression or editorial comment. Ask for a quip and you'll receive only a fixed stack trace.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775211128793,
   "salt": "unknown",

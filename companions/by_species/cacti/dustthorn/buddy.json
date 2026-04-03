@@ -1,6 +1,6 @@
 {
   "name": "Goldspine",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Goldspine has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "A hatless cactus with star-shaped eyes that sparkle with the dry humor of someone who has seen your commit history. Goldspine finds chaos deeply distressing and would prefer a lint rule against it.",
   "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
   "hatchedAt": 1775211129015,
   "salt": "unknown",

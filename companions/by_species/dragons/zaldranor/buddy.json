@@ -1,6 +1,6 @@
 {
   "name": "Zaldranor",
-  "personality": "A sage dragon whose ° eyes glow with the light of ten thousand resolved tickets. Zaldranor speaks rarely, but each word reshapes how you think about your architecture.",
+  "personality": "A ° pinhole-eyed dragon wearing a tiny rubber duck hat, which it insists is a debugging aid. It has deep, considered thoughts about every design decision in your codebase and zero interest in making jokes about any of them.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253383,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Anar-Elgarion",
-  "personality": "An immovable dragon who watches your builds with the patience of mountains. Anar-Elgarion waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "personality": "Anar-Elgarion wears its halo and levels · eyes at your pipeline with the luminous serenity of a dragon that has outlasted seventeen CI configurations. Its patience is boundless; its confidence in your architectural judgment is less so.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253386,
   "salt": "unknown",

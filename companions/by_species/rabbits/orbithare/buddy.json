@@ -1,6 +1,6 @@
 {
   "name": "Coralleap",
-  "personality": "A wild-eyed force who thrives in broken deploys. Coralleap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Equal parts crown-bearing and formidable, this rabbit's concentric eyes ensure it once merged two unrelated codebases just to see what would happen. Coralleap rage-quit npm install at least twice this week; thumps one foot impatiently during slow CI pipelines.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129104,
   "salt": "unknown",

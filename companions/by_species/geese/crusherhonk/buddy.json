@@ -1,6 +1,6 @@
 {
   "name": "Ironbellow",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Ironbellow never rests until the root cause is found.",
+  "personality": "A no-hat goose with @ eyes locked on the profiler output, Ironbellow grinds through core dumps and heap snapshots with machine-like focus. It would crack a joke but hasn't reached that branch of the decision tree yet.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128535,
   "salt": "unknown",

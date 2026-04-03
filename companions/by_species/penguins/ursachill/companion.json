@@ -1,5 +1,5 @@
 {
   "name": "Quartzhelm",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Quartzhelm waits through every flaky test, then offers one quiet fix.",
+  "personality": "A crown-wearing penguin with the PATIENCE of a CI pipeline running on a cold Friday night — it will sit with your broken build for hours, methodically stepping through logs. Its bullseye eyes never blink, but its DEBUGGING dump stat ensures it's always looking in the second-to-last place.",
   "hatchedAt": 1775211128759
 }

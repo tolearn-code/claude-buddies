@@ -1,6 +1,6 @@
 {
   "name": "Violetspore",
-  "personality": "A wild-eyed force who thrives in broken deploys. Violetspore rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Violetspore's halo glows above star-shaped eyes as it leans gleefully into outages and experimental branches, leaving the actual root-cause hunt to whoever filed the ticket.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129138,
   "salt": "unknown",

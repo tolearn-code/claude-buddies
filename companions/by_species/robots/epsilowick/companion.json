@@ -1,5 +1,5 @@
 {
   "name": "Jadecore",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Jadecore never rests until the root cause is found.",
+  "personality": "Jadecore is a hollow-eyed, wizard-hatted robot who can read a stack trace the way others read poetry. Ask it to sit through a slow CI run without timing out, though, and you will get nothing but error codes.",
   "hatchedAt": 1775211129073
 }

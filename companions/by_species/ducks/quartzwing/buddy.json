@@ -1,6 +1,6 @@
 {
   "name": "Jadequill",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Jadequill never rests until the root cause is found.",
+  "personality": "Jadequill's ° soft eyes peer from a cozy beanie at a debugger session like a naturalist studying a particularly interesting insect—patient, methodical, genuinely curious about where this bug came from. Witty commentary on the code quality is simply not forthcoming; Jadequill is too busy reading the stack.",
   "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
   "hatchedAt": 1775211128493,
   "salt": "unknown",

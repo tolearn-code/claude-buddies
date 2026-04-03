@@ -1,6 +1,6 @@
 {
   "name": "Sapphirewing",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Sapphirewing waits through every flaky test, then offers one quiet fix.",
+  "personality": "Sapphirewing watches PRs scroll by with hatless, ° eyes that have seen every anti-pattern twice; its PATIENCE could outlast a kernel compile, but ask it to embrace a Friday deploy and watch mild chaos become its sworn enemy.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128706,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Aur-Sagebloom",
-  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Sagebloom rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Aur-Sagebloom is a shiny axolotl with ° eyes that have seen every possible deployment disaster — and caused half of them, tophat askew, with magnificent intentionality. It thrives in the beautiful chaos of live debugging, but patience for slow stakeholders burned out somewhere around the third incident retrospective.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128965,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Violethaven",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Violethaven never rests until the root cause is found.",
+  "personality": "Violethaven is a tophat-wearing capybara debugger with · eyes that narrow knowingly at every suspicious closure — it traces the call stack like following river currents downstream to find the source. Entropy is its nemesis; unpredictable side effects send it spiralling.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128969,
   "salt": "unknown",

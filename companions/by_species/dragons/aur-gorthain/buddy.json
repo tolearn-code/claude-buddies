@@ -1,6 +1,6 @@
 {
   "name": "Aur-Gorthain",
-  "personality": "An immovable dragon who watches your builds with the patience of mountains. Aur-Gorthain waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "personality": "Glowing faintly beneath its beanie, this mellow · eyed dragon will hold a merge request open for three weeks without complaint, serene as a load balancer under low traffic. Don't ask it to debug anything though; its approach to tracebacks is 'have you tried just not having bugs?'",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253386,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Thal-Circuithelm",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Circuithelm waits through every flaky test, then offers one quiet fix.",
+  "personality": "A robot blessed with concentric eyes and a bare-headed silhouette; it watched a Gradle build complete without refreshing the page even once. Its iridescent sheen catches the light of every passing monitor. Thal-Circuithelm has never once deployed on a Friday; processes pull requests at clockwork regularity.",
   "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
   "hatchedAt": 1775211129083,
   "salt": "unknown",

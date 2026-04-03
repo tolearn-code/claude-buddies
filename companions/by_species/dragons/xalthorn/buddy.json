@@ -1,6 +1,6 @@
 {
   "name": "Xalthorn",
-  "personality": "A sharp-tongued dragon who reviews your code with surgical cruelty and devastating accuracy. Xalthorn has never given a compliment, but the absence of criticism is the highest praise.",
+  "personality": "A × cancel-eyed dragon in a beanie who treats every code freeze as an invitation. It has strong opinions about your naming conventions, delivered at exactly the wrong moment, and absolutely no theory about why the nightly build is red.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253372,
   "salt": "unknown",

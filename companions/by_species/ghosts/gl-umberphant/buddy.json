@@ -1,6 +1,6 @@
 {
   "name": "Thal-Starphantom",
-  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Starphantom rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Thal-Starphantom is a ghost who considers a production incident an exciting chance to learn, complete with a phantom crown worn with unmistakable authority. It excels at everything except debugging — it couldn't bisect its own reasoning if given a week. Its shimmering presence has been known to cause subtle photon-related race conditions.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128916,
   "salt": "unknown",

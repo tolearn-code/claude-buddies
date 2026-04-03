@@ -1,6 +1,6 @@
 {
   "name": "Aur-Sageleap",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Sageleap waits through every flaky test, then offers one quiet fix.",
+  "personality": "A rabbit blessed with crossed eyes and a debonair-hatted silhouette; it treats infinite loops as merely leisurely progress. Light bends around it slightly — or perhaps that's just the reflection off a passing test run. Aur-Sageleap has never once deployed on a Friday, but never refactors slowly if it can refactor at full sprint.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129120,
   "salt": "unknown",

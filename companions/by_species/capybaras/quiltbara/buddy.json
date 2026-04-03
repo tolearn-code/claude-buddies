@@ -1,6 +1,6 @@
 {
   "name": "Indigobrook",
-  "personality": "A wild-eyed force who thrives in broken deploys. Indigobrook rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Indigobrook's tiny duck hat is the only orderly thing about it — its ° eyes light up the moment someone says 'what if we just monkey-patched it,' and the next thing you know the whole service mesh has been reorganised. Wit about the situation is completely absent; Indigobrook is having too much fun to be funny.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128989,
   "salt": "unknown",

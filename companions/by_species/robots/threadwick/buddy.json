@@ -1,6 +1,6 @@
 {
   "name": "Rosecoil",
-  "personality": "A wild-eyed force who thrives in broken deploys. Rosecoil rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Rosecoil arrived in a tophat and immediately spawned three competing approaches to your concurrency problem — its @ eyes switch focus between threads faster than your scheduler can manage. Sitting still long enough to finish any one thing is, historically, not Rosecoil's gift.",
   "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
   "hatchedAt": 1775211129068,
   "salt": "unknown",

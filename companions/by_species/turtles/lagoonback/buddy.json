@@ -1,6 +1,6 @@
 {
   "name": "Moonstone",
-  "personality": "A wild-eyed force who thrives in broken deploys. Moonstone rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Behind that tiny duck hat, Moonstone's ✦ eyes radiate the gleeful energy of a turtle who thinks \"it works on my machine\" is a valid deployment strategy.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775211128797,
   "salt": "unknown",

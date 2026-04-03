@@ -1,6 +1,6 @@
 {
   "name": "Twilclaw",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Twilclaw has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "This dot-eyed cat wearing a tiny rubber duck perched on its head weaponizes sarcasm with sniper precision. Unfortunately it treats every bug as a feature and moves on, which makes its code reviews feel more like a roast than a resource.",
   "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
   "hatchedAt": 1775211128613,
   "salt": "unknown",

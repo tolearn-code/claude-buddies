@@ -1,6 +1,6 @@
 {
   "name": "Tombwarden",
-  "personality": "A wild-eyed force who thrives in broken deploys. Tombwarden rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Tombwarden is a phantom who reads error logs the way others read poetry — with delight, complete with a wizard hat that was definitely not borrowed from a senior engineer. It excels at everything except patience — slow feedback loops make it visibly (and invisibly) agitated.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128900,
   "salt": "unknown",

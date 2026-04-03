@@ -1,6 +1,6 @@
 {
   "name": "Tundravane",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Tundravane never rests until the root cause is found.",
+  "personality": "This halo-wearing penguin stares at your @ stack traces with the focused devotion of a true bug-hunting saint, though asking for architectural wisdom will earn you a blank waddle and a shrug.",
   "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
   "hatchedAt": 1775211128764,
   "salt": "unknown",

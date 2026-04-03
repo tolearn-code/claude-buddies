@@ -1,6 +1,6 @@
 {
   "name": "Dawnfin",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Dawnfin never rests until the root cause is found.",
+  "personality": "Dawnfin's tiny duck and ° eyes make her look cheerfully approachable, which she is — an axolotl who will hunt a null reference through five layers of abstraction with total commitment, and who does not need to understand the broader system to feel deeply satisfied by the find.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128948,
   "salt": "unknown",

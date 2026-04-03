@@ -1,6 +1,6 @@
 {
   "name": "Copperdash",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Copperdash never rests until the root cause is found.",
+  "personality": "A beanie rabbit with dot eyes who hunts bugs with DEBUGGING intensity — it reads heap dumps for fun and considers a three-day bisect a pleasant afternoon. WISDOM dump stat means it will find the bug but may not understand the system well enough to fix it properly.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129096,
   "salt": "unknown",

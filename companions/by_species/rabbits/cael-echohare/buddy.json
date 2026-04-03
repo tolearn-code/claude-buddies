@@ -1,6 +1,6 @@
 {
   "name": "Lúth-Crystalfoot",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Crystalfoot waits through every flaky test, then offers one quiet fix.",
+  "personality": "This glowing beanie rabbit with @ eyes embodies PATIENCE as a technical virtue — it will sit with your flaky test suite and coax it toward determinism through careful observation and inexhaustible retries. DEBUGGING dump stat means its patience is a matter of temperament, not tooling.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129129,
   "salt": "unknown",

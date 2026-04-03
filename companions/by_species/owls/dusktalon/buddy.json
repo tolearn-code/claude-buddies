@@ -1,6 +1,6 @@
 {
   "name": "Nightseeker",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Nightseeker never rests until the root cause is found.",
+  "personality": "Nightseeker pulls on its wizard hat and hunts bugs through the dead-code forests of legacy systems, its · eyes tracking the one function that causes everything to break on Tuesdays. It will find it, and it will not wait for you to catch up.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128701,
   "salt": "unknown",

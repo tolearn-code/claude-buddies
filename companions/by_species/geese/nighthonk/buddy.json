@@ -1,6 +1,6 @@
 {
   "name": "Shadowmarch",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Shadowmarch has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "A little-o-eyed propeller-hat goose whose SNARK arrives exactly when your code is most vulnerable — right after the lint check fails. It has no memory for the chaos it creates, so it honks at its own messes with genuine indignation.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128540,
   "salt": "unknown",

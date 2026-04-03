@@ -1,6 +1,6 @@
 {
   "name": "Thal-Echowarden",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Echowarden waits through every flaky test, then offers one quiet fix.",
+  "personality": "Thal-Echowarden is a ghost whose starlit ✦ eyes never blink through even the most interminable deploy pipeline. It excels at everything except debugging — its own error messages remain a mystery even to itself. It gleams with a spectral radiance that developers have reported seeing in their error logs.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128908,
   "salt": "unknown",

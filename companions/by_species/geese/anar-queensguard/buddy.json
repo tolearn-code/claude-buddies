@@ -1,6 +1,6 @@
 {
   "name": "Anar-Stormhiss",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Anar-Stormhiss has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "Anar-Stormhiss sports a halo that it clearly stole from someone better-behaved, × eyes sharp with the incisive commentary of a code reviewer who memorized every anti-pattern. Chaos is the one thing this shiny goose won't introduce — that would be inefficient.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128551,
   "salt": "unknown",

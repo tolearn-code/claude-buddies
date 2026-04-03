@@ -1,5 +1,5 @@
 {
   "name": "Quartzstead",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Quartzstead never rests until the root cause is found.",
+  "personality": "Quartzstead spins its propeller hat and scans with × eyes that miss nothing in a stack trace — not a frame, not a null pointer, not that one async function that was definitely the problem all along. Patience is the casualty; perfection is the prize.",
   "hatchedAt": 1775211129182
 }

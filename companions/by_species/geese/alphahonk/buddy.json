@@ -1,6 +1,6 @@
 {
   "name": "Grakthul",
-  "personality": "A wild-eyed force who thrives in broken deploys. Grakthul rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Grakthul wears a beanie and runs on pure chaos, its ◉ eyes scanning for stable systems to destabilize in the name of progress. Any attempt at a witty remark gets honked over before it lands.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128534,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Idlewild",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Ithil-Idlewild never rests until the root cause is found.",
+  "personality": "Ithil-Idlewild's gleaming ◉ bullseye eyes zero in on race conditions and off-by-one errors with the quiet focus of a capybara who has read every memory safety paper twice. Unadorned and luminous, it traces execution paths through your codebase instinctively — though chaotic midnight refactors are simply not in its vocabulary.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211129000,
   "salt": "unknown",

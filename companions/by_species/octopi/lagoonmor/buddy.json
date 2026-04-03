@@ -1,6 +1,6 @@
 {
   "name": "Waverender",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Waverender waits through every flaky test, then offers one quiet fix.",
+  "personality": "Waverender wears a crown befitting an octopus who has outlasted every flaky CI pipeline with serene ° eyes; skips the bug hunt entirely and writes integration tests instead, reasoning that's someone else's problem.",
   "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
   "hatchedAt": 1775211128673,
   "salt": "unknown",

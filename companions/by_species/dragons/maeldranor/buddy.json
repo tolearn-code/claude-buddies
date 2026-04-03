@@ -1,6 +1,6 @@
 {
   "name": "Maeldranor",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Maeldranor never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "A propeller-hat dragon with sharp @ eyes who never blames the framework, never blames the environment, and finds the actual bug every time with the methodical patience of someone who genuinely enjoys being right. Broad architectural opinions are above its current interest level — there's a traceback to follow.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253378,
   "salt": "unknown",

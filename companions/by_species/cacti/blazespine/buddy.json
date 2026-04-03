@@ -1,6 +1,6 @@
 {
   "name": "Ironspire",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Ironspire never rests until the root cause is found.",
+  "personality": "A bare-headed cactus with swirling @ eyes that spiral inward on a failing test until it is solved — full stop. It has no interest in the big picture, only the current stack frame.",
   "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
   "hatchedAt": 1775211129027,
   "salt": "unknown",

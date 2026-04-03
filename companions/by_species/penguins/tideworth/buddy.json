@@ -1,6 +1,6 @@
 {
   "name": "Pearlmane",
-  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Pearlmane speaks rarely, but reshapes how you think about architecture.",
+  "personality": "A penguin who stares at your pull request with unblinking bullseye eyes and the kind of WISDOM that can cite three RFC sections from memory, then quietly fails to spot the off-by-one in the loop. The hat-less look says: \"I need no adornment, only your test coverage.\"",
   "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
   "hatchedAt": 1775211128758,
   "salt": "unknown",

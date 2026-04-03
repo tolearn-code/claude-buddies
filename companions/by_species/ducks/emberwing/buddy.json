@@ -1,6 +1,6 @@
 {
   "name": "Feathergale",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Feathergale waits through every flaky test, then offers one quiet fix.",
+  "personality": "Feathergale's tophat and @ eyes give this duck the air of a gentleman CI system—methodical, never rushed, always ready to wait out your flaky test suite with infinite grace. Deep architectural wisdom, however, is not on the menu; Feathergale follows the spec and trusts you to know why it exists.",
   "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
   "hatchedAt": 1775211128488,
   "salt": "unknown",

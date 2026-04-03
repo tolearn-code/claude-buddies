@@ -1,5 +1,5 @@
 {
   "name": "Winterthane",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Winterthane never rests until the root cause is found.",
+  "personality": "Winterthane's · eyes track every hot path through the profiler with DEBUGGING laser-focus that rarely blinks; it finds the bottleneck with the certainty of someone who has memorized the ABI, but don't ask it to explain what the code was supposed to do.",
   "hatchedAt": 1775211128751
 }

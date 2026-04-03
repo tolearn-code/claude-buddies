@@ -1,6 +1,6 @@
 {
   "name": "Lightbound",
-  "personality": "A wild-eyed force who thrives in broken deploys. Lightbound rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "A wizard-hatted rabbit with degree-mark eyes who channels CHAOS through elegant misdirection — it rewrites your util functions while you're reviewing its documentation PR. WISDOM dump stat means the chaos is creative rather than informed.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129112,
   "salt": "unknown",

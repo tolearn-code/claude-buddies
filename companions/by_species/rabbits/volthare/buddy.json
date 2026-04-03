@@ -1,6 +1,6 @@
 {
   "name": "Cobaltfoot",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Cobaltfoot waits through every flaky test, then offers one quiet fix.",
+  "personality": "Equal parts crown-free and formidable, this rabbit's vortex eyes ensure it has never once closed a tab mid-compile. It has never once been sarcastic in a PR comment, not even accidentally — yet thumps one foot impatiently during slow CI pipelines.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129107,
   "salt": "unknown",

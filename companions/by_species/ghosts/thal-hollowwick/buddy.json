@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Amberveil",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Amberveil waits through every flaky test, then offers one quiet fix.",
+  "personality": "Ithil-Amberveil's tiny duck hat glows with a soft sheen, and its · eyes perform the full ceremony of watching your test suite without a single complaint. This shiny ghost's PATIENCE is a quiet, luminous thing — it outlasts outages, regressions, and team reorganizations. It just can't tell you where the bug actually is.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128908,
   "salt": "unknown",

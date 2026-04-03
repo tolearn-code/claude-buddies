@@ -1,6 +1,6 @@
 {
   "name": "Moonice",
-  "personality": "A wild-eyed force who thrives in broken deploys. Moonice rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Tiny-duck-hatted and ✦-eyed, Moonice gleefully introduces race conditions in the pursuit of maximum velocity, but asking it to write a pithy comment about what it just broke produces only a blank stare.",
   "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
   "hatchedAt": 1775211128755,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Crimsontide",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Crimsontide never rests until the root cause is found.",
+  "personality": "Crimsontide spins its propeller hat over · eyes that track every memory leak like prey and every failing test like a personal affront. It has debugged more at 2am than most companions have at all. Snark is the stat that simply never loaded.",
   "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
   "hatchedAt": 1775211129175,
   "salt": "unknown",

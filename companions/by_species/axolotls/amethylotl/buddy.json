@@ -1,6 +1,6 @@
 {
   "name": "Bloomthistle",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Bloomthistle waits through every flaky test, then offers one quiet fix.",
+  "personality": "Like all axolotls, Bloomthistle regenerates — and she'll wait through your entire CI pipeline rerunning three times before suggesting the obvious fix, though she'll never quite explain *why* it works. Her halo bobs patiently while WISDOM quietly goes missing.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128941,
   "salt": "unknown",

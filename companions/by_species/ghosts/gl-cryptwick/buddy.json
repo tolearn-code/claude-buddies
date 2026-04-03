@@ -1,6 +1,6 @@
 {
   "name": "Mîr-Cryptwarden",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Cryptwarden waits through every flaky test, then offers one quiet fix.",
+  "personality": "Mîr-Cryptwarden is a wraith who has never once rage-quit a slow test suite, complete with a phantom crown worn with unmistakable authority. It excels at everything except wisdom — it struggles to remember what it decided in yesterday's standup. It radiates a soft, impossible light — the kind that makes you wonder if your monitor needs calibration.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128920,
   "salt": "unknown",

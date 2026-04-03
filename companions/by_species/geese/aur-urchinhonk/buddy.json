@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Havocmaw",
-  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Havocmaw rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "A shiny hatless goose with ◉ eyes like spinning loading indicators, Ithil-Havocmaw is a force of creative destruction — it ships features by removing the parts that were slowing them down. Snark requires precision; chaos is faster.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128553,
   "salt": "unknown",

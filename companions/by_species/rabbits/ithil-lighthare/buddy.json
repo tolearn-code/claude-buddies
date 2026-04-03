@@ -1,6 +1,6 @@
 {
   "name": "Anar-Coralleap",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Anar-Coralleap waits through every flaky test, then offers one quiet fix.",
+  "personality": "A spinning-propeller-topped rabbit with cross-shaped eyes whose patience is legendary: it has never rage-quit a failing test suite. Its coat shimmers with the quality of code it has never written carelessly. Downside: Anar-Coralleap has restarted the process more times than it has ever read a log. Upside: moves fast and occasionally breaks things — on purpose.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129121,
   "salt": "unknown",

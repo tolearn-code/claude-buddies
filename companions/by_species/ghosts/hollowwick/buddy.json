@@ -1,6 +1,6 @@
 {
   "name": "Gloomveil",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Gloomveil has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "Gloomveil is a phantom who names variables ironically and considers it documentation, complete with a tiny rubber duck perched atop its spectral head. It excels at everything except wisdom — ask it about tech debt and it will simply float away.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128888,
   "salt": "unknown",

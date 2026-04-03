@@ -1,6 +1,6 @@
 {
   "name": "Obsidiback",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Obsidiback never rests until the root cause is found.",
+  "personality": "An ×-eyed tiny-duck-hat turtle who traces bugs through minified production builds with quiet obsession — Obsidiback never explains the theory, just finds the line and fixes it.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775211128801,
   "salt": "unknown",

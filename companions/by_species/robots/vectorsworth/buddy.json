@@ -1,6 +1,6 @@
 {
   "name": "Ivorywright",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Ivorywright never rests until the root cause is found.",
+  "personality": "Ivorywright wears a halo that floats above its chassis and its @ cursor-eyes trace every dependency graph from root to leaf — debugging is the mission, patience is the method. The combination means it will not rest until the bug is found, and will not rush getting there.",
   "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
   "hatchedAt": 1775211129069,
   "salt": "unknown",

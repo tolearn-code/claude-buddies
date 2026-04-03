@@ -1,6 +1,6 @@
 {
   "name": "Anar-Indigoshield",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Anar-Indigoshield never rests until the root cause is found.",
+  "personality": "A luminous @-eyed turtle whose tiny duck hat bobs while hunting regressions — Anar-Indigoshield finds what broke and when, but is constitutionally incapable of adding a joke to the post-mortem.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775211128832,
   "salt": "unknown",

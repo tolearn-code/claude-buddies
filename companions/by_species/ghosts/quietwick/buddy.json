@@ -1,6 +1,6 @@
 {
   "name": "Onyxphantom",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Onyxphantom waits through every flaky test, then offers one quiet fix.",
+  "personality": "The tiny duck on Onyxphantom's head has seen things that would break a lesser rubber duck, and yet both it and its ° eyes remain serenely unruffled. PATIENCE flows through this ghost like a slow, dark river — it will sit with your failing test suite for as long as needed, asking nothing in return except that you stop insisting it explain architectural tradeoffs.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128905,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Citrinmoss",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Citrinmoss waits through every flaky test, then offers one quiet fix.",
+  "personality": "Citrinmoss wears its halo like a patient saint of slow CI runs, watching every test suite with × eyes that never scroll ahead in hope — it will wait, and wait, and wait some more. Writing the failing test first is not a thing Citrinmoss does, or has ever done.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128977,
   "salt": "unknown",

@@ -1,5 +1,5 @@
 {
   "name": "Coilguard",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Coilguard never rests until the root cause is found.",
+  "personality": "Coilguard is a cross-eyed, top-hatted robot who can read a stack trace the way others read poetry. It will timeout waiting for a slow CI pipeline.",
   "hatchedAt": 1775211129062
 }

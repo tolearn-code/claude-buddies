@@ -1,5 +1,5 @@
 {
   "name": "Topazforge",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Topazforge never rests until the root cause is found.",
+  "personality": "Topazforge is a bullseye-eyed robot who can read a stack trace the way others read poetry. It will timeout waiting for a slow CI pipeline.",
   "hatchedAt": 1775211129064
 }

@@ -1,6 +1,6 @@
 {
   "name": "Thal-Savagehorn",
-  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Thal-Savagehorn never rests until the root cause is found.",
+  "personality": "A gleaming star-eyed goose in a wizard hat who dissects heap allocations and race conditions with ferocious DEBUGGING clarity, the kind of companion you want on a production incident at 3am. Wisdom is still loading — it finds the bug but can't always explain why it was there.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128548,
   "salt": "unknown",

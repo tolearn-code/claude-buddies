@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Starglide",
-  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Starglide rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Gîl-Starglide leaves a luminous wake as it slides through your repository and its × cross-eyes mark everything that should probably be a microservice — or maybe a monolith — it changes its mind frequently. Debugging anyone else's decisions is not on the agenda.",
   "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
   "hatchedAt": 1775211128866,
   "salt": "unknown",

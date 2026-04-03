@@ -1,6 +1,6 @@
 {
   "name": "Embershade",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Embershade never rests until the root cause is found.",
+  "personality": "Embershade's wizard hat crackles with half-learned incantations, and its ° eyes have read every debugging tome ever written — and remembered the useful parts. DEBUGGING is practically its religion, which is why it's baffling that this ghost actively avoids CHAOS and then somehow introduces it anyway by being so methodically thorough it breaks neighboring modules.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128904,
   "salt": "unknown",

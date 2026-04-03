@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Copperstead",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Gîl-Copperstead never rests until the root cause is found.",
+  "personality": "A shiny beanie-wearing chonk whose ◉ eyes scan logs with methodical focus, finding the offending line while everyone else is still reading the error message. Wisdom is not currently in scope.",
   "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
   "hatchedAt": 1775211129206,
   "salt": "unknown",

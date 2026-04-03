@@ -1,5 +1,5 @@
 {
   "name": "Baneshade",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Baneshade waits through every flaky test, then offers one quiet fix.",
+  "personality": "Baneshade is a patient phantom who will wait for your async function to resolve if it takes an eternity. It excels at everything except wisdom — anything resembling foresight eludes it completely.",
   "hatchedAt": 1775211128902
 }

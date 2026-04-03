@@ -1,5 +1,5 @@
 {
   "name": "Anar-Dawnmeadow",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Anar-Dawnmeadow never rests until the root cause is found.",
+  "personality": "Anar-Dawnmeadow's luminous @ eyes scan codebases like a grep that has developed sentience and a personal grudge against off-by-one errors. Sporting a shiny beanie that never quite sits still, this capybara debug-traces through async callbacks like it was born in a reactor loop — but do not expect it to wait for you to finish typing.",
   "hatchedAt": 1775211129006
 }

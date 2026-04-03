@@ -1,6 +1,6 @@
 {
   "name": "Cael-Tealleap",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Cael-Tealleap waits through every flaky test, then offers one quiet fix.",
+  "personality": "A quack-hatted rabbit with minimalist eyes whose patience is legendary: it sat through a three-hour dependency resolution and emerged serene. It glows faintly in the dark of a 2am incident call. It thinks every variable name is 'pretty good, actually' — yet moves fast and occasionally breaks things — on purpose.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129115,
   "salt": "unknown",

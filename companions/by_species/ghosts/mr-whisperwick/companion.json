@@ -1,5 +1,5 @@
 {
   "name": "Gîl-Quartzwraith",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Gîl-Quartzwraith waits through every flaky test, then offers one quiet fix.",
+  "personality": "This shiny ghost haunts your CI pipeline with crystalline patience, its · dot-eyes watching the same flaky test fail for the forty-seventh time without a twitch. Beneath its gleaming tophat lives a PATIENCE reserve deep enough to outlast any build queue, though its blind spot for debuggers means it fixes bugs by waiting until they feel too ashamed to appear.",
   "hatchedAt": 1775211128906
 }

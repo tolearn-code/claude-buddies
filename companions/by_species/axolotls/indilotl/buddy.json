@@ -1,6 +1,6 @@
 {
   "name": "Copperfin",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Copperfin never rests until the root cause is found.",
+  "personality": "Copperfin's halo glows steadily above @ eyes fixed on the failing assertion — an axolotl of methodical, unshakeable focus who treats every bug as a crime scene and every log line as evidence, completely unbothered by the cascading entropy around her.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128944,
   "salt": "unknown",

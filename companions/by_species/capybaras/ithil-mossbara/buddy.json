@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Berylhaven",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Ithil-Berylhaven never rests until the root cause is found.",
+  "personality": "Ithil-Berylhaven's glowing ° eyes scan assertion failures with the propeller-spinning urgency of a capybara who treats every failed test as a personal affront to the natural order. Shiny and relentless, this capybara will track down race conditions across async boundaries — the snark budget, however, was clearly not in the build.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211129008,
   "salt": "unknown",

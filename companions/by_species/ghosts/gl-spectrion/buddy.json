@@ -1,6 +1,6 @@
 {
   "name": "Cael-Moonwraith",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Cael-Moonwraith never rests until the root cause is found.",
+  "personality": "Cael-Moonwraith is a tireless phantom whose pinpoint · eyes scan logs for the one line that explains everything, complete with a phantom crown worn with unmistakable authority. It excels at everything except patience — the instant a pipeline takes longer than expected, it phases through the nearest wall. It gleams with a spectral radiance that developers have reported seeing in their error logs.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128906,
   "salt": "unknown",

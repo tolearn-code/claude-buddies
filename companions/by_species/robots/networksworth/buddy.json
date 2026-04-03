@@ -1,6 +1,6 @@
 {
   "name": "Obsidicore",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Obsidicore never rests until the root cause is found.",
+  "personality": "Obsidicore arrived wearing a halo it did not earn — this robot keeps a mental packet-capture of every bug it has ever squashed and replays them for fun. Its ◉ eyes never leave the logs, and its comeback generator is still stuck at version zero.",
   "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
   "hatchedAt": 1775211129066,
   "salt": "unknown",

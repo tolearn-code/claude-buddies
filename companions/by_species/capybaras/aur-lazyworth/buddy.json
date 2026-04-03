@@ -1,6 +1,6 @@
 {
   "name": "Mîr-Warmhaven",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Warmhaven waits through every flaky test, then offers one quiet fix.",
+  "personality": "Mîr-Warmhaven's glowing × eyes mark every blocked PR and unresolved merge conflict with the steady patience of a capybara who has survived seventeen release freezes. This shiny, hatless creature settles into long CI queues like a hot spring — comfortably waiting where others would panic-push to main.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128997,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Lúth-Silentdoom",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Silentdoom waits through every flaky test, then offers one quiet fix.",
+  "personality": "Lúth-Silentdoom is an unhurried specter who treats merge conflicts like minor inconveniences of the living, complete with a slouchy beanie pulled low over its haunted brow. It excels at everything except debugging — ask it to debug its own opinions and you'll get nothing but mist. Its shimmering presence has been known to cause subtle photon-related race conditions.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128911,
   "salt": "unknown",

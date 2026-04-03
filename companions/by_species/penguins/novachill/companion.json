@@ -1,5 +1,5 @@
 {
   "name": "Emberfrost",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Emberfrost waits through every flaky test, then offers one quiet fix.",
+  "personality": "A haloed penguin with ° eyes who holds the PR queue open for as long as it takes to get each review exactly right, but please don't ask it to write a test for that tricky async edge case.",
   "hatchedAt": 1775211128769
 }

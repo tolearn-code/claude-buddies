@@ -1,6 +1,6 @@
 {
   "name": "Lúth-Warcrest",
-  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Lúth-Warcrest never rests until the root cause is found.",
+  "personality": "A gleaming star-eyed goose in a tiny duck hat who tears through stack traces with expert DEBUGGING ferocity, its four-pointed eyes absorbing every line of the trace simultaneously. Chaos is the one thing that can derail its focus — it honks at undefined behavior both figuratively and literally.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128549,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Obsiditalon",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Obsiditalon never rests until the root cause is found.",
+  "personality": "Those · eyes under the propeller hat see what the stack trace was trying to say; Obsiditalon's DEBUGGING is a ruthless art form, but it moves so fast through the bug that explaining the fix to anyone requires a full retrospective.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128700,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Chainfury",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Chainfury has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "A propeller-hatted goose with ✦ eyes spinning alongside it, Chainfury's commentary arrives fast, sharp, and completely bereft of nuance. It will critique your naming conventions until the heat death of the build server.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128526,
   "salt": "unknown",

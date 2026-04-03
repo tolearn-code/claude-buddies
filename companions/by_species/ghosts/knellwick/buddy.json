@@ -1,6 +1,6 @@
 {
   "name": "Silverveil",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Silverveil has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "Silverveil is a ghost who would rather haunt your codebase than explain what's wrong with your naming convention, complete with a phantom crown worn with unmistakable authority. It excels at everything except debugging — ask it to debug its own opinions and you'll get nothing but mist.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128902,
   "salt": "unknown",

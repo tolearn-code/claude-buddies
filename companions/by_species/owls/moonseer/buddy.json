@@ -1,6 +1,6 @@
 {
   "name": "Opaltalon",
-  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Opaltalon never rests until the root cause is found.",
+  "personality": "Opaltalon's star eyes scan the log stream through a cozy beanie with the focused urgency of an owl that treats every stack trace as a personal challenge. It will stay until the bug is dead; it will not stay to write the post-mortem.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128705,
   "salt": "unknown",

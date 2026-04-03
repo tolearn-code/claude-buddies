@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Berylstead",
-  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Berylstead rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Ithil-Berylstead spins its propeller hat into the void between working code and shipping code, its × eyes fixed on some chaotic horizon only it can see. It will break your linter config and somehow your codebase will be better for it.",
   "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
   "hatchedAt": 1775211129202,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Rustgill",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Rustgill never rests until the root cause is found.",
+  "personality": "This wizard-hatted mushroom dissects stack traces like a mycologist studying spore prints, finding the culprit stack frame every time — then stays quiet about it.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129152,
   "salt": "unknown",

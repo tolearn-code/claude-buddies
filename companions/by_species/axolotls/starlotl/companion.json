@@ -1,5 +1,5 @@
 {
   "name": "Sagebloom",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Sagebloom waits through every flaky test, then offers one quiet fix.",
+  "personality": "Sagebloom's × eyes are framed by a perfect halo, which is apt for an axolotl whose patience with slow reviewers borders on the divine. It will hold the PR open for weeks without complaint — just don't expect it to diagnose why the integration test is still red.",
   "hatchedAt": 1775211128938
 }

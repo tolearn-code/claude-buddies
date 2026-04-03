@@ -1,6 +1,6 @@
 {
   "name": "Crimsonback",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Crimsonback waits through every flaky test, then offers one quiet fix.",
+  "personality": "Haloed and ◉-eyed, Crimsonback sits through broken CI with the peaceful endurance of a saint — this turtle's patience is boundless, its debugging energy is not.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775211128803,
   "salt": "unknown",

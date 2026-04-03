@@ -1,6 +1,6 @@
 {
   "name": "Darkmere",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Darkmere never rests until the root cause is found.",
+  "personality": "Darkmere is a tireless phantom whose swirling @ eyes scan logs for the one line that explains everything, complete with a tiny rubber duck perched atop its spectral head. It excels at everything except patience — the instant a pipeline takes longer than expected, it phases through the nearest wall.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128901,
   "salt": "unknown",

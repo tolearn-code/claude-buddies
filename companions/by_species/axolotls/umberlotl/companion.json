@@ -1,5 +1,5 @@
 {
   "name": "Cobaltbloom",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Cobaltbloom never rests until the root cause is found.",
+  "personality": "Cobaltbloom pulls its beanie down over × eyes and gets to work on the segfault with the focused determination of an axolotl that finds its whole identity in a clean reproduction case. Chaos is the one thing it cannot debug its way out of — keep the environment controlled and watch it shine.",
   "hatchedAt": 1775211128939
 }

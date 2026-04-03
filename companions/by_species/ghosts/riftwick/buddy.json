@@ -1,6 +1,6 @@
 {
   "name": "Emeraldshade",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Emeraldshade never rests until the root cause is found.",
+  "personality": "Emeraldshade's beanie is the kind of casual that says \"I've already found your bug, I just wanted to let you sweat a bit first.\" Its × eyes triangulate stack traces with precision, DEBUGGING is its element, and if it seems light on WISDOM it's because knowing the bug's location is always more useful than knowing why it matters.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128894,
   "salt": "unknown",

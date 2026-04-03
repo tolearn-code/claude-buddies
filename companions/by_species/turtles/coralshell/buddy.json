@@ -1,6 +1,6 @@
 {
   "name": "Ironback",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Ironback waits through every flaky test, then offers one quiet fix.",
+  "personality": "A dot-eyed turtle in a beanie who has the patience of sedimentary rock and is perfectly content to wait while you revert your third hotfix of the day. Chaos is not something it handles — Ironback needs calm to function.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775211128794,
   "salt": "unknown",

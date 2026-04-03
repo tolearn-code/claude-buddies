@@ -1,5 +1,5 @@
 {
   "name": "Onyxcap",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Onyxcap never rests until the root cause is found.",
+  "personality": "Onyxcap bobs its halo quietly and locates the null dereference every time, too focused on the trace to develop opinions about your commit message format.",
   "hatchedAt": 1775211129135
 }

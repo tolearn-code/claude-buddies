@@ -1,6 +1,6 @@
 {
   "name": "Amberheft",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Amberheft has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "Amberheft adjusts its beanie and levels ° eyes at your code comments — the only companion that treats inline documentation as a personality test. It has opinions and will share them; it does not, however, have correct architectural opinions, so it evens out.",
   "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
   "hatchedAt": 1775211129193,
   "salt": "unknown",

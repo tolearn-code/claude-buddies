@@ -1,6 +1,6 @@
 {
   "name": "Jadehaven",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Jadehaven waits through every flaky test, then offers one quiet fix.",
+  "personality": "The arcane-hatted capybara turns its sparkle gaze to one purpose: it has never rage-quit a failing test suite. It considers 'it works on my machine' a valid resolution — yet doesn't pick fights with your toolchain — just coexists.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128974,
   "salt": "unknown",

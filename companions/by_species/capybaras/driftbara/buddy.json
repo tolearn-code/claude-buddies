@@ -1,6 +1,6 @@
 {
   "name": "Quietbrook",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Quietbrook waits through every flaky test, then offers one quiet fix.",
+  "personality": "Quietbrook's @ eyes absorb every build log with the aristocratic patience of a top-hatted capybara who has never once clicked 'cancel and retry'. It waits through flaky tests, bad network conditions, and recursive make errors without so much as a sigh — though if you want a quip, you are very much barking up the wrong rodent.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128984,
   "salt": "unknown",

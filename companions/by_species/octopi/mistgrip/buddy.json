@@ -1,6 +1,6 @@
 {
   "name": "Moonreef",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Moonreef never rests until the root cause is found.",
+  "personality": "Moonreef's tophat sits at a dignified angle over ° eyes that could spot a null-pointer dereference across a minified bundle; the octopus debugs with the methodical grace of a Victorian surgeon and the wisdom of someone who lost a prod database once.",
   "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
   "hatchedAt": 1775211128673,
   "salt": "unknown",

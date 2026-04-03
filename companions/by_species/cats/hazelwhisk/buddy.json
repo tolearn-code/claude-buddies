@@ -1,6 +1,6 @@
 {
   "name": "Mistclaw",
-  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Mistclaw never rests until the root cause is found.",
+  "personality": "This star-eyed cat in a propeller beanie hunts bugs with forensic obsession and the focus of a compiler that accepts no ambiguity. It keeps everything so tidy it becomes boring, which means it finds every bug except the ones it accidentally introduces.",
   "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
   "hatchedAt": 1775211128615,
   "salt": "unknown",

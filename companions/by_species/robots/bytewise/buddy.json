@@ -1,6 +1,6 @@
 {
   "name": "Chromidan",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Chromidan waits through every flaky test, then offers one quiet fix.",
+  "personality": "This dot-eyed robot waits out infinite loops with serene composure, crown-wearing. Chromidan is the one you call at 2am when everything is on fire, but cannot explain why the code works if its power cell depended on it.",
   "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
   "hatchedAt": 1775211129055,
   "salt": "unknown",

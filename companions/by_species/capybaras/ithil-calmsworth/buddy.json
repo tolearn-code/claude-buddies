@@ -1,6 +1,6 @@
 {
   "name": "Aur-Garnetmoss",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Garnetmoss waits through every flaky test, then offers one quiet fix.",
+  "personality": "A whirring-beanie-clad capybara with dot eyes whose patience is legendary: it will wait through seventeen flaky CI retries without a single complaint. It radiates a pearlescent aura that makes even TypeScript look inviting. Aur-Garnetmoss has pinned every dependency to an exact version and is proud of it, but universally accepted by every language in the ecosystem.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128990,
   "salt": "unknown",

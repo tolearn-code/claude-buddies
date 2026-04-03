@@ -1,5 +1,5 @@
 {
   "name": "Obsidiheim",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Obsidiheim never rests until the root cause is found.",
+  "personality": "Obsidiheim peers out from under its wizard hat with ° eyes locked on your stack trace like a laser pointer and a grudge. It is not impatient — it is merely unwilling to accept that a bug it has found could still be running.",
   "hatchedAt": 1775211129192
 }

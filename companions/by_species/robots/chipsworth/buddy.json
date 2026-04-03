@@ -1,6 +1,6 @@
 {
   "name": "Ironwright",
-  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Ironwright speaks rarely, but reshapes how you think about architecture.",
+  "personality": "Ironwright is a star-eyed, beanie-clad robot who has read every RFC and remembered all of them. It will timeout waiting for a slow CI pipeline.",
   "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
   "hatchedAt": 1775211129060,
   "salt": "unknown",

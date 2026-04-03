@@ -1,6 +1,6 @@
 {
   "name": "Aur-Caedrathil",
-  "personality": "An immovable dragon who watches your builds with the patience of mountains. Aur-Caedrathil waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "personality": "This luminous tophat-wearing dragon fixes its wide ◉ eyes on your CI pipeline and simply refuses to blink until it goes green — every retry, every flaky test, every agonizing minute of it. Ask it for debugging advice and it will gently remind you that wisdom is overrated; waiting is an art.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253396,
   "salt": "unknown",

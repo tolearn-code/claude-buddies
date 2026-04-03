@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Coilguard",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Ithil-Coilguard has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "Ithil-Coilguard, glowing with opalescent sheen and hollow-eyed, deploys devastating one-liners with every PR. Brilliant in that lane, yet will timeout waiting for a slow CI pipeline.",
   "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
   "hatchedAt": 1775211129090,
   "salt": "unknown",

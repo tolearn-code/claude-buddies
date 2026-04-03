@@ -1,6 +1,6 @@
 {
   "name": "Silverdeep",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Silverdeep waits through every flaky test, then offers one quiet fix.",
+  "personality": "Silverdeep's beanie sits on an octopus who reads Slack threads with ° eyes as calm as a health-check endpoint — it stays on-call through every alert, knows every service boundary, and lets the profiler do the talking.",
   "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
   "hatchedAt": 1775211128675,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Wraithguard",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Wraithguard waits through every flaky test, then offers one quiet fix.",
+  "personality": "Wraithguard is a spectral presence who meets every blocked PR with the calm of deep geological time, complete with a halo hovering just off-center in a way that suggests irony. It excels at everything except chaos — unpredictable behavior gives it the spectral equivalent of hives.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128900,
   "salt": "unknown",

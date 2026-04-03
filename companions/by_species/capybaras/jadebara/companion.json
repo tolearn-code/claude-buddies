@@ -1,5 +1,5 @@
 {
   "name": "Copperbrook",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Copperbrook never rests until the root cause is found.",
+  "personality": "Copperbrook's ° eyes focus on the bug report with the unblinking calm of a capybara who has heard every excuse for undefined behavior and is choosing not to comment. Hatless and methodical, it finds the fault in the third dependency layer and patches it cleanly — then sits there serenely while the rest of the team argues about chaos engineering.",
   "hatchedAt": 1775211128986
 }

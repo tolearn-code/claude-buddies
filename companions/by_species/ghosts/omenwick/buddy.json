@@ -1,6 +1,6 @@
 {
   "name": "Amethystveil",
-  "personality": "A wild-eyed force who thrives in broken deploys. Amethystveil rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "That propeller on Amethystveil's hat has never actually lifted it off the ground, but the ghost treats spinning it as a stress response whenever the CI pipeline melts. Its × eyes gleam at the prospect of a system-wide outage, CHAOS is where it thrives, and its complete lack of WISDOM means it won't know why everything's on fire — but it'll be the first one having fun.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128893,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Sagewhisk",
-  "personality": "A wild-eyed force who thrives in broken deploys. Sagewhisk rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "This wide-eyed cat under a tiny rubber duck introduces entropy into every system it touches like a deployment script with no rollback. It can't see the forest for the stack traces, so there's plenty of fire and no map for how it started.",
   "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
   "hatchedAt": 1775211128632,
   "salt": "unknown",

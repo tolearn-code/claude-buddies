@@ -1,6 +1,6 @@
 {
   "name": "Jadebeak",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Jadebeak never rests until the root cause is found.",
+  "personality": "Jadebeak's @ eyes peer from beneath a tiny rubber duck with the focused intensity of an owl that finds the duck entirely irrelevant — it has a bug to catch and the accoutrements are other people's problem. It will find the failure; it just won't be around to explain it when you get back from lunch.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128719,
   "salt": "unknown",

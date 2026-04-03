@@ -1,5 +1,5 @@
 {
   "name": "Vermilroot",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Vermilroot never rests until the root cause is found.",
+  "personality": "Vermilroot hunts bugs with the relentless focus of a wizard who has read the entire POSIX spec, tracing every bad pointer back to its origin with spiraling eyes — patience for slow test runners, however, is not a spell in this mushroom's grimoire.",
   "hatchedAt": 1775211129149
 }

@@ -1,6 +1,6 @@
 {
   "name": "Garnetveil",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Garnetveil waits through every flaky test, then offers one quiet fix.",
+  "personality": "A wizard-hatted ghost who treats your codebase like a long-running ritual requiring total calm — Garnetveil's × eyes measure sprint velocity with the composure of someone who has already mentally shipped it. PATIENCE is its strongest spell, and while it could theoretically summon CHAOS, it'd rather wait for you to do that yourself.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128894,
   "salt": "unknown",

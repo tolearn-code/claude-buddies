@@ -1,6 +1,6 @@
 {
   "name": "Cliffheart",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Cliffheart never rests until the root cause is found.",
+  "personality": "A spiral-eyed haloed turtle who has debugged more impossible race conditions than it cares to count, all without breaking a sweat or offering a single editorial remark. Snark is not a feature — Cliffheart fixes first, judges never.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775211128807,
   "salt": "unknown",

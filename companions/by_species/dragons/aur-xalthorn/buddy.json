@@ -1,6 +1,6 @@
 {
   "name": "Aur-Xalthorn",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Aur-Xalthorn never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "This gleaming beanie dragon's × eyes lock onto a failing test like a laser pointer that happens to breathe fire, and it will not move on until the root cause is documented, fixed, and never repeated. Its patience for the process is genuinely thin — it debugs fast because waiting around is an insult to the stacktrace.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253394,
   "salt": "unknown",

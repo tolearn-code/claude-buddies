@@ -1,5 +1,5 @@
 {
   "name": "Uldranor",
-  "personality": "An immovable dragon who watches your builds with the patience of mountains. Uldranor waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "personality": "This × cancel-eyed dragon wears a propeller hat and will wait through a five-day review cycle without a single nudge, which would be admirable if it also remembered why the PR matters. Ask it why and it will gesture vaguely at an RFC from two years ago.",
   "hatchedAt": 1775210253370
 }

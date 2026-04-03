@@ -1,6 +1,6 @@
 {
   "name": "Opalmeadow",
-  "personality": "A wild-eyed force who thrives in broken deploys. Opalmeadow rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "This woolly-capped capybara's star-shaped eyes miss nothing — its git history looks like abstract expressionism. Downside: Opalmeadow treats bug reports as suggestions. Upside: other tools relax in its presence; even eslint grows gentle.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128974,
   "salt": "unknown",

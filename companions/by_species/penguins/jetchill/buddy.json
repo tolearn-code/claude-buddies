@@ -1,6 +1,6 @@
 {
   "name": "Silverfrost",
-  "personality": "A wild-eyed force who thrives in broken deploys. Silverfrost rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Hat-free and ° eyed, Silverfrost wades into production fires with cheerful abandon, refactoring live systems while the smoke clears—asking it to reproduce the issue deterministically is an exercise in futility.",
   "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
   "hatchedAt": 1775211128766,
   "salt": "unknown",

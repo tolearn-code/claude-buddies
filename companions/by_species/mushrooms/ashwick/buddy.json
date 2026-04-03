@@ -1,6 +1,6 @@
 {
   "name": "Mycelward",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Mycelward never rests until the root cause is found.",
+  "personality": "A tophat-wearing mushroom whose ° eyes have catalogued every exception type in three major runtimes, Mycelward approaches debugging the way a mycologist approaches a new specimen: methodically, without sentiment. DEBUGGING is its calling; WISDOM is what it defers to after the root cause is already pinned.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129151,
   "salt": "unknown",

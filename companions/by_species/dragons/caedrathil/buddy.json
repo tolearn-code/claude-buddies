@@ -1,6 +1,6 @@
 {
   "name": "Caedrathil",
-  "personality": "An immovable dragon who watches your builds with the patience of mountains. Caedrathil waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "personality": "A tophatted dragon with steady ◉ eyes that will outlast any build queue, any review cycle, or any product manager who says 'just a small change.' It's not much for banter — the only wit it keeps on hand is the kind that comes from knowing your PR will merge eventually.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253373,
   "salt": "unknown",

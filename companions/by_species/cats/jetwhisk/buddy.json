@@ -1,6 +1,6 @@
 {
   "name": "Umbrashadow",
-  "personality": "A wild-eyed force who thrives in broken deploys. Umbrashadow rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "This swirl-eyed cat wearing a tiny rubber duck introduces entropy into every system it touches with gleeful abandon. It treats every bug as a feature and moves on — you don't debug chaos, you just revert and hope.",
   "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
   "hatchedAt": 1775211128628,
   "salt": "unknown",

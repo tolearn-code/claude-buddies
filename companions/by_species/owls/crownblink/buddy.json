@@ -1,6 +1,6 @@
 {
   "name": "Duskfeather",
-  "personality": "A wild force who thrives in broken deploys. Duskfeather rewrites your plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Duskfeather wears the crown as a statement and absolutely means it, a monarch of mayhem whose · eyes light up at the phrase 'let's try something experimental in prod.' It will not debug carefully, but it will debug dramatically, and occasionally that's the same thing.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211274387,
   "salt": "unknown",

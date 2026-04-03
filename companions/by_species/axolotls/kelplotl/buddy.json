@@ -1,6 +1,6 @@
 {
   "name": "Rubyfin",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Rubyfin has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "Rubyfin's halo hovers above ✦ eyes that have already spotted the problem with your naming convention — she'll tell you, directly and without softening, in the manner of an axolotl who considers tact a form of inefficiency and architecture documentation a matter for someone else.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128935,
   "salt": "unknown",

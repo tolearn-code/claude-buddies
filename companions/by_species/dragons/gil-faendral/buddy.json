@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Faendral",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Gîl-Faendral never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "This shimmering wizard-hat dragon's · eyes scan a broken build with the focused intensity of someone who has never once blamed a tool or a framework — only the logic. It finds every subtle defect in silence, because snark would just slow down the fix.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253386,
   "salt": "unknown",

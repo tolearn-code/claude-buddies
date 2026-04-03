@@ -1,5 +1,5 @@
 {
   "name": "Mîr-Duranthel",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Mîr-Duranthel never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "This shimmering propeller dragon's ◉ eyes never leave the profiler, tracking down the slowest function in the call stack with the relentless precision of something that takes CPU cycles personally. The big picture can wait — right now there is a hot path that needs to answer for itself.",
   "hatchedAt": 1775210253396
 }

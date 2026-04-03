@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Duskfeather",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Ithil-Duskfeather never rests until the root cause is found.",
+  "personality": "Ithil-Duskfeather's halo glows faintly above @ eyes that scan error logs the way most owls watch mice — laser-focused on the failure path, too absorbed in the trace to bother filing a postmortem with personality.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128741,
   "salt": "unknown",

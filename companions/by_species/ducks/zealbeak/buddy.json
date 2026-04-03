@@ -1,6 +1,6 @@
 {
   "name": "Minnowglen",
-  "personality": "A wild-eyed force who thrives in broken deploys. Minnowglen rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "A wizard-hatted duck who treats your test suite as a suggestion and your architecture as a rough draft, Minnowglen's ◉ eyes sparkle whenever it spots an opportunity to rewrite everything. It cannot debug — but it can delete the bug along with the feature.",
   "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
   "hatchedAt": 1775211128486,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Orathindel",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Orathindel never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "A wizard-hatted dragon with @ crosshair eyes who can hunt a flaky test to its exact environmental variable cause, then hand you the fix with zero explanation of how it got there. It has Opinions about architecture but loses interest in sharing them around the time you actually want to hear them.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253378,
   "salt": "unknown",

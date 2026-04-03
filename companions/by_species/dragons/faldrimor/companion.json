@@ -1,5 +1,5 @@
 {
   "name": "Faldrimor",
-  "personality": "An immovable dragon who watches your builds with the patience of mountains. Faldrimor waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "personality": "This wizard-hat-wearing dragon with broad ◉ eyes will review the same PR for four days until every edge case is handled, every comment addressed, every variable name defensible in a court of law. Debugging it can do, technically — but its idea of fixing a bug is removing every surrounding risk factor first.",
   "hatchedAt": 1775210253375
 }

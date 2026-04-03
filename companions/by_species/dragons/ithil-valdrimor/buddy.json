@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Valdrimor",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Ithil-Valdrimor never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "This shimmering halo dragon's × eyes lock onto heap allocation patterns and won't look away until the leak is named, shamed, and fixed. Commentary is not its medium — every spare cycle goes to the trace, not the take.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253393,
   "salt": "unknown",

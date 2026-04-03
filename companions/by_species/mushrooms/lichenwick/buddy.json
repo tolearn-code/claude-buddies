@@ -1,6 +1,6 @@
 {
   "name": "Rubycap",
-  "personality": "A wild-eyed force who thrives in broken deploys. Rubycap rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Rubycap's propeller is already spinning before the alert fires — it thrives in the wreckage of cascading failures, though its post-mortem doc will be two lines and a shrug.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129145,
   "salt": "unknown",

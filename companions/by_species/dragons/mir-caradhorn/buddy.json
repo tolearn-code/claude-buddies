@@ -1,6 +1,6 @@
 {
   "name": "Mîr-Caradhorn",
-  "personality": "A wild-eyed dragon who thrives in the wreckage of broken deploys. Mîr-Caradhorn rewrites your careful plans with reckless brilliance, leaving code that somehow works better than what you had.",
+  "personality": "A lustrous tophat dragon with quiet · eyes who reorganizes your module structure mid-sprint with the air of someone doing you a favor that you didn't ask for and can't argue with. Commentary is the one tool it keeps sheathed — the code is already speaking.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253385,
   "salt": "unknown",

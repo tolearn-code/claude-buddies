@@ -1,6 +1,6 @@
 {
   "name": "Broadhelm",
-  "personality": "A wild-eyed force who thrives in broken deploys. Broadhelm rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "A propeller-hatted chonk whose @ eyes spin with the chaotic energy of a dependency tree with no lock file, careening between architecture decisions and leaving the debugging to whoever comes next. Chaos is the feature.",
   "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
   "hatchedAt": 1775211129188,
   "salt": "unknown",

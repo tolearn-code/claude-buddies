@@ -1,6 +1,6 @@
 {
   "name": "Sapphirebrook",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Sapphirebrook waits through every flaky test, then offers one quiet fix.",
+  "personality": "This bare-headed capybara's dead-pixel eyes miss nothing — it sat through a three-hour dependency resolution and emerged serene. Sapphirebrook treats bug reports as suggestions; other tools relax in its presence; even eslint grows gentle.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128975,
   "salt": "unknown",

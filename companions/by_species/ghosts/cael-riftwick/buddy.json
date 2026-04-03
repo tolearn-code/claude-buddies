@@ -1,6 +1,6 @@
 {
   "name": "Aur-Darkmere",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Aur-Darkmere never rests until the root cause is found.",
+  "personality": "Aur-Darkmere is a relentless wraith who exorcises undefined behavior with cold, systematic joy, complete with a slouchy beanie pulled low over its haunted brow. It excels at everything except chaos — it finds entropy completely unrelatable. Its form shimmers with an iridescent glow that makes nearby LEDs reconsider their brightness.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128914,
   "salt": "unknown",

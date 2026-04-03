@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Faldrimor",
-  "personality": "A wild-eyed dragon who thrives in the wreckage of broken deploys. Gîl-Faldrimor rewrites your careful plans with reckless brilliance, leaving code that somehow works better than what you had.",
+  "personality": "A gleaming wizard-hat dragon with wide ◉ eyes who treats a production incident like an invitation to rebuild the entire deployment pipeline from scratch — on the spot, before standup, with tabs open to six different RFCs. It has opinions about everything except when to stop and write a comment.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253397,
   "salt": "unknown",

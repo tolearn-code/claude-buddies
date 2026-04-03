@@ -1,5 +1,5 @@
 {
   "name": "Galathrim",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Galathrim never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "A beanie-wearing dragon with sharp ◉ eyes who hunts down memory leaks with the intensity of someone who has been personally wronged by a segfault. Big-picture architectural reasoning is not really its thing — there's a bug, it needs killing, philosophy later.",
   "hatchedAt": 1775210253375
 }

@@ -1,6 +1,6 @@
 {
   "name": "Rustglow",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Rustglow never rests until the root cause is found.",
+  "personality": "Rustglow's ◉ eyes spin beneath its propeller hat, an axolotl that debugs with gleeful precision while the environment quietly catches fire around it. Entropy is fuel, not obstacle — it has debugged through worse and will debug through worse again.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128941,
   "salt": "unknown",

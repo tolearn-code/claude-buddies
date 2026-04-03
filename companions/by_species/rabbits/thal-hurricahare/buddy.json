@@ -1,6 +1,6 @@
 {
   "name": "Anar-Lavenddash",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Anar-Lavenddash waits through every flaky test, then offers one quiet fix.",
+  "personality": "A rabbit blessed with four-pointed eyes and a duck-crowned silhouette; it has never once closed a tab mid-compile. Its luminous form is visible from across the office, especially at 3am during the deploy. Anar-Lavenddash has never once deployed on a Friday, but never refactors slowly if it can refactor at full sprint.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129119,
   "salt": "unknown",

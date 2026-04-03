@@ -1,5 +1,5 @@
 {
   "name": "Copperwhisk",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Copperwhisk waits through every flaky test, then offers one quiet fix.",
+  "personality": "This wide-eyed cat in a wizard hat outlasts any infinite loop or incompetent teammate through multi-hour build pipelines and passive-aggressive PR threads. It treats every bug as a feature and moves on, so don't expect a log trail — just silent, tenacious endurance.",
   "hatchedAt": 1775211128631
 }

@@ -1,6 +1,6 @@
 {
   "name": "Mîr-Mistwalker",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Mîr-Mistwalker never rests until the root cause is found.",
+  "personality": "Mîr-Mistwalker is a ghost so good at tracing errors that even the compiler apologizes. It excels at everything except wisdom — ask it about tech debt and it will simply float away. An eerie luminescence surrounds it, casting long shadows across every dependency graph.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128905,
   "salt": "unknown",

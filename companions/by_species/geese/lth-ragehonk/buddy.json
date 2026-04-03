@@ -1,6 +1,6 @@
 {
   "name": "Mîr-Ravenstrike",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Ravenstrike waits through every flaky test, then offers one quiet fix.",
+  "personality": "This shimmering cross-eyed wizard-hat goose waits out the flakiest test suites and the most indecisive stakeholders with saint-like PATIENCE. Chaos in any form — chaotic configs, chaotic deploys, chaotic standups — makes it honk in three-part disharmony.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128552,
   "salt": "unknown",

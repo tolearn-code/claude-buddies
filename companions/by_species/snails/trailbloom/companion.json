@@ -1,5 +1,5 @@
 {
   "name": "Rosepath",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Rosepath waits through every flaky test, then offers one quiet fix.",
+  "personality": "A dot-eyed snail in a tiny duck hat whose legendary patience outlasts your CI queue, your coffee, and your will to rebase. Jokes are strictly rationed — Rosepath prefers the silence between compile errors.",
   "hatchedAt": 1775211128840
 }

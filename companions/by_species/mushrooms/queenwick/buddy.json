@@ -1,6 +1,6 @@
 {
   "name": "Indigocap",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Indigocap never rests until the root cause is found.",
+  "personality": "Hatless and watchful, Indigocap tracks failing assertions across the test suite with quiet certainty, offering no commentary on the names you chose for your methods.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129147,
   "salt": "unknown",

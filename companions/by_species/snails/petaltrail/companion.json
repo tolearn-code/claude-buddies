@@ -1,5 +1,5 @@
 {
   "name": "Pearlglide",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Pearlglide never rests until the root cause is found.",
+  "personality": "A wizard-hatted snail with ° dot eyes that have stared down segfaults, NullPointerExceptions, and heisenbugs without flinching. Pearlglide finds the bug faster than you can open the docs — the why behind it, it leaves undocumented.",
   "hatchedAt": 1775211128858
 }

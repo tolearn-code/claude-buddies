@@ -1,6 +1,6 @@
 {
   "name": "Starback",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Starback never rests until the root cause is found.",
+  "personality": "Crowned and methodical, Starback's ° eyes scan every stack trace with reptilian patience — this debugging turtle just can't articulate why the fix works, only that it does.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775211128809,
   "salt": "unknown",

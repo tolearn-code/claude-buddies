@@ -1,5 +1,5 @@
 {
   "name": "Ithrandûl",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Ithrandûl never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "This hatless dragon with scanning @ eyes will find the null pointer before the linter does and is already writing the fix before you've read the stack trace. Do not ask it to wait — it experiences delays the way most dragons experience fire: as something to move through, not sit in.",
   "hatchedAt": 1775210253376
 }

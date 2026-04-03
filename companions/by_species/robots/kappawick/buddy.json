@@ -1,6 +1,6 @@
 {
   "name": "Garnetframe",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Garnetframe never rests until the root cause is found.",
+  "personality": "This tiny-duck-adorned hollow-eyed robot tracks down bugs with preternatural precision and will not apologize for it. Garnetframe is indispensable until you need it to sit through a slow CI run without timing out.",
   "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
   "hatchedAt": 1775211129073,
   "salt": "unknown",

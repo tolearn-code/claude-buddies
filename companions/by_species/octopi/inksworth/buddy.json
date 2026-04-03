@@ -1,6 +1,6 @@
 {
   "name": "Brinelord",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Brinelord waits through every flaky test, then offers one quiet fix.",
+  "personality": "Brinelord drifts bareheaded with pinpoint eyes watching your deploy pipeline like tides watch the shore — an octopus of legendary patience who will outlast any timeout, and who approaches debugging with the same method: wait and observe.",
   "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
   "hatchedAt": 1775211128655,
   "salt": "unknown",

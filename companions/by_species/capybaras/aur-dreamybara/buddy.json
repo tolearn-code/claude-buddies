@@ -1,6 +1,6 @@
 {
   "name": "Aur-Restmere",
-  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Aur-Restmere never rests until the root cause is found.",
+  "personality": "Aur-Restmere's glittering ✦ star-eyes illuminate the darkest corners of a heap dump with eerie precision, drawn to memory leaks like a capybara to warm water. Shiny but hatless, this capybara has no time for patience — it has already bisected the git history and found your bug three commits ago while you were still reading the error message.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128993,
   "salt": "unknown",

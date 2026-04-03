@@ -1,5 +1,5 @@
 {
   "name": "Mîr-Haldrim",
-  "personality": "A wild-eyed dragon who thrives in the wreckage of broken deploys. Mîr-Haldrim rewrites your careful plans with reckless brilliance, leaving code that somehow works better than what you had.",
+  "personality": "This radiant, iridescent dragon with faint · pinhole eyes wears a tiny duck hat that wobbles whenever it pivots mid-sprint to set everything on fire. Ask it to reproduce a bug and it shrugs — that is what git bisect is for — and somehow the chaos still ships on time.",
   "hatchedAt": 1775210253387
 }

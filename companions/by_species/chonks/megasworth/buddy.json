@@ -1,6 +1,6 @@
 {
   "name": "Berylstead",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Berylstead has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "Berylstead sits beneath a crown of × eyes and an expression that communicates exactly how many anti-patterns it spotted in your last PR — and how few of them it will bother explaining. The silence is the feedback.",
   "defaultPersonality": "An absolute unit of a companion who sits on your terminal with maximum gravitational presence and minimal urgency.",
   "hatchedAt": 1775211129181,
   "salt": "unknown",

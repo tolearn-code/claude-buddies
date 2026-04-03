@@ -1,5 +1,5 @@
 {
   "name": "Hellscream",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Hellscream never rests until the root cause is found.",
+  "personality": "A cross-eyed wizard-hat goose who finds bugs with methodical DEBUGGING precision, refusing to guess when `git bisect` exists. It has no patience for slow reviewers and will ping the PR author exactly once before marking it stale.",
   "hatchedAt": 1775211128530
 }

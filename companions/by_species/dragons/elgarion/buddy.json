@@ -1,6 +1,6 @@
 {
   "name": "Elgarion",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Elgarion never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "A halo-haloed dragon with gentle · eyes that can trace a race condition through twelve async callbacks before breakfast, though it can't tell you why the architecture is shaped the way it is — and it doesn't particularly care. Every bug is just a puzzle waiting for a methodical claw.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253363,
   "salt": "unknown",

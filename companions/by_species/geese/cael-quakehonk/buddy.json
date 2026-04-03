@@ -1,6 +1,6 @@
 {
   "name": "Thal-Bloodbeak",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Thal-Bloodbeak never rests until the root cause is found.",
+  "personality": "A luminous beanie goose with ° eyes that find memory leaks in the dark, Thal-Bloodbeak runs bisect with grim focus and never stops until the offending commit is named and shamed. Grand architectural understanding is not the goal — the bug is.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128563,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Stormleap",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Ithil-Stormleap never rests until the root cause is found.",
+  "personality": "A luminous halo rabbit with tiny dot eyes that quietly observe every misaligned indent and forgotten null check, then get to DEBUGGING work with terrifying efficiency. Its WISDOM dump stat means it hunts bugs by instinct rather than architecture — and mostly catches them.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129114,
   "salt": "unknown",

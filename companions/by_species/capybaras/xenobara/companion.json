@@ -1,5 +1,5 @@
 {
   "name": "Lavendmoss",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Lavendmoss waits through every flaky test, then offers one quiet fix.",
+  "personality": "Lavendmoss wears its halo and waits for the CI to green with ◉ eyes that emit something between serenity and mild accusation — it has logged every flaky test failure this month, and will wait for you to fix them. Actually digging into why the tests are flaky is a task for capybaras with more interest in debugging.",
   "hatchedAt": 1775211128981
 }

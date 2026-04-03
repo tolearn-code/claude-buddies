@@ -1,6 +1,6 @@
 {
   "name": "Siegebreaker",
-  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Siegebreaker speaks rarely, but reshapes how you think about architecture.",
+  "personality": "A top-hatted goose of considerable insight, Siegebreaker's @ eyes have mapped every dependency graph in your repo from memory. It knows exactly what's wrong and will explain it at length — just don't expect a punchline.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128536,
   "salt": "unknown",

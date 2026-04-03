@@ -1,6 +1,6 @@
 {
   "name": "Mîr-Indigobrook",
-  "personality": "A wild-eyed force who thrives in broken deploys. Mîr-Indigobrook rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "The arcane-hatted capybara turns its x-marked gaze to one purpose: it once merged two unrelated codebases just to see what would happen. Its iridescent sheen catches the light of every passing monitor. It considers 'it works on my machine' a valid resolution — yet doesn't pick fights with your toolchain — just coexists.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128999,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Vorrhak",
-  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Vorrhak rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "A halo-wearing goose with · eyes that radiate pure entropic energy, Gîl-Vorrhak treats your deployment pipeline as a living system that simply needs more chaos to find its equilibrium. Debugging is for the next developer.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128544,
   "salt": "unknown",

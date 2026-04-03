@@ -1,6 +1,6 @@
 {
   "name": "Aur-Grakthul",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Grakthul waits through every flaky test, then offers one quiet fix.",
+  "personality": "This luminous goose halos itself with the glow of perfect patience, @ eyes tracking every slow build with the calm of someone who scheduled the retry before the failure happened. Chaos? Aur-Grakthul already filed the ticket to remove it.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128559,
   "salt": "unknown",

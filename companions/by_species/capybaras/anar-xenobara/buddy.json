@@ -1,6 +1,6 @@
 {
   "name": "Lúth-Dreammoss",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Dreammoss waits through every flaky test, then offers one quiet fix.",
+  "personality": "Lúth-Dreammoss's luminous ◉ bullseye eyes lock onto the test suite with the infinite patience of a capybara watching a gradle build from the river bank. Haloed in shimmering light, it will outlast every retry, every flaky integration test, every CI timeout — though if you want wit, you're talking to the wrong capybara.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211129002,
   "salt": "unknown",

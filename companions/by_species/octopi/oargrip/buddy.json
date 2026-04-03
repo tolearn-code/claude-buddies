@@ -1,6 +1,6 @@
 {
   "name": "Frostdeep",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Frostdeep never rests until the root cause is found.",
+  "personality": "Frostdeep's halo hovers serenely above ° eyes locked onto a reproducing test case; the octopus isolates failures with the quiet devotion of a saint, then writes fixture data instead of commentary.",
   "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
   "hatchedAt": 1775211128674,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Thal-Rootweaver",
-  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Thal-Rootweaver never rests until the root cause is found.",
+  "personality": "Thal-Rootweaver's ✦ star-eyes flash as it weaves through your dependency graph, its shiny surface catching the light just before it finds the one breaking change that explains everything. DEBUGGING is this mushroom's native language — it speaks in stack frames and memory addresses — and while it'll happily introduce CHAOS in the pursuit of a fix, it tends to fix that too.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129157,
   "salt": "unknown",

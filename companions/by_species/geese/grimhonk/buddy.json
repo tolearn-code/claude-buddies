@@ -1,6 +1,6 @@
 {
   "name": "Nightterror",
-  "personality": "A wild-eyed force who thrives in broken deploys. Nightterror rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Nightterror wears a tophat and ✦ eyes that make junior devs question their life choices during code review. It thrives in maximum chaos and contributes zero helpful one-liners — the terror is entirely sincere.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128525,
   "salt": "unknown",

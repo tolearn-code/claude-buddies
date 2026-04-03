@@ -1,6 +1,6 @@
 {
   "name": "Onyxmeadow",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Onyxmeadow waits through every flaky test, then offers one quiet fix.",
+  "personality": "Onyxmeadow's ° eyes observe the CI pipeline with the still contentment of a capybara in a warm bath — it will wait through seventeen retry attempts without complaint. Ask it to introduce a breaking change and watch it short-circuit; chaos is simply not on the menu.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128987,
   "salt": "unknown",

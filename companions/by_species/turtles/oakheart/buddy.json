@@ -1,6 +1,6 @@
 {
   "name": "Amethystback",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Amethystback has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "This top-hatted turtle's × eyes have clocked every bad design decision you've ever shipped, and Amethystback will cheerfully document them all — just don't wait around for a patient walkthrough.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775211128798,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Lúth-Azurefin",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Azurefin waits through every flaky test, then offers one quiet fix.",
+  "personality": "Lúth-Azurefin glows with a quiet inner light beneath its tophat, a shiny axolotl whose pinprick · eyes have perfected the art of watching the CI wheel spin without flinching. It will wait through every flaky retry with serene elegance — just don't expect chaos engineering to be on the agenda.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128949,
   "salt": "unknown",

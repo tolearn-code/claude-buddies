@@ -1,5 +1,5 @@
 {
   "name": "Driftmane",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Driftmane never rests until the root cause is found.",
+  "personality": "A propeller-hat penguin with · eyes that scan diffs at compiler speed, Driftmane finds the bug buried twenty frames deep in your stack trace—and stays conspicuously silent when it's time to explain how it got there.",
   "hatchedAt": 1775211128749
 }

@@ -1,6 +1,6 @@
 {
   "name": "Opalmane",
-  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Opalmane speaks rarely, but reshapes how you think about architecture.",
+  "personality": "A tophat-wearing penguin with × eyes who reads RFCs for fun and has an opinion on your schema design before you've even finished the sentence, though getting it to wait while you run the full test suite is a losing proposition.",
   "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
   "hatchedAt": 1775211128756,
   "salt": "unknown",

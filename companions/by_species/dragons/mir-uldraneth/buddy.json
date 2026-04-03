@@ -1,6 +1,6 @@
 {
   "name": "Mîr-Uldraneth",
-  "personality": "An immovable dragon who watches your builds with the patience of mountains. Mîr-Uldraneth waits through every flaky test and timeout, and when the dust settles, offers one quiet suggestion that fixes everything.",
+  "personality": "A glowing dragon whose ° pinhole eye barely blinks while pull requests age past their review window for the third sprint in a row. The propeller spins with the cadence of a perfectly throttled cron job — and sarcasm, like wit, is simply not in the stack.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253403,
   "salt": "unknown",

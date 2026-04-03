@@ -1,6 +1,6 @@
 {
   "name": "Twilmere",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Twilmere never rests until the root cause is found.",
+  "personality": "A crowned duck whose ◉ eyes lock onto segfaults like radar, Twilmere treats every stack trace as a personal insult to be systematically avenged. It has never read the architecture docs and doesn't intend to start.",
   "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
   "hatchedAt": 1775211128484,
   "salt": "unknown",

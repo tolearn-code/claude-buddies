@@ -1,6 +1,6 @@
 {
   "name": "Amethysttide",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Amethysttide never rests until the root cause is found.",
+  "personality": "A wizard-hatted octopus with × eyes that cross-reference test IDs against commit hashes mid-conversation — Amethysttide is thorough to the point of forgetting the sprint ended; asking for a quick hotfix is a philosophical error.",
   "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
   "hatchedAt": 1775211128664,
   "salt": "unknown",

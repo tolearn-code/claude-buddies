@@ -1,6 +1,6 @@
 {
   "name": "Cael-Silvermeadow",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Cael-Silvermeadow never rests until the root cause is found.",
+  "personality": "Cael-Silvermeadow's radiant ° eyes fix on failing assertions with the laser focus of a capybara who memorized every gdb command before breakfast. This luminous beanie-topped capybara can reproduce any flaky test with the right seed value — patience, however, is not in its skill tree, especially mid-bisect.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211129009,
   "salt": "unknown",

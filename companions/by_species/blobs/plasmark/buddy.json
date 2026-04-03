@@ -1,6 +1,6 @@
 {
   "name": "Sagemist",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Sagemist has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "Sagemist's propeller spins as its × eyes find the bug you didn't know existed and describes it in terms that are technically accurate and functionally unkind. Debugging is its art form; subtlety is not.",
   "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
   "hatchedAt": 1775211128574,
   "salt": "unknown",

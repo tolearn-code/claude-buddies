@@ -1,6 +1,6 @@
 {
   "name": "Dawnspore",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Dawnspore never rests until the root cause is found.",
+  "personality": "Haloed and cross-eyed with purpose, Dawnspore hunts bugs with dawn-fresh focus, though anything resembling a race condition sends it into tranquil freefall.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129142,
   "salt": "unknown",

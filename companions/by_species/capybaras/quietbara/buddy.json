@@ -1,6 +1,6 @@
 {
   "name": "Ambermeadow",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Ambermeadow waits through every flaky test, then offers one quiet fix.",
+  "personality": "Ambermeadow sits under its wizard hat and waits — not casting any spells, just letting the build finish in its own time, × eyes half-lidded with gentle faith. Fixing a flaky test without knowing the root cause is simply not something it will rush into.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128977,
   "salt": "unknown",

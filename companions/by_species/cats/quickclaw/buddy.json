@@ -1,6 +1,6 @@
 {
   "name": "Dawnpaw",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Dawnpaw waits through every flaky test, then offers one quiet fix.",
+  "personality": "This x-eyed cat under a halo that floats slightly too low outlasts any infinite loop or incompetent teammate through any broken pipeline or review limbo. It treats every bug as a feature and moves on, so its stoic patience never comes with a root-cause analysis.",
   "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
   "hatchedAt": 1775211128619,
   "salt": "unknown",

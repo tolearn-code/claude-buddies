@@ -1,6 +1,6 @@
 {
   "name": "Topazshade",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Topazshade waits through every flaky test, then offers one quiet fix.",
+  "personality": "Topazshade's beanie sits askew over eyes that have seen a thousand CI runs and developed the philosophical patience to watch a thousand more. Its ° eyes register each test failure with the calm acceptance of entropy, and its PATIENCE is real — but its WISDOM budget ran out sometime around the fifth framework migration it quietly outlasted.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128904,
   "salt": "unknown",

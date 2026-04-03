@@ -1,6 +1,6 @@
 {
   "name": "Thal-Sapphirephantom",
-  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Sapphirephantom rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Thal-Sapphirephantom is a gleefully chaotic ghost who treats 'works on my machine' as a valid deployment strategy, complete with a wizard hat that was definitely not borrowed from a senior engineer. It excels at everything except debugging — ask it to trace its own logic, though, and you'll get a haunted stare. Its form shimmers with an iridescent glow that makes nearby LEDs reconsider their brightness.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128922,
   "salt": "unknown",

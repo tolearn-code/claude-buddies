@@ -1,6 +1,6 @@
 {
   "name": "Moonvigil",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Moonvigil never rests until the root cause is found.",
+  "personality": "Moonvigil's bullseye eyes never blink through a debugging session — it is constitutionally incapable of leaving a stack trace unresolved, and the beanie is just there to make it look approachable. It refuses to write a clever comment because it refuses to find anything clever.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128714,
   "salt": "unknown",

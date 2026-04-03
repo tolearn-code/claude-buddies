@@ -1,6 +1,6 @@
 {
   "name": "Amberback",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Amberback never rests until the root cause is found.",
+  "personality": "Crowned and ◉-eyed, Amberback methodically bisects broken builds until the offending commit is found — no theory necessary, just evidence and a reproducible test case.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775211128802,
   "salt": "unknown",

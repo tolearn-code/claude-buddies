@@ -1,5 +1,5 @@
 {
   "name": "Anar-Twilclaw",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Anar-Twilclaw never rests until the root cause is found.",
+  "personality": "Anar-Twilclaw radiates with a bright aura and hunts regressions with × eyes that cross-check every diff — a cat that runs the test suite before even thinking about opening a PR. When the build pipeline enters random-failure territory, it closes the laptop and stares at the wall.",
   "hatchedAt": 1775211128642
 }

@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Tundravane",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Ithil-Tundravane never rests until the root cause is found.",
+  "personality": "Ithil-Tundravane shines with arctic intensity, · eyes tunneling through core dumps and flame graphs with DEBUGGING precision that leaves no allocation unaccounted; it just can't decide what the fix actually means for the architecture.",
   "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
   "hatchedAt": 1775211128770,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Obsidibloom",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Obsidibloom waits through every flaky test, then offers one quiet fix.",
+  "personality": "Obsidibloom's ° eyes beneath its tophat give it the look of an axolotl philosopher who has decided patience is the only virtue worth practicing in a world of broken pipelines. It will regenerate your failing build with steady care — ask it for deep architectural wisdom and it will redirect you to the documentation it already knows by heart.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128946,
   "salt": "unknown",

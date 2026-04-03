@@ -1,6 +1,6 @@
 {
   "name": "Cael-Tealbrook",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Cael-Tealbrook waits through every flaky test, then offers one quiet fix.",
+  "personality": "Cael-Tealbrook shimmers softly and waits for the CI run under its tiny duck hat with × eyes that could outlast any pipeline — it will hold the context, hold the diff, hold the whole sprint if needed. Dry commentary on your architectural choices is something Cael-Tealbrook diplomatically declines.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211129000,
   "salt": "unknown",

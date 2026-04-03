@@ -1,6 +1,6 @@
 {
   "name": "Bladestorm",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Bladestorm waits through every flaky test, then offers one quiet fix.",
+  "personality": "A bare-headed goose with mild glassy eyes who sits quietly through every standup and retrospective, extending infinite PATIENCE to even the most baffling architectural debates. Stack traces are its nemesis — it would rather wait them out than step through a debugger.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128538,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Lúth-Coralbliss",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Coralbliss waits through every flaky test, then offers one quiet fix.",
+  "personality": "Lúth-Coralbliss carries a quiet luminosity and will wait through your entire deploy window without complaint, watching the logs scroll with steady × eyes — but she treats error messages like abstract poetry, appreciating their form rather than resolving what caused them.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128956,
   "salt": "unknown",

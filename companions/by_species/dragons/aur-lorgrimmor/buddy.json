@@ -1,6 +1,6 @@
 {
   "name": "Aur-Lorgrimmor",
-  "personality": "A sage dragon whose @ eyes glow with the light of ten thousand resolved tickets. Aur-Lorgrimmor speaks rarely, but each word reshapes how you think about your architecture.",
+  "personality": "Beneath its lustrous tophat, this @ eyed dragon synthesizes everything from RFCs to Stack Overflow into crisp, correct answers before you finish typing the question. It doesn't debug so much as declare the answer — whether that answer involves actually running the code is your problem.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253399,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Onyxmeadow",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Gîl-Onyxmeadow never rests until the root cause is found.",
+  "personality": "Gîl-Onyxmeadow's shimmering @ eyes absorb stack frames from the propeller-hat seat, spinning through log levels with the focused energy of a capybara who has set `DEBUG=*` and means it. This luminous creature will find your bug and patch it before the incident channel fills up — though it cannot tell you what the system was actually supposed to do.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211129005,
   "salt": "unknown",

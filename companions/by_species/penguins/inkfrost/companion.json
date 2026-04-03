@@ -1,5 +1,5 @@
 {
   "name": "Peakwarden",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Peakwarden never rests until the root cause is found.",
+  "personality": "A tiny-duck-hatted penguin with @ eyes who treats every stack trace like a crime scene, Peakwarden cracks the case every time—though the long wait for it to reproduce the bug on its local machine might try your own patience.",
   "hatchedAt": 1775211128766
 }

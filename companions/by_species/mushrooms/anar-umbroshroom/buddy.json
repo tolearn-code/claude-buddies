@@ -1,6 +1,6 @@
 {
   "name": "Lúth-Gillthorn",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Lúth-Gillthorn never rests until the root cause is found.",
+  "personality": "This shiny mushroom's @ eyes stare at stack traces through its halo with the focused intensity of something that photosynthesizes bugs. Lúth-Gillthorn's DEBUGGING glows — it can trace a race condition through six services before you've finished reading the error message — but it never seems to accumulate wisdom from the experience, just finds the next bug.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129169,
   "salt": "unknown",

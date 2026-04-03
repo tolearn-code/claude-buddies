@@ -1,6 +1,6 @@
 {
   "name": "Brimstone",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Brimstone waits through every flaky test, then offers one quiet fix.",
+  "personality": "A bullseye-eyed tophat goose of tremendous PATIENCE, watching over the deployment pipeline with the composure of someone who has seen it fail seventeen times and knows it will eventually succeed. Debugging is beneath its station — it has a tophat and standards.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128532,
   "salt": "unknown",

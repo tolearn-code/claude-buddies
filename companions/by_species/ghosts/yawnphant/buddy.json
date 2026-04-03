@@ -1,6 +1,6 @@
 {
   "name": "Crimsonphantom",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Crimsonphantom has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "Crimsonphantom's wizard hat is slightly scorched, which matches its ◉ eyes: sharp, evaluative, and perpetually unimpressed. SNARK is its native dialect, and it speaks it fluently in code reviews, PR comments, and the occasional commit message. Waiting patiently for your build to finish while saying nothing critical is physically painful for it.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128897,
   "salt": "unknown",

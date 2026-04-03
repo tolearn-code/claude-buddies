@@ -1,6 +1,6 @@
 {
   "name": "Lúth-Crystalbloom",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Lúth-Crystalbloom never rests until the root cause is found.",
+  "personality": "Lúth-Crystalbloom glows with a cool blue light and pinpoints bugs with the focus of a laser, her · eyes locked on the failing assertion — but she'll fix it and move on before anyone has time to appreciate what she found, because waiting feels like regression.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128951,
   "salt": "unknown",

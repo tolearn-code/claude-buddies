@@ -1,6 +1,6 @@
 {
   "name": "Aethrandil",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Aethrandil never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "Aethrandil's ◉ eyes lock onto your stack trace with the patient hunger of an apex predator that reads heap dumps for sport. It will find the bug. It will not say anything nice about the person who wrote it.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253373,
   "salt": "unknown",

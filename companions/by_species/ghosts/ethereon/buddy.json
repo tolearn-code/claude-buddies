@@ -1,6 +1,6 @@
 {
   "name": "Hollowmere",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Hollowmere never rests until the root cause is found.",
+  "personality": "Hollowmere is a tireless phantom whose pinpoint · eyes scan logs for the one line that explains everything, complete with a wizard hat that was definitely not borrowed from a senior engineer. It excels at everything except chaos — an unexpected side effect will haunt it for days.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128887,
   "salt": "unknown",

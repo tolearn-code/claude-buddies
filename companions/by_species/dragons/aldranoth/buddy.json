@@ -1,6 +1,6 @@
 {
   "name": "Aldranoth",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Aldranoth never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "Aldranoth's · eyes follow your log output the way a hawk follows a mouse — steady, unhurried, and absolutely planning something. It knows where the bug lives, and it knows your variable naming is why it got comfortable there.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253360,
   "salt": "unknown",

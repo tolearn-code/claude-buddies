@@ -1,6 +1,6 @@
 {
   "name": "Goreclaw",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Goreclaw waits through every flaky test, then offers one quiet fix.",
+  "personality": "A little-o-eyed halo-crowned goose who holds the line through every flaky integration test and every scope-creep negotiation with quiet PATIENCE. Debugging a gnarly heap corruption is not in its skill set — it trusts the process, not the profiler.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128540,
   "salt": "unknown",

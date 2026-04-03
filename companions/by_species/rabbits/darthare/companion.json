@@ -1,5 +1,5 @@
 {
   "name": "Quicksilver",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Quicksilver has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "A beanie rabbit with star eyes who wields SNARK like a linter with no suppression flags — every naming convention violation, every missed early return, every else-after-return gets flagged with increasing theatrical despair. DEBUGGING dump stat means it spots style issues but leaves runtime errors to CI.",
   "hatchedAt": 1775211129099
 }

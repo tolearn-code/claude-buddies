@@ -1,6 +1,6 @@
 {
   "name": "Tealbloom",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Tealbloom never rests until the root cause is found.",
+  "personality": "Tealbloom's tophat and ◉ eyes give it the look of an axolotl academic who has traded theory for practice, stepping through broken diffs with methodical glee. Its wisdom is procedural, not philosophical — it knows how to find the bug, not necessarily what the bug means about your life choices.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128940,
   "salt": "unknown",

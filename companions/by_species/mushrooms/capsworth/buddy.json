@@ -1,6 +1,6 @@
 {
   "name": "Gillthorn",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Gillthorn waits through every flaky test, then offers one quiet fix.",
+  "personality": "Gillthorn's tophat perches above · eyes that have observed enough deployment timelines to know exactly how long to wait without once suggesting it knows better. PATIENCE is its professional identity — it stays in the ticket queue without complaint — though DEBUGGING remains a mystery it's content to leave unsolved for someone else.",
   "defaultPersonality": "A wry fungal sage who speaks in meandering tangents about your bugs while secretly enjoying the chaos.",
   "hatchedAt": 1775211129134,
   "salt": "unknown",

@@ -1,5 +1,5 @@
 {
   "name": "Twilpath",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Twilpath waits through every flaky test, then offers one quiet fix.",
+  "personality": "A halo-wearing snail whose · eyes watch your CI pipeline with the equanimity of someone who genuinely has time. Twilpath will wait out any retry loop — debugging the root cause, it prefers to leave as a thought exercise.",
   "hatchedAt": 1775211128839
 }

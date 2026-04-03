@@ -1,6 +1,6 @@
 {
   "name": "Coppermere",
-  "personality": "A wild-eyed force who thrives in broken deploys. Coppermere rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Coppermere is a gleefully chaotic ghost who treats 'works on my machine' as a valid deployment strategy, complete with a phantom crown worn with unmistakable authority. It excels at everything except wisdom — long-term thinking is entirely beyond it.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128892,
   "salt": "unknown",

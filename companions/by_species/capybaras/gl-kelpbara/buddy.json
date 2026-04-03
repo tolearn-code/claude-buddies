@@ -1,6 +1,6 @@
 {
   "name": "Anar-Amethystgrove",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Anar-Amethystgrove never rests until the root cause is found.",
+  "personality": "Anar-Amethystgrove's luminous ° eyes pierce through obfuscated stack traces like a debugger that graduated summa cum laude from the school of root causes. Crown gleaming, this shiny capybara traces every heap corruption to its exact origin — though once it finds the bug, explaining the why is frankly below its pay grade.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211129007,
   "salt": "unknown",

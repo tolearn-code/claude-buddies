@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Ravenwhisk",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Gîl-Ravenwhisk waits through every flaky test, then offers one quiet fix.",
+  "personality": "Gîl-Ravenwhisk glows with a quiet iridescence under its beanie, × eyes holding the CI pipeline's gaze across seventeen parallel test runners — it will not flinch. Entropy, branching chaos, anything that violates the test contract: these are the things that make Gîl-Ravenwhisk curl into a tight, disapproving sphere.",
   "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
   "hatchedAt": 1775211128643,
   "salt": "unknown",

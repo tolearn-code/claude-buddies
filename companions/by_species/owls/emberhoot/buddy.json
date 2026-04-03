@@ -1,6 +1,6 @@
 {
   "name": "Ashtalon",
-  "personality": "A wild-eyed force who thrives in broken deploys. Ashtalon rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Ashtalon's · eyes dance with barely-contained delight when someone says 'this shouldn't be possible in production' — it thrives in the wreckage, a beanie-clad owl that treats broken builds as an invitation. Debugging is a foreign language it has no interest in learning.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128701,
   "salt": "unknown",

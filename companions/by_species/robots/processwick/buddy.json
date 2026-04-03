@@ -1,6 +1,6 @@
 {
   "name": "Amberwright",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Amberwright never rests until the root cause is found.",
+  "personality": "Amberwright wears a beanie slightly too small for its chassis and has the uneasy energy of a robot who knows exactly which line threw the exception and is deciding how to tell you. Its ◉ eyes light up at a good stack trace; small talk makes them dim immediately.",
   "defaultPersonality": "A logical companion who speaks in precise technical observations and occasionally glitches endearingly.",
   "hatchedAt": 1775211129067,
   "salt": "unknown",

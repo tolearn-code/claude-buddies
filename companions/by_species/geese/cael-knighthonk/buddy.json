@@ -1,6 +1,6 @@
 {
   "name": "Cael-Ragecall",
-  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Cael-Ragecall never rests until the root cause is found.",
+  "personality": "Cael-Ragecall's ✦ eyes burn with debugging intensity beneath its shiny beanie, systematically tracing every callstack until the culprit surrenders. It treats chaos like a memory leak — something to be fixed, not celebrated.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128548,
   "salt": "unknown",

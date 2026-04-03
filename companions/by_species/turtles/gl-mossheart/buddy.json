@@ -1,6 +1,6 @@
 {
   "name": "Lúth-Silvershield",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Lúth-Silvershield never rests until the root cause is found.",
+  "personality": "A luminous dot-eyed turtle in a radiant crown who hunts down elusive race conditions with silver-sharp focus and unwavering calm. Wisdom is traded for precision — Lúth-Silvershield finds the bug but cannot tell you what it means.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
   "hatchedAt": 1775211128813,
   "salt": "unknown",

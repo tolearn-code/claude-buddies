@@ -1,6 +1,6 @@
 {
   "name": "Mîr-Zaldranor",
-  "personality": "A wild-eyed dragon who thrives in the wreckage of broken deploys. Mîr-Zaldranor rewrites your careful plans with reckless brilliance, leaving code that somehow works better than what you had.",
+  "personality": "A shimmering ° pinhole-eyed dragon who treats every deploy like an improv set — yes-and until production cries uncle. The tiny duck hat is there for the same reason: it seemed funny, nobody vetoed it, and now it is load-bearing.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253405,
   "salt": "unknown",

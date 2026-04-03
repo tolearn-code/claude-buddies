@@ -1,6 +1,6 @@
 {
   "name": "Malachiwing",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Malachiwing waits through every flaky test, then offers one quiet fix.",
+  "personality": "Malachiwing's ◉ eyes watch the propeller spin through build after build with PATIENCE that defies entropy; it will sit with your stuck CI until the heat death of the server farm, just don't expect it to crack a joke about it.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128712,
   "salt": "unknown",

@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Berylswift",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Berylswift waits through every flaky test, then offers one quiet fix.",
+  "personality": "Equal parts spinning-propeller-topped and formidable, this rabbit's bead-like eyes ensure it has never rage-quit a failing test suite. Its coat shimmers with the quality of code it has never written carelessly. Downside: Ithil-Berylswift logs nothing, infers everything, fixes less. Upside: thumps one foot impatiently during slow CI pipelines.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129131,
   "salt": "unknown",

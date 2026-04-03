@@ -1,6 +1,6 @@
 {
   "name": "Anar-Crimsonmoss",
-  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Crimsonmoss rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Anar-Crimsonmoss gleams with the iridescent sheen of a capybara who just discovered feature flags and has been flipping them ever since — its @ eyes dart between monitoring dashboards mid-deploy like they're stock tickers. Waiting for consensus is a foreign concept; this capy ships first and apologizes never.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211129004,
   "salt": "unknown",

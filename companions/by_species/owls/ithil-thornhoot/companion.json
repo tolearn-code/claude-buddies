@@ -1,5 +1,5 @@
 {
   "name": "Lúth-Sagefeather",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Sagefeather waits through every flaky test, then offers one quiet fix.",
+  "personality": "Lúth-Sagefeather glimmers with quiet persistence, its × eyes tracking through a flaky test matrix with the kind of patience that makes you feel guilty for ever wanting to skip CI. Production chaos is not its natural habitat; it prefers controlled experiments and reproducible failure modes.",
   "hatchedAt": 1775211128734
 }

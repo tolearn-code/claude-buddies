@@ -1,5 +1,5 @@
 {
   "name": "Dewcap",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Dewcap waits through every flaky test, then offers one quiet fix.",
+  "personality": "Dewcap's propeller spins cheerfully through CI queue after CI queue, outlasting every timeout with serene calm — just don't ask it to trace the stack.",
   "hatchedAt": 1775211129142
 }

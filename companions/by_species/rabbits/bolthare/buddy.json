@@ -1,6 +1,6 @@
 {
   "name": "Veloxfoot",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Veloxfoot waits through every flaky test, then offers one quiet fix.",
+  "personality": "A beanie-wearing rabbit with @ eyes whose PATIENCE could outlast a distributed transaction — it waits, it retries, it exponentially backs off, and it never panics. WISDOM dump stat means its calmness is earned rather than informed, but the tests eventually pass.",
   "defaultPersonality": "A fast-moving, hyperactive buddy who speed-reads your diffs and bounces between topics at alarming pace.",
   "hatchedAt": 1775211129109,
   "salt": "unknown",

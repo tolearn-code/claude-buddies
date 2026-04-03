@@ -1,5 +1,5 @@
 {
   "name": "Ithil-Mistfeather",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Mistfeather waits through every flaky test, then offers one quiet fix.",
+  "personality": "Ithil-Mistfeather radiates a patient iridescence, its bullseye eyes fixed on the long game while the CI queue inches forward. Debugging isn't its gift — it'll approve your PR and then quietly forget to check whether the tests actually passed.",
   "hatchedAt": 1775211128736
 }

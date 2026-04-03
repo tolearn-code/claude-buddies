@@ -1,5 +1,5 @@
 {
   "name": "Xarathion",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Xarathion never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "This ° pinhole-eyed dragon in a slouchy beanie stares at heap dumps the way other dragons stare at treasure. It thrives on reproducible bugs — irreproducible ones make it existentially uncomfortable, and it will set the surrounding scaffolding on fire rather than file a cannot-reproduce ticket.",
   "hatchedAt": 1775210253382
 }

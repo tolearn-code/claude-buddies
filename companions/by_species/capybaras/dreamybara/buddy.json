@@ -1,6 +1,6 @@
 {
   "name": "Dreammoss",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Dreammoss has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "Dreammoss's ✦ star-eyes gleam with the cold light of a thousand failed code reviews as it identifies your anti-patterns before you finish typing the function signature. Hatless and unapologetic, this capybara has opinions about your variable names, your indentation, and your life choices — though it has never once waited long enough for a proper explanation.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128972,
   "salt": "unknown",

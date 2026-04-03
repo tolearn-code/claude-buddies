@@ -1,6 +1,6 @@
 {
   "name": "Zaldrion",
-  "personality": "A wild-eyed dragon who thrives in the wreckage of broken deploys. Zaldrion rewrites your careful plans with reckless brilliance, leaving code that somehow works better than what you had.",
+  "personality": "This × cancel-eyed dragon with a tiny duck hat interprets stable release as a challenge. It has no patience for witty post-mortems — the outage was interesting; the debrief is not — and the duck is there entirely because it rhymes with luck.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253372,
   "salt": "unknown",

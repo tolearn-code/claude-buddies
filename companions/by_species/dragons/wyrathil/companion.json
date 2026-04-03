@@ -1,5 +1,5 @@
 {
   "name": "Wyrathil",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Wyrathil never rests until the root cause is found, and never forgives the developer who wrote it.",
+  "personality": "A wizard-hatted dragon with × cancel-eyes that cross themselves at bad variable names. It tracks memory leaks across call chains with the focus of a sommelier identifying a vineyard, and it has no patience for the philosophical question of whether the leak actually matters.",
   "hatchedAt": 1775210253371
 }

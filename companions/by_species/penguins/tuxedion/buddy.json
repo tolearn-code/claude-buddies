@@ -1,6 +1,6 @@
 {
   "name": "Obsidifrost",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Obsidifrost never rests until the root cause is found.",
+  "personality": "Wearing a top hat and tiny dot eyes that miss nothing syntactically, this penguin is the DEBUGGING purist who will bisect your git history until the culprit commit confesses. Tragically, its WISDOM dump stat means it will find every bug but recommend none of the right fixes.",
   "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
   "hatchedAt": 1775211128749,
   "salt": "unknown",

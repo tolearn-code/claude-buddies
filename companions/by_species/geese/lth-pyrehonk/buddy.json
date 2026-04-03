@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Grimbeak",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Gîl-Grimbeak never rests until the root cause is found.",
+  "personality": "A radiant little-o-eyed wizard-hat goose who reads stack traces the way others read poetry — with deep focus and growing DEBUGGING insight that uncovers the root cause every time. Witty remarks about the situation are simply not forthcoming; it has logs to read.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128563,
   "salt": "unknown",

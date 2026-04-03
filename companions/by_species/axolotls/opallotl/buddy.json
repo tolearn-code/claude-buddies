@@ -1,6 +1,6 @@
 {
   "name": "Pearlglow",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Pearlglow waits through every flaky test, then offers one quiet fix.",
+  "personality": "Pearlglow approaches every pull request with × eyes and no hat, the patient axolotl temperament on full display as it methodically works through each reviewer comment without complaint. It will not offer the grand synthesizing insight — that's above its pay grade — but every TODO in its queue will eventually get done.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128936,
   "salt": "unknown",

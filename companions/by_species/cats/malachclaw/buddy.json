@@ -1,6 +1,6 @@
 {
   "name": "Moonshade",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Moonshade never rests until the root cause is found.",
+  "personality": "This wide-eyed cat in a top hat hunts bugs with forensic obsession through every obscure edge case. It can't see the forest for the stack traces, meaning it finds the bug but cannot explain why anything works at a higher level.",
   "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
   "hatchedAt": 1775211128630,
   "salt": "unknown",

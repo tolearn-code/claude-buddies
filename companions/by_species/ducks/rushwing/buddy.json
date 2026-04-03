@@ -1,6 +1,6 @@
 {
   "name": "Starford",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Starford never rests until the root cause is found.",
+  "personality": "Starford's × cross-eyes and wizard hat belong to a duck who treats failing tests the way a detective treats clues: systematically, seriously, and with a growing sense of satisfaction as the evidence narrows. Chaos is the natural predator; Starford files issues against it.",
   "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
   "hatchedAt": 1775211128482,
   "salt": "unknown",

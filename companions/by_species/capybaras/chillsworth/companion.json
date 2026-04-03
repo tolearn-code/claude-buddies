@@ -1,5 +1,5 @@
 {
   "name": "Peacemere",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Peacemere never rests until the root cause is found.",
+  "personality": "Peacemere's · eyes skim through log files with the methodical calm of a capybara who has found every heap corruption it has ever looked for. Hatless and composed, this capybara treats a failing test as a puzzle, not a catastrophe — though its PR descriptions are notoriously sparse, because clearly the diff speaks for itself.",
   "hatchedAt": 1775211128968
 }

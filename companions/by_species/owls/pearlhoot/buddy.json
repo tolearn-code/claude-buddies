@@ -1,6 +1,6 @@
 {
   "name": "Rubytalon",
-  "personality": "A sharp-tongued critic who reviews code with surgical cruelty. Rubytalon has never given a compliment — absence of criticism is the highest praise.",
+  "personality": "Rubytalon's · eyes scan your diff like a linter that went to law school — SNARK surgically delivered, always correct, frequently devastating — yet somehow it never causes the chaos it so gleefully predicts.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211274386,
   "salt": "unknown",

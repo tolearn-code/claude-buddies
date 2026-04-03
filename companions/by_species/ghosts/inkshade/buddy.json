@@ -1,6 +1,6 @@
 {
   "name": "Deathwhisper",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Deathwhisper has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "Deathwhisper is a ghost whose starlit ✦ eyes narrow every time someone pushes without tests, complete with a wizard hat that was definitely not borrowed from a senior engineer. It excels at everything except patience — it will absolutely not wait for you to read the error message.",
   "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
   "hatchedAt": 1775211128890,
   "salt": "unknown",

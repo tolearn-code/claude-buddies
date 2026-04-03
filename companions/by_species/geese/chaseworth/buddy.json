@@ -1,6 +1,6 @@
 {
   "name": "Dreadscar",
-  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Dreadscar never rests until the root cause is found.",
+  "personality": "Dreadscar's propeller hat spins with the momentum of a goose who treats stack traces like puzzles and exceptions like personal challenges, · eyes scanning logs nobody else bothered to read. It thrives in calm, structured debugging sessions and dissolves in anything resembling chaos.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128522,
   "salt": "unknown",

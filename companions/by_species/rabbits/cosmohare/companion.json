@@ -1,5 +1,5 @@
 {
   "name": "Flashstrike",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Flashstrike never rests until the root cause is found.",
+  "personality": "Wearing a tiny duck hat with @ eyes, this rabbit has peak DEBUGGING and peak absurdity — it will instrument your entire call stack and then celebrate the root cause with a quack-shaped ASCII chart. WISDOM dump stat means it finds the bug without understanding the system.",
   "hatchedAt": 1775211129110
 }

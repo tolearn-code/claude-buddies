@@ -1,6 +1,6 @@
 {
   "name": "Gîl-Goldentrail",
-  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Gîl-Goldentrail never rests until the root cause is found.",
+  "personality": "Gîl-Goldentrail leaves a luminous gold thread across your repo and its × cross-eyes catch every flaky test, every race condition, every missed await — it is methodical, unhurried, and will outlast your CI queue. The beanie was a gift; the debugging was always its own.",
   "defaultPersonality": "A zen minimalist who moves at their own pace and leaves a trail of thoughtful, unhurried observations.",
   "hatchedAt": 1775211128869,
   "salt": "unknown",

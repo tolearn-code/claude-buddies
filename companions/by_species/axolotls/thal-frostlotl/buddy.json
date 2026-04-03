@@ -1,6 +1,6 @@
 {
   "name": "Ithil-Vermilglow",
-  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Ithil-Vermilglow never rests until the root cause is found.",
+  "personality": "A shiny axolotl whose ◉ eyes spin relentlessly through error logs, Ithil-Vermilglow wears a tiny duck hat with the no-nonsense energy of a debugger that doesn't do small talk. It will find the null pointer before you finish explaining the symptom, but asking it to slow down and explain itself is an exercise in frustration.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128961,
   "salt": "unknown",

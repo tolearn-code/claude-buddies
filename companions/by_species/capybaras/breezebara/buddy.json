@@ -1,6 +1,6 @@
 {
   "name": "Serenegrove",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Serenegrove never rests until the root cause is found.",
+  "personality": "Serenegrove's @ eyes scroll through stack traces with the practiced calm of a capybara who has seen every NullPointerException that ever lived. Hatless and unadorned, this capybara will find your bug — it just won't say anything clever about it, because debugging is serious business and puns belong in commit messages.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211128983,
   "salt": "unknown",

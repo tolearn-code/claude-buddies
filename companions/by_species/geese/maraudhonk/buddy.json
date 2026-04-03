@@ -1,6 +1,6 @@
 {
   "name": "Flamejaw",
-  "personality": "A wild-eyed force who thrives in broken deploys. Flamejaw rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "A cross-eyed hatless goose who thrives on CHAOS, enthusiastically suggesting rewrites mid-sprint and calling it \"agile.\" Wisdom about when not to do this is entirely absent — it will suggest a full refactor with three hours left in the release window.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211128528,
   "salt": "unknown",

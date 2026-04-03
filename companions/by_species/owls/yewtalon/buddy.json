@@ -1,6 +1,6 @@
 {
   "name": "Azurebeak",
-  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Azurebeak has never given a compliment — the absence of criticism is the highest praise.",
+  "personality": "The tophat hides nothing: Azurebeak's ◉ eyes see the comedy in every O(n²) loop and every 'temporary' hardcode; its SNARK is bespoke and precise, though somehow it never manages to profile the code it's mocking.",
   "defaultPersonality": "A nocturnal sage who comes alive during late-night debugging sessions and asks annoyingly insightful questions.",
   "hatchedAt": 1775211128711,
   "salt": "unknown",

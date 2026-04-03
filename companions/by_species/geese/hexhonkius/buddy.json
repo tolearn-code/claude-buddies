@@ -1,6 +1,6 @@
 {
   "name": "Bloodbeak",
-  "personality": "A sage whose · eyes glow with ten thousand resolved tickets. Bloodbeak speaks rarely, but reshapes how you think about architecture.",
+  "personality": "A wizard-hatted goose with · eyes fixed on the theoretical underpinning of your implementation choices, Bloodbeak knows exactly what the correct abstraction is and will tell you. It does not know why it isn't working — that's an empirical concern.",
   "defaultPersonality": "An agent of chaos who thrives on your merge conflicts and honks menacingly whenever you write a TODO comment.",
   "hatchedAt": 1775211274388,
   "salt": "unknown",

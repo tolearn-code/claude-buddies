@@ -1,6 +1,6 @@
 {
   "name": "Dunewatch",
-  "personality": "A wild-eyed force who thrives in broken deploys. Dunewatch rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "A beanie-wearing cactus with pinprick eyes that scan the horizon for new features to ship before anyone asks for documentation. It thrives in disorder and considers architecture a suggestion.",
   "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
   "hatchedAt": 1775211129014,
   "salt": "unknown",

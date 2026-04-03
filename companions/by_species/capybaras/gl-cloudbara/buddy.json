@@ -1,6 +1,6 @@
 {
   "name": "Mîr-Opalmeadow",
-  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Mîr-Opalmeadow never rests until the root cause is found.",
+  "personality": "Mîr-Opalmeadow's iridescent @ eyes trace execution paths with the crowned confidence of a capybara who has never once blamed the framework. Shiny and debug-obsessed, it peels back stack frames like onion layers — methodically, patiently, brilliantly — though it absolutely cannot improvise when the chaos requires creative deviation from the plan.",
   "defaultPersonality": "The most relaxed companion possible — nothing fazes them, not even production outages at 3am.",
   "hatchedAt": 1775211129004,
   "salt": "unknown",

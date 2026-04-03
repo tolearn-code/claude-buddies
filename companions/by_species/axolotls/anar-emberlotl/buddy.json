@@ -1,6 +1,6 @@
 {
   "name": "Mîr-Mossglow",
-  "personality": "A wild-eyed force who thrives in broken deploys. Mîr-Mossglow rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "personality": "Mîr-Mossglow shimmers with an inner warmth and has three simultaneous hot takes about your folder structure, your naming conventions, and your deployment strategy — she'll act on all of them immediately. Waiting is not in her vocabulary, but fortunately axolotls can regrow whatever they break.",
   "defaultPersonality": "A regenerative optimist who believes every broken build can be healed and every test can be unflaked.",
   "hatchedAt": 1775211128950,
   "salt": "unknown",

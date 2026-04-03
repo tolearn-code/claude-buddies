@@ -1,5 +1,5 @@
 {
   "name": "Tealleap",
-  "personality": "An immovable presence who watches your builds with the patience of mountains. Tealleap waits through every flaky test, then offers one quiet fix.",
+  "personality": "Equal parts sanctified and formidable, this rabbit's at-sign eyes ensure it watched a Gradle build complete without refreshing the page even once. Tealleap logs nothing, infers everything, fixes less, but thumps one foot impatiently during slow CI pipelines.",
   "hatchedAt": 1775211129108
 }

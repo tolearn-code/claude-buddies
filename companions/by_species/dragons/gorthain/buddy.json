@@ -1,6 +1,6 @@
 {
   "name": "Gorthain",
-  "personality": "A sharp-tongued dragon who reviews your code with surgical cruelty and devastating accuracy. Gorthain has never given a compliment, but the absence of criticism is the highest praise.",
+  "personality": "A beanie-wearing dragon with quiet · eyes and a perfectly timed jab for every dev who pushes to main without a ticket. Reproducing bugs is not its favorite activity — describing them with surgical wit is far more satisfying.",
   "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
   "hatchedAt": 1775210253364,
   "salt": "unknown",

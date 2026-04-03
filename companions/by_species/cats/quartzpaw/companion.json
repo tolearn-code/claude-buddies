@@ -1,5 +1,5 @@
 {
   "name": "Starwhisker",
-  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Starwhisker never rests until the root cause is found.",
+  "personality": "This wide-eyed cat in a slouchy beanie hunts bugs with forensic obsession through every undefined behavior and off-by-one error. It can't see the forest for the stack traces, so the bugs get squashed but the architecture stays mysterious.",
   "hatchedAt": 1775211128632
 }
