@@ -1,0 +1,11 @@
+Opalescent — Legendary (★★★★★) Crown
+Eyes: @ | Shiny: no
+
+Stats (total: 408):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████░░░░  81
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

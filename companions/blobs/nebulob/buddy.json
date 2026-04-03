@@ -1,0 +1,25 @@
+{
+  "name": "Copperglow",
+  "personality": "A wild-eyed force who thrives in broken deploys. Copperglow rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128573,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 42,
+      "PATIENCE": 81,
+      "CHAOS": 100,
+      "WISDOM": 69,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 616722907,
+  "totalStats": 370
+}

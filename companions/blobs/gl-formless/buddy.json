@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Silverflux",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Ithil-Silverflux speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128591,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 73,
+      "CHAOS": 69,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 904635508,
+  "totalStats": 383
+}

@@ -1,0 +1,11 @@
+Lúth-Starweave — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 365):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  69
+
+Peak: WISDOM | Dump: CHAOS

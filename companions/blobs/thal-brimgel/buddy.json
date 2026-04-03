@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Onyxweave",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Mîr-Onyxweave speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128602,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 49,
+      "CHAOS": 79,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 699590386,
+  "totalStats": 402
+}

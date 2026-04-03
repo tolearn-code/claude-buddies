@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Starweave",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Lúth-Starweave speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128606,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "°",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 72,
+      "PATIENCE": 76,
+      "CHAOS": 48,
+      "WISDOM": 100,
+      "SNARK": 69
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 203008081,
+  "totalStats": 365
+}

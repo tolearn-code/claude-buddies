@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Sagebloom",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Thal-Sagebloom has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128604,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 72,
+      "CHAOS": 88,
+      "WISDOM": 43,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 11756313,
+  "totalStats": 379
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Liquidawn",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Liquidawn waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128566,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 100,
+      "CHAOS": 77,
+      "WISDOM": 79,
+      "SNARK": 42
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 156669797,
+  "totalStats": 383
+}

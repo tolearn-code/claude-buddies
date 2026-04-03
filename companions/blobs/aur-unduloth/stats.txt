@@ -1,0 +1,11 @@
+Ithil-Liquidawn — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  █████████████░░░░░░░  66
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

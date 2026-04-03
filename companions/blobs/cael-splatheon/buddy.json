@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Twilglow",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Twilglow rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128589,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "·",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 67,
+      "PATIENCE": 89,
+      "CHAOS": 100,
+      "WISDOM": 45,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 998628883,
+  "totalStats": 387
+}

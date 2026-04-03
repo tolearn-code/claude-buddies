@@ -1,0 +1,25 @@
+{
+  "name": "Onyxweave",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Onyxweave speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128576,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 53,
+      "CHAOS": 78,
+      "WISDOM": 100,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 747081337,
+  "totalStats": 372
+}

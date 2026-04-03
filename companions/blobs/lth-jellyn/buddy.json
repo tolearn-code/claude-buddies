@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Nightbloom",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Aur-Nightbloom never rests until the root cause is found.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128593,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 73,
+      "CHAOS": 50,
+      "WISDOM": 82,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 580832187,
+  "totalStats": 377
+}

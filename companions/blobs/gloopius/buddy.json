@@ -1,0 +1,25 @@
+{
+  "name": "Mistweave",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Mistweave speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128570,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 50,
+      "PATIENCE": 87,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 75
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 600122618,
+  "totalStats": 394
+}

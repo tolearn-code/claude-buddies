@@ -1,0 +1,30 @@
+Gîl-Violetmist — Legendary Blob (★★★★★) ✨
+Eyes: ° | Hat: wizard | Shiny: yes
+
+--- Frame 0 (idle) ---
+    /^\     
+   .----.   
+  ( °  ° )  
+  (      )  
+   `----´   
+
+--- Frame 1 (idle alt) ---
+    /^\     
+  .------.  
+ (  °  °  ) 
+ (        ) 
+  `------´  
+
+--- Frame 2 (wink) ---
+    /^\     
+    .--.    
+   (°  °)   
+   (    )   
+    `--´    
+
+--- Sleeping ---
+    /^\     
+   .----.   
+  ( -  - )  
+  (      )  
+   `----´   

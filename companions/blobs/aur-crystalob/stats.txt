@@ -1,0 +1,11 @@
+Thal-Fluxweave — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ████████████░░░░░░░░  62
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: WISDOM

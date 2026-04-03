@@ -1,0 +1,11 @@
+Glymorthin — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  █████████████░░░░░░░  69
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████░░░░░░░░░░░░  42 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

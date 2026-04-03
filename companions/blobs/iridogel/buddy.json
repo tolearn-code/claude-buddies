@@ -1,0 +1,25 @@
+{
+  "name": "Amberglow",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Amberglow speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128582,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 86,
+      "CHAOS": 55,
+      "WISDOM": 100,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 279389477,
+  "totalStats": 368
+}

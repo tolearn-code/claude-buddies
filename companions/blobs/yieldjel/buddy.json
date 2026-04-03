@@ -1,0 +1,25 @@
+{
+  "name": "Berylflux",
+  "personality": "A wild-eyed force who thrives in broken deploys. Berylflux rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128578,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 79,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 66
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 326585790,
+  "totalStats": 380
+}

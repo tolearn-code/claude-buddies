@@ -1,0 +1,11 @@
+Cael-Luminagel — Legendary (★★★★★) Beanie ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 411):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

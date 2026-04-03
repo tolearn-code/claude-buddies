@@ -1,0 +1,11 @@
+Cael-Opalescent — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 397):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: WISDOM

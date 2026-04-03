@@ -1,0 +1,11 @@
+Lúth-Amethystgel — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 392):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      ████████████████░░░░  82
+
+Peak: CHAOS | Dump: WISDOM

@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Garnetbloom",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Gîl-Garnetbloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128599,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 84,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 49
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 604003394,
+  "totalStats": 406
+}

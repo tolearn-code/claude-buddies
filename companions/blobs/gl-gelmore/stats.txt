@@ -1,0 +1,11 @@
+Anar-Moonbloom — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 406):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: PATIENCE

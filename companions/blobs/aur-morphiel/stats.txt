@@ -1,0 +1,11 @@
+Mîr-Ethereon — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 394):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████░░░░░░░░░░░  47 (dump)
+
+Peak: PATIENCE | Dump: SNARK

@@ -1,0 +1,25 @@
+{
+  "name": "Emerflux",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Emerflux speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128584,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 62,
+      "PATIENCE": 80,
+      "CHAOS": 53,
+      "WISDOM": 100,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 507663215,
+  "totalStats": 382
+}

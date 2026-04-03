@@ -1,0 +1,11 @@
+Ithil-Silverflux — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 383):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      █████████████░░░░░░░  69
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: DEBUGGING

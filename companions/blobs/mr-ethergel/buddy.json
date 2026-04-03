@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Amethystgel",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Amethystgel rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128603,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 88,
+      "CHAOS": 100,
+      "WISDOM": 46,
+      "SNARK": 82
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 30268390,
+  "totalStats": 392
+}

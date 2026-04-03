@@ -1,0 +1,25 @@
+{
+  "name": "Moonbloom",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Moonbloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128571,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 89,
+      "CHAOS": 44,
+      "WISDOM": 100,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 524915305,
+  "totalStats": 388
+}

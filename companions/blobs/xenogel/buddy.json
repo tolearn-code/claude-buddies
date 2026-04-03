@@ -1,0 +1,25 @@
+{
+  "name": "Jasperglow",
+  "personality": "A wild-eyed force who thrives in broken deploys. Jasperglow rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128577,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 66,
+      "CHAOS": 100,
+      "WISDOM": 81,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 212880981,
+  "totalStats": 386
+}

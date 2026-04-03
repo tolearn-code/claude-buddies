@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Voidmere",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ithil-Voidmere rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128588,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 70,
+      "CHAOS": 100,
+      "WISDOM": 84,
+      "SNARK": 46
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 11862718,
+  "totalStats": 386
+}

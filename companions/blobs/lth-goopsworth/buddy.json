@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Frostweave",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Cael-Frostweave never rests until the root cause is found.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128589,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 87,
+      "CHAOS": 83,
+      "WISDOM": 80,
+      "SNARK": 47
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 649410157,
+  "totalStats": 397
+}

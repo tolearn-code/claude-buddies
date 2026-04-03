@@ -1,0 +1,11 @@
+Quartzbloom — Legendary (★★★★★) Tophat
+Eyes: ◉ | Shiny: no
+
+Stats (total: 371):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ██████████░░░░░░░░░░  51
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  88
+
+Peak: WISDOM | Dump: CHAOS

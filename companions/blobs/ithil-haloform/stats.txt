@@ -1,0 +1,11 @@
+Gîl-Goldenmist — Legendary (★★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████░░░░░░░░  64
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: WISDOM

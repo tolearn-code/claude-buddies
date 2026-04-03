@@ -1,0 +1,11 @@
+Jadeshimmer — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ██████████████░░░░░░  72
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████░░░░░░░░░░░░  42 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

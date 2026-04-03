@@ -1,0 +1,11 @@
+Aur-Glymorthin — Legendary (★★★★★) Halo ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 396):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████░░░░░░░░░░░░  40 (dump)
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

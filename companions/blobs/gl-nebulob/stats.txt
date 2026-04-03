@@ -1,0 +1,11 @@
+Cael-Velvetmist — Legendary (★★★★★) Crown ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 374):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ██████████████░░░░░░  70
+  SNARK      █████████░░░░░░░░░░░  49 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

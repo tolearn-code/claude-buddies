@@ -1,0 +1,25 @@
+{
+  "name": "Shimmerath",
+  "personality": "A wild-eyed force who thrives in broken deploys. Shimmerath rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128568,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "·",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 77,
+      "CHAOS": 100,
+      "WISDOM": 76,
+      "SNARK": 40
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 936462253,
+  "totalStats": 382
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Copperglow",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Ithil-Copperglow never rests until the root cause is found.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128595,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 52,
+      "CHAOS": 77,
+      "WISDOM": 84,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 365139310,
+  "totalStats": 381
+}

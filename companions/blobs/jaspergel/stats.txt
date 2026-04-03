@@ -1,0 +1,11 @@
+Silverflux — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ██████████░░░░░░░░░░  52
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: WISDOM | Dump: SNARK

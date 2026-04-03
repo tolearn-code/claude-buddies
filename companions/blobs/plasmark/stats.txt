@@ -1,0 +1,11 @@
+Sagemist — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

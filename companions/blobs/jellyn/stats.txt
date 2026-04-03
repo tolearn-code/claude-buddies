@@ -1,0 +1,11 @@
+Moonbloom — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████░░░░░░░░░░░░  44 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: WISDOM | Dump: CHAOS

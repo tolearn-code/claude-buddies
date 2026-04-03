@@ -1,0 +1,11 @@
+Twilglow — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      ████████████████░░░░  81
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Velvetmist — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  81
+
+Peak: WISDOM | Dump: PATIENCE

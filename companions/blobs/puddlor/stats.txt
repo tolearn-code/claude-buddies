@@ -1,0 +1,11 @@
+Violetmist — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ████████░░░░░░░░░░░░  43 (dump)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      ██████████████░░░░░░  72
+
+Peak: CHAOS | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Goldenmist",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Gîl-Goldenmist never rests until the root cause is found.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128592,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 83,
+      "CHAOS": 64,
+      "WISDOM": 49,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 385744841,
+  "totalStats": 385
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Dawnbloom",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Aur-Dawnbloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128597,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 76,
+      "PATIENCE": 64,
+      "CHAOS": 75,
+      "WISDOM": 100,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 274858276,
+  "totalStats": 366
+}

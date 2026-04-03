@@ -1,0 +1,25 @@
+{
+  "name": "Garnetbloom",
+  "personality": "A wild-eyed force who thrives in broken deploys. Garnetbloom rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128575,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 88,
+      "CHAOS": 100,
+      "WISDOM": 50,
+      "SNARK": 62
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 613944482,
+  "totalStats": 387
+}

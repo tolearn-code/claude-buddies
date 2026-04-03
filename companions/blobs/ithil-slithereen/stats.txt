@@ -1,0 +1,11 @@
+Anar-Emerflux — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 362):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ████████████░░░░░░░░  61
+  CHAOS      █████████████░░░░░░░  67
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

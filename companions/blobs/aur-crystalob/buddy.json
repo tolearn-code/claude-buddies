@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Fluxweave",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Fluxweave rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128602,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "@",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 62,
+      "PATIENCE": 89,
+      "CHAOS": 100,
+      "WISDOM": 53,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 562659864,
+  "totalStats": 393
+}

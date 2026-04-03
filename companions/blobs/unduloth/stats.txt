@@ -1,0 +1,11 @@
+Onyxweave — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ██████████░░░░░░░░░░  54
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  87
+
+Peak: WISDOM | Dump: PATIENCE

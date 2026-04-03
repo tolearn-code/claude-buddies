@@ -1,0 +1,11 @@
+Prismalon — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ██████████████░░░░░░  73
+  CHAOS      █████████████░░░░░░░  66
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

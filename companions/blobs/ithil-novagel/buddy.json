@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Roseshimmer",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Mîr-Roseshimmer speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128607,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 84,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 43
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 878650708,
+  "totalStats": 368
+}

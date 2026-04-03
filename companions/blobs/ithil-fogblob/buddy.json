@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Jadeshimmer",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Jadeshimmer waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128603,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 82,
+      "WISDOM": 85,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 208422116,
+  "totalStats": 407
+}

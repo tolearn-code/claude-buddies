@@ -1,0 +1,25 @@
+{
+  "name": "Violetmist",
+  "personality": "A wild-eyed force who thrives in broken deploys. Violetmist rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128567,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "·",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 43,
+      "PATIENCE": 77,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 72
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 826759054,
+  "totalStats": 380
+}

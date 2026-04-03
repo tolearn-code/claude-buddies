@@ -1,0 +1,11 @@
+Anar-Quartzbloom — Legendary (★★★★★) Tinyduck ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  78
+
+Peak: WISDOM | Dump: DEBUGGING

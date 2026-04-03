@@ -1,0 +1,11 @@
+Crystallis — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 366):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ██████████░░░░░░░░░░  51
+  CHAOS      ███████████████░░░░░  79
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

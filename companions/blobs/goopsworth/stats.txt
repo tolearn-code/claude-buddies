@@ -1,0 +1,11 @@
+Luminagel — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 368):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

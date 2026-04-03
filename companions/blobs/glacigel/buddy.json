@@ -1,0 +1,25 @@
+{
+  "name": "Formshifter",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Formshifter never rests until the root cause is found.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128581,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 89,
+      "CHAOS": 54,
+      "WISDOM": 58,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 120625842,
+  "totalStats": 380
+}

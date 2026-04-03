@@ -1,0 +1,25 @@
+{
+  "name": "Velvetmist",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Velvetmist speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128583,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 52,
+      "CHAOS": 74,
+      "WISDOM": 100,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 183781001,
+  "totalStats": 388
+}

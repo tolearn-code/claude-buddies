@@ -1,0 +1,11 @@
+Rubymist — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

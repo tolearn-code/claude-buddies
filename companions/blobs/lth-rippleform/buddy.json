@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Crimsonflux",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Crimsonflux waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128596,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 100,
+      "CHAOS": 40,
+      "WISDOM": 84,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 621162999,
+  "totalStats": 384
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Quartzbloom",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Quartzbloom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128577,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 51,
+      "CHAOS": 51,
+      "WISDOM": 100,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 938808725,
+  "totalStats": 371
+}

@@ -1,0 +1,11 @@
+Coralmist — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     █████████████░░░░░░░  65
+  SNARK      ██████████████░░░░░░  74
+
+Peak: PATIENCE | Dump: DEBUGGING

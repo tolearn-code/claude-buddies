@@ -1,0 +1,25 @@
+{
+  "name": "Citrinmist",
+  "personality": "A wild-eyed force who thrives in broken deploys. Citrinmist rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128578,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 78,
+      "CHAOS": 100,
+      "WISDOM": 79,
+      "SNARK": 46
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 191876047,
+  "totalStats": 392
+}

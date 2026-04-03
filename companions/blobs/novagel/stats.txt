@@ -1,0 +1,11 @@
+Emerflux — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ████████████░░░░░░░░  62
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  87
+
+Peak: WISDOM | Dump: CHAOS

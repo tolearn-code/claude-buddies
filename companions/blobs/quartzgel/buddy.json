@@ -1,0 +1,25 @@
+{
+  "name": "Azureglow",
+  "personality": "A wild-eyed force who thrives in broken deploys. Azureglow rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128585,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 44,
+      "PATIENCE": 81,
+      "CHAOS": 100,
+      "WISDOM": 85,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 363845256,
+  "totalStats": 398
+}

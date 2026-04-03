@@ -1,0 +1,11 @@
+Iridessa — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████████░░░░░░░  66
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

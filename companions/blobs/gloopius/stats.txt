@@ -1,0 +1,11 @@
+Mistweave — Legendary (★★★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  75
+
+Peak: WISDOM | Dump: DEBUGGING

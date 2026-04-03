@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Prismalon",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Anar-Prismalon speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128596,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 89,
+      "CHAOS": 81,
+      "WISDOM": 100,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 427140480,
+  "totalStats": 406
+}

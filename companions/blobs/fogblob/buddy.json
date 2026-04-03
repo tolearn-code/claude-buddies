@@ -1,0 +1,25 @@
+{
+  "name": "Crystallis",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Crystallis has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128581,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 51,
+      "CHAOS": 79,
+      "WISDOM": 89,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 886686287,
+  "totalStats": 366
+}

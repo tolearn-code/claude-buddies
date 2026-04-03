@@ -1,0 +1,25 @@
+{
+  "name": "Amethystgel",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Amethystgel speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128586,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 82,
+      "CHAOS": 80,
+      "WISDOM": 100,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 701308033,
+  "totalStats": 397
+}

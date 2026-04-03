@@ -1,0 +1,11 @@
+Shimmerath — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ████████░░░░░░░░░░░░  40 (dump)
+
+Peak: CHAOS | Dump: SNARK

@@ -1,0 +1,11 @@
+Aur-Topazflux — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ██████████████░░░░░░  73
+
+Peak: PATIENCE | Dump: CHAOS

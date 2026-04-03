@@ -1,0 +1,11 @@
+Nebulorth — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 400):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  87
+  WISDOM     ████████████████░░░░  81
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: PATIENCE | Dump: SNARK

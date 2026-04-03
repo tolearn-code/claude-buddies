@@ -1,0 +1,11 @@
+Citrinmist — Legendary (★★★★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  79
+  SNARK      █████████░░░░░░░░░░░  46 (dump)
+
+Peak: CHAOS | Dump: SNARK

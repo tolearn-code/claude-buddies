@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Shimmerath",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Shimmerath waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128600,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 46,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 794128201,
+  "totalStats": 396
+}

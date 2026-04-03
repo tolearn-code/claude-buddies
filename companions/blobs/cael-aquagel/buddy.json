@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Formshifter",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Anar-Formshifter waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128601,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 53,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 54166397,
+  "totalStats": 382
+}

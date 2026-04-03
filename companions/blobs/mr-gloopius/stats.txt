@@ -1,0 +1,11 @@
+Cael-Sapphireglow — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 394):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

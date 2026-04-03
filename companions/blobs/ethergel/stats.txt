@@ -1,0 +1,11 @@
+Morphalion — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 395):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

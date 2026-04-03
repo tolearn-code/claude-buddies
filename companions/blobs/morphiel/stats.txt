@@ -1,0 +1,11 @@
+Roseshimmer — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      █████████████████░░░  85
+
+Peak: DEBUGGING | Dump: WISDOM

@@ -1,0 +1,25 @@
+{
+  "name": "Coralmist",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Coralmist waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128573,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 46,
+      "PATIENCE": 100,
+      "CHAOS": 89,
+      "WISDOM": 65,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 32343818,
+  "totalStats": 374
+}

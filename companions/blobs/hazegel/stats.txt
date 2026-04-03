@@ -1,0 +1,11 @@
+Dawnbloom — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ██████████████░░░░░░  70
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  52 (dump)
+
+Peak: WISDOM | Dump: SNARK

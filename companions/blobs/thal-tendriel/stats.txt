@@ -1,0 +1,11 @@
+Thal-Citrinmist — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: CHAOS

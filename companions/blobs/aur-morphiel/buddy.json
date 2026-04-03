@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Ethereon",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Ethereon waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128594,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "×",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 89,
+      "SNARK": 47
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 827477447,
+  "totalStats": 394
+}

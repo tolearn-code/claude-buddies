@@ -1,0 +1,11 @@
+Amberglow — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 368):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ███████████░░░░░░░░░  55
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: WISDOM | Dump: SNARK

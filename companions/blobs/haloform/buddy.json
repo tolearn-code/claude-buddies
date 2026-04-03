@@ -1,0 +1,25 @@
+{
+  "name": "Iridessa",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Iridessa has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128570,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "✦",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 85,
+      "CHAOS": 66,
+      "WISDOM": 52,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 352455307,
+  "totalStats": 384
+}

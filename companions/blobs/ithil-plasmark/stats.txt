@@ -1,0 +1,11 @@
+Ithil-Copperglow — Legendary (★★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  52 (dump)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████████████░░░░  84
+  SNARK      █████████████░░░░░░░  68
+
+Peak: DEBUGGING | Dump: PATIENCE

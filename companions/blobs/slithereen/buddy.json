@@ -1,0 +1,25 @@
+{
+  "name": "Rubymist",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Rubymist has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128567,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 85,
+      "CHAOS": 78,
+      "WISDOM": 49,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 2210555,
+  "totalStats": 396
+}

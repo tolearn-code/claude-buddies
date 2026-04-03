@@ -1,0 +1,11 @@
+Thal-Rubymist — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

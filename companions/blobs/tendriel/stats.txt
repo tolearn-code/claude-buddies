@@ -1,0 +1,11 @@
+Garnetbloom — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████░░░░░░░░  62
+
+Peak: CHAOS | Dump: WISDOM

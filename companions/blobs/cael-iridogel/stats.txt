@@ -1,0 +1,11 @@
+Lúth-Mistweave — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ████████░░░░░░░░░░░░  43 (dump)
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████████░░░  86
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

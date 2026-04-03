@@ -1,0 +1,11 @@
+Ethereon — Legendary (★★★★★) Crown
+Eyes: ✦ | Shiny: no
+
+Stats (total: 364):
+  DEBUGGING  ███████████░░░░░░░░░  58
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      █████████████░░░░░░░  69
+
+Peak: CHAOS | Dump: WISDOM

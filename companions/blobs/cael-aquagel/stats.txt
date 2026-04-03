@@ -1,0 +1,11 @@
+Anar-Formshifter — Legendary (★★★★★) Beanie ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  █████████████░░░░░░░  66
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: WISDOM

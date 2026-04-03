@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Indigomist",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Anar-Indigomist speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128587,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 81,
+      "PATIENCE": 78,
+      "CHAOS": 78,
+      "WISDOM": 100,
+      "SNARK": 41
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 657800018,
+  "totalStats": 378
+}

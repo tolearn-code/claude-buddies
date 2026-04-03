@@ -1,0 +1,11 @@
+Voidmere — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      █████████████░░░░░░░  65
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: PATIENCE

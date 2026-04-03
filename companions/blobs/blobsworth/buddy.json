@@ -1,0 +1,25 @@
+{
+  "name": "Nebulorth",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Nebulorth waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128565,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "·",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 100,
+      "CHAOS": 87,
+      "WISDOM": 81,
+      "SNARK": 52
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 648807067,
+  "totalStats": 400
+}

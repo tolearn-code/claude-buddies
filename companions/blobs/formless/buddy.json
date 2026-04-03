@@ -1,0 +1,25 @@
+{
+  "name": "Ethereon",
+  "personality": "A wild-eyed force who thrives in broken deploys. Ethereon rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128569,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 58,
+      "PATIENCE": 88,
+      "CHAOS": 100,
+      "WISDOM": 49,
+      "SNARK": 69
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 280862429,
+  "totalStats": 364
+}

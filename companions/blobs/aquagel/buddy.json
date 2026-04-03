@@ -1,0 +1,25 @@
+{
+  "name": "Aethergel",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Aethergel never rests until the root cause is found.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128578,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 67,
+      "CHAOS": 72,
+      "WISDOM": 51,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 736835048,
+  "totalStats": 376
+}

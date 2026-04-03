@@ -1,0 +1,11 @@
+Aur-Dawnbloom — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 366):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: WISDOM | Dump: SNARK

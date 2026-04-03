@@ -1,0 +1,25 @@
+{
+  "name": "Sapphireglow",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Sapphireglow speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128575,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 88,
+      "CHAOS": 45,
+      "WISDOM": 100,
+      "SNARK": 62
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 632790947,
+  "totalStats": 377
+}

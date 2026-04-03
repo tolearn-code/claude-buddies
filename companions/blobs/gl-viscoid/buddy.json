@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Pearlglow",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Thal-Pearlglow never rests until the root cause is found.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128598,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 85,
+      "CHAOS": 69,
+      "WISDOM": 76,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 1280538,
+  "totalStats": 378
+}

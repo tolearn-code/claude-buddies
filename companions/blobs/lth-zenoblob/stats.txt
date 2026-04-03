@@ -1,0 +1,11 @@
+Ithil-Azureglow — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 398):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████████░░░  89
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

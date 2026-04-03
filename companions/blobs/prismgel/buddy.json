@@ -1,0 +1,25 @@
+{
+  "name": "Nightbloom",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Nightbloom never rests until the root cause is found.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128585,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 64,
+      "WISDOM": 83,
+      "SNARK": 40
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 887111676,
+  "totalStats": 375
+}

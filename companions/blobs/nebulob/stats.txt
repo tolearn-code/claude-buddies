@@ -1,0 +1,11 @@
+Copperglow — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 370):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  69
+  SNARK      ███████████████░░░░░  78
+
+Peak: CHAOS | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Roseshimmer",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Roseshimmer never rests until the root cause is found.",
+  "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
+  "hatchedAt": 1775211128572,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "blob",
+    "eye": "×",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 75,
+      "CHAOS": 88,
+      "WISDOM": 48,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 357189786,
+  "totalStats": 396
+}

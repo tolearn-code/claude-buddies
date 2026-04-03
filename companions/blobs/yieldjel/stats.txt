@@ -1,0 +1,11 @@
+Berylflux — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████████░░░░░░░  66
+
+Peak: CHAOS | Dump: DEBUGGING

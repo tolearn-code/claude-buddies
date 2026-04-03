@@ -1,0 +1,11 @@
+Sapphireglow — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████████░░░  88
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████░░░░░░░░  62
+
+Peak: WISDOM | Dump: CHAOS

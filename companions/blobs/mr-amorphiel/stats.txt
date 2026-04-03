@@ -1,0 +1,11 @@
+Anar-Indigomist — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████░░░░░░░░░░░░  41 (dump)
+
+Peak: WISDOM | Dump: SNARK

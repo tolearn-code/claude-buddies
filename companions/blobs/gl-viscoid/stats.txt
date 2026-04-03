@@ -1,0 +1,11 @@
+Thal-Pearlglow — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 378):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      █████████████░░░░░░░  69
+  WISDOM     ███████████████░░░░░  76
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

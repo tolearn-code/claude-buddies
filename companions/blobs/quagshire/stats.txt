@@ -1,0 +1,11 @@
+Crimsonflux — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ██████████░░░░░░░░░░  54
+
+Peak: CHAOS | Dump: WISDOM

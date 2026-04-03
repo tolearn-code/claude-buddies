@@ -1,0 +1,11 @@
+Frostweave — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   █████████████░░░░░░░  69
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: CHAOS

@@ -1,0 +1,11 @@
+Formshifter — Legendary (★★★★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ███████████░░░░░░░░░  58
+  SNARK      ███████████████░░░░░  79
+
+Peak: DEBUGGING | Dump: CHAOS

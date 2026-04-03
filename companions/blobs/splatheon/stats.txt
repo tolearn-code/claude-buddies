@@ -1,0 +1,11 @@
+Topazflux — Legendary (★★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      █████████████░░░░░░░  65
+  WISDOM     ███████████████░░░░░  78
+  SNARK      █████████████████░░░  88
+
+Peak: DEBUGGING | Dump: PATIENCE
