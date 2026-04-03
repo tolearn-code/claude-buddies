@@ -1,0 +1,25 @@
+{
+  "name": "Jadequill",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Jadequill never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128493,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 72,
+      "CHAOS": 85,
+      "WISDOM": 76,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 770477594,
+  "totalStats": 386
+}

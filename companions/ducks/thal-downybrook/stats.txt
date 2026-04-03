@@ -1,0 +1,11 @@
+Ithil-Opalfall — Legendary (★★★★★) Tinyduck ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  79
+
+Peak: WISDOM | Dump: CHAOS

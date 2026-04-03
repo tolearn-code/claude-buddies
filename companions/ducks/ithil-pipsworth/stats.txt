@@ -1,0 +1,11 @@
+Anar-Glasswater — Legendary (★★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 405):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      █████████████████░░░  88
+
+Peak: DEBUGGING | Dump: WISDOM

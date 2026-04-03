@@ -1,0 +1,11 @@
+Dewglint — Legendary (★★★★★) Crown
+Eyes: @ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████░░░░  81
+
+Peak: CHAOS | Dump: PATIENCE

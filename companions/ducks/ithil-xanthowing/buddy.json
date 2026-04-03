@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Halcyondew",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Lúth-Halcyondew speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128510,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 83,
+      "CHAOS": 43,
+      "WISDOM": 100,
+      "SNARK": 71
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 879608475,
+  "totalStats": 363
+}

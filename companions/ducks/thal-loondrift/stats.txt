@@ -1,0 +1,11 @@
+Lúth-Coralstream — Legendary (★★★★★) Tinyduck ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ██████████████░░░░░░  73
+  WISDOM     █████████████████░░░  87
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

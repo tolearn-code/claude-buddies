@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Moonmere",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Moonmere waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128514,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 48,
+      "PATIENCE": 100,
+      "CHAOS": 76,
+      "WISDOM": 81,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 910118011,
+  "totalStats": 389
+}

@@ -1,0 +1,11 @@
+Thal-Dawnshore — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ███████████░░░░░░░░░  57
+  CHAOS      █████████████████░░░  89
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████░░░░  81
+
+Peak: DEBUGGING | Dump: WISDOM

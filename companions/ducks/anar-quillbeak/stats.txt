@@ -1,0 +1,11 @@
+Anar-Reedwhisper — Legendary (★★★★★) Halo ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      █████████████████░░░  85
+  WISDOM     █████████████░░░░░░░  66
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Starford",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Cael-Starford has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128501,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 51,
+      "PATIENCE": 86,
+      "CHAOS": 88,
+      "WISDOM": 87,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 333963912,
+  "totalStats": 412
+}

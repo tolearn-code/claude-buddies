@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Lakethir",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Aur-Lakethir speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128516,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "°",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 65,
+      "CHAOS": 40,
+      "WISDOM": 100,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 819849926,
+  "totalStats": 369
+}

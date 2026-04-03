@@ -1,0 +1,25 @@
+{
+  "name": "Starford",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Starford never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128482,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "×",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 41,
+      "WISDOM": 59,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 88418400,
+  "totalStats": 377
+}

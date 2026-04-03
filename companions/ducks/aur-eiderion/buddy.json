@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Dewglint",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Thal-Dewglint never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128500,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "✦",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 64,
+      "CHAOS": 87,
+      "WISDOM": 48,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 371433268,
+  "totalStats": 366
+}

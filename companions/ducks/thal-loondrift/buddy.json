@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Coralstream",
+  "personality": "A relentless hunter of bugs whose ✦ eyes dissect every stack trace like prey. Lúth-Coralstream never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128503,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 75,
+      "CHAOS": 73,
+      "WISDOM": 87,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 150137962,
+  "totalStats": 388
+}

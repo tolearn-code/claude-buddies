@@ -1,0 +1,11 @@
+Lúth-Crestvale — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 396):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     █████████████████░░░  86
+  SNARK      ██████████████░░░░░░  74
+
+Peak: PATIENCE | Dump: DEBUGGING

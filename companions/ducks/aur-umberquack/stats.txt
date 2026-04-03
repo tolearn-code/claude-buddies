@@ -1,0 +1,11 @@
+Ithil-Splashtorin — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 401):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████░░░░░░░░░░░░  42 (dump)
+
+Peak: PATIENCE | Dump: SNARK

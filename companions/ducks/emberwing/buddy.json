@@ -1,0 +1,25 @@
+{
+  "name": "Feathergale",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Feathergale waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128488,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 75,
+      "PATIENCE": 100,
+      "CHAOS": 80,
+      "WISDOM": 52,
+      "SNARK": 69
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 745357644,
+  "totalStats": 376
+}

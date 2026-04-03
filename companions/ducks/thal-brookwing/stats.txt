@@ -1,0 +1,11 @@
+Mîr-Twilmere — Legendary (★★★★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  84
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████░░░░░░░░░░░░  44 (dump)
+
+Peak: CHAOS | Dump: SNARK

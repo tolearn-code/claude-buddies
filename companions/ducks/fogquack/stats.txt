@@ -1,0 +1,11 @@
+Tealwater — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ████████████░░░░░░░░  62
+  PATIENCE   ██████████░░░░░░░░░░  53 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ███████████████░░░░░  77
+
+Peak: CHAOS | Dump: PATIENCE

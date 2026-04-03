@@ -1,0 +1,11 @@
+Shorewick — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

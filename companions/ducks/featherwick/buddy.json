@@ -1,0 +1,25 @@
+{
+  "name": "Driftmere",
+  "personality": "A wild-eyed force who thrives in broken deploys. Driftmere rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128474,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "·",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 50,
+      "CHAOS": 100,
+      "WISDOM": 85,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 981140610,
+  "totalStats": 409
+}

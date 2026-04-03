@@ -1,0 +1,11 @@
+Opalfall — Legendary (★★★★★) Wizard
+Eyes: · | Shiny: no
+
+Stats (total: 391):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████████░░░░░░░  67
+  CHAOS      █████████░░░░░░░░░░░  47 (dump)
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

@@ -1,0 +1,11 @@
+Thal-Frostmere — Legendary (★★★★★) Wizard ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Frostmere",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Thal-Frostmere has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128502,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 47,
+      "CHAOS": 89,
+      "WISDOM": 72,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 744763901,
+  "totalStats": 387
+}

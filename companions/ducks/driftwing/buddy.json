@@ -1,0 +1,25 @@
+{
+  "name": "Dewglint",
+  "personality": "A wild-eyed force who thrives in broken deploys. Dewglint rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128487,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 45,
+      "CHAOS": 100,
+      "WISDOM": 80,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 717530823,
+  "totalStats": 386
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Gentleford",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Gentleford waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128490,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 100,
+      "CHAOS": 83,
+      "WISDOM": 84,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 797156993,
+  "totalStats": 404
+}

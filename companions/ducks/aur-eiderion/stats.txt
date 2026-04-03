@@ -1,0 +1,11 @@
+Thal-Dewglint — Legendary (★★★★★) None ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 366):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████░░░░░░░░  64
+  CHAOS      █████████████████░░░  87
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      █████████████░░░░░░░  67
+
+Peak: DEBUGGING | Dump: WISDOM

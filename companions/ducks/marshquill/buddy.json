@@ -1,0 +1,25 @@
+{
+  "name": "Downshore",
+  "personality": "A wild-eyed force who thrives in broken deploys. Downshore rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128491,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 83,
+      "PATIENCE": 74,
+      "CHAOS": 100,
+      "WISDOM": 40,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 597924508,
+  "totalStats": 374
+}

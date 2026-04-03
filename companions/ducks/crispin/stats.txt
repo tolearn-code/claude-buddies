@@ -1,0 +1,11 @@
+Reedwhisper — Legendary (★★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: CHAOS

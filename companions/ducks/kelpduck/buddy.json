@@ -1,0 +1,25 @@
+{
+  "name": "Crestvale",
+  "personality": "A wild-eyed force who thrives in broken deploys. Crestvale rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128490,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 75,
+      "CHAOS": 100,
+      "WISDOM": 62,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 546684529,
+  "totalStats": 367
+}

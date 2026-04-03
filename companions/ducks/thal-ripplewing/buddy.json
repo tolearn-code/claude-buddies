@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Sedgewick",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Cael-Sedgewick never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128519,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 88,
+      "CHAOS": 51,
+      "WISDOM": 89,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 730563721,
+  "totalStats": 376
+}

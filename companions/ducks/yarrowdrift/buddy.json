@@ -1,0 +1,25 @@
+{
+  "name": "Sedgewick",
+  "personality": "A wild-eyed force who thrives in broken deploys. Sedgewick rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128485,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 81,
+      "CHAOS": 100,
+      "WISDOM": 72,
+      "SNARK": 41
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 575089285,
+  "totalStats": 381
+}

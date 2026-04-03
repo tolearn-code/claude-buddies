@@ -1,0 +1,11 @@
+Anar-Silverwake — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████░░░░░░░░░░░░  44 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Quellindor",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Aur-Quellindor waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128514,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 100,
+      "CHAOS": 50,
+      "WISDOM": 74,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 148617318,
+  "totalStats": 379
+}

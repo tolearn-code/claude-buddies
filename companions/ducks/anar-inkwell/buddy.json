@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Pondmeril",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Pondmeril rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128502,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 81,
+      "CHAOS": 100,
+      "WISDOM": 53,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 646346,
+  "totalStats": 404
+}

@@ -1,0 +1,11 @@
+Mîr-Wavecrest — Legendary (★★★★★) Halo ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 374):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ███████████░░░░░░░░░  56
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      █████████████████░░░  86
+
+Peak: DEBUGGING | Dump: WISDOM

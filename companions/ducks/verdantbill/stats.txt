@@ -1,0 +1,11 @@
+Twilmere — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  52
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      █████████████████░░░  88
+
+Peak: DEBUGGING | Dump: WISDOM

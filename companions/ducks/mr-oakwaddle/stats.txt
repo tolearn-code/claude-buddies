@@ -1,0 +1,11 @@
+Aur-Eventide — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 402):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  80
+  SNARK      ████████████████░░░░  84
+
+Peak: CHAOS | Dump: DEBUGGING

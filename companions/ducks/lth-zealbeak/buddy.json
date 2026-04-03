@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Goldenplume",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Ithil-Goldenplume speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128511,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 88,
+      "CHAOS": 51,
+      "WISDOM": 100,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 785517335,
+  "totalStats": 391
+}

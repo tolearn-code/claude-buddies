@@ -1,0 +1,25 @@
+{
+  "name": "Wavecrest",
+  "personality": "A wild-eyed force who thrives in broken deploys. Wavecrest rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128487,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 65,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 41
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 701246440,
+  "totalStats": 382
+}

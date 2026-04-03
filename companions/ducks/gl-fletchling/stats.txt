@@ -1,0 +1,11 @@
+Anar-Dabblequil — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: PATIENCE

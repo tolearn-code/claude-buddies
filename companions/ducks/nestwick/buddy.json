@@ -1,0 +1,25 @@
+{
+  "name": "Clearbrook",
+  "personality": "A wild-eyed force who thrives in broken deploys. Clearbrook rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128480,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 48,
+      "CHAOS": 100,
+      "WISDOM": 84,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 197647514,
+  "totalStats": 389
+}

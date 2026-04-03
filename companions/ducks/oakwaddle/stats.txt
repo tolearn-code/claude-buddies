@@ -1,0 +1,11 @@
+Halcyondew — Legendary (★★★★★) Tophat
+Eyes: × | Shiny: no
+
+Stats (total: 398):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  87
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: CHAOS | Dump: SNARK

@@ -1,0 +1,30 @@
+Gîl-Copperdrift — Legendary Duck (★★★★★) ✨
+Eyes: × | Hat: wizard | Shiny: yes
+
+--- Frame 0 (idle) ---
+    /^\     
+    __      
+  <(× )___  
+   (  ._>   
+    `--´    
+
+--- Frame 1 (idle alt) ---
+    /^\     
+    __      
+  <(× )___  
+   (  ._>   
+    `--´~   
+
+--- Frame 2 (wink) ---
+    /^\     
+    __      
+  <(× )___  
+   (  .__>  
+    `--´    
+
+--- Sleeping ---
+    /^\     
+    __      
+  <(- )___  
+   (  ._>   
+    `--´    

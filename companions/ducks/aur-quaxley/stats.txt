@@ -1,0 +1,11 @@
+Mîr-Driftmere — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  █████████████░░░░░░░  68
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████░░░░░░░░░░░░  42 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: WISDOM

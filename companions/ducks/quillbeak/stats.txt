@@ -1,0 +1,11 @@
+Silverwake — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      ████████░░░░░░░░░░░░  41 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  80
+
+Peak: WISDOM | Dump: CHAOS

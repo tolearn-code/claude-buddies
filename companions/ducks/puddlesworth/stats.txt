@@ -1,0 +1,11 @@
+Copperdrift — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  82
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: CHAOS | Dump: SNARK

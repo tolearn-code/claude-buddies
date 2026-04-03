@@ -1,0 +1,11 @@
+Stillpond — Legendary (★★★★★) Beanie
+Eyes: ✦ | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     ████████████████░░░░  82
+  SNARK      █████████████████░░░  86
+
+Peak: PATIENCE | Dump: DEBUGGING

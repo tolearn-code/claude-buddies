@@ -1,0 +1,25 @@
+{
+  "name": "Amberflow",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Amberflow waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128484,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 54,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 88,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 479562860,
+  "totalStats": 416
+}

@@ -1,0 +1,11 @@
+Wilowtide — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 400):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

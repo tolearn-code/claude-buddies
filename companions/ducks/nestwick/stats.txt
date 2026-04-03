@@ -1,0 +1,11 @@
+Clearbrook — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 389):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   █████████░░░░░░░░░░░  48 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  84
+  SNARK      █████████████░░░░░░░  68
+
+Peak: CHAOS | Dump: PATIENCE

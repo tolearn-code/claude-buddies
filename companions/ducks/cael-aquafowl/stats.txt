@@ -1,0 +1,11 @@
+Anar-Tealwater — Legendary (★★★★★) Beanie ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 394):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  84
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ██████████░░░░░░░░░░  51 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

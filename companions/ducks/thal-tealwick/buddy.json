@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Minnowglen",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Thal-Minnowglen never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128508,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 80,
+      "CHAOS": 68,
+      "WISDOM": 46,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 542617582,
+  "totalStats": 380
+}

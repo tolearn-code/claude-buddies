@@ -1,0 +1,25 @@
+{
+  "name": "Reedwhisper",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Reedwhisper waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128475,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "·",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 100,
+      "CHAOS": 46,
+      "WISDOM": 74,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 999167953,
+  "totalStats": 387
+}

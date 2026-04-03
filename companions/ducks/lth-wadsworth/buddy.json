@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Jadequill",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Jadequill waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128498,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 100,
+      "CHAOS": 54,
+      "WISDOM": 81,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 488035255,
+  "totalStats": 391
+}

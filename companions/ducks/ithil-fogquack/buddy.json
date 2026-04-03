@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Springmere",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Gîl-Springmere never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128514,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 72,
+      "CHAOS": 53,
+      "WISDOM": 82,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 944127417,
+  "totalStats": 393
+}

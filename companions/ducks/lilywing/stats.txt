@@ -1,0 +1,11 @@
+Gleamfall — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ███████████████░░░░░  79
+  PATIENCE   ████████░░░░░░░░░░░░  43 (dump)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

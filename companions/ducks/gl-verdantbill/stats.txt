@@ -1,0 +1,11 @@
+Thal-Gleamfall — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████░░░░░░░  67
+  WISDOM     █████████████████░░░  87
+  SNARK      ███████████████░░░░░  78
+
+Peak: PATIENCE | Dump: DEBUGGING

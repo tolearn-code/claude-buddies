@@ -1,0 +1,25 @@
+{
+  "name": "Twilmere",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Twilmere never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128484,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 52,
+      "CHAOS": 86,
+      "WISDOM": 49,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 23507941,
+  "totalStats": 375
+}

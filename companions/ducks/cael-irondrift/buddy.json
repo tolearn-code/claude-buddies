@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Mossdown",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Cael-Mossdown never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128515,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 68,
+      "CHAOS": 70,
+      "WISDOM": 51,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 498991811,
+  "totalStats": 374
+}

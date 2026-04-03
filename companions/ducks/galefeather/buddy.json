@@ -1,0 +1,25 @@
+{
+  "name": "Riverbend",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Riverbend speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128489,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 51,
+      "CHAOS": 82,
+      "WISDOM": 100,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 601519549,
+  "totalStats": 401
+}

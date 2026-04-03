@@ -1,0 +1,25 @@
+{
+  "name": "Glasswater",
+  "personality": "A sage whose ° eyes glow with the light of ten thousand resolved tickets. Glasswater speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128492,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 44,
+      "PATIENCE": 89,
+      "CHAOS": 69,
+      "WISDOM": 100,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 462395699,
+  "totalStats": 388
+}

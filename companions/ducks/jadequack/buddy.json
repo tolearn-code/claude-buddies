@@ -1,0 +1,25 @@
+{
+  "name": "Dabblequil",
+  "personality": "A wild-eyed force who thrives in broken deploys. Dabblequil rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128490,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 51,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 59
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 772192564,
+  "totalStats": 375
+}

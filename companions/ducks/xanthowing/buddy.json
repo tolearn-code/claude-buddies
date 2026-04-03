@@ -1,0 +1,25 @@
+{
+  "name": "Coralstream",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Coralstream has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128485,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 45,
+      "PATIENCE": 80,
+      "CHAOS": 84,
+      "WISDOM": 77,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 765543436,
+  "totalStats": 386
+}

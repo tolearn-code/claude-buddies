@@ -1,0 +1,11 @@
+Lakethir — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  69
+
+Peak: WISDOM | Dump: DEBUGGING

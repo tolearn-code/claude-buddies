@@ -1,0 +1,11 @@
+Brookshire — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 371):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ███████████░░░░░░░░░  59
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  89
+
+Peak: WISDOM | Dump: CHAOS

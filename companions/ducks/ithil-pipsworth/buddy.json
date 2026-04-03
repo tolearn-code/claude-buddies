@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Glasswater",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Anar-Glasswater never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128506,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 81,
+      "CHAOS": 83,
+      "WISDOM": 53,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 42622000,
+  "totalStats": 405
+}

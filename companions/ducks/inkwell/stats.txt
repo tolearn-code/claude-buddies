@@ -1,0 +1,11 @@
+Streamgild — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████░░░░░░░░  63
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: CHAOS | Dump: SNARK

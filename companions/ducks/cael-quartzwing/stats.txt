@@ -1,0 +1,11 @@
+Aur-Currentin — Legendary (★★★★★) Beanie ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 359):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      ████████░░░░░░░░░░░░  44 (dump)
+  WISDOM     ██████████████░░░░░░  71
+  SNARK      ██████████████░░░░░░  74
+
+Peak: DEBUGGING | Dump: CHAOS

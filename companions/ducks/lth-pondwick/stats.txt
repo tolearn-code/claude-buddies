@@ -1,0 +1,11 @@
+Aur-Emershore — Legendary (★★★★★) Wizard ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  70
+  CHAOS      ███████████████░░░░░  78
+  WISDOM     █████████████████░░░  89
+  SNARK      ██████████░░░░░░░░░░  54 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

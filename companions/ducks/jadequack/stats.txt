@@ -1,0 +1,11 @@
+Dabblequil — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      ███████████░░░░░░░░░  59
+
+Peak: CHAOS | Dump: PATIENCE

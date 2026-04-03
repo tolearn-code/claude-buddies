@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Twilmere",
+  "personality": "A wild-eyed force who thrives in broken deploys. Mîr-Twilmere rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128512,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 84,
+      "PATIENCE": 79,
+      "CHAOS": 100,
+      "WISDOM": 81,
+      "SNARK": 44
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 920752769,
+  "totalStats": 388
+}

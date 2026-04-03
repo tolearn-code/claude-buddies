@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Wilowtide",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Cael-Wilowtide speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128515,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 82,
+      "CHAOS": 80,
+      "WISDOM": 100,
+      "SNARK": 45
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 89676826,
+  "totalStats": 392
+}

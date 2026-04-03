@@ -1,0 +1,11 @@
+Emershore — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  80
+  SNARK      █████████░░░░░░░░░░░  45 (dump)
+
+Peak: CHAOS | Dump: SNARK

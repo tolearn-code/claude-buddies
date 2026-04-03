@@ -1,0 +1,11 @@
+Ithil-Goldenplume — Legendary (★★★★★) Wizard ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  █████████████░░░░░░░  66
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ██████████░░░░░░░░░░  51 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  86
+
+Peak: WISDOM | Dump: CHAOS

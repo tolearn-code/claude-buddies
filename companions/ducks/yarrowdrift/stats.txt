@@ -1,0 +1,11 @@
+Sedgewick — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ████████░░░░░░░░░░░░  41 (dump)
+
+Peak: CHAOS | Dump: SNARK

@@ -1,0 +1,11 @@
+Gîl-Springmere — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 393):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████░░░░  82
+  SNARK      █████████████████░░░  86
+
+Peak: DEBUGGING | Dump: CHAOS

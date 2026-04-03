@@ -1,0 +1,25 @@
+{
+  "name": "Springmere",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Springmere waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128480,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "×",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 43,
+      "PATIENCE": 100,
+      "CHAOS": 89,
+      "WISDOM": 72,
+      "SNARK": 68
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 119059654,
+  "totalStats": 372
+}

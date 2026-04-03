@@ -1,0 +1,11 @@
+Ithil-Clearbrook — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████░░░░░░░░░░░░  44 (dump)
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ████████████████░░░░  83
+
+Peak: DEBUGGING | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Wilowtide",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Wilowtide has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128492,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "°",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 87,
+      "CHAOS": 82,
+      "WISDOM": 84,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 766309226,
+  "totalStats": 400
+}

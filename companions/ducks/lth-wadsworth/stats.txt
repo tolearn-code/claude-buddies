@@ -1,0 +1,11 @@
+Mîr-Jadequill — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 391):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ████████████████░░░░  81
+  SNARK      █████████████░░░░░░░  67
+
+Peak: PATIENCE | Dump: CHAOS

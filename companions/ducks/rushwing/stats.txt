@@ -1,0 +1,11 @@
+Starford — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████░░░░░░░░░░░░  41 (dump)
+  WISDOM     ███████████░░░░░░░░░  59
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: CHAOS

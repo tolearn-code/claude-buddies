@@ -1,0 +1,25 @@
+{
+  "name": "Silverwake",
+  "personality": "A sage whose × eyes glow with the light of ten thousand resolved tickets. Silverwake speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128482,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "×",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 86,
+      "PATIENCE": 76,
+      "CHAOS": 41,
+      "WISDOM": 100,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 872750984,
+  "totalStats": 383
+}

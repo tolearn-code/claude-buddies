@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Emershore",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Aur-Emershore never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128518,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 70,
+      "CHAOS": 78,
+      "WISDOM": 89,
+      "SNARK": 54
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 397270380,
+  "totalStats": 391
+}

@@ -1,0 +1,30 @@
+Gîl-Mistshore — Legendary Duck (★★★★★) ✨
+Eyes: ◉ | Hat: tophat | Shiny: yes
+
+--- Frame 0 (idle) ---
+   [___]    
+    __      
+  <(◉ )___  
+   (  ._>   
+    `--´    
+
+--- Frame 1 (idle alt) ---
+   [___]    
+    __      
+  <(◉ )___  
+   (  ._>   
+    `--´~   
+
+--- Frame 2 (wink) ---
+   [___]    
+    __      
+  <(◉ )___  
+   (  .__>  
+    `--´    
+
+--- Sleeping ---
+   [___]    
+    __      
+  <(- )___  
+   (  ._>   
+    `--´    

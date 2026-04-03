@@ -1,0 +1,11 @@
+Cael-Marshwyn — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      █████████░░░░░░░░░░░  45 (dump)
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████░░░░  80
+
+Peak: DEBUGGING | Dump: CHAOS

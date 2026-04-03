@@ -1,0 +1,11 @@
+Glasswater — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████░░░░░░░  69
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  86
+
+Peak: WISDOM | Dump: DEBUGGING

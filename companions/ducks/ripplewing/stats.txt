@@ -1,0 +1,11 @@
+Moonmere — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 373):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ████████░░░░░░░░░░░░  43 (dump)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

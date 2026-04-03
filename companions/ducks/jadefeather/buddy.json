@@ -1,0 +1,25 @@
+{
+  "name": "Puddlewick",
+  "personality": "A wild-eyed force who thrives in broken deploys. Puddlewick rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128478,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "✦",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 45,
+      "PATIENCE": 79,
+      "CHAOS": 100,
+      "WISDOM": 72,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 338975253,
+  "totalStats": 380
+}

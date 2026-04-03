@@ -1,0 +1,25 @@
+{
+  "name": "Tidalin",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Tidalin speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128487,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 44,
+      "PATIENCE": 81,
+      "CHAOS": 84,
+      "WISDOM": 100,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 717989846,
+  "totalStats": 383
+}

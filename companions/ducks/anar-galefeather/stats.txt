@@ -1,0 +1,11 @@
+Aur-Quellindor — Legendary (★★★★★) Halo ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████░░░░  84
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,11 @@
+Crestvale — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 367):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████░░░░░░░░  62
+  SNARK      ███████████████░░░░░  77
+
+Peak: CHAOS | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Mîr-Downshore — Legendary (★★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████░░░░░░░░░░░  45 (dump)
+  SNARK      ████████████████░░░░  82
+
+Peak: PATIENCE | Dump: WISDOM

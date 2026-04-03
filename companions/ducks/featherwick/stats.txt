@@ -1,0 +1,11 @@
+Driftmere — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 409):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  85
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: PATIENCE

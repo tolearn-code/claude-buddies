@@ -1,0 +1,11 @@
+Lúth-Moonmere — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████████████░░░░  84
+
+Peak: PATIENCE | Dump: DEBUGGING

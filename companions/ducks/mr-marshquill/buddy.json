@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Dawnshore",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Thal-Dawnshore never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128517,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "°",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 57,
+      "CHAOS": 89,
+      "WISDOM": 50,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 595901202,
+  "totalStats": 377
+}

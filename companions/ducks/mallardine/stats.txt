@@ -1,0 +1,11 @@
+Springmere — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 372):
+  DEBUGGING  ████████░░░░░░░░░░░░  43 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  89
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      █████████████░░░░░░░  68
+
+Peak: PATIENCE | Dump: DEBUGGING

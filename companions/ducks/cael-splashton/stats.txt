@@ -1,0 +1,11 @@
+Gîl-Streamgild — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  76
+
+Peak: WISDOM | Dump: DEBUGGING

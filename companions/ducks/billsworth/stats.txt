@@ -1,0 +1,11 @@
+Pondmeril — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ██████████████░░░░░░  72
+  WISDOM     █████████░░░░░░░░░░░  45 (dump)
+  SNARK      ████████████████░░░░  81
+
+Peak: DEBUGGING | Dump: WISDOM

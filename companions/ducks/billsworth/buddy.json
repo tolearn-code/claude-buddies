@@ -1,0 +1,25 @@
+{
+  "name": "Pondmeril",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Pondmeril never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128473,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "·",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 85,
+      "CHAOS": 72,
+      "WISDOM": 45,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 833295631,
+  "totalStats": 383
+}

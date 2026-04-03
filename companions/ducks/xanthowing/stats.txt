@@ -1,0 +1,11 @@
+Coralstream — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  █████████░░░░░░░░░░░  45 (dump)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

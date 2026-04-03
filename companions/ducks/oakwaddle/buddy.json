@@ -1,0 +1,25 @@
+{
+  "name": "Halcyondew",
+  "personality": "A wild-eyed force who thrives in broken deploys. Halcyondew rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128481,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "×",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 76,
+      "CHAOS": 100,
+      "WISDOM": 87,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 696387830,
+  "totalStats": 398
+}

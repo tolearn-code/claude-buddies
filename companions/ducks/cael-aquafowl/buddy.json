@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Tealwater",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Anar-Tealwater never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128511,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 84,
+      "CHAOS": 87,
+      "WISDOM": 72,
+      "SNARK": 51
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 222030436,
+  "totalStats": 394
+}

@@ -1,0 +1,11 @@
+Quellindor — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████░░░░░░░░░░░░  40 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  69
+
+Peak: WISDOM | Dump: CHAOS

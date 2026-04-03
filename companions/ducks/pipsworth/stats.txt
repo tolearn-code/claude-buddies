@@ -1,0 +1,11 @@
+Frostmere — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
+
+Stats (total: 401):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ███████████████░░░░░  75
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,11 @@
+Thal-Shorewick — Legendary (★★★★★) Beanie ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 392):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     ██████████░░░░░░░░░░  54 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

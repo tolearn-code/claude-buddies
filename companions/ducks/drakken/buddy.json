@@ -1,0 +1,25 @@
+{
+  "name": "Marshwyn",
+  "personality": "A sage whose · eyes glow with the light of ten thousand resolved tickets. Marshwyn speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128473,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 50,
+      "PATIENCE": 78,
+      "CHAOS": 88,
+      "WISDOM": 100,
+      "SNARK": 69
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 121171616,
+  "totalStats": 385
+}

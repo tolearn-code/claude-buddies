@@ -1,0 +1,25 @@
+{
+  "name": "Tealwater",
+  "personality": "A wild-eyed force who thrives in broken deploys. Tealwater rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128488,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 62,
+      "PATIENCE": 53,
+      "CHAOS": 100,
+      "WISDOM": 80,
+      "SNARK": 77
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 326897648,
+  "totalStats": 372
+}

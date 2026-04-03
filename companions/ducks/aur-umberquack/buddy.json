@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Splashtorin",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Splashtorin waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128508,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "◉",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 88,
+      "PATIENCE": 100,
+      "CHAOS": 88,
+      "WISDOM": 83,
+      "SNARK": 42
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 83908801,
+  "totalStats": 401
+}

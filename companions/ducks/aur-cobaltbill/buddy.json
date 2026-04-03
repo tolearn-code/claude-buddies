@@ -1,0 +1,25 @@
+{
+  "name": "Cael-Marshwyn",
+  "personality": "A relentless hunter of bugs whose @ eyes dissect every stack trace like prey. Cael-Marshwyn never rests until the root cause is found.",
+  "defaultPersonality": "A cheerful quacker who celebrates your wins with enthusiastic honks and judges your variable names with quiet side-eye.",
+  "hatchedAt": 1775211128513,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "duck",
+    "eye": "@",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 72,
+      "CHAOS": 45,
+      "WISDOM": 83,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 951671418,
+  "totalStats": 380
+}

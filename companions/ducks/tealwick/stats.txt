@@ -1,0 +1,11 @@
+Eventide — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 371):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ███████████░░░░░░░░░  58
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

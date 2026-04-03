@@ -1,0 +1,11 @@
+Tidalin — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   ████████████████░░░░  81
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  74
+
+Peak: WISDOM | Dump: DEBUGGING
