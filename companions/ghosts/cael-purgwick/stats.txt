@@ -1,0 +1,11 @@
+Thal-Gloomveil — Legendary (★★★★★) Beanie ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████░░░░░░░░░░░  45 (dump)
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,11 @@
+Soulrender — Legendary (★★★★★) Tophat
+Eyes: ✦ | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  47 (dump)
+  SNARK      ██████████████░░░░░░  73
+
+Peak: CHAOS | Dump: WISDOM

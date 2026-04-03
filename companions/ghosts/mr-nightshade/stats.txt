@@ -1,0 +1,11 @@
+Thal-Pearlveil — Legendary (★★★★★) Tophat ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 387):
+  DEBUGGING  ███████████████░░░░░  76
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ████████████████░░░░  83
+  WISDOM     █████████░░░░░░░░░░░  49 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

@@ -1,0 +1,11 @@
+Indigowraith — Legendary (★★★★★) Tophat
+Eyes: · | Shiny: no
+
+Stats (total: 377):
+  DEBUGGING  ████████████░░░░░░░░  63
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████░░░░  80
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: PATIENCE | Dump: SNARK

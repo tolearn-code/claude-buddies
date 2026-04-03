@@ -1,0 +1,11 @@
+Lúth-Berylwraith — Legendary (★★★★★) Tophat ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ████████░░░░░░░░░░░░  42 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████████░░░░  80
+
+Peak: CHAOS | Dump: DEBUGGING

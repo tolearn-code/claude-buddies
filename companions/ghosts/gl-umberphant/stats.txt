@@ -1,0 +1,11 @@
+Thal-Starphantom — Legendary (★★★★★) Crown ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████░░░░░░░░  63
+
+Peak: CHAOS | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Anar-Emeraldshade — Legendary (★★★★★) Tophat ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 381):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  80
+
+Peak: WISDOM | Dump: PATIENCE

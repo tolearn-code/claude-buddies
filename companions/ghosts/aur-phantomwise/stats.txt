@@ -1,0 +1,11 @@
+Mîr-Mistwalker — Legendary (★★★★★) None ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 371):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████░░░░░░░░  63
+  CHAOS      ██████████████░░░░░░  71
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: WISDOM

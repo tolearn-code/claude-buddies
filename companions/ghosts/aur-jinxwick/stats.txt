@@ -1,0 +1,11 @@
+Aur-Soulrender — Legendary (★★★★★) None ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  █████████████████░░░  89
+  PATIENCE   ███████████████░░░░░  75
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: CHAOS | Dump: SNARK

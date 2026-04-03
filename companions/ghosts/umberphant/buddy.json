@@ -1,0 +1,25 @@
+{
+  "name": "Quartzwraith",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Quartzwraith never rests until the root cause is found.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128895,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "◉",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 50,
+      "CHAOS": 83,
+      "WISDOM": 87,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 580316245,
+  "totalStats": 401
+}

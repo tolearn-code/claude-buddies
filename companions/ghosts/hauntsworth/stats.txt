@@ -1,0 +1,11 @@
+Nighthollow — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ████████████░░░░░░░░  60
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      █████████████████░░░  88
+
+Peak: CHAOS | Dump: WISDOM

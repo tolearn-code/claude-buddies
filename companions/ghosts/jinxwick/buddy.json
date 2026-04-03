@@ -1,0 +1,25 @@
+{
+  "name": "Baneshade",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Baneshade waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128902,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "°",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 100,
+      "CHAOS": 70,
+      "WISDOM": 50,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 767277169,
+  "totalStats": 383
+}

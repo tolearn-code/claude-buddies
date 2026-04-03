@@ -1,0 +1,25 @@
+{
+  "name": "Ithil-Jadephantom",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Ithil-Jadephantom waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128925,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "°",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 100,
+      "CHAOS": 82,
+      "WISDOM": 53,
+      "SNARK": 88
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 724136657,
+  "totalStats": 401
+}

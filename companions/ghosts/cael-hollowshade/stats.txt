@@ -1,0 +1,11 @@
+Anar-Nighthollow — Legendary (★★★★★) Beanie ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 388):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  86
+  SNARK      ██████████████░░░░░░  74
+
+Peak: CHAOS | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Silverveil — Legendary (★★★★★) Crown
+Eyes: ° | Shiny: no
+
+Stats (total: 366):
+  DEBUGGING  ████████░░░░░░░░░░░░  44 (dump)
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ██████████████░░░░░░  70
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

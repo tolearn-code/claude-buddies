@@ -1,0 +1,11 @@
+Embershade — Legendary (★★★★★) Wizard
+Eyes: ° | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ██████████████░░░░░░  72
+  SNARK      ███████████████░░░░░  78
+
+Peak: DEBUGGING | Dump: CHAOS

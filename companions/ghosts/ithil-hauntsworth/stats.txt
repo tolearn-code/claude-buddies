@@ -1,0 +1,11 @@
+Mîr-Coppermere — Legendary (★★★★★) Propeller ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 380):
+  DEBUGGING  ██████████████░░░░░░  74
+  PATIENCE   ██████████░░░░░░░░░░  51 (dump)
+  CHAOS      █████████████░░░░░░░  68
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

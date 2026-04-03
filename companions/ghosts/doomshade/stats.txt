@@ -1,0 +1,11 @@
+Grimsorrow — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  70
+
+Peak: WISDOM | Dump: PATIENCE

@@ -1,0 +1,11 @@
+Garnetveil — Legendary (★★★★★) Wizard
+Eyes: × | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  40 (dump)
+  WISDOM     █████████████████░░░  86
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: CHAOS

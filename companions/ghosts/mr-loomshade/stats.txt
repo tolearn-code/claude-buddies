@@ -1,0 +1,11 @@
+Cael-Coralphantom — Legendary (★★★★★) Tophat ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ███████████████░░░░░  75
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

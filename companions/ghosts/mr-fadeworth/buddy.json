@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Berylwraith",
+  "personality": "A wild-eyed force who thrives in broken deploys. Lúth-Berylwraith rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128909,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "✦",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 42,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 77,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 967369070,
+  "totalStats": 384
+}

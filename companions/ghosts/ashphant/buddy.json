@@ -1,0 +1,25 @@
+{
+  "name": "Nullvarden",
+  "personality": "A relentless hunter of bugs whose ◉ eyes dissect every stack trace like prey. Nullvarden never rests until the root cause is found.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128898,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "◉",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 85,
+      "CHAOS": 74,
+      "WISDOM": 77,
+      "SNARK": 48
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 665484971,
+  "totalStats": 384
+}

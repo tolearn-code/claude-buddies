@@ -1,0 +1,11 @@
+Mîr-Voidmantle — Legendary (★★★★★) Halo ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 379):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████░░░░  83
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: DEBUGGING | Dump: WISDOM

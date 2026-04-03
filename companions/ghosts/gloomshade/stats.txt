@@ -1,0 +1,11 @@
+Mistwalker — Legendary (★★★★★) Propeller
+Eyes: ✦ | Shiny: no
+
+Stats (total: 385):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████████░░░░░░  70
+
+Peak: WISDOM | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Amethystveil",
+  "personality": "A wild-eyed force who thrives in broken deploys. Amethystveil rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128893,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 52,
+      "SNARK": 58
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 334477129,
+  "totalStats": 382
+}

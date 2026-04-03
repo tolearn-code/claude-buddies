@@ -1,0 +1,11 @@
+Crimsonphantom — Legendary (★★★★★) Wizard
+Eyes: ◉ | Shiny: no
+
+Stats (total: 405):
+  DEBUGGING  ████████████████░░░░  82
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      █████████████████░░░  85
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

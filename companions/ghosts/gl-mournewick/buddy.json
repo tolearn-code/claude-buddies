@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Silverveil",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Lúth-Silverveil has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128912,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "×",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 52,
+      "PATIENCE": 86,
+      "CHAOS": 76,
+      "WISDOM": 83,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 788323421,
+  "totalStats": 397
+}

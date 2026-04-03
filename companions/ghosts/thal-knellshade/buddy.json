@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Violetshade",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Lúth-Violetshade speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128911,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 47,
+      "PATIENCE": 76,
+      "CHAOS": 86,
+      "WISDOM": 100,
+      "SNARK": 81
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 693782268,
+  "totalStats": 390
+}

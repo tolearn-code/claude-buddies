@@ -1,0 +1,11 @@
+Dawnshade — Legendary (★★★★★) Propeller
+Eyes: ° | Shiny: no
+
+Stats (total: 398):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ████████████████░░░░  82
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: CHAOS | Dump: WISDOM

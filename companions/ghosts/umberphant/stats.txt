@@ -1,0 +1,11 @@
+Quartzwraith — Legendary (★★★★★) Crown
+Eyes: ◉ | Shiny: no
+
+Stats (total: 401):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████░░░░  81
+
+Peak: DEBUGGING | Dump: PATIENCE

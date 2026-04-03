@@ -1,0 +1,11 @@
+Coralphantom — Legendary (★★★★★) Tinyduck
+Eyes: × | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ██████████░░░░░░░░░░  50 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████░░░░░░░  65
+  SNARK      █████████████████░░░  88
+
+Peak: CHAOS | Dump: PATIENCE

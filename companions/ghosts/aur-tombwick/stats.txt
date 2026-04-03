@@ -1,0 +1,11 @@
+Ithil-Tombwarden — Legendary (★★★★★) None ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 396):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  83
+
+Peak: WISDOM | Dump: PATIENCE

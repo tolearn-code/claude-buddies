@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Cryptwarden",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Mîr-Cryptwarden waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128920,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "@",
+    "hat": "crown",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 75,
+      "PATIENCE": 100,
+      "CHAOS": 62,
+      "WISDOM": 50,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 585153869,
+  "totalStats": 370
+}

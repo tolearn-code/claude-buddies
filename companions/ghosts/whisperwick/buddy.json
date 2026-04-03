@@ -1,0 +1,25 @@
+{
+  "name": "Indigowraith",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Indigowraith waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128886,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "·",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 63,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 80,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 57491522,
+  "totalStats": 377
+}

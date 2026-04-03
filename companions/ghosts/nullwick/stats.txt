@@ -1,0 +1,11 @@
+Opalwraith — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
+
+Stats (total: 394):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ████████████████░░░░  82
+
+Peak: DEBUGGING | Dump: WISDOM

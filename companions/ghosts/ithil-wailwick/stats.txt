@@ -1,0 +1,11 @@
+Lúth-Embershade — Legendary (★★★★★) Propeller ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ████████████░░░░░░░░  60
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████████████░░░  88
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: PATIENCE | Dump: SNARK

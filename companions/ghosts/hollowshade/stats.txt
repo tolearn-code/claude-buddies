@@ -1,0 +1,11 @@
+Ashphantom — Legendary (★★★★★) Beanie
+Eyes: @ | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      █████████░░░░░░░░░░░  49 (dump)
+  WISDOM     ████████████░░░░░░░░  62
+  SNARK      ████████████████░░░░  82
+
+Peak: DEBUGGING | Dump: CHAOS

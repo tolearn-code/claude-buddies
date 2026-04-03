@@ -1,0 +1,25 @@
+{
+  "name": "Mîr-Mistwalker",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Mîr-Mistwalker never rests until the root cause is found.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128905,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "·",
+    "hat": "none",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 63,
+      "CHAOS": 71,
+      "WISDOM": 48,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 5653312,
+  "totalStats": 371
+}

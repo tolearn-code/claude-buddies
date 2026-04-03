@@ -1,0 +1,11 @@
+Ithil-Jadephantom — Legendary (★★★★★) Propeller ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 401):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  82
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      █████████████████░░░  88
+
+Peak: PATIENCE | Dump: WISDOM

@@ -1,0 +1,11 @@
+Gîl-Wraithguard — Legendary (★★★★★) None ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  86
+  WISDOM     █████████████████░░░  87
+  SNARK      █████████████░░░░░░░  67
+
+Peak: PATIENCE | Dump: DEBUGGING

@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Opalwraith",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Opalwraith rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128913,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "×",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 44,
+      "CHAOS": 100,
+      "WISDOM": 89,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 619815147,
+  "totalStats": 382
+}

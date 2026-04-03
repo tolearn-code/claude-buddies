@@ -1,0 +1,11 @@
+Darkmere — Legendary (★★★★★) Tinyduck
+Eyes: @ | Shiny: no
+
+Stats (total: 370):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  40 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████░░░░  81
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: DEBUGGING | Dump: PATIENCE

@@ -1,0 +1,25 @@
+{
+  "name": "Silentdoom",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Silentdoom has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128890,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 80,
+      "PATIENCE": 86,
+      "CHAOS": 48,
+      "WISDOM": 82,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 829799777,
+  "totalStats": 396
+}

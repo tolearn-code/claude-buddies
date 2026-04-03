@@ -1,0 +1,11 @@
+Ithil-Baneshade — Legendary (★★★★★) Crown ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 377):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████░░░░░░░░░░░░  42 (dump)
+
+Peak: WISDOM | Dump: SNARK

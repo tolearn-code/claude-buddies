@@ -1,0 +1,11 @@
+Shadewhisper — Legendary (★★★★★) None
+Eyes: @ | Shiny: no
+
+Stats (total: 403):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  76
+
+Peak: WISDOM | Dump: CHAOS

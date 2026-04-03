@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Gloomveil",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Thal-Gloomveil waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128927,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "°",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 73,
+      "PATIENCE": 100,
+      "CHAOS": 84,
+      "WISDOM": 45,
+      "SNARK": 79
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 891586490,
+  "totalStats": 381
+}

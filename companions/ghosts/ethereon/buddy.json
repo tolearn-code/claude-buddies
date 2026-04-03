@@ -1,0 +1,25 @@
+{
+  "name": "Hollowmere",
+  "personality": "A relentless hunter of bugs whose · eyes dissect every stack trace like prey. Hollowmere never rests until the root cause is found.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128887,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "·",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 80,
+      "CHAOS": 49,
+      "WISDOM": 74,
+      "SNARK": 86
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 820087850,
+  "totalStats": 389
+}

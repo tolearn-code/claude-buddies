@@ -1,0 +1,11 @@
+Cael-Amethystveil — Legendary (★★★★★) Wizard ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 368):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  40 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      ███████████░░░░░░░░░  58
+
+Peak: PATIENCE | Dump: CHAOS

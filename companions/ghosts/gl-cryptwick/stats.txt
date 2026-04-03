@@ -1,0 +1,11 @@
+Mîr-Cryptwarden — Legendary (★★★★★) Crown ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 370):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████░░░░░░░░  62
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: WISDOM

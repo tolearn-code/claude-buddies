@@ -1,0 +1,11 @@
+Goldenveil — Legendary (★★★★★) Beanie
+Eyes: · | Shiny: no
+
+Stats (total: 374):
+  DEBUGGING  ██████████████░░░░░░  70
+  PATIENCE   ██████████████░░░░░░  71
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      █████████████████░░░  87
+
+Peak: CHAOS | Dump: WISDOM

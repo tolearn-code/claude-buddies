@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Obsidishade",
+  "personality": "A wild-eyed force who thrives in broken deploys. Aur-Obsidishade rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128916,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 86,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 67
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 32049997,
+  "totalStats": 389
+}

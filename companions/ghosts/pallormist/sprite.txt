@@ -1,0 +1,30 @@
+Sapphirephantom — Legendary Ghost (★★★★★)
+Eyes: × | Hat: halo | Shiny: no
+
+--- Frame 0 (idle) ---
+   (   )    
+   .----.   
+  / ×  × \  
+  |      |  
+  ~`~``~`~  
+
+--- Frame 1 (idle alt) ---
+   (   )    
+   .----.   
+  / ×  × \  
+  |      |  
+  `~`~~`~`  
+
+--- Frame 2 (wink) ---
+    ~  ~    
+   .----.   
+  / ×  × \  
+  |      |  
+  ~~`~~`~~  
+
+--- Sleeping ---
+   (   )    
+   .----.   
+  / -  - \  
+  |      |  
+  ~`~``~`~  

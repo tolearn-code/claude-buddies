@@ -1,0 +1,25 @@
+{
+  "name": "Crystalphantom",
+  "personality": "A sage whose ✦ eyes glow with the light of ten thousand resolved tickets. Crystalphantom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128891,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "✦",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 64,
+      "PATIENCE": 87,
+      "CHAOS": 80,
+      "WISDOM": 100,
+      "SNARK": 53
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 184686206,
+  "totalStats": 384
+}

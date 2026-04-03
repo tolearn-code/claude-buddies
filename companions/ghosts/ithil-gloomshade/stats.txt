@@ -1,0 +1,11 @@
+Gîl-Goldenveil — Legendary (★★★★★) Propeller ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 406):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  76
+
+Peak: WISDOM | Dump: CHAOS

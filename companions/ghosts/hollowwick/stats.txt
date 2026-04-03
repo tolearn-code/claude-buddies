@@ -1,0 +1,11 @@
+Gloomveil — Legendary (★★★★★) Tinyduck
+Eyes: · | Shiny: no
+
+Stats (total: 415):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████████████░░░  89
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

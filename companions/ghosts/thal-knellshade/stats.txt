@@ -1,0 +1,11 @@
+Lúth-Violetshade — Legendary (★★★★★) Tinyduck ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 390):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ███████████████░░░░░  76
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  81
+
+Peak: WISDOM | Dump: DEBUGGING

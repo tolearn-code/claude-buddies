@@ -1,0 +1,11 @@
+Cael-Crimsonphantom — Legendary (★★★★★) Tinyduck ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████████░░░  87
+
+Peak: WISDOM | Dump: DEBUGGING

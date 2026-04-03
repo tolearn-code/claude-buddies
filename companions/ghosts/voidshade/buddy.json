@@ -1,0 +1,25 @@
+{
+  "name": "Citrinphantom",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Citrinphantom speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128896,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "◉",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 79,
+      "PATIENCE": 51,
+      "CHAOS": 87,
+      "WISDOM": 100,
+      "SNARK": 89
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 292770019,
+  "totalStats": 406
+}

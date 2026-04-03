@@ -1,0 +1,11 @@
+Berylwraith — Legendary (★★★★★) Halo
+Eyes: · | Shiny: no
+
+Stats (total: 403):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     █████████░░░░░░░░░░░  46 (dump)
+  SNARK      █████████████████░░░  89
+
+Peak: PATIENCE | Dump: WISDOM

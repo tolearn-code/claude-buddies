@@ -1,0 +1,11 @@
+Anar-Crystalphantom — Legendary (★★★★★) Crown ✨
+Eyes: ° | Shiny: yes
+
+Stats (total: 408):
+  DEBUGGING  ██████████░░░░░░░░░░  50 (dump)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

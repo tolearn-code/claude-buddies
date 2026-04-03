@@ -1,0 +1,11 @@
+Baneshade — Legendary (★★★★★) None
+Eyes: ° | Shiny: no
+
+Stats (total: 383):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  70
+  WISDOM     ██████████░░░░░░░░░░  50 (dump)
+  SNARK      █████████████████░░░  85
+
+Peak: PATIENCE | Dump: WISDOM

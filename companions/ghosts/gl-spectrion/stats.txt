@@ -1,0 +1,11 @@
+Cael-Moonwraith — Legendary (★★★★★) Crown ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 384):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████░░░░░░░░░░░░  41 (dump)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ███████████████░░░░░  79
+  SNARK      █████████████████░░░  87
+
+Peak: DEBUGGING | Dump: PATIENCE

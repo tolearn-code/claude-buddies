@@ -1,0 +1,25 @@
+{
+  "name": "Aur-Darkmere",
+  "personality": "A relentless hunter of bugs whose × eyes dissect every stack trace like prey. Aur-Darkmere never rests until the root cause is found.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128914,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "×",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 72,
+      "CHAOS": 54,
+      "WISDOM": 89,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 473212415,
+  "totalStats": 400
+}

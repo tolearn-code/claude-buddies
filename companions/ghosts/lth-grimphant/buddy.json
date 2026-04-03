@@ -1,0 +1,25 @@
+{
+  "name": "Thal-Sapphirephantom",
+  "personality": "A wild-eyed force who thrives in broken deploys. Thal-Sapphirephantom rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128922,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "@",
+    "hat": "wizard",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 48,
+      "PATIENCE": 79,
+      "CHAOS": 100,
+      "WISDOM": 88,
+      "SNARK": 85
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 457263284,
+  "totalStats": 400
+}

@@ -1,0 +1,11 @@
+Obsidishade — Legendary (★★★★★) None
+Eyes: ◉ | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      █████████████████░░░  87
+  WISDOM     ██████████░░░░░░░░░░  53 (dump)
+  SNARK      ████████████░░░░░░░░  61
+
+Peak: DEBUGGING | Dump: WISDOM

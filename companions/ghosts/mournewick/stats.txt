@@ -1,0 +1,11 @@
+Coppermere — Legendary (★★★★★) Crown
+Eyes: × | Shiny: no
+
+Stats (total: 400):
+  DEBUGGING  █████████████████░░░  88
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  48 (dump)
+  SNARK      ████████████████░░░░  84
+
+Peak: CHAOS | Dump: WISDOM

@@ -1,0 +1,11 @@
+Lúth-Silverveil — Legendary (★★★★★) Crown ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 397):
+  DEBUGGING  ██████████░░░░░░░░░░  52 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ███████████████░░░░░  76
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

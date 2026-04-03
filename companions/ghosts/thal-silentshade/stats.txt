@@ -1,0 +1,11 @@
+Thal-Azureveil — Legendary (★★★★★) Tinyduck ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 392):
+  DEBUGGING  █████████████░░░░░░░  67
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      █████████████████░░░  88
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: PATIENCE | Dump: SNARK

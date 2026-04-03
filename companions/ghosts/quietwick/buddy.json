@@ -1,0 +1,25 @@
+{
+  "name": "Onyxphantom",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Onyxphantom waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128905,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 100,
+      "CHAOS": 85,
+      "WISDOM": 47,
+      "SNARK": 84
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 707352233,
+  "totalStats": 393
+}

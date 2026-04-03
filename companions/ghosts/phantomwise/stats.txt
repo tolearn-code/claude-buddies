@@ -1,0 +1,11 @@
+Rubywraith — Legendary (★★★★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 375):
+  DEBUGGING  █████████████████░░░  86
+  PATIENCE   █████████████░░░░░░░  68
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      █████████████░░░░░░░  69
+
+Peak: CHAOS | Dump: WISDOM

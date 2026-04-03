@@ -1,0 +1,25 @@
+{
+  "name": "Shadewhisper",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Shadewhisper speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128898,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "@",
+    "hat": "none",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 85,
+      "PATIENCE": 89,
+      "CHAOS": 53,
+      "WISDOM": 100,
+      "SNARK": 76
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 159028982,
+  "totalStats": 403
+}

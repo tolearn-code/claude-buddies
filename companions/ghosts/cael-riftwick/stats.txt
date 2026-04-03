@@ -1,0 +1,11 @@
+Aur-Darkmere — Legendary (★★★★★) Beanie ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████████████░░░  85
+
+Peak: DEBUGGING | Dump: CHAOS

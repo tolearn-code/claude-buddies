@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Silentdoom",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Silentdoom waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128911,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 53,
+      "PATIENCE": 100,
+      "CHAOS": 62,
+      "WISDOM": 77,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 593583722,
+  "totalStats": 372
+}

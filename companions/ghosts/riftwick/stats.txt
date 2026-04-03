@@ -1,0 +1,11 @@
+Emeraldshade — Legendary (★★★★★) Beanie
+Eyes: × | Shiny: no
+
+Stats (total: 406):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ████████████████░░░░  83
+  CHAOS      █████████████████░░░  88
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ████████████████░░░░  83
+
+Peak: DEBUGGING | Dump: WISDOM

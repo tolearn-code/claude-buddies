@@ -1,0 +1,11 @@
+Ithil-Amberveil — Legendary (★★★★★) Tinyduck ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  █████████░░░░░░░░░░░  49 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     █████████████████░░░  87
+  SNARK      ███████████████░░░░░  79
+
+Peak: PATIENCE | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Pearlveil — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████░░░░  82
+  SNARK      ██████████░░░░░░░░░░  50 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

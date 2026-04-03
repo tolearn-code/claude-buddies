@@ -1,0 +1,11 @@
+Silentdoom — Legendary (★★★★★) Halo
+Eyes: ✦ | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ████████████████░░░░  80
+  PATIENCE   █████████████████░░░  86
+  CHAOS      █████████░░░░░░░░░░░  48 (dump)
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

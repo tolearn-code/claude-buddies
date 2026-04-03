@@ -1,0 +1,11 @@
+Mîr-Citrinphantom — Legendary (★★★★★) Tinyduck ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 402):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     █████████████████░░░  89
+  SNARK      █████████████████░░░  89
+
+Peak: DEBUGGING | Dump: CHAOS

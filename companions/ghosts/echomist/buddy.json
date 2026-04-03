@@ -1,0 +1,25 @@
+{
+  "name": "Dreadhallow",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Dreadhallow has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128889,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "✦",
+    "hat": "crown",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 50,
+      "PATIENCE": 79,
+      "CHAOS": 77,
+      "WISDOM": 89,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 971539902,
+  "totalStats": 395
+}

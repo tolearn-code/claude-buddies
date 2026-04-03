@@ -1,0 +1,11 @@
+Anar-Opalwraith — Legendary (★★★★★) Propeller ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 382):
+  DEBUGGING  █████████████░░░░░░░  66
+  PATIENCE   ████████░░░░░░░░░░░░  44 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  89
+  SNARK      ████████████████░░░░  83
+
+Peak: CHAOS | Dump: PATIENCE

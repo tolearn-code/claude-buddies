@@ -1,0 +1,11 @@
+Nullvarden — Legendary (★★★★★) Tinyduck
+Eyes: ◉ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████████████ 100 (peak)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ███████████████░░░░░  77
+  SNARK      █████████░░░░░░░░░░░  48 (dump)
+
+Peak: DEBUGGING | Dump: SNARK

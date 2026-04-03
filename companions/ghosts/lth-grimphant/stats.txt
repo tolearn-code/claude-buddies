@@ -1,0 +1,11 @@
+Thal-Sapphirephantom — Legendary (★★★★★) Wizard ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 400):
+  DEBUGGING  █████████░░░░░░░░░░░  48 (dump)
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████████████░░░  88
+  SNARK      █████████████████░░░  85
+
+Peak: CHAOS | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Azureveil — Legendary (★★★★★) Beanie
+Eyes: ◉ | Shiny: no
+
+Stats (total: 379):
+  DEBUGGING  ██████████████░░░░░░  71
+  PATIENCE   ████████████████░░░░  80
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     ██████████████░░░░░░  74
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

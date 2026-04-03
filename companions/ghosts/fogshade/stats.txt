@@ -1,0 +1,11 @@
+Wraithguard — Legendary (★★★★★) Halo
+Eyes: @ | Shiny: no
+
+Stats (total: 382):
+  DEBUGGING  █████████████░░░░░░░  65
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     █████████████████░░░  85
+  SNARK      ███████████████░░░░░  78
+
+Peak: PATIENCE | Dump: CHAOS

@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Indigowraith",
+  "personality": "A sage whose @ eyes glow with the light of ten thousand resolved tickets. Anar-Indigowraith speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128923,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "@",
+    "hat": "tinyduck",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 78,
+      "PATIENCE": 88,
+      "CHAOS": 83,
+      "WISDOM": 100,
+      "SNARK": 47
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 412209781,
+  "totalStats": 396
+}

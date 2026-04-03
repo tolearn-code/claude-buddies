@@ -1,0 +1,11 @@
+Crystalphantom — Legendary (★★★★★) Tinyduck
+Eyes: ✦ | Shiny: no
+
+Stats (total: 384):
+  DEBUGGING  ████████████░░░░░░░░  64
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
+
+Peak: WISDOM | Dump: SNARK

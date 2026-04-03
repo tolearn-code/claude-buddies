@@ -1,0 +1,11 @@
+Moonwraith — Legendary (★★★★★) Tophat
+Eyes: ° | Shiny: no
+
+Stats (total: 381):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ███████████████░░░░░  77
+  CHAOS      █████████████░░░░░░░  67
+  WISDOM     ██████████░░░░░░░░░░  52 (dump)
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: WISDOM

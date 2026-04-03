@@ -1,0 +1,25 @@
+{
+  "name": "Gîl-Shadewhisper",
+  "personality": "A wild-eyed force who thrives in broken deploys. Gîl-Shadewhisper rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128910,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "✦",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 69,
+      "PATIENCE": 73,
+      "CHAOS": 100,
+      "WISDOM": 51,
+      "SNARK": 80
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "WISDOM",
+  "inspirationSeed": 412457730,
+  "totalStats": 373
+}

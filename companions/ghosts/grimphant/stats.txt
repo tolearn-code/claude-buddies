@@ -1,0 +1,11 @@
+Tombwarden — Legendary (★★★★★) Wizard
+Eyes: @ | Shiny: no
+
+Stats (total: 396):
+  DEBUGGING  ███████████████░░░░░  75
+  PATIENCE   █████████░░░░░░░░░░░  49 (dump)
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████████████░░░  89
+
+Peak: CHAOS | Dump: PATIENCE

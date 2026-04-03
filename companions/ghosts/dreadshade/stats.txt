@@ -1,0 +1,11 @@
+Phantomveil — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 389):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ██████████████░░░░░░  74
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

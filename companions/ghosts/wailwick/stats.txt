@@ -1,0 +1,11 @@
+Amberveil — Legendary (★★★★★) Propeller
+Eyes: ◉ | Shiny: no
+
+Stats (total: 388):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   █████████░░░░░░░░░░░  45 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████░░░░  82
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

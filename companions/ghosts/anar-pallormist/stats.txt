@@ -1,0 +1,11 @@
+Ithil-Grimsorrow — Legendary (★★★★★) Halo ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 376):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ███████████░░░░░░░░░  58
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  79
+
+Peak: WISDOM | Dump: DEBUGGING

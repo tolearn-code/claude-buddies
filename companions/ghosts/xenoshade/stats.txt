@@ -1,0 +1,11 @@
+Violetshade — Legendary (★★★★★) Halo
+Eyes: ◉ | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  ████████████░░░░░░░░  61
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ██████████░░░░░░░░░░  50 (dump)
+  WISDOM     ████████████████░░░░  84
+  SNARK      ████████████████░░░░  83
+
+Peak: PATIENCE | Dump: CHAOS

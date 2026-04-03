@@ -1,0 +1,25 @@
+{
+  "name": "Anar-Nighthollow",
+  "personality": "A wild-eyed force who thrives in broken deploys. Anar-Nighthollow rewrites your careful plans with reckless brilliance, leaving code somehow better.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128923,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "@",
+    "hat": "beanie",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 77,
+      "PATIENCE": 51,
+      "CHAOS": 100,
+      "WISDOM": 86,
+      "SNARK": 74
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 808263949,
+  "totalStats": 388
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Crimsonphantom",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Crimsonphantom has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128897,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "◉",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 54,
+      "CHAOS": 85,
+      "WISDOM": 84,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 1369422,
+  "totalStats": 405
+}

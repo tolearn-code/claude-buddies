@@ -1,0 +1,11 @@
+Aur-Obsidishade — Legendary (★★★★★) Tophat ✨
+Eyes: ◉ | Shiny: yes
+
+Stats (total: 389):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   █████████████████░░░  86
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     ████████████████░░░░  83
+  SNARK      █████████████░░░░░░░  67
+
+Peak: CHAOS | Dump: DEBUGGING

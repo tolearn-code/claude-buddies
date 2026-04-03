@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Dreadhallow",
+  "personality": "A sage whose ◉ eyes glow with the light of ten thousand resolved tickets. Lúth-Dreadhallow speaks rarely, but reshapes how you think about architecture.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128917,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 87,
+      "PATIENCE": 47,
+      "CHAOS": 85,
+      "WISDOM": 100,
+      "SNARK": 70
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 971627372,
+  "totalStats": 389
+}

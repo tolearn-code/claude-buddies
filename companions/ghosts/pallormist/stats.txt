@@ -1,0 +1,11 @@
+Sapphirephantom — Legendary (★★★★★) Halo
+Eyes: × | Shiny: no
+
+Stats (total: 392):
+  DEBUGGING  █████████░░░░░░░░░░░  47 (dump)
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      █████████████████░░░  88
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ███████████████░░░░░  79
+
+Peak: WISDOM | Dump: DEBUGGING

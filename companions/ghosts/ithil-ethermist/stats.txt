@@ -1,0 +1,11 @@
+Aur-Dawnshade — Legendary (★★★★★) Propeller ✨
+Eyes: @ | Shiny: yes
+
+Stats (total: 375):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   █████████████░░░░░░░  67
+  CHAOS      ████████████████████ 100 (peak)
+  WISDOM     █████████░░░░░░░░░░░  45 (dump)
+  SNARK      ████████████████░░░░  82
+
+Peak: CHAOS | Dump: WISDOM

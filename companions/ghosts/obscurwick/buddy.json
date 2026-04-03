@@ -1,0 +1,25 @@
+{
+  "name": "Embershade",
+  "personality": "A relentless hunter of bugs whose ° eyes dissect every stack trace like prey. Embershade never rests until the root cause is found.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128904,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "°",
+    "hat": "wizard",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 100,
+      "PATIENCE": 87,
+      "CHAOS": 48,
+      "WISDOM": 72,
+      "SNARK": 78
+    }
+  },
+  "peakStat": "DEBUGGING",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 469322854,
+  "totalStats": 385
+}

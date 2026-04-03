@@ -1,0 +1,25 @@
+{
+  "name": "Azureveil",
+  "personality": "A sharp-tongued critic who reviews your code with surgical cruelty. Azureveil has never given a compliment — the absence of criticism is the highest praise.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128897,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "◉",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 80,
+      "CHAOS": 54,
+      "WISDOM": 74,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 105579332,
+  "totalStats": 379
+}

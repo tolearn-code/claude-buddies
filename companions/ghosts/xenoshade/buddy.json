@@ -1,0 +1,25 @@
+{
+  "name": "Violetshade",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Violetshade waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128897,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 61,
+      "PATIENCE": 100,
+      "CHAOS": 50,
+      "WISDOM": 84,
+      "SNARK": 83
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 423394019,
+  "totalStats": 378
+}

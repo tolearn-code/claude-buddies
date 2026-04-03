@@ -1,0 +1,25 @@
+{
+  "name": "Lúth-Embershade",
+  "personality": "An immovable presence who watches your builds with the patience of mountains. Lúth-Embershade waits through every flaky test, then offers one quiet fix.",
+  "defaultPersonality": "A spectral presence who haunts your dead code and whispers about the bugs you thought you fixed.",
+  "hatchedAt": 1775211128917,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "ghost",
+    "eye": "◉",
+    "hat": "propeller",
+    "shiny": true,
+    "stats": {
+      "DEBUGGING": 60,
+      "PATIENCE": 100,
+      "CHAOS": 86,
+      "WISDOM": 88,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 664075381,
+  "totalStats": 384
+}

@@ -1,0 +1,11 @@
+Deathwhisper — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 386):
+  DEBUGGING  ██████████████░░░░░░  73
+  PATIENCE   █████████░░░░░░░░░░░  47 (dump)
+  CHAOS      █████████████████░░░  88
+  WISDOM     ███████████████░░░░░  78
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

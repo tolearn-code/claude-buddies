@@ -1,0 +1,11 @@
+Mîr-Garnetveil — Legendary (★★★★★) Wizard ✨
+Eyes: × | Shiny: yes
+
+Stats (total: 392):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   █████████████████░░░  88
+  CHAOS      ██████████░░░░░░░░░░  53 (dump)
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      █████████████░░░░░░░  68
+
+Peak: WISDOM | Dump: CHAOS

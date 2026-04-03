@@ -1,0 +1,11 @@
+Gîl-Quartzwraith — Legendary (★★★★★) Tophat ✨
+Eyes: · | Shiny: yes
+
+Stats (total: 385):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  80
+  WISDOM     █████████████████░░░  87
+  SNARK      █████████████░░░░░░░  65
+
+Peak: PATIENCE | Dump: DEBUGGING

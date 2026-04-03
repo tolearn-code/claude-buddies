@@ -1,0 +1,11 @@
+Lúth-Silentdoom — Legendary (★★★★★) Beanie ✨
+Eyes: ✦ | Shiny: yes
+
+Stats (total: 372):
+  DEBUGGING  ██████████░░░░░░░░░░  53 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████░░░░░░░░  62
+  WISDOM     ███████████████░░░░░  77
+  SNARK      ████████████████░░░░  80
+
+Peak: PATIENCE | Dump: DEBUGGING
