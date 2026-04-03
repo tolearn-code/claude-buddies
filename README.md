@@ -49,9 +49,38 @@ The name and personality apply immediately, but the visual species depends on yo
 npx any-buddy --species owl --rarity uncommon
 ```
 
+## Generators
+
+Two self-contained generators are included to roll any buddy from a `userId + salt`. No need to clone the full any-buddy repo.
+
+### Which hash does Claude Code use?
+
+Claude Code uses **wyhash** (via Bun) by default. If Bun is not available, it falls back to **FNV-1a**. The hash algorithm determines what buddy you get — same userId + salt with different hashes produces a completely different pet.
+
+### Bun/wyhash generator (recommended)
+
+Requires [Bun](https://bun.sh) installed. Produces the **same results as Claude Code's default**.
+
+```bash
+bun bun-wyhash-generator/buddy_generator.ts <accountUuid> [salt]
+bun bun-wyhash-generator/buddy_generator.ts <accountUuid> --output companions/mybuddy
+bun bun-wyhash-generator/buddy_generator.ts <accountUuid> --json
+```
+
+### Python/FNV-1a generator
+
+Requires only Python 3. Uses FNV-1a hash (matches Claude Code on systems without Bun). Can also use wyhash if Bun is installed via `--wyhash` flag.
+
+```bash
+python3 generator/buddy_generator.py <accountUuid> [salt]
+python3 generator/buddy_generator.py <accountUuid> --wyhash          # use Bun's wyhash
+python3 generator/buddy_generator.py <accountUuid> -o companions/mybuddy
+python3 generator/buddy_generator.py <accountUuid> --json
+```
+
 ## Files
 
-| File | Purpose |
+| File / Folder | Purpose |
 |------|---------|
 | `install.sh` | One-command installer script |
 | `companion.json` | Name, personality, and hatch timestamp |
@@ -59,6 +88,9 @@ npx any-buddy --species owl --rarity uncommon
 | `sprite.txt` | ASCII art for all animation frames |
 | `hatch-instructions.md` | Step-by-step guide to recreate on another machine |
 | `recreation-guide.txt` | Technical details on deterministic generation |
+| `bun-wyhash-generator/` | Bun/TypeScript generator (wyhash, Claude Code default) |
+| `generator/` | Python generator (FNV-1a default, wyhash optional) |
+| `instructions/` | LLM-friendly extraction guide |
 
 ## Stats
 
