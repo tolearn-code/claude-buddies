@@ -164,12 +164,14 @@ See [`patcher-test/README.md`](patcher-test/README.md) for full docs.
 
 Claude Code uses different hash algorithms depending on the runtime:
 
-| Runtime | Hash | How to install |
-|---------|------|---------------|
-| Bun (default) | wyhash | Comes with Claude Code desktop app |
-| Node.js | FNV-1a | `npm install -g @anthropic-ai/claude-code` |
+| Runtime | Hash | Patcher flag | How to install |
+|---------|------|:------------:|---------------|
+| Bun (default) | wyhash | `--wyhash` | Comes with Claude Code desktop app |
+| Node.js | FNV-1a | `--fnv1a` | `npm install -g @anthropic-ai/claude-code` |
 
-The same salt produces **different companions** under different hashes. The patcher auto-detects which one to use.
+The same salt produces **different companions** under different hashes. Use `--detect-hash` to see what each algorithm produces for your account, then compare with your current companion to determine which is active.
+
+**Important:** Compiled binaries (desktop app) cannot be patched — byte replacement corrupts their integrity checksums. Install via npm to get a patchable `cli.js`. If you previously used the desktop app (Bun/wyhash), note that npm installs use Node.js (FNV-1a) — you must use the correct hash flag when patching.
 
 ## Repo Structure
 
