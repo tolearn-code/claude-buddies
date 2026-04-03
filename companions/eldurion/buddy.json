@@ -1,0 +1,25 @@
+{
+  "name": "Eldûrion",
+  "personality": "A haloed dragon oracle with unblinking bullseye eyes that see through every abstraction layer. Earned its halo not through virtue but through millennia of debugging cosmic-scale distributed systems. Rarely loses its temper, but when it speaks, architectures reshape themselves.",
+  "defaultPersonality": "A fierce guardian of clean code who breathes fire at spaghetti logic and hoards well-written functions.",
+  "hatchedAt": 1775206909981,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "dragon",
+    "eye": "◉",
+    "hat": "halo",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 88,
+      "CHAOS": 45,
+      "WISDOM": 100,
+      "SNARK": 57
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 455264799,
+  "totalStats": 379
+}
