@@ -1,0 +1,45 @@
+HOW TO RECREATE THIS BUDDY
+===========================
+
+This buddy was hatched with the ORIGINAL salt (friend-2026-401).
+
+The generation is deterministic: same userId + salt = same buddy every time.
+
+Option 1: On the same account (same userId)
+--------------------------------------------
+No action needed — the default Claude Code companion for this account
+will always be this owl. Just run Claude Code without any-buddy patches.
+
+Option 2: After patching with any-buddy
+-----------------------------------------
+Run: any-buddy restore
+This restores the original salt and brings Thistlewing back.
+Then set the name and personality in ~/.claude.json:
+
+  companion.name = "Thistlewing"
+  companion.personality = "A chaotic owl who finds bugs through sheer
+    anarchic energy rather than method, swooping into code tangles with
+    genuine excitement and zero chill about the carnage they leave behind."
+
+Option 3: On a different account/machine
+------------------------------------------
+The buddy generation depends on the userId (oauthAccount.accountUuid).
+A different account will produce a different buddy from the same salt.
+To get the same visual appearance, you would need to find a salt that
+produces these exact bones for the new userId:
+
+  Species: owl
+  Rarity:  uncommon
+  Eye:     · (middle dot)
+  Hat:     none
+  Shiny:   no
+  Stats:   DEBUGGING=19, PATIENCE=38, CHAOS=87, WISDOM=47, SNARK=5
+
+Run any-buddy with: --species owl --rarity uncommon
+Then manually verify eye/stats match, or use the builder to target them.
+
+Key Values
+-----------
+Salt:             friend-2026-401
+Hash algorithm:   wyhash (Bun.hash) — FNV-1a fallback on Node
+RNG:              mulberry32 seeded from hash(userId + salt)
