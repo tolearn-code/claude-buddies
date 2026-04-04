@@ -20,6 +20,16 @@ cd claude-buddies
 bash install.sh
 ```
 
+### Browse the collection
+
+```bash
+python3 buddy_viewer/viewer.py           # no dependencies needed
+python3 buddy_viewer/viewer_rich.py      # requires: pip install rich
+bun buddy_viewer/viewer.ts               # requires: npm install chalk
+```
+
+Navigate with arrow keys, filter by species (`w`/`s`) or rarity (`q`/`e`), exit with `x`.
+
 ### Patch a companion (full visual species change)
 
 Requires Claude Code installed via npm (`npm install -g @anthropic-ai/claude-code`).
