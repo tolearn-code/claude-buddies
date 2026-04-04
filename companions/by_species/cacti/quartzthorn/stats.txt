@@ -1,11 +1,11 @@
-Crimsonspire — Legendary (★★★★★) Tinyduck
-Eyes: ° | Shiny: no
+Quartzthorn — Legendary (★★★★★) Propeller
+Eyes: × | Shiny: no
 
-Stats (total: 378):
-  DEBUGGING  █████████████░░░░░░░  66
-  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
-  CHAOS      ████████████████░░░░  83
-  WISDOM     ███████████████░░░░░  75
+Stats (total: 369):
+  DEBUGGING  ██████████░░░░░░░░░░  51 (dump)
+  PATIENCE   █████████████████░░░  87
+  CHAOS      ████████████░░░░░░░░  61
+  WISDOM     ██████████████░░░░░░  70
   SNARK      ████████████████████ 100 (peak)
 
-Peak: SNARK | Dump: PATIENCE
+Peak: SNARK | Dump: DEBUGGING

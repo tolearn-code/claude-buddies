@@ -1,0 +1,11 @@
+Crimsonspire — Legendary (★★★★★) Tinyduck
+Eyes: ° | Shiny: no
+
+Stats (total: 378):
+  DEBUGGING  █████████████░░░░░░░  66
+  PATIENCE   ██████████░░░░░░░░░░  54 (dump)
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ███████████████░░░░░  75
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: PATIENCE

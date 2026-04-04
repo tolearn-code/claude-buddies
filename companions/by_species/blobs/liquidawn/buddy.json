@@ -1,25 +1,25 @@
 {
-  "name": "Pearlshimmer",
-  "personality": "Pearlshimmer's ✦ eyes fix on the failing test with utter focus while its tiny duck hat bobs in solemn agreement. It finds the root cause with precision; it cannot tell you whether what it found was expected behavior.",
+  "name": "Liquidawn",
+  "personality": "Liquidawn's · eyes observe everything behind a crown of quiet authority, waiting through standup, sprint review, and three broken builds before offering the one patch that fixes everything. It never rushes.",
   "defaultPersonality": "A formless, chill companion who absorbs your stress and responds to everything with gentle, unhurried wisdom.",
-  "hatchedAt": 1775211128572,
+  "hatchedAt": 1775211128566,
   "salt": "unknown",
   "bones": {
     "rarity": "legendary",
     "species": "blob",
-    "eye": "✦",
-    "hat": "tinyduck",
+    "eye": "·",
+    "hat": "crown",
     "shiny": false,
     "stats": {
-      "DEBUGGING": 100,
-      "PATIENCE": 65,
-      "CHAOS": 52,
-      "WISDOM": 89,
-      "SNARK": 79
+      "DEBUGGING": 85,
+      "PATIENCE": 100,
+      "CHAOS": 77,
+      "WISDOM": 79,
+      "SNARK": 42
     }
   },
-  "peakStat": "DEBUGGING",
-  "dumpStat": "CHAOS",
-  "inspirationSeed": 610823994,
-  "totalStats": 385
+  "peakStat": "PATIENCE",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 156669797,
+  "totalStats": 383
 }

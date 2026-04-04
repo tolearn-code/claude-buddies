@@ -1,11 +1,11 @@
-Anar-Snowmantle — Legendary (★★★★★) Beanie ✨
-Eyes: · | Shiny: yes
+Cael-Blizzarion — Legendary (★★★★★) None ✨
+Eyes: @ | Shiny: yes
 
-Stats (total: 382):
-  DEBUGGING  ████████████████████ 100 (peak)
-  PATIENCE   █████████████░░░░░░░  69
-  CHAOS      ████████████████░░░░  82
-  WISDOM     ██████████░░░░░░░░░░  54 (dump)
-  SNARK      ███████████████░░░░░  77
+Stats (total: 399):
+  DEBUGGING  ████████████████░░░░  81
+  PATIENCE   ███████████████░░░░░  79
+  CHAOS      █████████████████░░░  86
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ██████████░░░░░░░░░░  53 (dump)
 
-Peak: DEBUGGING | Dump: WISDOM
+Peak: WISDOM | Dump: SNARK

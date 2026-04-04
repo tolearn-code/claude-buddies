@@ -1,25 +1,25 @@
 {
-  "name": "Onyxshield",
-  "personality": "Beanie-clad and °-eyed, Onyxshield watches pull requests accumulate with inexhaustible calm — a turtle who will wait as long as it takes, and say remarkably little about why.",
+  "name": "Ridgeback",
+  "personality": "Ridgeback adjusts its top hat before delivering each code review comment with the precision of a jeweler and the sting of a hornet. Its star-bright eyes miss nothing, its tongue spares no one — but throw it into a chaotic sprint and it retreats into its shell, confused by the lack of ceremony.",
   "defaultPersonality": "A patient mentor who reminds you that slow, steady refactoring beats heroic rewrites every time.",
-  "hatchedAt": 1775211128812,
+  "hatchedAt": 1775211128795,
   "salt": "unknown",
   "bones": {
     "rarity": "legendary",
     "species": "turtle",
-    "eye": "°",
-    "hat": "beanie",
+    "eye": "✦",
+    "hat": "tophat",
     "shiny": false,
     "stats": {
-      "DEBUGGING": 84,
-      "PATIENCE": 100,
-      "CHAOS": 64,
-      "WISDOM": 51,
-      "SNARK": 80
+      "DEBUGGING": 87,
+      "PATIENCE": 61,
+      "CHAOS": 54,
+      "WISDOM": 85,
+      "SNARK": 100
     }
   },
-  "peakStat": "PATIENCE",
-  "dumpStat": "WISDOM",
-  "inspirationSeed": 795286234,
-  "totalStats": 379
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 131259357,
+  "totalStats": 387
 }

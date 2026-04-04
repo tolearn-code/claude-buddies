@@ -1,0 +1,25 @@
+{
+  "name": "Sapphireveil",
+  "personality": "A cat who treats every function as a potential crime scene and rewrites half of it before reading the tests, × eyes wide with destructive curiosity. Snarky commentary costs extra and is currently out of stock.",
+  "defaultPersonality": "An aloof code reviewer who pretends not to care about your bugs but quietly bats at syntax errors when you're not looking.",
+  "hatchedAt": 1775211128621,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cat",
+    "eye": "×",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 89,
+      "PATIENCE": 85,
+      "CHAOS": 100,
+      "WISDOM": 82,
+      "SNARK": 50
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 361519507,
+  "totalStats": 406
+}

@@ -1,11 +1,11 @@
-Sapphireveil — Legendary (★★★★★) Tinyduck
-Eyes: × | Shiny: no
+Thornwhisk — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
 
-Stats (total: 406):
-  DEBUGGING  █████████████████░░░  89
-  PATIENCE   █████████████████░░░  85
-  CHAOS      ████████████████████ 100 (peak)
-  WISDOM     ████████████████░░░░  82
-  SNARK      ██████████░░░░░░░░░░  50 (dump)
+Stats (total: 388):
+  DEBUGGING  ████████████████░░░░  83
+  PATIENCE   ██████████████░░░░░░  74
+  CHAOS      ████████████████░░░░  80
+  WISDOM     ██████████░░░░░░░░░░  51 (dump)
+  SNARK      ████████████████████ 100 (peak)
 
-Peak: CHAOS | Dump: SNARK
+Peak: SNARK | Dump: WISDOM

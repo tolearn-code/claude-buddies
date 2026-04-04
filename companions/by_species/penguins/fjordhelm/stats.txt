@@ -1,0 +1,11 @@
+Fjordhelm — Legendary (★★★★★) Propeller
+Eyes: @ | Shiny: no
+
+Stats (total: 370):
+  DEBUGGING  ███████████░░░░░░░░░  58
+  PATIENCE   ███████████████░░░░░  78
+  CHAOS      █████████░░░░░░░░░░░  46 (dump)
+  WISDOM     █████████████████░░░  88
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

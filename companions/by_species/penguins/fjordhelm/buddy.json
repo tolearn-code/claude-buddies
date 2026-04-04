@@ -1,0 +1,25 @@
+{
+  "name": "Fjordhelm",
+  "personality": "Fjordhelm's @ eyes gleam with SNARK delivered from a platform of deep experience — every code review is a quotable event — yet ask it to stay calm through a production meltdown and watch the sardonic composure evaporate completely.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128763,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "@",
+    "hat": "propeller",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 58,
+      "PATIENCE": 78,
+      "CHAOS": 46,
+      "WISDOM": 88,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "CHAOS",
+  "inspirationSeed": 335901201,
+  "totalStats": 370
+}

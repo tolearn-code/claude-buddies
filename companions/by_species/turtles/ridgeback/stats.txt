@@ -1,11 +1,11 @@
-Onyxshield — Legendary (★★★★★) Beanie
-Eyes: ° | Shiny: no
+Ridgeback — Legendary (★★★★★) Tophat
+Eyes: ✦ | Shiny: no
 
-Stats (total: 379):
-  DEBUGGING  ████████████████░░░░  84
-  PATIENCE   ████████████████████ 100 (peak)
-  CHAOS      ████████████░░░░░░░░  64
-  WISDOM     ██████████░░░░░░░░░░  51 (dump)
-  SNARK      ████████████████░░░░  80
+Stats (total: 387):
+  DEBUGGING  █████████████████░░░  87
+  PATIENCE   ████████████░░░░░░░░  61
+  CHAOS      ██████████░░░░░░░░░░  54 (dump)
+  WISDOM     █████████████████░░░  85
+  SNARK      ████████████████████ 100 (peak)
 
-Peak: PATIENCE | Dump: WISDOM
+Peak: SNARK | Dump: CHAOS

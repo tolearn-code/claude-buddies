@@ -1,29 +1,29 @@
-Onyxshield — Legendary Turtle (★★★★★)
-Eyes: ° | Hat: beanie | Shiny: no
+Ridgeback — Legendary Turtle (★★★★★)
+Eyes: ✦ | Hat: tophat | Shiny: no
 
 --- Frame 0 (idle) ---
-   (___)    
+   [___]    
    _,--._   
-  ( °  ° )  
+  ( ✦  ✦ )  
  /[______]\ 
   ``    ``  
 
 --- Frame 1 (idle alt) ---
-   (___)    
+   [___]    
    _,--._   
-  ( °  ° )  
+  ( ✦  ✦ )  
  /[______]\ 
    ``  ``   
 
 --- Frame 2 (wink) ---
-   (___)    
+   [___]    
    _,--._   
-  ( °  ° )  
+  ( ✦  ✦ )  
  /[======]\ 
   ``    ``  
 
 --- Sleeping ---
-   (___)    
+   [___]    
    _,--._   
   ( -  - )  
  /[______]\ 

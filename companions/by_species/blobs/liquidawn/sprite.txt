@@ -1,29 +1,29 @@
-Pearlshimmer — Legendary Blob (★★★★★)
-Eyes: ✦ | Hat: tinyduck | Shiny: no
+Liquidawn — Legendary Blob (★★★★★)
+Eyes: · | Hat: crown | Shiny: no
 
 --- Frame 0 (idle) ---
-    ,>      
+   \^^^/    
    .----.   
-  ( ✦  ✦ )  
+  ( ·  · )  
   (      )  
    `----´   
 
 --- Frame 1 (idle alt) ---
-    ,>      
+   \^^^/    
   .------.  
- (  ✦  ✦  ) 
+ (  ·  ·  ) 
  (        ) 
   `------´  
 
 --- Frame 2 (wink) ---
-    ,>      
+   \^^^/    
     .--.    
-   (✦  ✦)   
+   (·  ·)   
    (    )   
     `--´    
 
 --- Sleeping ---
-    ,>      
+   \^^^/    
    .----.   
   ( -  - )  
   (      )  

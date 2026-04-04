@@ -1,11 +1,11 @@
-Pearlshimmer — Legendary (★★★★★) Tinyduck
-Eyes: ✦ | Shiny: no
+Liquidawn — Legendary (★★★★★) Crown
+Eyes: · | Shiny: no
 
-Stats (total: 385):
-  DEBUGGING  ████████████████████ 100 (peak)
-  PATIENCE   █████████████░░░░░░░  65
-  CHAOS      ██████████░░░░░░░░░░  52 (dump)
-  WISDOM     █████████████████░░░  89
-  SNARK      ███████████████░░░░░  79
+Stats (total: 383):
+  DEBUGGING  █████████████████░░░  85
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ███████████████░░░░░  77
+  WISDOM     ███████████████░░░░░  79
+  SNARK      ████████░░░░░░░░░░░░  42 (dump)
 
-Peak: DEBUGGING | Dump: CHAOS
+Peak: PATIENCE | Dump: SNARK

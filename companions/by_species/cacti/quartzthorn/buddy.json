@@ -1,25 +1,25 @@
 {
-  "name": "Crimsonspire",
-  "personality": "A tiny-rubber-duck-hatted cactus with ° dot eyes that dispenses snark like a drip irrigation system: slow, steady, and weirdly effective. Patience is not a bug — it's the feature Crimsonspire chose not to implement.",
+  "name": "Quartzthorn",
+  "personality": "A propeller-beanie cactus with × eyes that delivers devastating one-liners the moment a code smell appears. Quartzthorn refuses to debug — it prefers to philosophize about why the bug was inevitable.",
   "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
-  "hatchedAt": 1775211129034,
+  "hatchedAt": 1775211129020,
   "salt": "unknown",
   "bones": {
     "rarity": "legendary",
     "species": "cactus",
-    "eye": "°",
-    "hat": "tinyduck",
+    "eye": "×",
+    "hat": "propeller",
     "shiny": false,
     "stats": {
-      "DEBUGGING": 66,
-      "PATIENCE": 54,
-      "CHAOS": 83,
-      "WISDOM": 75,
+      "DEBUGGING": 51,
+      "PATIENCE": 87,
+      "CHAOS": 61,
+      "WISDOM": 70,
       "SNARK": 100
     }
   },
   "peakStat": "SNARK",
-  "dumpStat": "PATIENCE",
-  "inspirationSeed": 103986087,
-  "totalStats": 378
+  "dumpStat": "DEBUGGING",
+  "inspirationSeed": 172957201,
+  "totalStats": 369
 }

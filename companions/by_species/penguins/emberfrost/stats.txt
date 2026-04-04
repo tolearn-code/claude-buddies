@@ -1,11 +1,11 @@
-Fjordhelm — Legendary (★★★★★) Propeller
-Eyes: @ | Shiny: no
+Emberfrost — Legendary (★★★★★) Halo
+Eyes: ° | Shiny: no
 
-Stats (total: 370):
-  DEBUGGING  ███████████░░░░░░░░░  58
-  PATIENCE   ███████████████░░░░░  78
-  CHAOS      █████████░░░░░░░░░░░  46 (dump)
-  WISDOM     █████████████████░░░  88
-  SNARK      ████████████████████ 100 (peak)
+Stats (total: 404):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████████████░░░░  84
+  WISDOM     ████████████████░░░░  83
+  SNARK      ████████████████░░░░  83
 
-Peak: SNARK | Dump: CHAOS
+Peak: PATIENCE | Dump: DEBUGGING

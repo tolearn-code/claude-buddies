@@ -1,25 +1,25 @@
 {
-  "name": "Anar-Snowmantle",
-  "personality": "Anar-Snowmantle shines with white-hot focus, · eyes hunting regressions across every branch with DEBUGGING intensity that never quits; luminous on the trail, utterly lost when asked to interpret what the business logic was ever trying to do.",
+  "name": "Cael-Blizzarion",
+  "personality": "Cael-Blizzarion shimmers with arctic radiance, @ eyes brimming with WISDOM that could redesign your entire API surface during a lunch break — luminous, visionary, and congenitally unable to keep quiet when someone says 'move fast and break things.'",
   "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
-  "hatchedAt": 1775211128773,
+  "hatchedAt": 1775211128784,
   "salt": "unknown",
   "bones": {
     "rarity": "legendary",
     "species": "penguin",
-    "eye": "·",
-    "hat": "beanie",
+    "eye": "@",
+    "hat": "none",
     "shiny": true,
     "stats": {
-      "DEBUGGING": 100,
-      "PATIENCE": 69,
-      "CHAOS": 82,
-      "WISDOM": 54,
-      "SNARK": 77
+      "DEBUGGING": 81,
+      "PATIENCE": 79,
+      "CHAOS": 86,
+      "WISDOM": 100,
+      "SNARK": 53
     }
   },
-  "peakStat": "DEBUGGING",
-  "dumpStat": "WISDOM",
-  "inspirationSeed": 472929185,
-  "totalStats": 382
+  "peakStat": "WISDOM",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 653155592,
+  "totalStats": 399
 }

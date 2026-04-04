@@ -1,25 +1,29 @@
-Rubypath — Legendary Snail (★★★★★)
-Eyes: × | Hat: none | Shiny: no
+Moontrail — Legendary Snail (★★★★★)
+Eyes: @ | Hat: tophat | Shiny: no
 
 --- Frame 0 (idle) ---
- ×    .--.  
+   [___]    
+ @    .--.  
   \  ( @ )  
    \_`--´   
   ~~~~~~~   
 
 --- Frame 1 (idle alt) ---
-  ×   .--.  
+   [___]    
+  @   .--.  
   |  ( @ )  
    \_`--´   
   ~~~~~~~   
 
 --- Frame 2 (wink) ---
- ×    .--.  
+   [___]    
+ @    .--.  
   \  ( @  ) 
    \_`--´   
    ~~~~~~   
 
 --- Sleeping ---
+   [___]    
  -    .--.  
   \  ( @ )  
    \_`--´   

@@ -1,0 +1,25 @@
+{
+  "name": "Crimsonspire",
+  "personality": "A tiny-rubber-duck-hatted cactus with ° dot eyes that dispenses snark like a drip irrigation system: slow, steady, and weirdly effective. Patience is not a bug — it's the feature Crimsonspire chose not to implement.",
+  "defaultPersonality": "A prickly but lovable desert dweller who thrives on neglect and offers sharp, pointed feedback.",
+  "hatchedAt": 1775211129034,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "cactus",
+    "eye": "°",
+    "hat": "tinyduck",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 66,
+      "PATIENCE": 54,
+      "CHAOS": 83,
+      "WISDOM": 75,
+      "SNARK": 100
+    }
+  },
+  "peakStat": "SNARK",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 103986087,
+  "totalStats": 378
+}

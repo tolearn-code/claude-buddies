@@ -1,0 +1,11 @@
+Rubypath — Legendary (★★★★★) None
+Eyes: × | Shiny: no
+
+Stats (total: 390):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   █████████████░░░░░░░  69
+  CHAOS      ████████████████░░░░  83
+  WISDOM     ████████████████████ 100 (peak)
+  SNARK      ████████████████░░░░  84
+
+Peak: WISDOM | Dump: DEBUGGING

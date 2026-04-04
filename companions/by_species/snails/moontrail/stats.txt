@@ -1,11 +1,11 @@
-Rubypath — Legendary (★★★★★) None
-Eyes: × | Shiny: no
+Moontrail — Legendary (★★★★★) Tophat
+Eyes: @ | Shiny: no
 
-Stats (total: 390):
-  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
-  PATIENCE   █████████████░░░░░░░  69
-  CHAOS      ████████████████░░░░  83
-  WISDOM     ████████████████████ 100 (peak)
-  SNARK      ████████████████░░░░  84
+Stats (total: 366):
+  DEBUGGING  █████████░░░░░░░░░░░  46 (dump)
+  PATIENCE   █████████████████░░░  85
+  CHAOS      ███████████░░░░░░░░░  59
+  WISDOM     ███████████████░░░░░  76
+  SNARK      ████████████████████ 100 (peak)
 
-Peak: WISDOM | Dump: DEBUGGING
+Peak: SNARK | Dump: DEBUGGING
