@@ -50,6 +50,7 @@ PATCHER_STATE = Path(__file__).resolve().parent / ".patcher-state.json"
 
 IS_MAC = platform.system() == "Darwin"
 IS_WIN = platform.system() == "Windows"
+INDEX_FILE = COMPANIONS_DIR / ".companions-index.json"
 
 
 # ── Buddy generation (FNV-1a) ──
@@ -505,15 +506,22 @@ def get_current_salt(cli_path: str) -> str:
     if DEFAULT_SALT.encode() in content:
         return DEFAULT_SALT
 
-    # Check salts from all known companions
-    for name in list_companions():
-        buddy_path = COMPANIONS_DIR / name / "buddy.json"
-        if buddy_path.exists():
-            with open(buddy_path) as f:
-                buddy = json.load(f)
-            salt = buddy.get("salt", "")
-            if salt and len(salt) == SALT_LENGTH and salt != "unknown" and salt.encode() in content:
+    # Check salts from index (fast) or filesystem (slow)
+    idx = _load_index()
+    if idx:
+        for entry in idx:
+            salt = entry.get("salt", "")
+            if salt and len(salt) == SALT_LENGTH and salt.encode() in content:
                 return salt
+    else:
+        for name in list_companions():
+            buddy_path = COMPANIONS_DIR / name / "buddy.json"
+            if buddy_path.exists():
+                with open(buddy_path) as f:
+                    buddy = json.load(f)
+                salt = buddy.get("salt", "")
+                if salt and len(salt) == SALT_LENGTH and salt != "unknown" and salt.encode() in content:
+                    return salt
 
     # Check patcher state
     state = read_patcher_state()
@@ -625,13 +633,81 @@ def _scan_companion_dirs(base: Path, depth: int = 0) -> dict:
     return results
 
 
+# ── Index ──
+
+
+def _build_index() -> list:
+    """Scan all companions and build index entries."""
+    dirs = _scan_companion_dirs(COMPANIONS_DIR)
+    entries = []
+    for folder, dir_path in sorted(dirs.items()):
+        try:
+            with open(dir_path / "buddy.json") as f:
+                buddy = json.load(f)
+            b = buddy["bones"]
+            rel = str(dir_path.relative_to(COMPANIONS_DIR))
+            salt = buddy.get("salt", "")
+            if not (isinstance(salt, str) and len(salt) == SALT_LENGTH and salt != "unknown"):
+                salt = ""
+            entries.append({
+                "folder": folder,
+                "path": rel,
+                "name": buddy["name"],
+                "species": b["species"],
+                "rarity": b["rarity"],
+                "eye": b["eye"],
+                "hat": b["hat"],
+                "shiny": b.get("shiny", False),
+                "salt": salt,
+            })
+        except Exception:
+            continue
+    return entries
+
+
+def update_index() -> list:
+    """Rebuild the companion index file."""
+    print("Scanning companions...")
+    entries = _build_index()
+    with open(INDEX_FILE, "w") as f:
+        json.dump(entries, f, indent=2, ensure_ascii=False)
+        f.write("\n")
+    print(f"Index updated: {len(entries)} companions → {INDEX_FILE}")
+    return entries
+
+
+_index_cache: Optional[list] = None
+
+
+def _load_index() -> list:
+    global _index_cache
+    if _index_cache is not None:
+        return _index_cache
+    if INDEX_FILE.exists():
+        with open(INDEX_FILE) as f:
+            _index_cache = json.load(f)
+        return _index_cache
+    return []
+
+
 def list_companions() -> list:
+    idx = _load_index()
+    if idx:
+        return [e["folder"] for e in idx]
     return sorted(_scan_companion_dirs(COMPANIONS_DIR).keys())
 
 
 def load_companion(name: str) -> tuple:
-    dirs = _scan_companion_dirs(COMPANIONS_DIR)
-    companion_dir = dirs.get(name)
+    # Try index for fast path lookup
+    idx = _load_index()
+    companion_dir = None
+    if idx:
+        entry = next((e for e in idx if e["folder"] == name), None)
+        if entry:
+            companion_dir = COMPANIONS_DIR / entry["path"]
+    if not companion_dir:
+        dirs = _scan_companion_dirs(COMPANIONS_DIR)
+        companion_dir = dirs.get(name)
     if not companion_dir:
         print(f"Error: Companion '{name}' not found")
         sys.exit(1)
@@ -929,6 +1005,22 @@ def detect_hash_report() -> None:
     print("  The species/rarity that matches your current companion is the correct hash.")
 
 
+def _paginate(items: list, max_n: Optional[int], page: Optional[int]) -> tuple:
+    """Returns (slice, start, end, total, page_num, total_pages, page_size)."""
+    total = len(items)
+    if page is not None:
+        page_size = max_n if max_n else 10
+        page_num = max(1, page)
+        total_pages = math.ceil(total / page_size) if page_size > 0 else 1
+        start = (page_num - 1) * page_size
+        end = min(start + page_size, total)
+        return items[start:end], start, end, total, page_num, total_pages, page_size
+    if max_n is not None:
+        end = min(max_n, total)
+        return items[:end], 0, end, total, 1, 1, max_n
+    return items, 0, total, total, 1, 1, total
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(
         description="Patch Claude Code to use a stored companion"
@@ -942,6 +1034,11 @@ def main() -> None:
         "--list",
         action="store_true",
         help="List available companions",
+    )
+    parser.add_argument(
+        "--update-index",
+        action="store_true",
+        help="Rebuild companion index for fast --list",
     )
     parser.add_argument(
         "--restore",
@@ -963,27 +1060,95 @@ def main() -> None:
         action="store_true",
         help="Show what each hash algorithm produces for your account",
     )
+    parser.add_argument(
+        "--species",
+        type=str,
+        help="Filter --list by species",
+    )
+    parser.add_argument(
+        "--max",
+        type=int,
+        help="Limit --list output to n companions",
+    )
+    parser.add_argument(
+        "--page",
+        type=int,
+        help="Show page n (10 per page, or use --max to set page size)",
+    )
 
     args = parser.parse_args()
+
+    if args.update_index:
+        update_index()
+        return
 
     if args.detect_hash:
         detect_hash_report()
         return
 
     if args.list:
-        companions = list_companions()
-        if not companions:
-            print("No companions found in companions/ directory.")
-        else:
-            print("Available companions:")
-            for name in companions:
-                buddy, comp = load_companion(name)
-                bones = buddy["bones"]
+        species_filter = args.species.lower() if args.species else None
+        idx = _load_index()
+
+        if idx:
+            # Fast path: use index
+            entries = idx
+            if species_filter:
+                entries = [e for e in idx if e["species"] == species_filter]
+
+            sliced, start, end, total, page_num, total_pages, page_size = \
+                _paginate(entries, args.max, args.page)
+
+            label = f"species: {species_filter}, " if species_filter else ""
+            if args.page is not None:
+                print(f"Companions ({label}{total} total, page {page_num}/{total_pages}):")
+            elif args.max is not None:
+                print(f"Companions ({label}showing {end} of {total}):")
+            else:
+                if species_filter:
+                    print(f"Companions ({label}{total} found):")
+                else:
+                    print(f"Available companions ({total}):")
+
+            for e in sliced:
                 print(
-                    f"  {name:<16} {comp['name']:<16} "
-                    f"{bones['species']:<10} {bones['rarity']:<10} "
-                    f"eye={bones['eye']}  hat={bones['hat']}"
+                    f"  {e['folder']:<16} {e['name']:<16} "
+                    f"{e['species']:<10} {e['rarity']:<10} "
+                    f"eye={e['eye']}  hat={e['hat']}"
                 )
+
+            if args.page is not None and page_num < total_pages:
+                print(f"\n  Page {page_num}/{total_pages}. Next: --page {page_num + 1}")
+        else:
+            # Slow path: scan filesystem
+            print("No index found. Run --update-index first for fast listing.")
+            print("Scanning filesystem...")
+            companions = list_companions()
+            if not companions:
+                print("No companions found in companions/ directory.")
+            else:
+                filtered = companions
+                if species_filter:
+                    filtered = [n for n in companions
+                                if load_companion(n)[0]["bones"]["species"] == species_filter]
+                    print(f"Companions (species: {species_filter}, {len(filtered)} found):")
+                else:
+                    print("Available companions:")
+
+                sliced, start, end, total, page_num, total_pages, page_size = \
+                    _paginate(filtered, args.max, args.page)
+
+                for name in sliced:
+                    buddy, comp = load_companion(name)
+                    bones = buddy["bones"]
+                    print(
+                        f"  {name:<16} {comp['name']:<16} "
+                        f"{bones['species']:<10} {bones['rarity']:<10} "
+                        f"eye={bones['eye']}  hat={bones['hat']}"
+                    )
+
+                if args.page is not None and page_num < total_pages:
+                    print(f"\n  Page {page_num}/{total_pages}. Next: --page {page_num + 1}")
         return
 
     if args.restore:
@@ -1006,7 +1171,10 @@ def main() -> None:
 
     if name not in available:
         print(f"Error: Companion '{name}' not found.")
-        print(f"Available: {', '.join(available)}")
+        if len(available) < 20:
+            print(f"Available: {', '.join(available)}")
+        else:
+            print(f"Run --list to see {len(available)} available companions.")
         sys.exit(1)
 
     patch_companion(name, force_hash=force_hash)

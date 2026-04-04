@@ -16,6 +16,7 @@ import { existsSync, readFileSync, writeFileSync, copyFileSync, statSync, chmodS
 import { resolve, join, dirname } from "path";
 import { homedir, platform } from "os";
 import { execSync } from "child_process";
+import { parseArgs } from "util";
 
 // ── Constants ──
 
@@ -24,6 +25,7 @@ const SALT_LENGTH = 15;
 const SCRIPT_DIR = dirname(resolve(import.meta.path));
 const COMPANIONS_DIR = resolve(SCRIPT_DIR, "..", "companions");
 const PATCHER_STATE = join(SCRIPT_DIR, ".patcher-state.json");
+const INDEX_FILE = join(COMPANIONS_DIR, ".companions-index.json");
 const IS_MAC = platform() === "darwin";
 const IS_WIN = platform() === "win32";
 
@@ -392,6 +394,20 @@ function writePatcherState(state: any): void {
   writeFileSync(PATCHER_STATE, JSON.stringify(state, null, 2) + "\n");
 }
 
+// ── Index ──
+
+interface IndexEntry {
+  folder: string;
+  path: string;
+  name: string;
+  species: string;
+  rarity: string;
+  eye: string;
+  hat: string;
+  shiny: boolean;
+  salt: string;
+}
+
 function scanCompanionDirs(base: string, depth = 0): Map<string, string> {
   const results = new Map<string, string>();
   if (!existsSync(base) || depth > 3) return results;
@@ -409,13 +425,70 @@ function scanCompanionDirs(base: string, depth = 0): Map<string, string> {
   return results;
 }
 
+function buildIndex(): IndexEntry[] {
+  const dirs = scanCompanionDirs(COMPANIONS_DIR);
+  const entries: IndexEntry[] = [];
+  for (const [folder, dir] of dirs) {
+    try {
+      const buddy = JSON.parse(readFileSync(join(dir, "buddy.json"), "utf-8"));
+      const b = buddy.bones;
+      entries.push({
+        folder,
+        path: dir.startsWith(COMPANIONS_DIR) ? dir.slice(COMPANIONS_DIR.length + 1) : dir,
+        name: buddy.name,
+        species: b.species,
+        rarity: b.rarity,
+        eye: b.eye,
+        hat: b.hat,
+        shiny: b.shiny ?? false,
+        salt: typeof buddy.salt === "string" && buddy.salt.length === 15 && buddy.salt !== "unknown" ? buddy.salt : "",
+      });
+    } catch {}
+  }
+  return entries.sort((a, b) => a.folder.localeCompare(b.folder));
+}
+
+function updateIndex(): IndexEntry[] {
+  console.log("Scanning companions...");
+  const entries = buildIndex();
+  writeFileSync(INDEX_FILE, JSON.stringify(entries, null, 2) + "\n");
+  console.log(`Index updated: ${entries.length} companions → ${INDEX_FILE}`);
+  return entries;
+}
+
+let _indexCache: IndexEntry[] | null = null;
+
+function loadIndex(): IndexEntry[] {
+  if (_indexCache) return _indexCache;
+  if (existsSync(INDEX_FILE)) {
+    _indexCache = JSON.parse(readFileSync(INDEX_FILE, "utf-8"));
+    return _indexCache!;
+  }
+  return [];
+}
+
+function hasIndex(): boolean {
+  return existsSync(INDEX_FILE);
+}
+
 function listCompanions(): string[] {
+  const idx = loadIndex();
+  if (idx.length > 0) return idx.map((e) => e.folder);
   return [...scanCompanionDirs(COMPANIONS_DIR).keys()].sort();
 }
 
 function loadCompanion(name: string): { buddy: any; companion: any } {
-  const dirs = scanCompanionDirs(COMPANIONS_DIR);
-  const dir = dirs.get(name);
+  // Try index first for fast path lookup
+  const idx = loadIndex();
+  let dir: string | undefined;
+  if (idx.length > 0) {
+    const entry = idx.find((e) => e.folder === name);
+    if (entry) dir = join(COMPANIONS_DIR, entry.path);
+  }
+  if (!dir) {
+    const dirs = scanCompanionDirs(COMPANIONS_DIR);
+    dir = dirs.get(name);
+  }
   if (!dir) { console.error(`Error: Companion '${name}' not found`); process.exit(1); }
   const buddyPath = join(dir, "buddy.json");
   const companionPath = join(dir, "companion.json");
@@ -453,10 +526,13 @@ function patchCompanion(name: string, forceHash?: "wyhash" | "fnv1a"): void {
 
   const userId = getAccountUuid(configPath);
 
-  // Collect known salts from all companions
-  const knownSalts = listCompanions()
-    .map((n) => { try { return loadCompanion(n).buddy.salt; } catch { return null; } })
-    .filter((s): s is string => typeof s === "string" && s.length === 15 && s !== "unknown");
+  // Collect known salts from index (fast) or filesystem (slow)
+  const idx = loadIndex();
+  const knownSalts = idx.length > 0
+    ? idx.map((e) => e.salt).filter((s) => s.length === 15)
+    : listCompanions()
+        .map((n) => { try { return loadCompanion(n).buddy.salt; } catch { return null; } })
+        .filter((s): s is string => typeof s === "string" && s.length === 15 && s !== "unknown");
 
   const currentSalt = getCurrentSalt(cliPath, knownSalts);
 
@@ -650,44 +726,109 @@ function restoreDefault(forceHash?: "wyhash" | "fnv1a"): void {
 
 // ── CLI ──
 
-const args = process.argv.slice(2);
-const flags = new Set(args.filter((a) => a.startsWith("--")));
-const positional = args.filter((a) => !a.startsWith("--"));
+const { values: opts, positionals } = parseArgs({
+  args: process.argv.slice(2),
+  options: {
+    fnv1a:          { type: "boolean", default: false },
+    wyhash:         { type: "boolean", default: false },
+    list:           { type: "boolean", default: false },
+    restore:        { type: "boolean", default: false },
+    "detect-hash":  { type: "boolean", default: false },
+    "update-index": { type: "boolean", default: false },
+    species:        { type: "string" },
+    max:            { type: "string" },
+    page:           { type: "string" },
+  },
+  allowPositionals: true,
+});
 
 const forceHash: "wyhash" | "fnv1a" | undefined =
-  flags.has("--fnv1a") ? "fnv1a" : flags.has("--wyhash") ? "wyhash" : undefined;
+  opts.fnv1a ? "fnv1a" : opts.wyhash ? "wyhash" : undefined;
 
-if (flags.has("--list")) {
-  const speciesFilter = (() => {
-    const idx = args.indexOf("--species");
-    return idx !== -1 && args[idx + 1] ? args[idx + 1].toLowerCase() : null;
-  })();
-  const companions = listCompanions();
-  if (!companions.length) {
-    console.log("No companions found in companions/ directory.");
-  } else {
-    let filtered = companions;
+function paginate<T>(items: T[], max: number | null, page: number | null): { slice: T[]; start: number; end: number; total: number; pageSize: number; pageNum: number; totalPages: number } {
+  const total = items.length;
+  if (page !== null) {
+    const pageSize = max ?? 10;
+    const pageNum = Math.max(1, page);
+    const totalPages = Math.ceil(total / pageSize);
+    const start = (pageNum - 1) * pageSize;
+    const end = Math.min(start + pageSize, total);
+    return { slice: items.slice(start, end), start, end, total, pageSize, pageNum, totalPages };
+  }
+  if (max !== null) {
+    return { slice: items.slice(0, max), start: 0, end: Math.min(max, total), total, pageSize: max, pageNum: 1, totalPages: 1 };
+  }
+  return { slice: items, start: 0, end: total, total, pageSize: total, pageNum: 1, totalPages: 1 };
+}
+
+if (opts["update-index"]) {
+  updateIndex();
+} else if (opts.list) {
+  const speciesFilter = opts.species?.toLowerCase() ?? null;
+  const max = opts.max ? parseInt(opts.max) : null;
+  const page = opts.page ? parseInt(opts.page) : null;
+
+  const idx = loadIndex();
+  if (idx.length > 0) {
+    // Fast path: use index
+    let entries = idx;
     if (speciesFilter) {
-      filtered = companions.filter((name) => {
-        try { return loadCompanion(name).buddy.bones.species === speciesFilter; } catch { return false; }
-      });
-      console.log(`Companions (species: ${speciesFilter}, ${filtered.length} found):`);
-    } else {
-      console.log("Available companions:");
+      entries = idx.filter((e) => e.species === speciesFilter);
     }
-    for (const name of filtered) {
-      const { buddy, companion } = loadCompanion(name);
-      const b = buddy.bones;
+    const p = paginate(entries, max, page);
+    const label = speciesFilter ? `species: ${speciesFilter}, ` : "";
+    if (page !== null) {
+      console.log(`Companions (${label}${p.total} total, page ${p.pageNum}/${p.totalPages}):`);
+    } else if (max !== null) {
+      console.log(`Companions (${label}showing ${p.end} of ${p.total}):`);
+    } else {
+      console.log(`${speciesFilter ? `Companions (${label}${p.total} found)` : `Available companions (${p.total})`}:`);
+    }
+    for (const e of p.slice) {
       console.log(
-        `  ${name.padEnd(16)} ${companion.name.padEnd(16)} ` +
-        `${b.species.padEnd(10)} ${b.rarity.padEnd(10)} ` +
-        `eye=${b.eye}  hat=${b.hat}`
+        `  ${e.folder.padEnd(16)} ${e.name.padEnd(16)} ` +
+        `${e.species.padEnd(10)} ${e.rarity.padEnd(10)} ` +
+        `eye=${e.eye}  hat=${e.hat}`
       );
     }
+    if (page !== null && p.pageNum < p.totalPages) {
+      console.log(`\n  Page ${p.pageNum}/${p.totalPages}. Next: --page ${p.pageNum + 1}`);
+    }
+  } else {
+    // Slow path: scan filesystem (no index yet)
+    console.log("No index found. Run --update-index first for fast listing.");
+    console.log("Scanning filesystem...");
+    const companions = listCompanions();
+    if (!companions.length) {
+      console.log("No companions found in companions/ directory.");
+    } else {
+      let filtered = companions;
+      if (speciesFilter) {
+        filtered = companions.filter((name) => {
+          try { return loadCompanion(name).buddy.bones.species === speciesFilter; } catch { return false; }
+        });
+        console.log(`Companions (species: ${speciesFilter}, ${filtered.length} found):`);
+      } else {
+        console.log("Available companions:");
+      }
+      const p = paginate(filtered, max, page);
+      for (const name of p.slice) {
+        const { buddy, companion } = loadCompanion(name);
+        const b = buddy.bones;
+        console.log(
+          `  ${name.padEnd(16)} ${companion.name.padEnd(16)} ` +
+          `${b.species.padEnd(10)} ${b.rarity.padEnd(10)} ` +
+          `eye=${b.eye}  hat=${b.hat}`
+        );
+      }
+      if (page !== null && p.pageNum < p.totalPages) {
+        console.log(`\n  Page ${p.pageNum}/${p.totalPages}. Next: --page ${p.pageNum + 1}`);
+      }
+    }
   }
-} else if (flags.has("--restore")) {
+} else if (opts.restore) {
   restoreDefault(forceHash);
-} else if (flags.has("--detect-hash")) {
+} else if (opts["detect-hash"]) {
   // Standalone hash detection utility
   const configPath = findClaudeConfig();
   if (!configPath) { console.error("Error: Claude config not found"); process.exit(1); }
@@ -708,23 +849,28 @@ if (flags.has("--list")) {
   console.log(`    fnv1a  → ${fnvResult.bones.species} (${fnvResult.bones.rarity}), eye=${fnvResult.bones.eye}`);
   console.log();
   console.log("  Compare with what you see in Claude Code to determine which hash is active.");
-} else if (positional.length > 0) {
-  const name = positional[0].toLowerCase();
+} else if (positionals.length > 0) {
+  const name = positionals[0].toLowerCase();
   const available = listCompanions();
   if (!available.includes(name)) {
     console.error(`Error: Companion '${name}' not found.`);
-    console.error(`Available: ${available.join(", ")}`);
+    if (available.length < 20) console.error(`Available: ${available.join(", ")}`);
+    else console.error(`Run --list to see ${available.length} available companions.`);
     process.exit(1);
   }
   patchCompanion(name, forceHash);
 } else {
   console.log("Usage: bun patch_companion_bun.ts <companion-name> [--wyhash|--fnv1a]");
-  console.log("       bun patch_companion_bun.ts --list");
+  console.log("       bun patch_companion_bun.ts --list [--species <name>] [--max <n>] [--page <n>]");
+  console.log("       bun patch_companion_bun.ts --update-index");
   console.log("       bun patch_companion_bun.ts --restore");
   console.log("       bun patch_companion_bun.ts --detect-hash");
   console.log();
   console.log("Flags:");
-  console.log("  --wyhash       Force wyhash (Bun runtime, default for most installs)");
-  console.log("  --fnv1a        Force FNV-1a (Node.js runtime)");
-  console.log("  --detect-hash  Show what each hash produces for your account");
+  console.log("  --wyhash        Force wyhash (Bun runtime, default for most installs)");
+  console.log("  --fnv1a         Force FNV-1a (Node.js runtime)");
+  console.log("  --detect-hash   Show what each hash produces for your account");
+  console.log("  --update-index  Rebuild companion index for fast --list (run after adding companions)");
+  console.log("  --max <n>       Limit --list output to n companions");
+  console.log("  --page <n>      Show page n (10 per page, or use --max to set page size)");
 }
