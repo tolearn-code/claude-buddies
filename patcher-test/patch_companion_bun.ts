@@ -658,12 +658,24 @@ const forceHash: "wyhash" | "fnv1a" | undefined =
   flags.has("--fnv1a") ? "fnv1a" : flags.has("--wyhash") ? "wyhash" : undefined;
 
 if (flags.has("--list")) {
+  const speciesFilter = (() => {
+    const idx = args.indexOf("--species");
+    return idx !== -1 && args[idx + 1] ? args[idx + 1].toLowerCase() : null;
+  })();
   const companions = listCompanions();
   if (!companions.length) {
     console.log("No companions found in companions/ directory.");
   } else {
-    console.log("Available companions:");
-    for (const name of companions) {
+    let filtered = companions;
+    if (speciesFilter) {
+      filtered = companions.filter((name) => {
+        try { return loadCompanion(name).buddy.bones.species === speciesFilter; } catch { return false; }
+      });
+      console.log(`Companions (species: ${speciesFilter}, ${filtered.length} found):`);
+    } else {
+      console.log("Available companions:");
+    }
+    for (const name of filtered) {
       const { buddy, companion } = loadCompanion(name);
       const b = buddy.bones;
       console.log(
