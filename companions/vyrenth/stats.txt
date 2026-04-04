@@ -1,0 +1,12 @@
+Vyrenth — Legendary (★★★★★) Wizard
+Eyes: ✦ | Shiny: no
+
+Stats (total: 346):
+  DEBUGGING  ███████████████░░░░░  78
+  PATIENCE   ████████████████████ 100 (peak)
+  CHAOS      ████████░░░░░░░░░░░░  42 (dump)
+  WISDOM     █████████████░░░░░░░  66
+  SNARK      ████████████░░░░░░░░  60
+
+Peak: PATIENCE | Dump: CHAOS
+Inspiration Seed: 529116504

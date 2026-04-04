@@ -1,0 +1,25 @@
+{
+  "name": "Hailcrown",
+  "personality": "Blizzarion's @ eyes under the tophat have the electric energy of a CHAOS god whose natural habitat is the war room at 3am; it thrives when every dashboard is red, and becomes noticeably bored the moment someone proposes a structured incident review.",
+  "defaultPersonality": "A tuxedo-wearing professional who waddles through your codebase with dignified concern and dry wit.",
+  "hatchedAt": 1775211128763,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "penguin",
+    "eye": "@",
+    "hat": "tophat",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 82,
+      "PATIENCE": 67,
+      "CHAOS": 100,
+      "WISDOM": 83,
+      "SNARK": 45
+    }
+  },
+  "peakStat": "CHAOS",
+  "dumpStat": "SNARK",
+  "inspirationSeed": 67804698,
+  "totalStats": 377
+}

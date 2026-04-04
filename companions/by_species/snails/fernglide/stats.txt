@@ -1,0 +1,11 @@
+Fernglide — Legendary (★★★★★) Propeller
+Eyes: · | Shiny: no
+
+Stats (total: 414):
+  DEBUGGING  ██████████░░░░░░░░░░  54 (dump)
+  PATIENCE   █████████████████░░░  89
+  CHAOS      ████████████████░░░░  84
+  WISDOM     █████████████████░░░  87
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: DEBUGGING

@@ -1,0 +1,11 @@
+Sunspine — Legendary (★★★★★) None
+Eyes: ✦ | Shiny: no
+
+Stats (total: 387):
+  DEBUGGING  ███████████████░░░░░  77
+  PATIENCE   ██████████████░░░░░░  72
+  CHAOS      ██████████░░░░░░░░░░  52 (dump)
+  WISDOM     █████████████████░░░  86
+  SNARK      ████████████████████ 100 (peak)
+
+Peak: SNARK | Dump: CHAOS

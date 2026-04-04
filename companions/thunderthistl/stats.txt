@@ -1,0 +1,12 @@
+Thunderthistl — Uncommon (★★) None
+Eyes: · | Shiny: no
+
+Stats (total: 196):
+  DEBUGGING  ███░░░░░░░░░░░░░░░░░  19
+  PATIENCE   ███████░░░░░░░░░░░░░  38
+  CHAOS      █████████████████░░░  87 (peak)
+  WISDOM     █████████░░░░░░░░░░░  47
+  SNARK      █░░░░░░░░░░░░░░░░░░░   5 (dump)
+
+Peak: CHAOS | Dump: SNARK
+Inspiration Seed: 108316043

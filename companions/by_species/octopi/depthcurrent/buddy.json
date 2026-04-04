@@ -1,0 +1,25 @@
+{
+  "name": "Depthcurrent",
+  "personality": "A beanie-wearing octopus whose ✦ eyes shimmer with the cold light of architectural hindsight — Undertow has seen every distributed-systems failure mode twice and will explain all of them, slowly.",
+  "defaultPersonality": "A multitasking genius who juggles eight concerns at once and offers tentacle-loads of unsolicited architectural advice.",
+  "hatchedAt": 1775211128661,
+  "salt": "unknown",
+  "bones": {
+    "rarity": "legendary",
+    "species": "octopus",
+    "eye": "✦",
+    "hat": "beanie",
+    "shiny": false,
+    "stats": {
+      "DEBUGGING": 71,
+      "PATIENCE": 44,
+      "CHAOS": 86,
+      "WISDOM": 100,
+      "SNARK": 87
+    }
+  },
+  "peakStat": "WISDOM",
+  "dumpStat": "PATIENCE",
+  "inspirationSeed": 118243478,
+  "totalStats": 388
+}
