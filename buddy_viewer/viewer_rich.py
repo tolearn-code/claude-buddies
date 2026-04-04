@@ -19,7 +19,7 @@ from rich.text import Text
 from rich.table import Table
 from rich import box
 
-REPO = Path("/home/sprite/claude-buddies")
+REPO = Path(__file__).resolve().parent.parent
 CARD_WIDTH = 68
 LEFT_PAD = "          "
 FRAME_DELAY = 0.8

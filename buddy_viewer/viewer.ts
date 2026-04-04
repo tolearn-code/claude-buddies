@@ -14,7 +14,7 @@ import { readFileSync, readdirSync, existsSync } from "fs";
 import { join, dirname, basename } from "path";
 
 // ── Config ──
-const REPO = "/home/sprite/claude-buddies";
+const REPO = join(import.meta.dir, "..");
 const FRAME_DELAY = 800; // ms
 const CARD_WIDTH = 68;
 const LEFT_PAD = "          "; // 10 chars

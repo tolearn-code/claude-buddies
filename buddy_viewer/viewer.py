@@ -26,7 +26,7 @@ import tty
 from pathlib import Path
 
 # ── Config ──
-REPO = Path("/home/sprite/claude-buddies")
+REPO = Path(__file__).resolve().parent.parent
 CARD_WIDTH = 68
 LEFT_PAD = "          "  # 10 chars
 FRAME_DELAY = 0.8
